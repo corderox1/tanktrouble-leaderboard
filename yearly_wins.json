@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3139
+    "kills": 3184
   },
   {
     "playerId": "14892840",
@@ -10,14 +10,14 @@
     "kills": 204
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
+    "playerId": "22725175",
+    "username": "ohW",
     "kills": 132
   },
   {
-    "playerId": "22725175",
-    "username": "ohW",
-    "kills": 121
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 132
   },
   {
     "playerId": "13773720",
@@ -25,13 +25,13 @@
     "kills": 112
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 84
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
+    "kills": 97
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
     "kills": 84
   },
   {
@@ -65,6 +65,11 @@
     "kills": 39
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 37
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 32
@@ -73,6 +78,16 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 32
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 27
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 26
   },
   {
     "playerId": "15164705",
@@ -92,7 +107,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 12
+    "kills": 16
   },
   {
     "playerId": "20270104",
@@ -125,19 +140,9 @@
     "kills": 9
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 6
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 6
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 4
   },
   {
     "playerId": "2574833",
@@ -217,11 +222,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
