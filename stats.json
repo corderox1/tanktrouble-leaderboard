@@ -43,7 +43,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788876266,
-    "lastLogin": 1789622529,
+    "lastLogin": 1789654978,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35127600,
-    "kills": 44197417,
-    "deaths": 41607111,
-    "suicides": 9352151,
+    "victories": 35127621,
+    "kills": 44197451,
+    "deaths": 41607153,
+    "suicides": 9352160,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 71754,
-    "kills": 127451,
-    "deaths": 100660,
-    "suicides": 23432,
+    "victories": 71762,
+    "kills": 127464,
+    "deaths": 100668,
+    "suicides": 23434,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "victories": 513,
-    "kills": 1050,
-    "deaths": 549,
-    "suicides": 132,
+    "victories": 517,
+    "kills": 1061,
+    "deaths": 561,
+    "suicides": 134,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1897,7 +1897,7 @@
     "badge": "0",
     "premium": false,
     "rank": 70,
-    "xp": 36950,
+    "xp": 37260,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
