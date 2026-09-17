@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2950
+    "kills": 3052
   },
   {
     "playerId": "14892840",
@@ -15,6 +15,11 @@
     "kills": 132
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 112
+  },
+  {
     "playerId": "22725175",
     "username": "ohW",
     "kills": 104
@@ -22,12 +27,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 82
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 77
+    "kills": 83
   },
   {
     "playerId": "21103294",
@@ -37,7 +37,7 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 66
+    "kills": 67
   },
   {
     "playerId": "14617724",
@@ -52,11 +52,16 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 36
+    "kills": 45
   },
   {
     "playerId": "19425584",
     "username": "_Eddie_",
+    "kills": 32
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 32
   },
   {
@@ -68,11 +73,6 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 21
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 16
   },
   {
     "playerId": "20270104",
@@ -97,7 +97,17 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 7
+    "kills": 10
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 9
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 8
   },
   {
     "playerId": "3990108",
@@ -117,12 +127,7 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 2
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 2
+    "kills": 4
   },
   {
     "playerId": "2574833",
@@ -307,6 +312,11 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
+    "kills": 0
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 0
   }
 ]
