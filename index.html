@@ -1071,12 +1071,18 @@ function searchPlayers() {
 
 function openPlayerProfile(playerId) {
 
-    fetch("http://localhost:8001/player?id=" + playerId)
+    fetch("stats.json")
         .then(response => response.json())
         .then(data => {
 
-            const player = data.result.data;
+    const player = data.find(
+        player => player.playerId === playerId
+    );
 
+    if (!player) {
+        alert("Player not found.");
+        return;
+    }
             document.getElementById("profileUsername").textContent =
                 player.username;
 
