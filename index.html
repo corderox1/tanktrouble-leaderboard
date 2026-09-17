@@ -679,7 +679,7 @@
 
 
         <span class="bot-description">
-            Bot Account (Not Ranked)
+            ruff ruff!
         </span>
 
 
@@ -765,7 +765,7 @@
 
             <div class="refresh-label">
 
-                Updates every 1 minute
+                Updates every 7 minutes
 
             </div>
 
@@ -996,36 +996,48 @@ if (index === 2) {
            AUTO REFRESH
         ========================= */
 
-        function refreshEverything() {
+        const REFRESH_INTERVAL = 7 * 60 * 1000;
 
-            loadLeaderboard(currentType);
+let nextRefreshTime = Number(
+    localStorage.getItem("nextRefreshTime")
+);
 
-            loadLaika();
+if (!nextRefreshTime || nextRefreshTime <= Date.now()) {
+    nextRefreshTime = Date.now() + REFRESH_INTERVAL;
+    localStorage.setItem("nextRefreshTime", nextRefreshTime);
+}
 
-            secondsUntilRefresh = 60;
+function refreshEverything() {
 
-        }
+    loadLeaderboard(currentType);
 
+    loadLaika();
 
-        setInterval(() => {
+    nextRefreshTime = Date.now() + REFRESH_INTERVAL;
 
-            secondsUntilRefresh--;
+    localStorage.setItem(
+        "nextRefreshTime",
+        nextRefreshTime
+    );
+}
 
-            document.getElementById(
-                "countdown"
-            ).textContent =
-                secondsUntilRefresh;
+setInterval(() => {
 
+    const remaining =
+        Math.max(0, nextRefreshTime - Date.now());
 
-            if (secondsUntilRefresh <= 0) {
+    const seconds =
+        Math.ceil(remaining / 1000);
 
-                refreshEverything();
+    document.getElementById(
+        "countdown"
+    ).textContent = seconds;
 
-            }
+    if (remaining <= 0) {
+        refreshEverything();
+    }
 
-        }, 1000);
-
-
+}, 1000);
 
         /* =========================
            START
