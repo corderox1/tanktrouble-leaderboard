@@ -112,6 +112,44 @@
                 0 0 15px rgba(255, 212, 59, 0.4);
         }
 
+.stat-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 15px auto 20px;
+}
+
+.stat-tabs button {
+    padding: 10px 22px;
+    border: 2px solid #555;
+    border-radius: 7px;
+    background: #1b1b1b;
+    color: #bbb;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.stat-tabs button:hover {
+    border-color: #ffd43b;
+    color: #ffd43b;
+    box-shadow: 0 0 10px rgba(255, 212, 59, 0.25);
+}
+
+.stat-tabs button.active {
+    background: #ffd43b;
+    border-color: #ffd43b;
+    color: #111;
+    box-shadow: 0 0 15px rgba(255, 212, 59, 0.4);
+}
+
+
+
+
+
+        
 .search-container {
     max-width: 700px;
     margin: 0 auto 20px;
