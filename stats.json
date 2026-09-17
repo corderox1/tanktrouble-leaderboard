@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35127840,
-    "kills": 44197843,
-    "deaths": 41607656,
-    "suicides": 9352262,
+    "victories": 35127857,
+    "kills": 44197910,
+    "deaths": 41607694,
+    "suicides": 9352271,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 8,
+    "rank": 34,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137336,
-    "kills": 188603,
-    "deaths": 186787,
-    "suicides": 47795,
+    "victories": 137339,
+    "kills": 188609,
+    "deaths": 186790,
+    "suicides": 47796,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1789614515,
+    "lastLogin": 1789659808,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18638,
-    "kills": 35946,
-    "deaths": 44581,
-    "suicides": 8663,
+    "victories": 18652,
+    "kills": 35965,
+    "deaths": 44594,
+    "suicides": 8666,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -386,7 +386,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1616212639,
-    "lastLogin": 1789498487,
+    "lastLogin": 1789659391,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1766,10 +1766,10 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37700,
-    "kills": 70959,
-    "deaths": 58047,
-    "suicides": 13135,
+    "victories": 37703,
+    "kills": 70966,
+    "deaths": 58058,
+    "suicides": 13136,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14128,
-    "kills": 21676,
-    "deaths": 29044,
-    "suicides": 8102,
+    "victories": 14137,
+    "kills": 21688,
+    "deaths": 29047,
+    "suicides": 8104,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
