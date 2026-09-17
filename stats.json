@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35128451,
-    "kills": 44198666,
-    "deaths": 41608727,
-    "suicides": 9352474,
+    "victories": 35128547,
+    "kills": 44198760,
+    "deaths": 41608857,
+    "suicides": 9352499,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 42,
+    "rank": 9,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -386,7 +386,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1616212639,
-    "lastLogin": 1789659391,
+    "lastLogin": 1789668158,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1219,7 +1219,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1586688568,
-    "lastLogin": 1789658624,
+    "lastLogin": 1789668311,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1766,10 +1766,10 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37765,
-    "kills": 71062,
-    "deaths": 58140,
-    "suicides": 13153,
+    "victories": 37773,
+    "kills": 71070,
+    "deaths": 58160,
+    "suicides": 13155,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14188,
-    "kills": 21768,
-    "deaths": 29061,
-    "suicides": 8114,
+    "victories": 14199,
+    "kills": 21795,
+    "deaths": 29065,
+    "suicides": 8117,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1962,10 +1962,10 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "victories": 10520,
-    "kills": 19471,
-    "deaths": 17653,
-    "suicides": 4435,
+    "victories": 10525,
+    "kills": 19479,
+    "deaths": 17666,
+    "suicides": 4438,
     "experience": 8218,
     "surrenders": 0,
     "turretColour": {
@@ -2746,10 +2746,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12049,
-    "kills": 19095,
-    "deaths": 19601,
-    "suicides": 6603,
+    "victories": 12055,
+    "kills": 19112,
+    "deaths": 19604,
+    "suicides": 6606,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2787,7 +2787,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1757097829,
-    "lastLogin": 1789665928,
+    "lastLogin": 1789667871,
     "banned": false,
     "usernameApproved": true,
     "country": null
