@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3983
+    "kills": 4038
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 134
+    "kills": 136
   },
   {
     "playerId": "21103294",
@@ -60,14 +60,14 @@
     "kills": 72
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 62
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 61
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 46
   },
   {
     "playerId": "15164705",
@@ -77,6 +77,11 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
+    "kills": 31
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 31
   },
   {
@@ -97,7 +102,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 24
+    "kills": 25
   },
   {
     "playerId": "20270104",
@@ -125,14 +130,19 @@
     "kills": 12
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 11
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 9
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 6
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 7
   },
   {
     "playerId": "2574833",
@@ -147,6 +157,11 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 1
+  },
+  {
+    "playerId": "21967085",
+    "username": "Studdxr",
     "kills": 1
   },
   {
@@ -317,6 +332,36 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
+    "kills": 0
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 0
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 0
+  },
+  {
+    "playerId": "29695",
+    "username": "77777",
+    "kills": 0
+  },
+  {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 0
+  },
+  {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 0
+  },
+  {
+    "playerId": "747025",
+    "username": "Kamikaze",
     "kills": 0
   }
 ]
