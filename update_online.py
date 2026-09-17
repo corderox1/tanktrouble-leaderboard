@@ -6,12 +6,13 @@ from datetime import datetime, timedelta
 API_URL = "https://tanktrouble.com/ajax/"
 
 # Tank Trouble players to track
-PLAYER_IDS = [
-    "22710399",  # Corderox1
-    "1145079",   # purup
-    "Laika",     # Laika
-    "14617724",  # Astra
-]
+# Load Tank Trouble players from players.txt
+with open("players.txt", "r") as f:
+    PLAYER_IDS = [
+        line.strip()
+        for line in f
+        if line.strip()
+    ]
 
 
 def get_player(player_id):
