@@ -35,8 +35,8 @@ def get_player(player_id):
     data = response.json()
 
     if data.get("result", {}).get("data"):
-    player_data = data["result"]["data"]
-    ALL_PLAYERS.append(player_data)
+        player_data = data["result"]["data"]
+        ALL_PLAYERS.append(player_data)
     return player_data
 
     return None
