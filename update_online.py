@@ -55,7 +55,7 @@ def save_json(filename, data):
         json.dump(data, f, indent=2)
 
 
-def make_leaderboard(history, start_date):
+def make_leaderboard(history, start_date, stat):
     players = {}
 
     for snapshot in history:
@@ -80,18 +80,17 @@ def make_leaderboard(history, start_date):
         first = snapshots[0]
         latest = snapshots[-1]
 
-        kills = latest["kills"] - first["kills"]
+        amount = latest[stat] - first[stat]
 
         leaderboard.append({
             "playerId": player_id,
             "username": latest["username"],
-            "kills": kills
+            "kills": amount
         })
 
     leaderboard.sort(key=lambda x: x["kills"], reverse=True)
 
     return leaderboard
-
 
 # Get current time/date
 now = datetime.utcnow()
@@ -137,6 +136,9 @@ for player_id in PLAYER_IDS:
 save_json("history.json", history)
 
 
+# Beginning of today
+day_start = now.strftime("%Y-%m-%d")
+
 # Find the beginning of the current week (Monday)
 week_start = (now - timedelta(days=now.weekday())).strftime("%Y-%m-%d")
 
@@ -147,16 +149,29 @@ month_start = now.strftime("%Y-%m-01")
 year_start = now.strftime("%Y-01-01")
 
 
-# Create leaderboards
-weekly = make_leaderboard(history, week_start)
-monthly = make_leaderboard(history, month_start)
-yearly = make_leaderboard(history, year_start)
+# Create kill leaderboards
+daily = make_leaderboard(history, day_start, "kills")
+weekly = make_leaderboard(history, week_start, "kills")
+monthly = make_leaderboard(history, month_start, "kills")
+yearly = make_leaderboard(history, year_start, "kills")
 
+# Create win leaderboards
+daily_wins = make_leaderboard(history, day_start, "victories")
+weekly_wins = make_leaderboard(history, week_start, "victories")
+monthly_wins = make_leaderboard(history, month_start, "victories")
+yearly_wins = make_leaderboard(history, year_start, "victories")
 
-# Save leaderboards
+# Save kill leaderboards
+save_json("daily.json", daily)
 save_json("weekly.json", weekly)
 save_json("monthly.json", monthly)
 save_json("yearly.json", yearly)
+
+# Save win leaderboards
+save_json("daily_wins.json", daily_wins)
+save_json("weekly_wins.json", weekly_wins)
+save_json("monthly_wins.json", monthly_wins)
+save_json("yearly_wins.json", yearly_wins)
 
 print("--------------------")
 print("Leaderboards updated!")
