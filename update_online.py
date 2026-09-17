@@ -34,7 +34,7 @@ def get_player(player_id):
     response = requests.post(API_URL, json=payload, timeout=30)
     data = response.json()
 
-   if data.get("result", {}).get("data"):
+    if data.get("result", {}).get("data"):
     player_data = data["result"]["data"]
     ALL_PLAYERS.append(player_data)
     return player_data
