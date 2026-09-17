@@ -1,0 +1,158 @@
+import requests
+import json
+import os
+from datetime import datetime, timedelta
+
+API_URL = "https://tanktrouble.com/ajax/"
+
+# Tank Trouble players to track
+PLAYER_IDS = [
+    "22710399",  # Corderox1
+    "1145079",   # purup
+    "Laika",     # Laika
+    "14617724",  # Astra
+]
+
+
+def get_player(player_id):
+    if player_id == "Laika":
+        method = "tanktrouble.getPlayerDetailsByUsername"
+        params = ["Laika"]
+    else:
+        method = "tanktrouble.getPlayerDetails"
+        params = [player_id]
+
+    payload = {
+        "jsonrpc": "2.0",
+        "method": method,
+        "id": 1,
+        "params": params
+    }
+
+    response = requests.post(API_URL, json=payload, timeout=30)
+    data = response.json()
+
+    if data.get("result", {}).get("data"):
+        return data["result"]["data"]
+
+    return None
+
+
+def load_history():
+    if os.path.exists("history.json"):
+        with open("history.json", "r") as f:
+            return json.load(f)
+
+    return []
+
+
+def save_json(filename, data):
+    with open(filename, "w") as f:
+        json.dump(data, f, indent=2)
+
+
+def make_leaderboard(history, start_date):
+    players = {}
+
+    for snapshot in history:
+        if snapshot["date"] < start_date:
+            continue
+
+        player_id = snapshot["playerId"]
+
+        if player_id not in players:
+            players[player_id] = []
+
+        players[player_id].append(snapshot)
+
+    leaderboard = []
+
+    for player_id, snapshots in players.items():
+        snapshots.sort(key=lambda x: x["date"])
+
+        if len(snapshots) < 2:
+            continue
+
+        first = snapshots[0]
+        latest = snapshots[-1]
+
+        kills = latest["kills"] - first["kills"]
+
+        leaderboard.append({
+            "playerId": player_id,
+            "username": latest["username"],
+            "kills": kills
+        })
+
+    leaderboard.sort(key=lambda x: x["kills"], reverse=True)
+
+    return leaderboard
+
+
+# Get current time/date
+now = datetime.utcnow()
+today = now.strftime("%Y-%m-%d")
+
+# Load previous history
+history = load_history()
+
+print("Checking players...")
+
+for player_id in PLAYER_IDS:
+    try:
+        player = get_player(player_id)
+
+        if player:
+            snapshot = {
+                "date": today + " " + now.strftime("%H:%M:%S"),
+                "playerId": player["playerId"],
+                "username": player["username"],
+                "kills": player["kills"],
+                "deaths": player["deaths"],
+                "victories": player["victories"],
+                "suicides": player["suicides"],
+                "xp": player["xp"]
+            }
+
+            history.append(snapshot)
+
+            print(
+                player["username"],
+                "- Kills:",
+                player["kills"]
+            )
+
+        else:
+            print("Could not find player:", player_id)
+
+    except Exception as e:
+        print("Error checking", player_id, ":", e)
+
+
+# Save history
+save_json("history.json", history)
+
+
+# Find the beginning of the current week (Monday)
+week_start = (now - timedelta(days=now.weekday())).strftime("%Y-%m-%d")
+
+# Beginning of current month
+month_start = now.strftime("%Y-%m-01")
+
+# Beginning of current year
+year_start = now.strftime("%Y-01-01")
+
+
+# Create leaderboards
+weekly = make_leaderboard(history, week_start)
+monthly = make_leaderboard(history, month_start)
+yearly = make_leaderboard(history, year_start)
+
+
+# Save leaderboards
+save_json("weekly.json", weekly)
+save_json("monthly.json", monthly)
+save_json("yearly.json", yearly)
+
+print("--------------------")
+print("Leaderboards updated!")
