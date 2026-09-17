@@ -2,7 +2,8 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
-
+# Store player information for profiles
+ALL_PLAYERS = []
 API_URL = "https://tanktrouble.com/ajax/"
 
 # Tank Trouble players to track
@@ -33,8 +34,10 @@ def get_player(player_id):
     response = requests.post(API_URL, json=payload, timeout=30)
     data = response.json()
 
-    if data.get("result", {}).get("data"):
-        return data["result"]["data"]
+   if data.get("result", {}).get("data"):
+    player_data = data["result"]["data"]
+    ALL_PLAYERS.append(player_data)
+    return player_data
 
     return None
 
@@ -157,3 +160,7 @@ save_json("yearly.json", yearly)
 
 print("--------------------")
 print("Leaderboards updated!")
+
+
+# Save player profiles
+save_json("stats.json", ALL_PLAYERS)
