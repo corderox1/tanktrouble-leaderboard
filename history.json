@@ -438,5 +438,105 @@
     "victories": 11509,
     "suicides": 6661,
     "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 4530,
+    "deaths": 2426,
+    "victories": 2439,
+    "suicides": 547,
+    "xp": 167250
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 15089,
+    "deaths": 12177,
+    "victories": 7565,
+    "suicides": 2954,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 44195608,
+    "deaths": 41604432,
+    "victories": 35126138,
+    "suicides": 9351672,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 188603,
+    "deaths": 186787,
+    "victories": 137336,
+    "suicides": 47795,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "10132007",
+    "username": "scientistt",
+    "kills": 38874,
+    "deaths": 44504,
+    "victories": 18217,
+    "suicides": 10173,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "21443824",
+    "username": "FLICK",
+    "kills": 7461,
+    "deaths": 5347,
+    "victories": 4310,
+    "suicides": 1672,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "13819102",
+    "username": "Sir-Nightmare",
+    "kills": 11741,
+    "deaths": 9393,
+    "victories": 6741,
+    "suicides": 2385,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 35946,
+    "deaths": 44581,
+    "victories": 18638,
+    "suicides": 8663,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 5090,
+    "deaths": 3717,
+    "victories": 3518,
+    "suicides": 882,
+    "xp": 59290
+  },
+  {
+    "date": "2026-09-17 03:56:21",
+    "playerId": "15164705",
+    "username": "Glitter56371",
+    "kills": 25554,
+    "deaths": 27196,
+    "victories": 11509,
+    "suicides": 6661,
+    "xp": 190000
   }
 ]
