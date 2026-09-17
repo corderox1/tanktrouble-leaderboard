@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 236
+    "kills": 243
   },
   {
     "playerId": "14617724",
@@ -13,6 +13,11 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 15
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 12
   },
   {
     "playerId": "1145079",
@@ -187,6 +192,11 @@
   {
     "playerId": "3923647",
     "username": "slayer",
+    "kills": 0
+  },
+  {
+    "playerId": "22725175",
+    "username": "ohW",
     "kills": 0
   }
 ]
