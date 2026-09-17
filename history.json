@@ -38,5 +38,45 @@
     "victories": 137302,
     "suicides": 47784,
     "xp": 190000
+  },
+  {
+    "date": "2026-09-17 02:34:07",
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 4528,
+    "deaths": 2426,
+    "victories": 2438,
+    "suicides": 547,
+    "xp": 167180
+  },
+  {
+    "date": "2026-09-17 02:34:07",
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 15089,
+    "deaths": 12177,
+    "victories": 7565,
+    "suicides": 2954,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 02:34:07",
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 44195461,
+    "deaths": 41604261,
+    "victories": 35126014,
+    "suicides": 9351636,
+    "xp": 190000
+  },
+  {
+    "date": "2026-09-17 02:34:07",
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 188554,
+    "deaths": 186731,
+    "victories": 137302,
+    "suicides": 47784,
+    "xp": 190000
   }
 ]
