@@ -83,14 +83,6 @@ def make_leaderboard(history, start_date, stat):
 
         amount = latest[stat] - first[stat]
 
-        if latest["username"] in ["Corderox1", "Laika"]:
-    print(
-        "DEBUG:",
-        latest["username"],
-        "first =", first[stat],
-        "latest =", latest[stat],
-        "amount =", amount
-    )
 
         leaderboard.append({
             "playerId": player_id,
