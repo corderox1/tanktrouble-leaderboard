@@ -102,7 +102,7 @@
     "username": "Laika",
     "victories": 35132225,
     "kills": 44204183,
-    "deaths": 41616362,
+    "deaths": 41616365,
     "suicides": 9353912,
     "experience": 0,
     "surrenders": 0,
@@ -345,8 +345,8 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18791,
-    "kills": 36203,
+    "victories": 18793,
+    "kills": 36206,
     "deaths": 44800,
     "suicides": 8699,
     "experience": 0,
@@ -3375,7 +3375,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1723560463,
-    "lastLogin": 1789743735,
+    "lastLogin": 1789745623,
     "banned": false,
     "usernameApproved": true,
     "country": null
