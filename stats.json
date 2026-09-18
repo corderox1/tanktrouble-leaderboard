@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133075,
-    "kills": 44205198,
-    "deaths": 41617878,
-    "suicides": 9354187,
+    "victories": 35133079,
+    "kills": 44205203,
+    "deaths": 41617885,
+    "suicides": 9354188,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18850,
-    "kills": 36326,
-    "deaths": 44952,
-    "suicides": 8726,
+    "victories": 18851,
+    "kills": 36327,
+    "deaths": 44953,
+    "suicides": 8727,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3139,9 +3139,9 @@
     "playerId": "16736853",
     "username": "SaucyReaper",
     "victories": 42880,
-    "kills": 81159,
-    "deaths": 86019,
-    "suicides": 21820,
+    "kills": 81160,
+    "deaths": 86021,
+    "suicides": 21822,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
