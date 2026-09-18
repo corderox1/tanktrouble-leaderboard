@@ -921,7 +921,12 @@
     }
 
 
-    fetch(fileName + "?time=" + Date.now())
+    fetch(
+    "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
+    fileName +
+    "?time=" +
+    Date.now()
+)
 
         .then(response => response.json())
 
@@ -1072,7 +1077,12 @@
         fileName = type + ".json";
     }
 
-    fetch(fileName + "?time=" + Date.now())
+    fetch(
+    "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
+    fileName +
+    "?time=" +
+    Date.now()
+)
         .then(response => response.json())
         .then(players => {
 
