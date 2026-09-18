@@ -102,7 +102,7 @@
     "username": "Laika",
     "victories": 35133152,
     "kills": 44205289,
-    "deaths": 41617984,
+    "deaths": 41617985,
     "suicides": 9354204,
     "experience": 0,
     "surrenders": 0,
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18879,
-    "kills": 36352,
-    "deaths": 44987,
-    "suicides": 8738,
+    "victories": 18882,
+    "kills": 36356,
+    "deaths": 44989,
+    "suicides": 8739,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -627,7 +627,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1789615661,
+    "lastForumPost": 1789757471,
     "guest": false,
     "gmLevel": null,
     "created": 1618340623,
@@ -2656,15 +2656,15 @@
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0x010243",
-      "numericValue": "0x010243",
+      "rawValue": "0x0102a9",
+      "numericValue": "0x0102a9",
       "imageValue": ""
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xfff5ee 108",
-      "numericValue": "0xfff5ee",
-      "imageValue": "108"
+      "rawValue": "0xd90a16 61",
+      "numericValue": "0xd90a16",
+      "imageValue": "61"
     },
     "baseColour": {
       "type": "numeric",
@@ -2685,7 +2685,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1789666469,
+    "lastForumPost": 1789757465,
     "guest": false,
     "gmLevel": null,
     "created": 1753784242,
@@ -3726,10 +3726,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3135,
+    "victories": 3136,
     "kills": 3565,
-    "deaths": 1155,
-    "suicides": 244,
+    "deaths": 1156,
+    "suicides": 245,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
