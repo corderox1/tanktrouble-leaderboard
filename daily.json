@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2391
+    "kills": 2400
   },
   {
     "playerId": "21601349",
@@ -45,6 +45,11 @@
     "kills": 66
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 61
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 60
@@ -53,11 +58,6 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 59
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 57
   },
   {
     "playerId": "13773720",
@@ -75,13 +75,13 @@
     "kills": 40
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 30
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
+    "kills": 31
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
     "kills": 30
   },
   {
