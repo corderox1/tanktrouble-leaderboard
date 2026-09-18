@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35131465,
-    "kills": 44203047,
-    "deaths": 41614731,
-    "suicides": 9353607,
+    "victories": 35131467,
+    "kills": 44203051,
+    "deaths": 41614735,
+    "suicides": 9353608,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 38,
+    "rank": 42,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14284,
-    "kills": 21900,
-    "deaths": 29183,
-    "suicides": 8142,
+    "victories": 14288,
+    "kills": 21902,
+    "deaths": 29184,
+    "suicides": 8143,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12116,
-    "kills": 19208,
-    "deaths": 19705,
-    "suicides": 6644,
+    "victories": 12118,
+    "kills": 19209,
+    "deaths": 19709,
+    "suicides": 6646,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
