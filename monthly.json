@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8801
+    "kills": 8804
   },
   {
     "playerId": "22725175",
@@ -42,7 +42,7 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 242
+    "kills": 244
   },
   {
     "playerId": "22710399",
@@ -57,16 +57,16 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 222
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 218
+    "kills": 224
   },
   {
     "playerId": "22479485",
     "username": "-_purup_-",
+    "kills": 221
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
     "kills": 218
   },
   {
@@ -387,6 +387,21 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 0
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 0
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 0
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 0
   }
 ]

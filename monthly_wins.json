@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6253
+    "kills": 6255
   },
   {
     "playerId": "22725175",
@@ -60,13 +60,13 @@
     "kills": 130
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 124
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
+    "kills": 125
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
     "kills": 124
   },
   {
@@ -387,6 +387,21 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 0
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 0
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 0
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 0
   }
 ]
