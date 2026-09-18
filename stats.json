@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35132401,
-    "kills": 44204425,
-    "deaths": 41616752,
-    "suicides": 9353974,
+    "victories": 35132408,
+    "kills": 44204433,
+    "deaths": 41616765,
+    "suicides": 9353977,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -347,7 +347,7 @@
     "username": "boogiemaster22",
     "victories": 18802,
     "kills": 36218,
-    "deaths": 44815,
+    "deaths": 44816,
     "suicides": 8702,
     "experience": 0,
     "surrenders": 0,
@@ -2403,10 +2403,10 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 44237,
+    "victories": 44238,
     "kills": 68855,
-    "deaths": 53051,
-    "suicides": 12445,
+    "deaths": 53052,
+    "suicides": 12446,
     "experience": 2287,
     "surrenders": 0,
     "turretColour": {
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7596,
-    "kills": 9396,
-    "deaths": 16387,
-    "suicides": 3696,
+    "victories": 7599,
+    "kills": 9398,
+    "deaths": 16388,
+    "suicides": 3697,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3326,7 +3326,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1354345150,
-    "lastLogin": 1789727455,
+    "lastLogin": 1789748496,
     "banned": false,
     "usernameApproved": true,
     "country": null
