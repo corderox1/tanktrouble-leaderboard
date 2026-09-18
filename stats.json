@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133079,
-    "kills": 44205203,
-    "deaths": 41617885,
-    "suicides": 9354188,
+    "victories": 35133088,
+    "kills": 44205211,
+    "deaths": 41617887,
+    "suicides": 9354189,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18851,
-    "kills": 36327,
-    "deaths": 44953,
-    "suicides": 8727,
+    "victories": 18853,
+    "kills": 36329,
+    "deaths": 44955,
+    "suicides": 8728,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3140,7 +3140,7 @@
     "username": "SaucyReaper",
     "victories": 42880,
     "kills": 81160,
-    "deaths": 86021,
+    "deaths": 86023,
     "suicides": 21822,
     "experience": 0,
     "surrenders": 0,
@@ -3865,7 +3865,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1771939160,
-    "lastLogin": 1789755614,
+    "lastLogin": 1789756356,
     "banned": false,
     "usernameApproved": true,
     "country": null
