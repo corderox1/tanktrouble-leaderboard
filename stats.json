@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133851,
-    "kills": 44206162,
-    "deaths": 41619346,
-    "suicides": 9354453,
+    "victories": 35133852,
+    "kills": 44206168,
+    "deaths": 41619352,
+    "suicides": 9354455,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1817,7 +1817,7 @@
     "username": "Yaghoubi",
     "victories": 1182,
     "kills": 3056,
-    "deaths": 3522,
+    "deaths": 3524,
     "suicides": 918,
     "experience": 0,
     "surrenders": 0,
