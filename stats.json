@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35131527,
-    "kills": 44203124,
-    "deaths": 41614863,
-    "suicides": 9353630,
+    "victories": 35131530,
+    "kills": 44203129,
+    "deaths": 41614873,
+    "suicides": 9353632,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 14,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1278,8 +1278,8 @@
     "username": "Lokirss",
     "victories": 38633,
     "kills": 57368,
-    "deaths": 67715,
-    "suicides": 16138,
+    "deaths": 67717,
+    "suicides": 16139,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,9 +1864,9 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14323,
-    "kills": 21938,
-    "deaths": 29223,
+    "victories": 14324,
+    "kills": 21939,
+    "deaths": 29224,
     "suicides": 8159,
     "experience": 0,
     "surrenders": 0,
@@ -2019,9 +2019,9 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0xb80000 110",
-      "numericValue": "0xb80000",
-      "imageValue": "110"
+      "rawValue": "0x5fa5d1 163",
+      "numericValue": "0x5fa5d1",
+      "imageValue": "163"
     },
     "treadColour": {
       "type": "numeric",
@@ -2452,10 +2452,10 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "victories": 1259,
-    "kills": 2507,
-    "deaths": 3575,
-    "suicides": 1020,
+    "victories": 1260,
+    "kills": 2510,
+    "deaths": 3576,
+    "suicides": 1021,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2485,7 +2485,7 @@
     "badge": "0",
     "premium": false,
     "rank": 19,
-    "xp": 99620,
+    "xp": 99700,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -2942,8 +2942,8 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12143,
-    "kills": 19231,
+    "victories": 12145,
+    "kills": 19232,
     "deaths": 19758,
     "suicides": 6658,
     "experience": 0,
