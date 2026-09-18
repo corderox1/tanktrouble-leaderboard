@@ -879,6 +879,7 @@
 
 
         let currentType = "weekly";
+        let currentStat = "kills";
 
         let secondsUntilRefresh = 60;
 
@@ -890,6 +891,7 @@
         function loadLeaderboard(type, stat = "kills") {
 
     currentType = type;
+    currentStat = stat;
 
     // Update active period button
     document
@@ -1059,38 +1061,39 @@
            LOAD LAIKA
         ========================= */
 
-        function loadLaika() {
+        function loadLaika(type = currentType, stat = currentStat) {
 
-            fetch("weekly.json?time=" + Date.now())
+    let fileName;
 
-                .then(response => response.json())
+    if (stat === "wins") {
+        fileName = type + "_wins.json";
+    } else {
+        fileName = type + ".json";
+    }
 
-                .then(players => {
+    fetch(fileName + "?time=" + Date.now())
+        .then(response => response.json())
+        .then(players => {
 
+            const laika = players.find(
+                player =>
+                    player.username.toLowerCase() === "laika"
+            );
 
-                    // Laika's player ID
+            if (laika) {
 
-                    const laika =
-                        players.find(
-                            player =>
-                                player.username.toLowerCase()
-                                === "laika"
-                        );
+                document.getElementById(
+                    "laikaKills"
+                ).textContent =
+                    laika.kills +
+                    (stat === "wins" ? " wins" : " kills");
+            }
 
-
-                    if (laika) {
-
-                        document.getElementById(
-                            "laikaKills"
-                        ).textContent =
-
-                            laika.kills + " kills";
-
-                    }
-
-                });
-
-        }
+        })
+        .catch(error => {
+            console.error(error);
+        });
+}
 
 
 
@@ -1111,9 +1114,8 @@ if (!nextRefreshTime || nextRefreshTime <= Date.now()) {
 
 function refreshEverything() {
 
-    loadLeaderboard(currentType);
-
-    loadLaika();
+    loadLeaderboard(currentType, currentStat);
+    loadLaika(currentType, currentStat);
 
     nextRefreshTime = Date.now() + REFRESH_INTERVAL;
 
