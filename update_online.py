@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 # Store player information for profiles
 ALL_PLAYERS = []
 API_URL = "https://tanktrouble.com/ajax/"
@@ -93,7 +94,7 @@ def make_leaderboard(history, start_date, stat):
     return leaderboard
 
 # Get current time/date
-now = datetime.utcnow()
+now = datetime.now(ZoneInfo("America/Chicago"))
 today = now.strftime("%Y-%m-%d")
 
 # Load previous history
