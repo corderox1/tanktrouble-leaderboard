@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35130101,
-    "kills": 44200866,
-    "deaths": 41612047,
-    "suicides": 9353083,
+    "victories": 35130113,
+    "kills": 44200910,
+    "deaths": 41612104,
+    "suicides": 9353091,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137387,
-    "kills": 188679,
-    "deaths": 186845,
-    "suicides": 47807,
+    "victories": 137395,
+    "kills": 188685,
+    "deaths": 186877,
+    "suicides": 47816,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1789698495,
+    "lastLogin": 1789701365,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 80770,
-    "kills": 121226,
-    "deaths": 139721,
-    "suicides": 29997,
+    "victories": 80823,
+    "kills": 121271,
+    "deaths": 139736,
+    "suicides": 30001,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
