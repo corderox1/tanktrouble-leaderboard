@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35130852,
-    "kills": 44202158,
-    "deaths": 41613617,
+    "victories": 35130854,
+    "kills": 44202164,
+    "deaths": 41613623,
     "suicides": 9353386,
     "experience": 0,
     "surrenders": 0,
@@ -3090,33 +3090,33 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "victories": 21648,
-    "kills": 42705,
-    "deaths": 43833,
+    "kills": 42706,
+    "deaths": 43834,
     "suicides": 12749,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x00ff00",
+      "numericValue": "0x00ff00",
+      "imageValue": ""
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0xff55ee",
+      "numericValue": "0xff55ee",
+      "imageValue": ""
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x8000ff",
+      "numericValue": "0x8000ff",
+      "imageValue": ""
     },
     "turretAccessory": "0",
-    "barrelAccessory": "45",
-    "frontAccessory": "9",
-    "backAccessory": "42",
+    "barrelAccessory": "0",
+    "frontAccessory": "0",
+    "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
