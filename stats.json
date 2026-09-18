@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35132245,
-    "kills": 44204229,
-    "deaths": 41616438,
-    "suicides": 9353922,
+    "victories": 35132246,
+    "kills": 44204234,
+    "deaths": 41616446,
+    "suicides": 9353925,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2493,7 +2493,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1785261569,
-    "lastLogin": 1789745896,
+    "lastLogin": 1789746378,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3334,8 +3334,8 @@
   {
     "playerId": "19768925",
     "username": "Lil_May",
-    "victories": 25002,
-    "kills": 49873,
+    "victories": 25003,
+    "kills": 49875,
     "deaths": 73269,
     "suicides": 15258,
     "experience": 0,
