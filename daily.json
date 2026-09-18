@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3122
+    "kills": 3128
   },
   {
     "playerId": "22479485",
@@ -32,12 +32,12 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 143
+    "kills": 144
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 130
+    "kills": 131
   },
   {
     "playerId": "11769746",
@@ -105,13 +105,13 @@
     "kills": 24
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 12
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
+    "kills": 16
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 12
   },
   {
@@ -128,6 +128,11 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 5
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 1
   },
   {
     "playerId": "14617724",
@@ -397,11 +402,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 0
   }
 ]

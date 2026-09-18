@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2012
+    "kills": 2018
   },
   {
     "playerId": "21601349",
@@ -17,7 +17,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 104
+    "kills": 105
   },
   {
     "playerId": "21103294",
@@ -85,6 +85,11 @@
     "kills": 18
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 15
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 14
@@ -98,11 +103,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 12
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 11
   },
   {
     "playerId": "20269995",
@@ -120,13 +120,13 @@
     "kills": 3
   },
   {
-    "playerId": "21967085",
-    "username": "Studdxr",
-    "kills": 2
-  },
-  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
+    "kills": 3
+  },
+  {
+    "playerId": "21967085",
+    "username": "Studdxr",
     "kills": 2
   },
   {
