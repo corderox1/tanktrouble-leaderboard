@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6307
+    "kills": 6315
   },
   {
     "playerId": "22725175",
@@ -102,7 +102,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 46
+    "kills": 47
   },
   {
     "playerId": "19068893",
@@ -212,6 +212,11 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
+    "kills": 2
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 2
   },
   {
@@ -397,11 +402,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 0
   }
 ]
