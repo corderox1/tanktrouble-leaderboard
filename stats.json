@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35130863,
-    "kills": 44202177,
-    "deaths": 41613649,
+    "victories": 35130864,
+    "kills": 44202179,
+    "deaths": 41613659,
     "suicides": 9353394,
     "experience": 0,
     "surrenders": 0,
@@ -3089,16 +3089,16 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "victories": 21648,
+    "victories": 21649,
     "kills": 42711,
-    "deaths": 43838,
-    "suicides": 12749,
+    "deaths": 43839,
+    "suicides": 12750,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
+      "rawValue": "0x804000",
+      "numericValue": "0x804000",
       "imageValue": ""
     },
     "treadColour": {
@@ -3113,7 +3113,7 @@
       "numericValue": "0xffff00",
       "imageValue": ""
     },
-    "turretAccessory": "0",
+    "turretAccessory": "20",
     "barrelAccessory": "0",
     "frontAccessory": "0",
     "backAccessory": "0",
