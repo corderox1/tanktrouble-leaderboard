@@ -1815,10 +1815,10 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "victories": 1184,
+    "victories": 1185,
     "kills": 3063,
-    "deaths": 3548,
-    "suicides": 930,
+    "deaths": 3549,
+    "suicides": 931,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1848,7 +1848,7 @@
     "badge": "0",
     "premium": false,
     "rank": 59,
-    "xp": 98630,
+    "xp": 98680,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
