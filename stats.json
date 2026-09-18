@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133673,
-    "kills": 44205922,
-    "deaths": 41618963,
+    "victories": 35133674,
+    "kills": 44205923,
+    "deaths": 41618965,
     "suicides": 9354371,
     "experience": 0,
     "surrenders": 0,
@@ -995,15 +995,15 @@
       "imageValue": "14"
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0xd90a16 61",
-      "numericValue": "0xd90a16",
-      "imageValue": "61"
+      "type": "numeric",
+      "rawValue": "0xff0000",
+      "numericValue": "0xff0000",
+      "imageValue": ""
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0xddffff",
-      "numericValue": "0xddffff",
+      "rawValue": "0x010243",
+      "numericValue": "0x010243",
       "imageValue": ""
     },
     "turretAccessory": "165",
@@ -1276,9 +1276,9 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39111,
+    "victories": 39112,
     "kills": 57851,
-    "deaths": 68116,
+    "deaths": 68118,
     "suicides": 16213,
     "experience": 0,
     "surrenders": 0,
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 67489,
-    "kills": 111698,
-    "deaths": 116236,
-    "suicides": 25617,
+    "victories": 67490,
+    "kills": 111700,
+    "deaths": 116237,
+    "suicides": 25618,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -1817,7 +1817,7 @@
     "username": "Yaghoubi",
     "victories": 1177,
     "kills": 3037,
-    "deaths": 3424,
+    "deaths": 3426,
     "suicides": 894,
     "experience": 0,
     "surrenders": 0,
@@ -3384,9 +3384,9 @@
     "playerId": "4686507",
     "username": "playboi",
     "victories": 98205,
-    "kills": 223147,
-    "deaths": 168762,
-    "suicides": 44945,
+    "kills": 223148,
+    "deaths": 168764,
+    "suicides": 44946,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
