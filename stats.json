@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35130672,
-    "kills": 44201921,
-    "deaths": 41613343,
-    "suicides": 9353333,
+    "victories": 35130678,
+    "kills": 44201926,
+    "deaths": 41613355,
+    "suicides": 9353339,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2305,9 +2305,9 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4016,
-    "kills": 7521,
-    "deaths": 6842,
+    "victories": 4019,
+    "kills": 7522,
+    "deaths": 6844,
     "suicides": 1567,
     "experience": 0,
     "surrenders": 0,
@@ -3089,8 +3089,8 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "victories": 21641,
-    "kills": 42695,
+    "victories": 21644,
+    "kills": 42697,
     "deaths": 43831,
     "suicides": 12749,
     "experience": 0,
