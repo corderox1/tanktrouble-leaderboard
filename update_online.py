@@ -78,10 +78,10 @@ def make_leaderboard(history, start_date, stat):
         if len(snapshots) < 2:
             continue
 
-        first = snapshots[0]
-        latest = snapshots[-1]
+       first = snapshots[0]
+       latest = max(snapshots, key=lambda x: x[stat])
 
-        amount = latest[stat] - first[stat]
+       amount = latest[stat] - first[stat]
 
         if player_id == "22710399":
             print(
