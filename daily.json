@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5000
+    "kills": 5001
   },
   {
     "playerId": "21601349",
@@ -85,13 +85,13 @@
     "kills": 116
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 91
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
+    "kills": 92
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
     "kills": 91
   },
   {
