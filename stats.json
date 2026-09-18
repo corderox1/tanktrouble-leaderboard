@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133741,
-    "kills": 44205998,
-    "deaths": 41619066,
-    "suicides": 9354388,
+    "victories": 35133743,
+    "kills": 44205999,
+    "deaths": 41619073,
+    "suicides": 9354389,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 15,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -995,10 +995,10 @@
       "imageValue": ""
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x660000",
+      "numericValue": "0x660000",
+      "imageValue": ""
     },
     "baseColour": {
       "type": "numeric",
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39133,
-    "kills": 57868,
-    "deaths": 68164,
-    "suicides": 16221,
+    "victories": 39134,
+    "kills": 57870,
+    "deaths": 68170,
+    "suicides": 16222,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1472,9 +1472,9 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 67531,
-    "kills": 111737,
-    "deaths": 116263,
+    "victories": 67535,
+    "kills": 111742,
+    "deaths": 116265,
     "suicides": 25627,
     "experience": 11078,
     "surrenders": 0,
@@ -1817,7 +1817,7 @@
     "username": "Yaghoubi",
     "victories": 1177,
     "kills": 3042,
-    "deaths": 3456,
+    "deaths": 3459,
     "suicides": 896,
     "experience": 0,
     "surrenders": 0,
@@ -3384,9 +3384,9 @@
     "playerId": "4686507",
     "username": "playboi",
     "victories": 98211,
-    "kills": 223179,
-    "deaths": 168802,
-    "suicides": 44952,
+    "kills": 223182,
+    "deaths": 168804,
+    "suicides": 44954,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
@@ -3726,8 +3726,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3143,
-    "kills": 3598,
+    "victories": 3146,
+    "kills": 3605,
     "deaths": 1179,
     "suicides": 254,
     "experience": 0,
