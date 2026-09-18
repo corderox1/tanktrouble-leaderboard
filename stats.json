@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35132369,
-    "kills": 44204397,
-    "deaths": 41616690,
-    "suicides": 9353965,
+    "victories": 35132377,
+    "kills": 44204403,
+    "deaths": 41616704,
+    "suicides": 9353967,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7590,
-    "kills": 9389,
-    "deaths": 16374,
-    "suicides": 3695,
+    "victories": 7592,
+    "kills": 9391,
+    "deaths": 16378,
+    "suicides": 3696,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3390,26 +3390,26 @@
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xb80000 110",
-      "numericValue": "0xb80000",
-      "imageValue": "110"
+      "type": "numeric",
+      "rawValue": "0xffe49b",
+      "numericValue": "0xffe49b",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xb80000 110",
-      "numericValue": "0xb80000",
-      "imageValue": "110"
+      "rawValue": "0xfff5ee 108",
+      "numericValue": "0xfff5ee",
+      "imageValue": "108"
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0xffff99",
-      "numericValue": "0xffff99",
+      "rawValue": "0xcbfcba",
+      "numericValue": "0xcbfcba",
       "imageValue": ""
     },
-    "turretAccessory": "74",
+    "turretAccessory": "21",
     "barrelAccessory": "0",
-    "frontAccessory": "1",
+    "frontAccessory": "60",
     "backAccessory": "5",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
