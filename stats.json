@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35132548,
-    "kills": 44204565,
-    "deaths": 41616991,
+    "victories": 35132551,
+    "kills": 44204570,
+    "deaths": 41616993,
     "suicides": 9354012,
     "experience": 0,
     "surrenders": 0,
@@ -345,7 +345,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 18817,
+    "victories": 18818,
     "kills": 36240,
     "deaths": 44850,
     "suicides": 8706,
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14346,
-    "kills": 21985,
-    "deaths": 29331,
-    "suicides": 8184,
+    "victories": 14347,
+    "kills": 21988,
+    "deaths": 29333,
+    "suicides": 8185,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2297,7 +2297,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789403996,
-    "lastLogin": 1789690283,
+    "lastLogin": 1789750239,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7611,
-    "kills": 9422,
-    "deaths": 16421,
-    "suicides": 3700,
+    "victories": 7612,
+    "kills": 9424,
+    "deaths": 16422,
+    "suicides": 3701,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3873,10 +3873,10 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "victories": 7607,
-    "kills": 13091,
-    "deaths": 15670,
-    "suicides": 4684,
+    "victories": 7608,
+    "kills": 13094,
+    "deaths": 15672,
+    "suicides": 4685,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
