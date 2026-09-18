@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5877
+    "kills": 5878
   },
   {
     "playerId": "22725175",
@@ -125,13 +125,13 @@
     "kills": 41
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 34
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
+    "kills": 38
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 34
   },
   {
@@ -172,7 +172,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 11
+    "kills": 12
   },
   {
     "playerId": "21098942",
@@ -382,6 +382,11 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
+    "kills": 0
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 0
   }
 ]
