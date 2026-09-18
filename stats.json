@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35131802,
-    "kills": 44203486,
-    "deaths": 41615485,
-    "suicides": 9353712,
+    "victories": 35131806,
+    "kills": 44203495,
+    "deaths": 41615493,
+    "suicides": 9353714,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 17,
+    "rank": 32,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 38794,
-    "kills": 57537,
-    "deaths": 67811,
-    "suicides": 16162,
+    "victories": 38797,
+    "kills": 57539,
+    "deaths": 67813,
+    "suicides": 16163,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2489,7 +2489,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1789643304,
+    "lastForumPost": 1789739409,
     "guest": false,
     "gmLevel": null,
     "created": 1785261569,
@@ -2950,9 +2950,9 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x1579fb 60",
-      "numericValue": "0x1579fb",
-      "imageValue": "60"
+      "rawValue": "0xd90a16 61",
+      "numericValue": "0xd90a16",
+      "imageValue": "61"
     },
     "treadColour": {
       "type": "image",
