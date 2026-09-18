@@ -84,12 +84,13 @@ def make_leaderboard(history, start_date, stat):
         amount = latest[stat] - first[stat]
 
         if player_id == "22710399":
-    print(
-        "CORDER DEBUG:",
-        "first =", first["date"], first[stat],
-        "latest =", latest["date"], latest[stat],
-        "amount =", amount
-    )
+            print(
+                "CORDER DEBUG:",
+                "first =", first["date"], first[stat],
+                "latest =", latest["date"], latest[stat],
+                "amount =", amount
+            )
+
 
         leaderboard.append({
             "playerId": player_id,
