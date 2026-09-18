@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35131251,
-    "kills": 44202621,
-    "deaths": 41614207,
-    "suicides": 9353510,
+    "victories": 35131256,
+    "kills": 44202626,
+    "deaths": 41614214,
+    "suicides": 9353514,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1766,8 +1766,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37817,
-    "kills": 71136,
+    "victories": 37818,
+    "kills": 71137,
     "deaths": 58211,
     "suicides": 13168,
     "experience": 0,
@@ -1864,9 +1864,9 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14250,
-    "kills": 21856,
-    "deaths": 29135,
+    "victories": 14253,
+    "kills": 21858,
+    "deaths": 29136,
     "suicides": 8127,
     "experience": 0,
     "surrenders": 0,
@@ -2493,7 +2493,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1785261569,
-    "lastLogin": 1789727217,
+    "lastLogin": 1789728310,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12090,
-    "kills": 19170,
-    "deaths": 19649,
-    "suicides": 6624,
+    "victories": 12091,
+    "kills": 19171,
+    "deaths": 19651,
+    "suicides": 6625,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
