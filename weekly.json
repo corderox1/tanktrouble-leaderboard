@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5884
+    "kills": 5885
   },
   {
     "playerId": "22725175",
@@ -105,6 +105,11 @@
     "kills": 60
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 50
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 47
@@ -112,11 +117,6 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 47
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
     "kills": 47
   },
   {
@@ -160,14 +160,14 @@
     "kills": 19
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 17
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 15
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 14
   },
   {
     "playerId": "1145079",
