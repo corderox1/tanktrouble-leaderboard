@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35131281,
-    "kills": 44202644,
-    "deaths": 41614227,
-    "suicides": 9353518,
+    "victories": 35131285,
+    "kills": 44202650,
+    "deaths": 41614230,
+    "suicides": 9353519,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1766,7 +1766,7 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37820,
+    "victories": 37821,
     "kills": 71146,
     "deaths": 58216,
     "suicides": 13169,
