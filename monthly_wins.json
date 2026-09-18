@@ -125,6 +125,11 @@
     "kills": 21
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 14
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 10
@@ -170,8 +175,18 @@
     "kills": 2
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 2
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 1
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 1
   },
   {
@@ -362,6 +377,11 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
+    "kills": 0
+  },
+  {
+    "playerId": "21796745",
+    "username": "Sleeze",
     "kills": 0
   }
 ]
