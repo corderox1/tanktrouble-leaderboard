@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11269
+    "kills": 11272
   },
   {
     "playerId": "21601349",
@@ -12,7 +12,7 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 612
+    "kills": 616
   },
   {
     "playerId": "11769746",
@@ -250,6 +250,11 @@
     "kills": 9
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 8
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 7
@@ -257,11 +262,6 @@
   {
     "playerId": "20644558",
     "username": "x",
-    "kills": 3
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 3
   },
   {
@@ -277,6 +277,11 @@
   {
     "playerId": "12331664",
     "username": "Reds",
+    "kills": 1
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 1
   },
   {
@@ -417,11 +422,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   }
 ]
