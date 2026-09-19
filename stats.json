@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136091,
-    "kills": 44209309,
-    "deaths": 41624000,
+    "victories": 35136093,
+    "kills": 44209318,
+    "deaths": 41624006,
     "suicides": 9355290,
     "experience": 0,
     "surrenders": 0,
@@ -2944,7 +2944,7 @@
     "username": "FATAI169",
     "victories": 12212,
     "kills": 19402,
-    "deaths": 20048,
+    "deaths": 20052,
     "suicides": 6747,
     "experience": 0,
     "surrenders": 0,
@@ -3972,16 +3972,16 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "victories": 7920,
-    "kills": 11826,
+    "kills": 11827,
     "deaths": 10886,
     "suicides": 1959,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xddb135 43",
-      "numericValue": "0xddb135",
-      "imageValue": "43"
+      "type": "numeric",
+      "rawValue": "0xe3d600",
+      "numericValue": "0xe3d600",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
