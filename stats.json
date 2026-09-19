@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136771,
-    "kills": 44210280,
-    "deaths": 41625243,
+    "victories": 35136774,
+    "kills": 44210287,
+    "deaths": 41625250,
     "suicides": 9355519,
     "experience": 0,
     "surrenders": 0,
@@ -1913,8 +1913,8 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 29326,
-    "kills": 28835,
+    "victories": 29328,
+    "kills": 28836,
     "deaths": 44913,
     "suicides": 13823,
     "experience": 0,
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1789844156,
+    "lastLogin": 1789844669,
     "banned": false,
     "usernameApproved": true,
     "country": null
