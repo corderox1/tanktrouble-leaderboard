@@ -145,7 +145,38 @@
     box-shadow: 0 0 15px rgba(255, 212, 59, 0.4);
 }
 
+.lifetime-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 5px auto 20px;
+}
 
+.lifetime-tabs button {
+    padding: 10px 22px;
+    border: 2px solid #555;
+    border-radius: 7px;
+    background: #1b1b1b;
+    color: #bbb;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.lifetime-tabs button:hover {
+    border-color: #ffd43b;
+    color: #ffd43b;
+    box-shadow: 0 0 10px rgba(255, 212, 59, 0.25);
+}
+
+.lifetime-tabs button.active {
+    background: #ffd43b;
+    border-color: #ffd43b;
+    color: #111;
+    box-shadow: 0 0 15px rgba(255, 212, 59, 0.4);
+}
 
 
 
