@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35137044,
-    "kills": 44210683,
-    "deaths": 41625684,
+    "victories": 35137046,
+    "kills": 44210689,
+    "deaths": 41625691,
     "suicides": 9355623,
     "experience": 0,
     "surrenders": 0,
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1789693258,
+    "lastLogin": 1789852105,
     "banned": false,
     "usernameApproved": true,
     "country": null
