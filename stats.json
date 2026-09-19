@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136893,
-    "kills": 44210475,
-    "deaths": 41625487,
-    "suicides": 9355576,
+    "victories": 35136902,
+    "kills": 44210485,
+    "deaths": 41625490,
+    "suicides": 9355577,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,9 +737,9 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20013,
-    "kills": 37444,
-    "deaths": 34747,
+    "victories": 20014,
+    "kills": 37445,
+    "deaths": 34750,
     "suicides": 5763,
     "experience": 0,
     "surrenders": 0,
@@ -837,15 +837,15 @@
     "username": "-Trippy-",
     "victories": 23608,
     "kills": 38017,
-    "deaths": 41711,
+    "deaths": 41714,
     "suicides": 8957,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x2bde73",
-      "numericValue": "0x2bde73",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "treadColour": {
       "type": "image",
@@ -855,8 +855,8 @@
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0xff55ee",
-      "numericValue": "0xff55ee",
+      "rawValue": "0xddffff",
+      "numericValue": "0xddffff",
       "imageValue": ""
     },
     "turretAccessory": "5",
@@ -1180,8 +1180,8 @@
     "username": "_-YourDestruction-_",
     "victories": 43851,
     "kills": 91579,
-    "deaths": 128421,
-    "suicides": 35859,
+    "deaths": 128422,
+    "suicides": 35860,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,8 +1276,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39372,
-    "kills": 58177,
+    "victories": 39376,
+    "kills": 58182,
     "deaths": 68408,
     "suicides": 16268,
     "experience": 0,
@@ -3040,9 +3040,9 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7923,
-    "kills": 9820,
-    "deaths": 17017,
+    "victories": 7925,
+    "kills": 9822,
+    "deaths": 17018,
     "suicides": 3816,
     "experience": 0,
     "surrenders": 0,
@@ -3238,7 +3238,7 @@
     "username": "MoodyBlastGargoyle",
     "victories": 2028,
     "kills": 3122,
-    "deaths": 3682,
+    "deaths": 3685,
     "suicides": 970,
     "experience": 0,
     "surrenders": 0,
