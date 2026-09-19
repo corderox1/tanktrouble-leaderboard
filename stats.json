@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35137016,
-    "kills": 44210637,
-    "deaths": 41625656,
-    "suicides": 9355613,
+    "victories": 35137018,
+    "kills": 44210644,
+    "deaths": 41625660,
+    "suicides": 9355614,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1866,7 +1866,7 @@
     "username": "KD419",
     "victories": 14461,
     "kills": 22225,
-    "deaths": 29807,
+    "deaths": 29809,
     "suicides": 8336,
     "experience": 0,
     "surrenders": 0,
