@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35134505,
-    "kills": 44207210,
-    "deaths": 41620877,
+    "victories": 35134506,
+    "kills": 44207213,
+    "deaths": 41620880,
     "suicides": 9354723,
     "experience": 0,
     "surrenders": 0,
@@ -149,9 +149,9 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137540,
+    "victories": 137541,
     "kills": 188950,
-    "deaths": 187083,
+    "deaths": 187084,
     "suicides": 47861,
     "experience": 0,
     "surrenders": 0,
@@ -2199,7 +2199,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1548176313,
-    "lastLogin": 1789780037,
+    "lastLogin": 1789794459,
     "banned": false,
     "usernameApproved": true,
     "country": null
