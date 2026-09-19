@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136924,
-    "kills": 44210512,
-    "deaths": 41625506,
-    "suicides": 9355581,
+    "victories": 35136929,
+    "kills": 44210516,
+    "deaths": 41625510,
+    "suicides": 9355582,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -739,7 +739,7 @@
     "username": "Dangel",
     "victories": 20014,
     "kills": 37447,
-    "deaths": 34757,
+    "deaths": 34758,
     "suicides": 5763,
     "experience": 0,
     "surrenders": 0,
@@ -837,7 +837,7 @@
     "username": "-Trippy-",
     "victories": 23610,
     "kills": 38023,
-    "deaths": 41719,
+    "deaths": 41720,
     "suicides": 8959,
     "experience": 907,
     "surrenders": 0,
@@ -849,9 +849,9 @@
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xd90a16 61",
-      "numericValue": "0xd90a16",
-      "imageValue": "61"
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "baseColour": {
       "type": "numeric",
@@ -1278,7 +1278,7 @@
     "username": "Lokirss",
     "victories": 39376,
     "kills": 58183,
-    "deaths": 68415,
+    "deaths": 68416,
     "suicides": 16271,
     "experience": 0,
     "surrenders": 0,
@@ -2011,9 +2011,9 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "victories": 2860,
-    "kills": 5508,
-    "deaths": 8308,
+    "victories": 2862,
+    "kills": 5510,
+    "deaths": 8311,
     "suicides": 2147,
     "experience": 0,
     "surrenders": 0,
