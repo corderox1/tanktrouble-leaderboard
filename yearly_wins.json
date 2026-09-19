@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10812
+    "kills": 10813
   },
   {
     "playerId": "21601349",
@@ -52,7 +52,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 275
+    "kills": 277
   },
   {
     "playerId": "21708970",
@@ -270,6 +270,11 @@
     "kills": 2
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 1
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 0
@@ -317,11 +322,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
