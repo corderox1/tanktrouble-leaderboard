@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1395
+    "kills": 1398
   },
   {
     "playerId": "21708970",
@@ -15,14 +15,14 @@
     "kills": 119
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 119
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 117
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 115
   },
   {
     "playerId": "11769746",
@@ -108,6 +108,11 @@
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 3
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -247,11 +252,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
     "kills": 0
   },
   {
