@@ -100,8 +100,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35134907,
-    "kills": 44207758,
+    "victories": 35134912,
+    "kills": 44207763,
     "deaths": 41621727,
     "suicides": 9354885,
     "experience": 0,
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 29,
+    "rank": 30,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -347,8 +347,8 @@
     "username": "boogiemaster22",
     "victories": 19057,
     "kills": 36586,
-    "deaths": 45254,
-    "suicides": 8804,
+    "deaths": 45255,
+    "suicides": 8805,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4028,9 +4028,9 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x7f7f7f 14",
-      "numericValue": "0x7f7f7f",
-      "imageValue": "14"
+      "rawValue": "0x1579fb 60",
+      "numericValue": "0x1579fb",
+      "imageValue": "60"
     },
     "treadColour": {
       "type": "image",
@@ -4040,9 +4040,9 @@
     },
     "baseColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xfff5ee 108",
+      "numericValue": "0xfff5ee",
+      "imageValue": "108"
     },
     "turretAccessory": "60",
     "barrelAccessory": "50",
