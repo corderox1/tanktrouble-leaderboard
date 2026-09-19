@@ -2256,10 +2256,10 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "victories": 1200,
-    "kills": 2175,
-    "deaths": 1239,
-    "suicides": 287,
+    "victories": 1202,
+    "kills": 2177,
+    "deaths": 1242,
+    "suicides": 288,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 76,
-    "xp": 82550,
+    "xp": 82670,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -4118,10 +4118,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 3965,
-    "kills": 5852,
-    "deaths": 4741,
-    "suicides": 1055,
+    "victories": 3966,
+    "kills": 5854,
+    "deaths": 4745,
+    "suicides": 1056,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
