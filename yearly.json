@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12914
+    "kills": 12917
   },
   {
     "playerId": "22725175",
@@ -155,13 +155,13 @@
     "kills": 87
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 79
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 81
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 79
   },
   {
@@ -250,6 +250,11 @@
     "kills": 3
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 1
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 1
@@ -312,11 +317,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
