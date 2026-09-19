@@ -101,9 +101,9 @@
     "playerId": "6148530",
     "username": "Laika",
     "victories": 35134859,
-    "kills": 44207646,
-    "deaths": 41621598,
-    "suicides": 9354849,
+    "kills": 44207648,
+    "deaths": 41621604,
+    "suicides": 9354850,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,8 +933,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 71855,
-    "kills": 127687,
+    "victories": 71856,
+    "kills": 127690,
     "deaths": 100796,
     "suicides": 23454,
     "experience": 0,
