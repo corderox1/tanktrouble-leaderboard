@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136201,
-    "kills": 44209601,
-    "deaths": 41624327,
-    "suicides": 9355351,
+    "victories": 35136208,
+    "kills": 44209611,
+    "deaths": 41624347,
+    "suicides": 9355353,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 23,
+    "rank": 10,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137580,
-    "kills": 189029,
-    "deaths": 187168,
-    "suicides": 47877,
+    "victories": 137584,
+    "kills": 189033,
+    "deaths": 187169,
+    "suicides": 47878,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,9 +345,9 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19079,
-    "kills": 36627,
-    "deaths": 45302,
+    "victories": 19080,
+    "kills": 36628,
+    "deaths": 45304,
     "suicides": 8815,
     "experience": 0,
     "surrenders": 0,
@@ -1033,8 +1033,8 @@
     "username": "Rapid",
     "victories": 24019,
     "kills": 40385,
-    "deaths": 58422,
-    "suicides": 12577,
+    "deaths": 58425,
+    "suicides": 12578,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1044,10 +1044,10 @@
       "imageValue": ""
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0x0102a9",
-      "numericValue": "0x0102a9",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "baseColour": {
       "type": "numeric",
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39166,
-    "kills": 57910,
-    "deaths": 68199,
-    "suicides": 16228,
+    "victories": 39167,
+    "kills": 57911,
+    "deaths": 68201,
+    "suicides": 16229,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3040,8 +3040,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7845,
-    "kills": 9742,
+    "victories": 7846,
+    "kills": 9743,
     "deaths": 16897,
     "suicides": 3790,
     "experience": 0,
