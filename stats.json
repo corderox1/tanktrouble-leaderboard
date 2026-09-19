@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35135994,
-    "kills": 44209148,
-    "deaths": 41623854,
-    "suicides": 9355261,
+    "victories": 35136002,
+    "kills": 44209155,
+    "deaths": 41623865,
+    "suicides": 9355262,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -794,15 +794,15 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x97946e 166",
-      "numericValue": "0x97946e",
-      "imageValue": "166"
+      "rawValue": "0x173677 152",
+      "numericValue": "0x173677",
+      "imageValue": "152"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xd90a16 61",
-      "numericValue": "0xd90a16",
-      "imageValue": "61"
+      "rawValue": "0x6743a2 153",
+      "numericValue": "0x6743a2",
+      "imageValue": "153"
     },
     "baseColour": {
       "type": "image",
@@ -811,7 +811,7 @@
       "imageValue": "163"
     },
     "turretAccessory": "49",
-    "barrelAccessory": "44",
+    "barrelAccessory": "150",
     "frontAccessory": "165",
     "backAccessory": "160",
     "treadAccessory": "0",
@@ -2650,7 +2650,7 @@
     "username": "CHIMABOY",
     "victories": 20168,
     "kills": 28467,
-    "deaths": 30421,
+    "deaths": 30422,
     "suicides": 8511,
     "experience": 0,
     "surrenders": 0,
