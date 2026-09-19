@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136218,
-    "kills": 44209633,
-    "deaths": 41624367,
-    "suicides": 9355359,
+    "victories": 35136223,
+    "kills": 44209639,
+    "deaths": 41624373,
+    "suicides": 9355361,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -347,7 +347,7 @@
     "username": "boogiemaster22",
     "victories": 19082,
     "kills": 36632,
-    "deaths": 45309,
+    "deaths": 45310,
     "suicides": 8815,
     "experience": 0,
     "surrenders": 0,
@@ -794,15 +794,15 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x7f7f7f 14",
-      "numericValue": "0x7f7f7f",
-      "imageValue": "14"
+      "rawValue": "0xb80000 110",
+      "numericValue": "0xb80000",
+      "imageValue": "110"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xfff5ee 108",
-      "numericValue": "0xfff5ee",
-      "imageValue": "108"
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "baseColour": {
       "type": "image",
@@ -1031,9 +1031,9 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "victories": 24022,
-    "kills": 40389,
-    "deaths": 58428,
+    "victories": 24023,
+    "kills": 40391,
+    "deaths": 58429,
     "suicides": 12578,
     "experience": 0,
     "surrenders": 0,
@@ -1278,8 +1278,8 @@
     "username": "Lokirss",
     "victories": 39168,
     "kills": 57917,
-    "deaths": 68207,
-    "suicides": 16230,
+    "deaths": 68208,
+    "suicides": 16231,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
