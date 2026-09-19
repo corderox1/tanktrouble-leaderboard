@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35135435,
-    "kills": 44208429,
-    "deaths": 41622796,
+    "victories": 35135437,
+    "kills": 44208435,
+    "deaths": 41622801,
     "suicides": 9355079,
     "experience": 0,
     "surrenders": 0,
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 74426,
-    "kills": 139393,
-    "deaths": 85923,
-    "suicides": 23986,
+    "victories": 74428,
+    "kills": 139395,
+    "deaths": 85925,
+    "suicides": 23987,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3040,9 +3040,9 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7782,
-    "kills": 9677,
-    "deaths": 16811,
+    "victories": 7783,
+    "kills": 9680,
+    "deaths": 16814,
     "suicides": 3773,
     "experience": 0,
     "surrenders": 0,
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1789817558,
+    "lastLogin": 1789818746,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3865,7 +3865,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1771939160,
-    "lastLogin": 1789818285,
+    "lastLogin": 1789818750,
     "banned": false,
     "usernameApproved": true,
     "country": null
