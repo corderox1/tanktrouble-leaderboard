@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136491,
-    "kills": 44209952,
-    "deaths": 41624886,
-    "suicides": 9355445,
+    "victories": 35136492,
+    "kills": 44209957,
+    "deaths": 41624891,
+    "suicides": 9355446,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -788,7 +788,7 @@
     "username": "_Eddie_",
     "victories": 29305,
     "kills": 28910,
-    "deaths": 46506,
+    "deaths": 46507,
     "suicides": 10670,
     "experience": 0,
     "surrenders": 0,
@@ -1178,10 +1178,10 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "victories": 43849,
-    "kills": 91577,
-    "deaths": 128414,
-    "suicides": 35856,
+    "victories": 43850,
+    "kills": 91578,
+    "deaths": 128416,
+    "suicides": 35857,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39347,
-    "kills": 58121,
-    "deaths": 68374,
-    "suicides": 16261,
+    "victories": 39350,
+    "kills": 58122,
+    "deaths": 68375,
+    "suicides": 16262,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2836,7 +2836,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1497888536,
-    "lastLogin": 1789758153,
+    "lastLogin": 1789841101,
     "banned": false,
     "usernameApproved": true,
     "country": "RU"
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12278,
-    "kills": 19480,
-    "deaths": 20166,
-    "suicides": 6790,
+    "victories": 12279,
+    "kills": 19481,
+    "deaths": 20167,
+    "suicides": 6791,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7890,
+    "victories": 7891,
     "kills": 9787,
-    "deaths": 16956,
-    "suicides": 3806,
+    "deaths": 16958,
+    "suicides": 3807,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3679,8 +3679,8 @@
     "username": "Sleeze",
     "victories": 1342,
     "kills": 1518,
-    "deaths": 1455,
-    "suicides": 287,
+    "deaths": 1457,
+    "suicides": 289,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
