@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2394
+    "kills": 2406
   },
   {
     "playerId": "14892840",
@@ -50,14 +50,14 @@
     "kills": 86
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 84
+  },
+  {
     "playerId": "22725175",
     "username": "ohW",
     "kills": 81
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 77
   },
   {
     "playerId": "20270104",
@@ -92,7 +92,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 37
+    "kills": 39
   },
   {
     "playerId": "19068893",
@@ -133,6 +133,11 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 8
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 3
   },
   {
     "playerId": "21796745",
@@ -227,11 +232,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
