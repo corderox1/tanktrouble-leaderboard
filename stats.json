@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35135472,
-    "kills": 44208497,
-    "deaths": 41622852,
-    "suicides": 9355092,
+    "victories": 35135477,
+    "kills": 44208501,
+    "deaths": 41622856,
+    "suicides": 9355094,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1178,10 +1178,10 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "victories": 43835,
-    "kills": 91555,
-    "deaths": 128375,
-    "suicides": 35850,
+    "victories": 43838,
+    "kills": 91559,
+    "deaths": 128377,
+    "suicides": 35851,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1375,9 +1375,9 @@
     "playerId": "10794529",
     "username": "interstellar",
     "victories": 74437,
-    "kills": 139408,
-    "deaths": 85939,
-    "suicides": 23993,
+    "kills": 139409,
+    "deaths": 85944,
+    "suicides": 23994,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3081,7 +3081,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1789817033,
+    "lastLogin": 1789819419,
     "banned": false,
     "usernameApproved": true,
     "country": null
