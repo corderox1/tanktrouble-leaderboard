@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136942,
-    "kills": 44210534,
-    "deaths": 41625522,
-    "suicides": 9355583,
+    "victories": 35136945,
+    "kills": 44210535,
+    "deaths": 41625527,
+    "suicides": 9355584,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -836,16 +836,16 @@
     "playerId": "4142755",
     "username": "-Trippy-",
     "victories": 23610,
-    "kills": 38023,
-    "deaths": 41721,
+    "kills": 38025,
+    "deaths": 41723,
     "suicides": 8959,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x535c2a 161",
-      "numericValue": "0x535c2a",
-      "imageValue": "161"
+      "type": "numeric",
+      "rawValue": "0xcccccc",
+      "numericValue": "0xcccccc",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "numeric",
@@ -859,7 +859,7 @@
       "numericValue": "0xd0e2ee",
       "imageValue": "109"
     },
-    "turretAccessory": "77",
+    "turretAccessory": "0",
     "barrelAccessory": "0",
     "frontAccessory": "107",
     "backAccessory": "0",
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39379,
-    "kills": 58190,
-    "deaths": 68421,
-    "suicides": 16272,
+    "victories": 39380,
+    "kills": 58192,
+    "deaths": 68424,
+    "suicides": 16273,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
