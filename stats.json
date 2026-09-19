@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136176,
-    "kills": 44209557,
-    "deaths": 41624266,
-    "suicides": 9355343,
+    "victories": 35136185,
+    "kills": 44209566,
+    "deaths": 41624275,
+    "suicides": 9355345,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1031,9 +1031,9 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "victories": 24010,
-    "kills": 40374,
-    "deaths": 58410,
+    "victories": 24013,
+    "kills": 40376,
+    "deaths": 58412,
     "suicides": 12574,
     "experience": 0,
     "surrenders": 0,
@@ -3081,7 +3081,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1789833065,
+    "lastLogin": 1789834100,
     "banned": false,
     "usernameApproved": true,
     "country": null
