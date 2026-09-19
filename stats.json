@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136131,
-    "kills": 44209469,
-    "deaths": 41624175,
-    "suicides": 9355319,
+    "victories": 35136132,
+    "kills": 44209474,
+    "deaths": 41624182,
+    "suicides": 9355320,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1031,10 +1031,10 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "victories": 23986,
+    "victories": 23987,
     "kills": 40352,
-    "deaths": 58396,
-    "suicides": 12570,
+    "deaths": 58399,
+    "suicides": 12571,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1050,10 +1050,10 @@
       "imageValue": "14"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x666666",
-      "numericValue": "0x666666",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "turretAccessory": "76",
     "barrelAccessory": "102",
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7840,
-    "kills": 9736,
-    "deaths": 16888,
-    "suicides": 3788,
+    "victories": 7843,
+    "kills": 9739,
+    "deaths": 16889,
+    "suicides": 3789,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
