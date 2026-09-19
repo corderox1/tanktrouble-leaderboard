@@ -101,9 +101,9 @@
     "playerId": "6148530",
     "username": "Laika",
     "victories": 35135867,
-    "kills": 44209004,
-    "deaths": 41623621,
-    "suicides": 9355225,
+    "kills": 44209006,
+    "deaths": 41623625,
+    "suicides": 9355226,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 7,
+    "rank": 6,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -933,9 +933,9 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 71903,
-    "kills": 127836,
-    "deaths": 100892,
+    "victories": 71904,
+    "kills": 127839,
+    "deaths": 100893,
     "suicides": 23474,
     "experience": 0,
     "surrenders": 0,
@@ -1866,8 +1866,8 @@
     "username": "KD419",
     "victories": 14422,
     "kills": 22174,
-    "deaths": 29674,
-    "suicides": 8300,
+    "deaths": 29681,
+    "suicides": 8303,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2454,7 +2454,7 @@
     "username": "-_purup_-",
     "victories": 1398,
     "kills": 2800,
-    "deaths": 3932,
+    "deaths": 3933,
     "suicides": 1114,
     "experience": 0,
     "surrenders": 0,
@@ -2655,16 +2655,16 @@
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xd0e2ee 109",
-      "numericValue": "0xd0e2ee",
-      "imageValue": "109"
+      "type": "numeric",
+      "rawValue": "0x0102a9",
+      "numericValue": "0x0102a9",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x712f57 50",
-      "numericValue": "0x712f57",
-      "imageValue": "50"
+      "rawValue": "0xd90a16 61",
+      "numericValue": "0xd90a16",
+      "imageValue": "61"
     },
     "baseColour": {
       "type": "numeric",
@@ -2672,10 +2672,10 @@
       "numericValue": "0x010243",
       "imageValue": ""
     },
-    "turretAccessory": "2",
+    "turretAccessory": "42",
     "barrelAccessory": "102",
     "frontAccessory": "8",
-    "backAccessory": "0",
+    "backAccessory": "42",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
