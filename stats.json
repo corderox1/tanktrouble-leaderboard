@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136779,
-    "kills": 44210300,
-    "deaths": 41625267,
+    "victories": 35136784,
+    "kills": 44210313,
+    "deaths": 41625275,
     "suicides": 9355522,
     "experience": 0,
     "surrenders": 0,
@@ -989,16 +989,16 @@
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x5b0000",
-      "numericValue": "0x5b0000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x6743a2 153",
+      "numericValue": "0x6743a2",
+      "imageValue": "153"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0xcccccc",
-      "numericValue": "0xcccccc",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xd90a16 61",
+      "numericValue": "0xd90a16",
+      "imageValue": "61"
     },
     "baseColour": {
       "type": "numeric",
@@ -1007,8 +1007,8 @@
       "imageValue": ""
     },
     "turretAccessory": "76",
-    "barrelAccessory": "14",
-    "frontAccessory": "4",
+    "barrelAccessory": "102",
+    "frontAccessory": "14",
     "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
@@ -1913,9 +1913,9 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 29331,
-    "kills": 28840,
-    "deaths": 44917,
+    "victories": 29335,
+    "kills": 28844,
+    "deaths": 44919,
     "suicides": 13823,
     "experience": 0,
     "surrenders": 0,
@@ -2256,10 +2256,10 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "victories": 979,
-    "kills": 1933,
-    "deaths": 995,
-    "suicides": 239,
+    "victories": 980,
+    "kills": 1936,
+    "deaths": 996,
+    "suicides": 240,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 70,
-    "xp": 69080,
+    "xp": 69160,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -2404,8 +2404,8 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "victories": 44364,
-    "kills": 69123,
-    "deaths": 53309,
+    "kills": 69124,
+    "deaths": 53310,
     "suicides": 12499,
     "experience": 2287,
     "surrenders": 0,
