@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136350,
-    "kills": 44209803,
-    "deaths": 41624685,
+    "victories": 35136351,
+    "kills": 44209805,
+    "deaths": 41624689,
     "suicides": 9355408,
     "experience": 0,
     "surrenders": 0,
@@ -1038,10 +1038,10 @@
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0xddffff",
-      "numericValue": "0xddffff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "treadColour": {
       "type": "image",
@@ -1051,8 +1051,8 @@
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0x81fefd",
-      "numericValue": "0x81fefd",
+      "rawValue": "0xddffff",
+      "numericValue": "0xddffff",
       "imageValue": ""
     },
     "turretAccessory": "76",
@@ -1276,9 +1276,9 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39216,
-    "kills": 57999,
-    "deaths": 68286,
+    "victories": 39218,
+    "kills": 58001,
+    "deaths": 68287,
     "suicides": 16242,
     "experience": 0,
     "surrenders": 0,
@@ -3336,7 +3336,7 @@
     "username": "Lil_May",
     "victories": 25010,
     "kills": 49892,
-    "deaths": 73321,
+    "deaths": 73326,
     "suicides": 15266,
     "experience": 0,
     "surrenders": 0,
@@ -3679,8 +3679,8 @@
     "username": "Sleeze",
     "victories": 1272,
     "kills": 1450,
-    "deaths": 1307,
-    "suicides": 261,
+    "deaths": 1311,
+    "suicides": 262,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
