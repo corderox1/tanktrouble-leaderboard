@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35134990,
-    "kills": 44207846,
-    "deaths": 41621807,
+    "victories": 35134993,
+    "kills": 44207849,
+    "deaths": 41621814,
     "suicides": 9354903,
     "experience": 0,
     "surrenders": 0,
@@ -347,8 +347,8 @@
     "username": "boogiemaster22",
     "victories": 19072,
     "kills": 36610,
-    "deaths": 45278,
-    "suicides": 8811,
+    "deaths": 45280,
+    "suicides": 8812,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
