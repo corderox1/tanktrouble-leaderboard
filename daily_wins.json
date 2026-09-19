@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2787
+    "kills": 2790
   },
   {
     "playerId": "21601349",
@@ -17,7 +17,7 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 191
+    "kills": 193
   },
   {
     "playerId": "21708970",
@@ -160,6 +160,11 @@
     "kills": 14
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 13
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 11
@@ -167,11 +172,6 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 11
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 11
   },
   {
@@ -185,13 +185,13 @@
     "kills": 7
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 1
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
+    "kills": 2
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 1
   },
   {
