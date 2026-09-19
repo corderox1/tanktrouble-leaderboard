@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5168
+    "kills": 5175
   },
   {
     "playerId": "21601349",
@@ -132,7 +132,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 46
+    "kills": 49
   },
   {
     "playerId": "21708970",
@@ -177,6 +177,11 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
+    "kills": 1
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
@@ -407,11 +412,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   }
 ]

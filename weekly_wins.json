@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7956
+    "kills": 7962
   },
   {
     "playerId": "21601349",
@@ -155,6 +155,11 @@
     "kills": 47
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 34
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 32
@@ -162,11 +167,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 32
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 32
   },
   {
@@ -242,6 +242,11 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
+    "kills": 2
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 2
   },
   {
@@ -407,11 +412,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   }
 ]
