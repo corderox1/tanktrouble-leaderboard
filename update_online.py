@@ -140,14 +140,9 @@ def make_leaderboard(history, start_date, stat):
         latest = max(snapshots, key=lambda x: x[stat])
         amount = latest[stat] - first[stat]
 
-        if player_id == "22710399":
-            print(
-                "CORDER DEBUG:",
-                "first =", first["date"], first[stat],
-                "latest =", latest["date"], latest[stat],
-                "amount =", amount
-            )
-
+        first = snapshots[0]
+        latest = max(snapshots, key=lambda x: x[stat])
+        amount = latest[stat] - first[stat]
 
         leaderboard.append({
             "playerId": player_id,
@@ -241,6 +236,37 @@ save_json("daily_wins.json", daily_wins)
 save_json("weekly_wins.json", weekly_wins)
 save_json("monthly_wins.json", monthly_wins)
 save_json("yearly_wins.json", yearly_wins)
+
+# Create lifetime kill leaderboard
+total_kills = []
+
+for player in ALL_PLAYERS:
+    total_kills.append({
+        "playerId": player["playerId"],
+        "username": player["username"],
+        "kills": player["kills"]
+    })
+
+total_kills.sort(key=lambda x: x["kills"], reverse=True)
+
+
+# Create lifetime win leaderboard
+total_wins = []
+
+for player in ALL_PLAYERS:
+    total_wins.append({
+        "playerId": player["playerId"],
+        "username": player["username"],
+        "kills": player["victories"]
+    })
+
+total_wins.sort(key=lambda x: x["kills"], reverse=True)
+
+
+# Save lifetime leaderboards
+save_json("total_kills.json", total_kills)
+save_json("total_wins.json", total_wins)
+
 
 print("--------------------")
 print("Leaderboards updated!")
