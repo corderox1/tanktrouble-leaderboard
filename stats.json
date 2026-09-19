@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35135434,
-    "kills": 44208424,
-    "deaths": 41622790,
-    "suicides": 9355075,
+    "victories": 35135435,
+    "kills": 44208429,
+    "deaths": 41622796,
+    "suicides": 9355079,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1374,8 +1374,8 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 74424,
-    "kills": 139390,
+    "victories": 74426,
+    "kills": 139393,
     "deaths": 85923,
     "suicides": 23986,
     "experience": 0,
@@ -3042,8 +3042,8 @@
     "username": "Alternator",
     "victories": 7782,
     "kills": 9677,
-    "deaths": 16808,
-    "suicides": 3771,
+    "deaths": 16811,
+    "suicides": 3773,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
