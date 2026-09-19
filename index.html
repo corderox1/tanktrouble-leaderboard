@@ -1176,6 +1176,8 @@ function loadLifetimeLeaderboard(stat) {
             document.getElementById("lastUpdated").textContent =
                 "Last Updated: " +
                 new Date().toLocaleTimeString();
+                        
+            loadLifetimeLaika(stat);
 
         })
         .catch(error => {
@@ -1190,6 +1192,41 @@ function loadLifetimeLeaderboard(stat) {
         });
 }
 
+
+function loadLifetimeLaika(stat) {
+
+    const fileName =
+        stat === "wins"
+            ? "total_wins.json"
+            : "total_kills.json";
+
+    fetch(
+        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
+        fileName +
+        "?time=" +
+        Date.now()
+    )
+        .then(response => response.json())
+        .then(players => {
+
+            const laika = players.find(
+                player =>
+                    player.username.toLowerCase() === "laika"
+            );
+
+            if (laika) {
+
+                document.getElementById("laikaKills").textContent =
+                    laika.kills +
+                    (stat === "wins" ? " wins" : " kills");
+
+            }
+
+        })
+        .catch(error => {
+            console.error(error);
+        });
+}
         /* =========================
            LOAD LAIKA
         ========================= */
