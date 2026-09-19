@@ -1415,7 +1415,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1610558160,
-    "lastLogin": 1789812078,
+    "lastLogin": 1789816107,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2501,10 +2501,10 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "victories": 13993,
-    "kills": 5998,
-    "deaths": 8829,
-    "suicides": 2089,
+    "victories": 13996,
+    "kills": 6001,
+    "deaths": 8830,
+    "suicides": 2090,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
