@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136863,
-    "kills": 44210436,
-    "deaths": 41625438,
-    "suicides": 9355564,
+    "victories": 35136864,
+    "kills": 44210442,
+    "deaths": 41625444,
+    "suicides": 9355566,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1927,15 +1927,15 @@
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xddb135 43",
-      "numericValue": "0xddb135",
-      "imageValue": "43"
+      "rawValue": "0x1579fb 60",
+      "numericValue": "0x1579fb",
+      "imageValue": "60"
     },
     "baseColour": {
       "type": "image",
-      "rawValue": "0xb80000 110",
-      "numericValue": "0xb80000",
-      "imageValue": "110"
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "turretAccessory": "49",
     "barrelAccessory": "42",
@@ -2257,7 +2257,7 @@
     "playerId": "22725175",
     "username": "ohW",
     "victories": 1070,
-    "kills": 2034,
+    "kills": 2035,
     "deaths": 1078,
     "suicides": 258,
     "experience": 0,
@@ -2288,8 +2288,8 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 76,
-    "xp": 74640,
+    "rank": 70,
+    "xp": 74650,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3238,8 +3238,8 @@
     "username": "MoodyBlastGargoyle",
     "victories": 2025,
     "kills": 3119,
-    "deaths": 3642,
-    "suicides": 963,
+    "deaths": 3645,
+    "suicides": 965,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
