@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11960
+    "kills": 11968
   },
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 876
+    "kills": 878
   },
   {
     "playerId": "22716354",
@@ -47,7 +47,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 446
+    "kills": 447
   },
   {
     "playerId": "21103294",
@@ -220,6 +220,11 @@
     "kills": 13
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 13
+  },
+  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 10
@@ -227,11 +232,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 9
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 9
   },
   {
