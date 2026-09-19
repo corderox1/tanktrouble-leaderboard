@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2271
+    "kills": 2274
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 155
+    "kills": 157
   },
   {
     "playerId": "3990108",
@@ -130,6 +130,11 @@
     "kills": 8
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 3
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 3
@@ -212,11 +217,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {
