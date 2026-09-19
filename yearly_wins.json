@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9582
+    "kills": 9734
   },
   {
     "playerId": "21601349",
@@ -27,12 +27,12 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 311
+    "kills": 321
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 307
+    "kills": 309
   },
   {
     "playerId": "21465536",
@@ -45,14 +45,14 @@
     "kills": 261
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 215
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 214
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 213
   },
   {
     "playerId": "21103294",
@@ -70,6 +70,11 @@
     "kills": 167
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 160
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 158
@@ -78,11 +83,6 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 157
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 154
   },
   {
     "playerId": "21956820",
@@ -97,7 +97,7 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 133
+    "kills": 138
   },
   {
     "playerId": "8502796",
@@ -105,14 +105,14 @@
     "kills": 128
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 126
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 123
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 105
   },
   {
     "playerId": "19932455",
@@ -122,7 +122,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 86
+    "kills": 87
   },
   {
     "playerId": "1185396",
@@ -143,6 +143,11 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 68
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 62
   },
   {
     "playerId": "16092601",
@@ -167,11 +172,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 51
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 51
   },
   {
@@ -205,19 +205,24 @@
     "kills": 22
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 22
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 21
   },
   {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
+    "playerId": "20984454",
+    "username": "CHIMABOY",
     "kills": 17
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 16
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 17
   },
   {
     "playerId": "16874545",
@@ -407,11 +412,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0
   }
 ]
