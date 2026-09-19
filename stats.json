@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136089,
-    "kills": 44209302,
-    "deaths": 41623988,
-    "suicides": 9355285,
+    "victories": 35136091,
+    "kills": 44209307,
+    "deaths": 41623992,
+    "suicides": 9355287,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1866,7 +1866,7 @@
     "username": "KD419",
     "victories": 14427,
     "kills": 22184,
-    "deaths": 29727,
+    "deaths": 29730,
     "suicides": 8310,
     "experience": 0,
     "surrenders": 0,
@@ -2648,9 +2648,9 @@
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "victories": 20168,
-    "kills": 28472,
-    "deaths": 30437,
+    "victories": 20169,
+    "kills": 28474,
+    "deaths": 30438,
     "suicides": 8513,
     "experience": 0,
     "surrenders": 0,
@@ -2944,7 +2944,7 @@
     "username": "FATAI169",
     "victories": 12212,
     "kills": 19402,
-    "deaths": 20045,
+    "deaths": 20047,
     "suicides": 6747,
     "experience": 0,
     "surrenders": 0,
@@ -3979,9 +3979,9 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x5fa5d1 163",
-      "numericValue": "0x5fa5d1",
-      "imageValue": "163"
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "treadColour": {
       "type": "image",
@@ -3991,9 +3991,9 @@
     },
     "baseColour": {
       "type": "image",
-      "rawValue": "0xcfb077 162",
-      "numericValue": "0xcfb077",
-      "imageValue": "162"
+      "rawValue": "0x97946e 166",
+      "numericValue": "0x97946e",
+      "imageValue": "166"
     },
     "turretAccessory": "75",
     "barrelAccessory": "44",
