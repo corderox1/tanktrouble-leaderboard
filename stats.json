@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35135843,
-    "kills": 44208972,
-    "deaths": 41623572,
-    "suicides": 9355218,
+    "victories": 35135844,
+    "kills": 44208974,
+    "deaths": 41623575,
+    "suicides": 9355219,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -935,8 +935,8 @@
     "username": "L_Shy_P",
     "victories": 71900,
     "kills": 127823,
-    "deaths": 100876,
-    "suicides": 23470,
+    "deaths": 100878,
+    "suicides": 23472,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,7 +1864,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14409,
+    "victories": 14410,
     "kills": 22164,
     "deaths": 29653,
     "suicides": 8287,
@@ -2452,10 +2452,10 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "victories": 1392,
+    "victories": 1393,
     "kills": 2795,
-    "deaths": 3912,
-    "suicides": 1108,
+    "deaths": 3915,
+    "suicides": 1110,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2485,7 +2485,7 @@
     "badge": "0",
     "premium": false,
     "rank": 19,
-    "xp": 109450,
+    "xp": 109500,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
