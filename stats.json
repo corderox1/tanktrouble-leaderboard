@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35133961,
-    "kills": 44206384,
-    "deaths": 41619726,
-    "suicides": 9354529,
+    "victories": 35133967,
+    "kills": 44206396,
+    "deaths": 41619744,
+    "suicides": 9354533,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3579,8 +3579,8 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 65658,
-    "kills": 138459,
+    "victories": 65660,
+    "kills": 138460,
     "deaths": 98008,
     "suicides": 30483,
     "experience": 0,
