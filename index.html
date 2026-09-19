@@ -949,6 +949,8 @@
     currentType = type;
     currentStat = stat;
 
+    document.getElementById("statHeader").textContent =
+        stat === "wins" ? "Wins" : "Kills";        
     // Update active period button
     document
         .querySelectorAll(".tabs button")
@@ -1124,6 +1126,9 @@
 
 function loadLifetimeLeaderboard(stat) {
 
+    document.getElementById("statHeader").textContent =
+        stat === "wins" ? "Total Wins" : "Total Kills";
+    
     let fileName;
 
     if (stat === "wins") {
