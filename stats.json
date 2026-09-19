@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136481,
-    "kills": 44209939,
-    "deaths": 41624866,
-    "suicides": 9355443,
+    "victories": 35136484,
+    "kills": 44209942,
+    "deaths": 41624868,
+    "suicides": 9355444,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,8 +1276,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39337,
-    "kills": 58114,
+    "victories": 39341,
+    "kills": 58117,
     "deaths": 68373,
     "suicides": 16261,
     "experience": 0,
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14446,
-    "kills": 22208,
-    "deaths": 29767,
-    "suicides": 8325,
+    "victories": 14448,
+    "kills": 22210,
+    "deaths": 29770,
+    "suicides": 8326,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2942,9 +2942,9 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12270,
-    "kills": 19472,
-    "deaths": 20153,
+    "victories": 12273,
+    "kills": 19474,
+    "deaths": 20155,
     "suicides": 6785,
     "experience": 0,
     "surrenders": 0,
@@ -3081,7 +3081,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1789839541,
+    "lastLogin": 1789840762,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3679,8 +3679,8 @@
     "username": "Sleeze",
     "victories": 1341,
     "kills": 1517,
-    "deaths": 1447,
-    "suicides": 284,
+    "deaths": 1451,
+    "suicides": 286,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
