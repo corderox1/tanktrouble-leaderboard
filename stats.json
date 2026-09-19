@@ -150,9 +150,9 @@
     "playerId": "14617724",
     "username": "Astra",
     "victories": 137462,
-    "kills": 188818,
-    "deaths": 186948,
-    "suicides": 47832,
+    "kills": 188819,
+    "deaths": 186950,
+    "suicides": 47833,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1789783611,
+    "lastLogin": 1789789397,
     "banned": false,
     "usernameApproved": true,
     "country": null
