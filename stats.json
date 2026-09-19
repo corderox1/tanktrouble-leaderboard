@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136070,
-    "kills": 44209238,
-    "deaths": 41623926,
+    "victories": 35136072,
+    "kills": 44209240,
+    "deaths": 41623928,
     "suicides": 9355272,
     "experience": 0,
     "surrenders": 0,
@@ -786,23 +786,23 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "victories": 29287,
+    "victories": 29288,
     "kills": 28885,
-    "deaths": 46457,
+    "deaths": 46460,
     "suicides": 10660,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x173677 152",
-      "numericValue": "0x173677",
-      "imageValue": "152"
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xfb01fc 45",
-      "numericValue": "0xfb01fc",
-      "imageValue": "45"
+      "rawValue": "0x1579fb 60",
+      "numericValue": "0x1579fb",
+      "imageValue": "60"
     },
     "baseColour": {
       "type": "image",
