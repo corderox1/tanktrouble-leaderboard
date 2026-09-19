@@ -750,6 +750,27 @@
 
 
 
+    <div class="lifetime-tabs">
+
+        <button
+            id="totalKillsButton"
+            onclick="loadLifetimeLeaderboard('kills')">
+
+            💀 Total Kills
+
+        </button>
+
+        <button
+            id="totalWinsButton"
+            onclick="loadLifetimeLeaderboard('wins')">
+
+            🏆 Total Wins
+
+        </button>
+
+    </div>
+
+
 
     
 <div class="search-container">
@@ -1062,6 +1083,112 @@
 }
 
 
+/* =========================
+   LOAD LIFETIME LEADERBOARD
+========================= */
+
+function loadLifetimeLeaderboard(stat) {
+
+    let fileName;
+
+    if (stat === "wins") {
+        fileName = "total_wins.json";
+    } else {
+        fileName = "total_kills.json";
+    }
+
+    fetch(
+        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
+        fileName +
+        "?time=" +
+        Date.now()
+    )
+        .then(response => response.json())
+        .then(players => {
+
+            const leaderboard =
+                document.getElementById("leaderboard");
+
+            const realPlayers = players.filter(
+                player =>
+                    player.username.toLowerCase() !== "laika"
+            );
+
+            leaderboard.innerHTML = "";
+
+            if (realPlayers.length === 0) {
+                leaderboard.innerHTML =
+                    '<div class="status">' +
+                    'No lifetime data yet.' +
+                    '</div>';
+
+                return;
+            }
+
+            realPlayers.forEach((player, index) => {
+
+                const playerDiv =
+                    document.createElement("div");
+
+                playerDiv.className = "player";
+
+                if (index === 0)
+                    playerDiv.classList.add("top-1");
+
+                if (index === 1)
+                    playerDiv.classList.add("top-2");
+
+                if (index === 2)
+                    playerDiv.classList.add("top-3");
+
+                playerDiv.onclick = () =>
+                    openPlayerProfile(player.playerId);
+
+                playerDiv.innerHTML = `
+                    <div class="rank">
+                        ${
+                            index === 0
+                                ? "👑"
+                                : index === 1
+                                ? "🥈"
+                                : index === 2
+                                ? "🥉"
+                                : index + 1
+                        }
+                    </div>
+
+                    <div class="username">
+                        ${player.username}
+                    </div>
+
+                    <div class="kills">
+                        ${player.kills}
+                        ${stat === "wins" ? "wins" : "kills"}
+                    </div>
+                `;
+
+                leaderboard.appendChild(playerDiv);
+            });
+
+            document.getElementById("totalPlayers").textContent =
+                "Total Players: " + realPlayers.length;
+
+            document.getElementById("lastUpdated").textContent =
+                "Last Updated: " +
+                new Date().toLocaleTimeString();
+
+        })
+        .catch(error => {
+
+            console.error(error);
+
+            document.getElementById("leaderboard").innerHTML =
+                '<div class="status">' +
+                'Failed to load lifetime leaderboard.' +
+                '</div>';
+
+        });
+}
 
         /* =========================
            LOAD LAIKA
