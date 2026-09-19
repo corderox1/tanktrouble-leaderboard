@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136746,
-    "kills": 44210255,
-    "deaths": 41625212,
-    "suicides": 9355513,
+    "victories": 35136755,
+    "kills": 44210263,
+    "deaths": 41625221,
+    "suicides": 9355515,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1913,10 +1913,10 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 29317,
-    "kills": 28827,
-    "deaths": 44903,
-    "suicides": 13822,
+    "victories": 29319,
+    "kills": 28829,
+    "deaths": 44906,
+    "suicides": 13823,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2403,10 +2403,10 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 44362,
-    "kills": 69120,
-    "deaths": 53304,
-    "suicides": 12496,
+    "victories": 44364,
+    "kills": 69122,
+    "deaths": 53305,
+    "suicides": 12497,
     "experience": 2287,
     "surrenders": 0,
     "turretColour": {
@@ -2795,7 +2795,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113690,
+    "victories": 113691,
     "kills": 217388,
     "deaths": 146992,
     "suicides": 38491,
