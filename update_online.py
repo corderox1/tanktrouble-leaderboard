@@ -55,6 +55,64 @@ def save_json(filename, data):
     with open(filename, "w") as f:
         json.dump(data, f, indent=2)
 
+def compact_history(history):
+    today = datetime.now(ZoneInfo("America/Chicago")).strftime("%Y-%m-%d")
+
+    grouped = {}
+
+    for snapshot in history:
+        date = snapshot["date"][:10]
+        player_id = snapshot["playerId"]
+
+        # Keep every snapshot from today
+        if date == today:
+            grouped.setdefault(("today", player_id), []).append(snapshot)
+            continue
+
+        key = (date, player_id)
+
+        if key not in grouped:
+            grouped[key] = {
+                "first": snapshot,
+                "max_kills": snapshot,
+                "max_victories": snapshot
+            }
+        else:
+            data = grouped[key]
+
+            if snapshot["date"] < data["first"]["date"]:
+                data["first"] = snapshot
+
+            if snapshot["kills"] > data["max_kills"]["kills"]:
+                data["max_kills"] = snapshot
+
+            if snapshot["victories"] > data["max_victories"]["victories"]:
+                data["max_victories"] = snapshot
+
+    compacted = []
+
+    for key, data in grouped.items():
+
+        if key[0] == "today":
+            compacted.extend(data)
+        else:
+            snapshots = [
+                data["first"],
+                data["max_kills"],
+                data["max_victories"]
+            ]
+
+            # Remove duplicates
+            unique = {}
+            for snapshot in snapshots:
+                unique[snapshot["date"]] = snapshot
+
+            compacted.extend(unique.values())
+
+    compacted.sort(key=lambda x: x["date"])
+
+    return compacted
+
 
 def make_leaderboard(history, start_date, stat):
     players = {}
@@ -107,6 +165,7 @@ today = now.strftime("%Y-%m-%d")
 
 # Load previous history
 history = load_history()
+history = compact_history(history)
 
 print("Checking players...")
 
@@ -141,7 +200,8 @@ for player_id in PLAYER_IDS:
         print("Error checking", player_id, ":", e)
 
 
-# Save history
+# Compact and save history
+history = compact_history(history)
 save_json("history.json", history)
 
 
