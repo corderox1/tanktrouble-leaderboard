@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35136723,
-    "kills": 44210221,
-    "deaths": 41625158,
-    "suicides": 9355506,
+    "victories": 35136733,
+    "kills": 44210235,
+    "deaths": 41625176,
+    "suicides": 9355509,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1913,9 +1913,9 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 29304,
-    "kills": 28815,
-    "deaths": 44899,
+    "victories": 29308,
+    "kills": 28819,
+    "deaths": 44900,
     "suicides": 13822,
     "experience": 0,
     "surrenders": 0,
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1789840912,
+    "lastLogin": 1789844156,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2795,9 +2795,9 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113685,
-    "kills": 217373,
-    "deaths": 146987,
+    "victories": 113687,
+    "kills": 217378,
+    "deaths": 146988,
     "suicides": 38488,
     "experience": 29487,
     "surrenders": 0,
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1789842539,
+    "lastLogin": 1789844111,
     "banned": false,
     "usernameApproved": true,
     "country": null
