@@ -100,8 +100,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139980,
-    "kills": 44215176,
+    "victories": 35139982,
+    "kills": 44215179,
     "deaths": 41631634,
     "suicides": 9356826,
     "experience": 0,
@@ -2795,8 +2795,8 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113733,
-    "kills": 217455,
+    "victories": 113737,
+    "kills": 217459,
     "deaths": 147023,
     "suicides": 38501,
     "experience": 29487,
@@ -2836,7 +2836,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1497888536,
-    "lastLogin": 1789927889,
+    "lastLogin": 1789933757,
     "banned": false,
     "usernameApproved": true,
     "country": "RU"
