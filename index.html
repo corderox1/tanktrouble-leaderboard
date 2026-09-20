@@ -773,44 +773,55 @@
 
     <!-- TABS -->
 
-    <div class="tabs">
-      
-        <button
-            id="dailyButton"
-            onclick="loadLeaderboard('daily')">
-
-            Daily
-
-        </button>
-
-        
-        <button
-            id="weeklyButton"
-            onclick="loadLeaderboard('weekly')">
-
-            Weekly
-
-        </button>
 
 
-        <button
-            id="monthlyButton"
-            onclick="loadLeaderboard('monthly')">
+  <div class="tabs">
+         
+    <button
+        id="dailyButton"
+        class="period-card"
+        onclick="loadLeaderboard('daily')">
 
-            Monthly
+        <span class="period-icon">⚔️</span>
+        <span class="period-name">Daily</span>
+        <span class="period-subtitle">Kills & Wins</span>
 
-        </button>
+    </button>
 
+    <button
+        id="weeklyButton"
+        class="period-card"
+        onclick="loadLeaderboard('weekly')">
 
-        <button
-            id="yearlyButton"
-            onclick="loadLeaderboard('yearly')">
+        <span class="period-icon">📅</span>
+        <span class="period-name">Weekly</span>
+        <span class="period-subtitle">Kills & Wins</span>
 
-            Yearly
+    </button>
 
-        </button>
+    <button
+        id="monthlyButton"
+        class="period-card"
+        onclick="loadLeaderboard('monthly')">
 
-    </div>
+        <span class="period-icon">📊</span>
+        <span class="period-name">Monthly</span>
+        <span class="period-subtitle">Kills & Wins</span>
+
+    </button>
+
+    <button
+        id="yearlyButton"
+        class="period-card"
+        onclick="loadLeaderboard('yearly')">
+
+        <span class="period-icon">🏆</span>
+        <span class="period-name">Yearly</span>
+        <span class="period-subtitle">Kills & Wins</span>
+
+    </button>
+
+</div>
 
 
     <div class="stat-tabs">
