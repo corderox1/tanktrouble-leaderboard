@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3073
+    "kills": 3082
   },
   {
     "playerId": "21508277",
@@ -80,9 +80,14 @@
     "kills": 28
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 20
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 19
+    "kills": 20
   },
   {
     "playerId": "20297710",
@@ -100,11 +105,6 @@
     "kills": 17
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 16
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16
@@ -115,6 +115,11 @@
     "kills": 16
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 9
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 8
@@ -123,11 +128,6 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 8
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 7
   },
   {
     "playerId": "22710399",
