@@ -100,7 +100,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35138514,
+    "victories": 35138515,
     "kills": 44212765,
     "deaths": 41628471,
     "suicides": 9356201,
@@ -1130,8 +1130,8 @@
     "playerId": "20270104",
     "username": "3w0n",
     "victories": 21091,
-    "kills": 33687,
-    "deaths": 39757,
+    "kills": 33688,
+    "deaths": 39758,
     "suicides": 7161,
     "experience": 0,
     "surrenders": 0,
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7945,
-    "kills": 9840,
-    "deaths": 17028,
-    "suicides": 3818,
+    "victories": 7946,
+    "kills": 9841,
+    "deaths": 17031,
+    "suicides": 3820,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3089,10 +3089,10 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "victories": 21692,
-    "kills": 42770,
-    "deaths": 43949,
-    "suicides": 12765,
+    "victories": 21693,
+    "kills": 42771,
+    "deaths": 43950,
+    "suicides": 12766,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1789898959,
+    "lastLogin": 1789899067,
     "banned": false,
     "usernameApproved": true,
     "country": null
