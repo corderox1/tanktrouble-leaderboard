@@ -784,9 +784,28 @@
 }
 
 .card-players {
-    min-height: 250px;
+    height: 620px;
+    overflow-y: auto;
 }
 
+.card-players::-webkit-scrollbar {
+    width: 8px;
+}
+
+.card-players::-webkit-scrollbar-track {
+    background: #0b0b0b;
+}
+
+.card-players::-webkit-scrollbar-thumb {
+    background: #8e7416;
+    border-radius: 5px;
+}
+
+.card-players::-webkit-scrollbar-thumb:hover {
+    background: #ffd43b;
+}
+
+        
 .card-players .status {
     padding: 30px 10px;
 
