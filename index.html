@@ -961,6 +961,14 @@
         });
 
     document
+        .querySelectorAll(".lifetime-tabs button")
+        .forEach(button => {
+            button.classList.remove("active");
+        });
+
+
+            
+    document
         .getElementById(type + "Button")
         .classList.add("active");
 
@@ -1128,6 +1136,29 @@ function loadLifetimeLeaderboard(stat) {
 
     document.getElementById("statHeader").textContent =
         stat === "wins" ? "Total Wins" : "Total Kills";
+
+
+    document
+        .querySelectorAll(".tabs button")
+        .forEach(button => {
+            button.classList.remove("active");
+        });
+
+    document
+        .querySelectorAll(".lifetime-tabs button")
+        .forEach(button => {
+            button.classList.remove("active");
+        });
+
+    document
+        .getElementById(
+            stat === "wins"
+                ? "totalWinsButton"
+                : "totalKillsButton"
+        )
+        .classList.add("active");
+    
+    
     
     let fileName;
 
