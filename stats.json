@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139557,
-    "kills": 44214564,
-    "deaths": 41630851,
-    "suicides": 9356674,
+    "victories": 35139570,
+    "kills": 44214584,
+    "deaths": 41630868,
+    "suicides": 9356681,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 13,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39533,
-    "kills": 58424,
-    "deaths": 68634,
-    "suicides": 16306,
+    "victories": 39536,
+    "kills": 58428,
+    "deaths": 68638,
+    "suicides": 16308,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4118,10 +4118,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4112,
-    "kills": 6053,
-    "deaths": 4927,
-    "suicides": 1086,
+    "victories": 4114,
+    "kills": 6055,
+    "deaths": 4933,
+    "suicides": 1087,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
