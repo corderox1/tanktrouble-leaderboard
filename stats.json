@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35140555,
-    "kills": 44215854,
-    "deaths": 41632661,
-    "suicides": 9357009,
+    "victories": 35140566,
+    "kills": 44215861,
+    "deaths": 41632668,
+    "suicides": 9357012,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,8 +835,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23668,
-    "kills": 38092,
+    "victories": 23674,
+    "kills": 38096,
     "deaths": 41800,
     "suicides": 8973,
     "experience": 907,
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1789936504,
+    "lastLogin": 1789942297,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3579,9 +3579,9 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 65752,
-    "kills": 138706,
-    "deaths": 98238,
+    "victories": 65753,
+    "kills": 138707,
+    "deaths": 98239,
     "suicides": 30550,
     "experience": 0,
     "surrenders": 0,
