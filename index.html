@@ -960,7 +960,9 @@
     currentStat = stat;
 
     document.getElementById("statHeader").textContent =
-        stat === "wins" ? "Wins" : "Kills";        
+        stat === "wins" ? "Wins" : "Kills";    
+
+    document.getElementById("leaderboardTitle").textContent = "";
     // Update active period button
     document
         .querySelectorAll(".tabs button")
