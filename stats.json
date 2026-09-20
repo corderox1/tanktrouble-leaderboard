@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35138742,
-    "kills": 44213297,
-    "deaths": 41629135,
-    "suicides": 9356345,
+    "victories": 35138743,
+    "kills": 44213300,
+    "deaths": 41629152,
+    "suicides": 9356348,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1815,10 +1815,10 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "victories": 1214,
-    "kills": 3132,
-    "deaths": 3632,
-    "suicides": 961,
+    "victories": 1216,
+    "kills": 3138,
+    "deaths": 3635,
+    "suicides": 962,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1848,7 +1848,7 @@
     "badge": "0",
     "premium": false,
     "rank": 59,
-    "xp": 101120,
+    "xp": 101480,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
@@ -3040,10 +3040,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 7962,
-    "kills": 9889,
-    "deaths": 17118,
-    "suicides": 3839,
+    "victories": 7967,
+    "kills": 9895,
+    "deaths": 17121,
+    "suicides": 3842,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
