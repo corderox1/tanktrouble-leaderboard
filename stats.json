@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139752,
-    "kills": 44214838,
-    "deaths": 41631199,
-    "suicides": 9356742,
+    "victories": 35139775,
+    "kills": 44214857,
+    "deaths": 41631210,
+    "suicides": 9356746,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 20,
+    "rank": 21,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19147,
-    "kills": 36762,
-    "deaths": 45450,
-    "suicides": 8843,
+    "victories": 19149,
+    "kills": 36765,
+    "deaths": 45453,
+    "suicides": 8844,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1905,7 +1905,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1737193297,
-    "lastLogin": 1789927822,
+    "lastLogin": 1789927884,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2795,7 +2795,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113695,
+    "victories": 113696,
     "kills": 217395,
     "deaths": 146994,
     "suicides": 38491,
@@ -2836,7 +2836,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1497888536,
-    "lastLogin": 1789847904,
+    "lastLogin": 1789927889,
     "banned": false,
     "usernameApproved": true,
     "country": "RU"
@@ -4069,9 +4069,9 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 58010,
-    "kills": 99162,
-    "deaths": 100954,
+    "victories": 58011,
+    "kills": 99167,
+    "deaths": 100957,
     "suicides": 26199,
     "experience": 0,
     "surrenders": 0,
