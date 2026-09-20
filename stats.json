@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35138286,
-    "kills": 44212416,
-    "deaths": 41628111,
-    "suicides": 9356094,
+    "victories": 35138288,
+    "kills": 44212423,
+    "deaths": 41628122,
+    "suicides": 9356095,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 10,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2403,10 +2403,10 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 44394,
-    "kills": 69174,
-    "deaths": 53349,
-    "suicides": 12504,
+    "victories": 44396,
+    "kills": 69175,
+    "deaths": 53350,
+    "suicides": 12505,
     "experience": 2287,
     "surrenders": 0,
     "turretColour": {
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1789890691,
+    "lastLogin": 1789892002,
     "banned": false,
     "usernameApproved": true,
     "country": null
