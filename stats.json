@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35137614,
-    "kills": 44211327,
-    "deaths": 41626452,
-    "suicides": 9355788,
+    "victories": 35137625,
+    "kills": 44211336,
+    "deaths": 41626464,
+    "suicides": 9355791,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 2,
+    "rank": 5,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 80838,
-    "kills": 121289,
-    "deaths": 139767,
-    "suicides": 30011,
+    "victories": 80844,
+    "kills": 121294,
+    "deaths": 139774,
+    "suicides": 30012,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 67622,
-    "kills": 111863,
-    "deaths": 116375,
-    "suicides": 25649,
+    "victories": 67629,
+    "kills": 111869,
+    "deaths": 116381,
+    "suicides": 25650,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -2257,16 +2257,16 @@
     "playerId": "22725175",
     "username": "ohW",
     "victories": 1285,
-    "kills": 2328,
-    "deaths": 1423,
+    "kills": 2329,
+    "deaths": 1424,
     "suicides": 321,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "treadColour": {
       "type": "image",
@@ -2275,10 +2275,10 @@
       "imageValue": "42"
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x8000ff",
+      "numericValue": "0x8000ff",
+      "imageValue": ""
     },
     "turretAccessory": "0",
     "barrelAccessory": "0",
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 76,
-    "xp": 88330,
+    "xp": 88340,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3726,9 +3726,9 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3409,
-    "kills": 3960,
-    "deaths": 1243,
+    "victories": 3417,
+    "kills": 3963,
+    "deaths": 1244,
     "suicides": 268,
     "experience": 0,
     "surrenders": 0,
