@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4096
+    "kills": 4102
   },
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 469
+    "kills": 473
   },
   {
     "playerId": "21601349",
@@ -165,6 +165,11 @@
     "kills": 29
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 26
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 25
@@ -173,11 +178,6 @@
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 24
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 21
   },
   {
     "playerId": "21967085",
@@ -202,12 +202,12 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 4
+    "kills": 5
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0
+    "kills": 2
   },
   {
     "playerId": "10132007",
@@ -422,6 +422,61 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 0
+  },
+  {
+    "playerId": "1609300",
+    "username": "Turbo-Rambo",
+    "kills": 0
+  },
+  {
+    "playerId": "2810746",
+    "username": "CosmosAblaze",
+    "kills": 0
+  },
+  {
+    "playerId": "14677783",
+    "username": "GGGGG1706",
+    "kills": 0
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 0
+  },
+  {
+    "playerId": "12478286",
+    "username": "ANUIQUILATE",
+    "kills": 0
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 0
+  },
+  {
+    "playerId": "4067875",
+    "username": "NelFusion",
+    "kills": 0
+  },
+  {
+    "playerId": "3617624",
+    "username": "Envy",
+    "kills": 0
+  },
+  {
+    "playerId": "6694888",
+    "username": "Jellican",
+    "kills": 0
+  },
+  {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 0
+  },
+  {
+    "playerId": "4948831",
+    "username": "SavageAimbot",
     "kills": 0
   }
 ]
