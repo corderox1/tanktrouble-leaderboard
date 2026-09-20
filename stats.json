@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35138952,
-    "kills": 44213614,
-    "deaths": 41629651,
-    "suicides": 9356442,
+    "victories": 35138954,
+    "kills": 44213618,
+    "deaths": 41629661,
+    "suicides": 9356443,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3334,10 +3334,10 @@
   {
     "playerId": "19768925",
     "username": "Lil_May",
-    "victories": 25012,
-    "kills": 49897,
-    "deaths": 73342,
-    "suicides": 15266,
+    "victories": 25013,
+    "kills": 49900,
+    "deaths": 73349,
+    "suicides": 15267,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4118,9 +4118,9 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4017,
-    "kills": 5957,
-    "deaths": 4848,
+    "victories": 4024,
+    "kills": 5964,
+    "deaths": 4850,
     "suicides": 1072,
     "experience": 0,
     "surrenders": 0,
