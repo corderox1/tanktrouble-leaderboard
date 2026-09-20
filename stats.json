@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139882,
-    "kills": 44214993,
-    "deaths": 41631356,
-    "suicides": 9356774,
+    "victories": 35139889,
+    "kills": 44215002,
+    "deaths": 41631371,
+    "suicides": 9356777,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2795,10 +2795,10 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113710,
-    "kills": 217429,
-    "deaths": 147011,
-    "suicides": 38497,
+    "victories": 113711,
+    "kills": 217433,
+    "deaths": 147015,
+    "suicides": 38498,
     "experience": 29487,
     "surrenders": 0,
     "turretColour": {
@@ -4069,9 +4069,9 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 58018,
-    "kills": 99190,
-    "deaths": 100983,
+    "victories": 58019,
+    "kills": 99194,
+    "deaths": 100987,
     "suicides": 26204,
     "experience": 0,
     "surrenders": 0,
