@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3216
+    "kills": 3218
   },
   {
     "playerId": "21508277",
@@ -45,14 +45,14 @@
     "kills": 60
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 59
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 56
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 55
   },
   {
     "playerId": "8502796",
@@ -62,7 +62,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 50
+    "kills": 51
   },
   {
     "playerId": "21796745",
@@ -85,6 +85,11 @@
     "kills": 33
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 31
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 29
@@ -93,11 +98,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 28
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 26
   },
   {
     "playerId": "20297710",
