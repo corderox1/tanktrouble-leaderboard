@@ -151,6 +151,32 @@
     box-shadow: 0 0 15px rgba(255, 212, 59, 0.4);
 }
 
+.stat-tabs {
+    width: calc(100% - 40px);
+    max-width: 1600px;
+
+    margin: 20px auto 10px;
+
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+
+    gap: 16px;
+}
+
+.stat-group {
+    display: flex;
+    justify-content: center;
+}
+
+.kills-group {
+    grid-column: 1 / 3;
+}
+
+.wins-group {
+    grid-column: 3 / 5;
+}
+        
+
 .lifetime-tabs {
     display: flex;
     justify-content: center;
@@ -998,21 +1024,30 @@
     <!-- TABS -->
 <div class="stat-tabs">
 
-    <button
-        id="killsButton"
-        onclick="loadLeaderboard(currentType, 'kills')">
+    <div class="stat-group kills-group">
 
-        ⚔️ Kills
+        <button
+            id="killsButton"
+            onclick="loadLeaderboard(currentType, 'kills')">
 
-    </button>
+            ⚔️ Kills
 
-    <button
-        id="winsButton"
-        onclick="loadLeaderboard(currentType, 'wins')">
+        </button>
 
-        🏆 Wins
+    </div>
 
-    </button>
+
+    <div class="stat-group wins-group">
+
+        <button
+            id="winsButton"
+            onclick="loadLeaderboard(currentType, 'wins')">
+
+            🏆 Wins
+
+        </button>
+
+    </div>
 
 </div>
 
