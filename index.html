@@ -1251,7 +1251,7 @@
     <script>
 
 
-        let currentType = "weekly";
+        let currentType = "daily";
         let currentStat = "kills";
 
         let secondsUntilRefresh = 60;
@@ -1266,183 +1266,141 @@
     currentType = type;
     currentStat = stat;
 
-    document.getElementById("statHeader").textContent =
-        stat === "wins" ? "Wins" : "Kills";    
-
-    document.getElementById("leaderboardTitle").textContent = "";
     // Update active period button
     document
         .querySelectorAll(".tabs button")
         .forEach(button => {
-
-            button.classList.remove("active");
-
-        });
-
-    document
-        .querySelectorAll(".lifetime-tabs button")
-        .forEach(button => {
             button.classList.remove("active");
         });
 
+    const activeButton = document.getElementById(type + "Button");
 
-            
-    document
-        .getElementById(type + "Button")
-        .classList.add("active");
-
-
-    // Choose the correct JSON file
-    let fileName;
-
-    if (stat === "wins") {
-
-        fileName = type + "_wins.json";
-
-    } else {
-
-        fileName = type + ".json";
-
+    if (activeButton) {
+        activeButton.classList.add("active");
     }
 
+    // Update all four columns
+    const periods = [
+        "daily",
+        "weekly",
+        "monthly",
+        "yearly"
+    ];
 
-    fetch(
-    "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
-    fileName +
-    "?time=" +
-    Date.now()
-)
+    periods.forEach(period => {
 
-        .then(response => response.json())
+        const fileName =
+            stat === "wins"
+                ? period + "_wins.json"
+                : period + ".json";
 
-        .then(players => {
+        fetch(
+            "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
+            fileName +
+            "?time=" +
+            Date.now()
+        )
+            .then(response => response.json())
+            .then(players => {
 
-            const leaderboard =
-                document.getElementById("leaderboard");
+                const container =
+                    document.getElementById(
+                        period + "Leaderboard"
+                    );
 
+                if (!container) return;
 
-            const realPlayers = players.filter(
-                player =>
-                    player.username.toLowerCase() !== "laika"
-            );
-
-
-            leaderboard.innerHTML = "";
-
-
-            if (realPlayers.length === 0) {
-
-                leaderboard.innerHTML =
-
-                    '<div class="status">' +
-                    'Not enough data yet.' +
-                    '</div>';
-
-                return;
-
-            }
-
-
-            realPlayers.forEach((player, index) => {
-
-                const playerDiv =
-                    document.createElement("div");
-
-
-                playerDiv.className =
-                    "player";
-
-
-                if (index === 0) {
-                    playerDiv.classList.add("top-1");
-                }
-
-                if (index === 1) {
-                    playerDiv.classList.add("top-2");
-                }
-
-                if (index === 2) {
-                    playerDiv.classList.add("top-3");
-                }
-
-
-                playerDiv.onclick = () =>
-                    openPlayerProfile(player.playerId);
-
-
-                playerDiv.innerHTML = `
-
-                    <div class="rank">
-
-                        ${
-                            index === 0
-                                ? "👑"
-                                : index === 1
-                                ? "🥈"
-                                : index === 2
-                                ? "🥉"
-                                : index + 1
-                        }
-
-                    </div>
-
-
-                    <div class="username">
-
-                        ${player.username}
-
-                    </div>
-
-
-                    <div class="kills">
-
-                        ${player.kills}
-                        ${stat === "wins" ? "wins" : "kills"}
-
-                    </div>
-
-                `;
-
-
-                leaderboard.appendChild(
-                    playerDiv
+                const realPlayers = players.filter(
+                    player =>
+                        player.username.toLowerCase() !== "laika"
                 );
+
+                container.innerHTML = "";
+
+                if (realPlayers.length === 0) {
+
+                    container.innerHTML =
+                        '<div class="status">' +
+                        'Not enough data yet.' +
+                        '</div>';
+
+                    return;
+                }
+
+                realPlayers.forEach((player, index) => {
+
+                    const playerDiv =
+                        document.createElement("div");
+
+                    playerDiv.className = "player";
+
+                    if (index === 0)
+                        playerDiv.classList.add("top-1");
+
+                    if (index === 1)
+                        playerDiv.classList.add("top-2");
+
+                    if (index === 2)
+                        playerDiv.classList.add("top-3");
+
+                    playerDiv.onclick = () =>
+                        openPlayerProfile(player.playerId);
+
+                    playerDiv.innerHTML = `
+                        <div class="rank">
+                            ${
+                                index === 0
+                                    ? "👑"
+                                    : index === 1
+                                    ? "🥈"
+                                    : index === 2
+                                    ? "🥉"
+                                    : index + 1
+                            }
+                        </div>
+
+                        <div class="username">
+                            ${player.username}
+                        </div>
+
+                        <div class="kills">
+                            ${player.kills}
+                        </div>
+                    `;
+
+                    container.appendChild(playerDiv);
+
+                });
+
+            })
+            .catch(error => {
+
+                console.error(error);
+
+                const container =
+                    document.getElementById(
+                        period + "Leaderboard"
+                    );
+
+                if (container) {
+
+                    container.innerHTML =
+                        '<div class="status">' +
+                        'Failed to load.' +
+                        '</div>';
+
+                }
 
             });
 
+    });
 
-            document.getElementById(
-                "totalPlayers"
-            ).textContent =
+    // Update Laika using the selected period/stat
+    loadLaika(type, stat);
 
-                "Total Players: " +
-                players.length;
-
-
-            document.getElementById(
-                "lastUpdated"
-            ).textContent =
-
-                "Last Updated: " +
-                new Date().toLocaleTimeString();
-                
-                loadLaika(type, stat);
-        })
-
-
-        .catch(error => {
-
-            console.error(error);
-
-            document.getElementById(
-                "leaderboard"
-            ).innerHTML =
-
-                '<div class="status">' +
-                'Failed to load leaderboard.' +
-                '</div>';
-
-        });
+    document.getElementById("lastUpdated").textContent =
+        "Last Updated: " +
+        new Date().toLocaleTimeString();
 
 }
 
