@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139663,
-    "kills": 44214722,
-    "deaths": 41631070,
-    "suicides": 9356718,
+    "victories": 35139669,
+    "kills": 44214731,
+    "deaths": 41631082,
+    "suicides": 9356719,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19130,
-    "kills": 36725,
-    "deaths": 45423,
-    "suicides": 8836,
+    "victories": 19132,
+    "kills": 36730,
+    "deaths": 45426,
+    "suicides": 8837,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -794,9 +794,9 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xfb01fc 45",
+      "numericValue": "0xfb01fc",
+      "imageValue": "45"
     },
     "treadColour": {
       "type": "image",
@@ -810,10 +810,10 @@
       "numericValue": "0xfb01fc",
       "imageValue": "45"
     },
-    "turretAccessory": "42",
-    "barrelAccessory": "44",
-    "frontAccessory": "43",
-    "backAccessory": "160",
+    "turretAccessory": "0",
+    "barrelAccessory": "0",
+    "frontAccessory": "22",
+    "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
@@ -1766,10 +1766,10 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37896,
-    "kills": 71284,
-    "deaths": 58335,
-    "suicides": 13197,
+    "victories": 37897,
+    "kills": 71286,
+    "deaths": 58339,
+    "suicides": 13198,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2256,9 +2256,9 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "victories": 1515,
-    "kills": 2699,
-    "deaths": 1624,
+    "victories": 1516,
+    "kills": 2703,
+    "deaths": 1630,
     "suicides": 360,
     "experience": 0,
     "surrenders": 0,
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 76,
-    "xp": 103540,
+    "xp": 103630,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3579,8 +3579,8 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 65727,
-    "kills": 138623,
+    "victories": 65728,
+    "kills": 138624,
     "deaths": 98151,
     "suicides": 30531,
     "experience": 0,
@@ -4118,9 +4118,9 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4156,
-    "kills": 6104,
-    "deaths": 4995,
+    "victories": 4160,
+    "kills": 6109,
+    "deaths": 4998,
     "suicides": 1092,
     "experience": 0,
     "surrenders": 0,
