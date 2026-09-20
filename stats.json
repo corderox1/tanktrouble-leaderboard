@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35138991,
-    "kills": 44213687,
-    "deaths": 41629738,
-    "suicides": 9356460,
+    "victories": 35138998,
+    "kills": 44213697,
+    "deaths": 41629752,
+    "suicides": 9356462,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1789913115,
+    "lastLogin": 1789913307,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3971,10 +3971,10 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "victories": 7952,
-    "kills": 11900,
-    "deaths": 10945,
-    "suicides": 1971,
+    "victories": 7953,
+    "kills": 11908,
+    "deaths": 10949,
+    "suicides": 1972,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4118,10 +4118,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4078,
-    "kills": 6014,
-    "deaths": 4867,
-    "suicides": 1077,
+    "victories": 4084,
+    "kills": 6022,
+    "deaths": 4870,
+    "suicides": 1078,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
