@@ -1339,6 +1339,13 @@
     currentType = type;
     currentStat = stat;
 
+    document
+    .querySelectorAll(".dashboard .card-header span:last-child")
+    .forEach(header => {
+        header.textContent =
+            stat === "wins" ? "Wins" : "Kills";
+    });        
+
     // Update active period button
     document
         .querySelectorAll(".tabs button")
