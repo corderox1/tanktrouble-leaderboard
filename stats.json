@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139903,
-    "kills": 44215031,
-    "deaths": 41631425,
+    "victories": 35139911,
+    "kills": 44215035,
+    "deaths": 41631432,
     "suicides": 9356786,
     "experience": 0,
     "surrenders": 0,
@@ -2795,8 +2795,8 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113718,
-    "kills": 217446,
+    "victories": 113723,
+    "kills": 217450,
     "deaths": 147021,
     "suicides": 38500,
     "experience": 29487,
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1789923982,
+    "lastLogin": 1789930004,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3579,10 +3579,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 65735,
-    "kills": 138642,
-    "deaths": 98176,
-    "suicides": 30538,
+    "victories": 65738,
+    "kills": 138649,
+    "deaths": 98179,
+    "suicides": 30539,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4071,8 +4071,8 @@
     "username": "interpreneur",
     "victories": 58021,
     "kills": 99201,
-    "deaths": 100997,
-    "suicides": 26208,
+    "deaths": 101004,
+    "suicides": 26210,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
