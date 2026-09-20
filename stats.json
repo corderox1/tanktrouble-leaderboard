@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35140201,
-    "kills": 44215443,
-    "deaths": 41631957,
-    "suicides": 9356890,
+    "victories": 35140218,
+    "kills": 44215464,
+    "deaths": 41631981,
+    "suicides": 9356895,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,9 +737,9 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20031,
-    "kills": 37491,
-    "deaths": 34870,
+    "victories": 20032,
+    "kills": 37493,
+    "deaths": 34872,
     "suicides": 5772,
     "experience": 0,
     "surrenders": 0,
@@ -778,7 +778,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1739056728,
-    "lastLogin": 1789936720,
+    "lastLogin": 1789937744,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23630,
-    "kills": 38061,
-    "deaths": 41769,
-    "suicides": 8965,
+    "victories": 23632,
+    "kills": 38062,
+    "deaths": 41772,
+    "suicides": 8966,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -3726,8 +3726,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3667,
-    "kills": 4180,
+    "victories": 3671,
+    "kills": 4186,
     "deaths": 1299,
     "suicides": 278,
     "experience": 0,
