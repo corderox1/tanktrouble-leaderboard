@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35137587,
-    "kills": 44211301,
-    "deaths": 41626426,
-    "suicides": 9355780,
+    "victories": 35137599,
+    "kills": 44211312,
+    "deaths": 41626437,
+    "suicides": 9355784,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 80829,
-    "kills": 121279,
-    "deaths": 139756,
-    "suicides": 30007,
+    "victories": 80832,
+    "kills": 121282,
+    "deaths": 139759,
+    "suicides": 30008,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1472,9 +1472,9 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 67612,
-    "kills": 111856,
-    "deaths": 116365,
+    "victories": 67615,
+    "kills": 111858,
+    "deaths": 116368,
     "suicides": 25649,
     "experience": 11078,
     "surrenders": 0,
@@ -3726,8 +3726,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3401,
-    "kills": 3952,
+    "victories": 3404,
+    "kills": 3953,
     "deaths": 1242,
     "suicides": 268,
     "experience": 0,
