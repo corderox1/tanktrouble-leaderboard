@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35140624,
-    "kills": 44215911,
-    "deaths": 41632720,
-    "suicides": 9357023,
+    "victories": 35140631,
+    "kills": 44215918,
+    "deaths": 41632734,
+    "suicides": 9357029,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,9 +835,9 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23730,
-    "kills": 38153,
-    "deaths": 41846,
+    "victories": 23732,
+    "kills": 38155,
+    "deaths": 41851,
     "suicides": 8987,
     "experience": 907,
     "surrenders": 0,
@@ -1278,8 +1278,8 @@
     "username": "Lokirss",
     "victories": 39560,
     "kills": 58455,
-    "deaths": 68653,
-    "suicides": 16313,
+    "deaths": 68654,
+    "suicides": 16314,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
