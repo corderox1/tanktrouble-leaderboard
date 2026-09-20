@@ -1484,74 +1484,44 @@
 
 function loadLifetimeLeaderboard(stat) {
 
-    document.getElementById("statHeader").textContent =
-        stat === "wins" ? "Total Wins" : "Total Kills";
-
-    document.getElementById("leaderboardTitle").textContent =
-        stat === "wins"
-            ? "🏆 Total Wins — Lifetime"
-            : "💀 Total Kills — Lifetime";
-    
-    
-
-
-    document
-        .querySelectorAll(".tabs button")
-        .forEach(button => {
-            button.classList.remove("active");
-        });
-
+    // Highlight the selected lifetime button
     document
         .querySelectorAll(".lifetime-tabs button")
         .forEach(button => {
             button.classList.remove("active");
         });
 
-    document
-        .getElementById(
+    const selectedButton =
+        document.getElementById(
             stat === "wins"
                 ? "totalWinsButton"
                 : "totalKillsButton"
-        )
-        .classList.add("active");
-    
-    
-    
-    let fileName;
+        );
 
-    if (stat === "wins") {
-        fileName = "total_wins.json";
-    } else {
-        fileName = "total_kills.json";
+    if (selectedButton) {
+        selectedButton.classList.add("active");
     }
 
+
+    // Load TOTAL KILLS
     fetch(
-        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
-        fileName +
-        "?time=" +
+        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/total_kills.json?time=" +
         Date.now()
     )
         .then(response => response.json())
         .then(players => {
 
-            const leaderboard =
-                document.getElementById("leaderboard");
+            const container =
+                document.getElementById("totalKillsLeaderboard");
+
+            if (!container) return;
 
             const realPlayers = players.filter(
                 player =>
                     player.username.toLowerCase() !== "laika"
             );
 
-            leaderboard.innerHTML = "";
-
-            if (realPlayers.length === 0) {
-                leaderboard.innerHTML =
-                    '<div class="status">' +
-                    'No lifetime data yet.' +
-                    '</div>';
-
-                return;
-            }
+            container.innerHTML = "";
 
             realPlayers.forEach((player, index) => {
 
@@ -1591,69 +1561,92 @@ function loadLifetimeLeaderboard(stat) {
 
                     <div class="kills">
                         ${player.kills}
-                        ${stat === "wins" ? "wins" : "kills"}
                     </div>
                 `;
 
-                leaderboard.appendChild(playerDiv);
+                container.appendChild(playerDiv);
+
             });
-
-            document.getElementById("totalPlayers").textContent =
-                "Total Players: " + realPlayers.length;
-
-            document.getElementById("lastUpdated").textContent =
-                "Last Updated: " +
-                new Date().toLocaleTimeString();
-                        
-            loadLifetimeLaika(stat);
 
         })
         .catch(error => {
-
             console.error(error);
-
-            document.getElementById("leaderboard").innerHTML =
-                '<div class="status">' +
-                'Failed to load lifetime leaderboard.' +
-                '</div>';
-
         });
-}
 
 
-function loadLifetimeLaika(stat) {
-
-    const fileName =
-        stat === "wins"
-            ? "total_wins.json"
-            : "total_kills.json";
-
+    // Load TOTAL WINS
     fetch(
-        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/" +
-        fileName +
-        "?time=" +
+        "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/total_wins.json?time=" +
         Date.now()
     )
         .then(response => response.json())
         .then(players => {
 
-            const laika = players.find(
+            const container =
+                document.getElementById("totalWinsLeaderboard");
+
+            if (!container) return;
+
+            const realPlayers = players.filter(
                 player =>
-                    player.username.toLowerCase() === "laika"
+                    player.username.toLowerCase() !== "laika"
             );
 
-            if (laika) {
+            container.innerHTML = "";
 
-                document.getElementById("laikaKills").textContent =
-                    laika.kills +
-                    (stat === "wins" ? " wins" : " kills");
+            realPlayers.forEach((player, index) => {
 
-            }
+                const playerDiv =
+                    document.createElement("div");
+
+                playerDiv.className = "player";
+
+                if (index === 0)
+                    playerDiv.classList.add("top-1");
+
+                if (index === 1)
+                    playerDiv.classList.add("top-2");
+
+                if (index === 2)
+                    playerDiv.classList.add("top-3");
+
+                playerDiv.onclick = () =>
+                    openPlayerProfile(player.playerId);
+
+                playerDiv.innerHTML = `
+                    <div class="rank">
+                        ${
+                            index === 0
+                                ? "👑"
+                                : index === 1
+                                ? "🥈"
+                                : index === 2
+                                ? "🥉"
+                                : index + 1
+                        }
+                    </div>
+
+                    <div class="username">
+                        ${player.username}
+                    </div>
+
+                    <div class="kills">
+                        ${player.kills}
+                    </div>
+                `;
+
+                container.appendChild(playerDiv);
+
+            });
 
         })
         .catch(error => {
             console.error(error);
         });
+
+
+    // Update Laika
+    loadLifetimeLaika(stat);
 }
         /* =========================
            LOAD LAIKA
@@ -1751,6 +1744,7 @@ setInterval(() => {
         ========================= */
 
         loadLeaderboard("daily");
+        loadLifetimeLeaderboard("kills");
 
         loadLaika();
 function searchPlayers() {
