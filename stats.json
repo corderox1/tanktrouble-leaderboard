@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35139982,
-    "kills": 44215179,
-    "deaths": 41631634,
-    "suicides": 9356826,
+    "victories": 35139983,
+    "kills": 44215181,
+    "deaths": 41631638,
+    "suicides": 9356830,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2256,10 +2256,10 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "victories": 1516,
-    "kills": 2704,
-    "deaths": 1633,
-    "suicides": 361,
+    "victories": 1517,
+    "kills": 2706,
+    "deaths": 1635,
+    "suicides": 362,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 76,
-    "xp": 103640,
+    "xp": 103710,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -2297,7 +2297,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789403996,
-    "lastLogin": 1789924629,
+    "lastLogin": 1789933869,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2795,8 +2795,8 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 113737,
-    "kills": 217459,
+    "victories": 113740,
+    "kills": 217462,
     "deaths": 147023,
     "suicides": 38501,
     "experience": 29487,
