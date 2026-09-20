@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35137849,
-    "kills": 44211665,
-    "deaths": 41627068,
-    "suicides": 9355900,
+    "victories": 35137850,
+    "kills": 44211666,
+    "deaths": 41627072,
+    "suicides": 9355902,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137702,
-    "kills": 189182,
-    "deaths": 187278,
-    "suicides": 47908,
+    "victories": 137706,
+    "kills": 189185,
+    "deaths": 187281,
+    "suicides": 47910,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2257,8 +2257,8 @@
     "playerId": "22725175",
     "username": "ohW",
     "victories": 1359,
-    "kills": 2487,
-    "deaths": 1473,
+    "kills": 2489,
+    "deaths": 1478,
     "suicides": 334,
     "experience": 0,
     "surrenders": 0,
@@ -2275,10 +2275,10 @@
       "imageValue": "42"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x8000ff",
-      "numericValue": "0x8000ff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "turretAccessory": "0",
     "barrelAccessory": "0",
@@ -2289,7 +2289,7 @@
     "badge": "0",
     "premium": false,
     "rank": 76,
-    "xp": 93620,
+    "xp": 93640,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3138,10 +3138,10 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "victories": 42896,
-    "kills": 81176,
-    "deaths": 86044,
-    "suicides": 21827,
+    "victories": 42898,
+    "kills": 81177,
+    "deaths": 86049,
+    "suicides": 21828,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
