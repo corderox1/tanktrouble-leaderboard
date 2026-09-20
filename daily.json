@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2372
+    "kills": 2390
   },
   {
     "playerId": "22725175",
@@ -30,6 +30,11 @@
     "kills": 50
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 44
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 43
@@ -45,11 +50,6 @@
     "kills": 35
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 32
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 28
@@ -57,7 +57,7 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 19
+    "kills": 21
   },
   {
     "playerId": "21956820",
@@ -75,19 +75,24 @@
     "kills": 14
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 11
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
+    "kills": 8
+  },
+  {
+    "playerId": "22479485",
+    "username": "-_purup_-",
     "kills": 8
   },
   {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 8
-  },
-  {
-    "playerId": "22479485",
-    "username": "-_purup_-",
-    "kills": 5
   },
   {
     "playerId": "21700920",
@@ -202,11 +207,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
