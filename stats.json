@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23716,
-    "kills": 38137,
-    "deaths": 41828,
-    "suicides": 8982,
+    "victories": 23719,
+    "kills": 38140,
+    "deaths": 41832,
+    "suicides": 8983,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -3138,9 +3138,9 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "victories": 42977,
+    "victories": 42978,
     "kills": 81258,
-    "deaths": 86132,
+    "deaths": 86133,
     "suicides": 21848,
     "experience": 0,
     "surrenders": 0,
@@ -3679,8 +3679,8 @@
     "username": "Sleeze",
     "victories": 1384,
     "kills": 1572,
-    "deaths": 1509,
-    "suicides": 300,
+    "deaths": 1510,
+    "suicides": 301,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
