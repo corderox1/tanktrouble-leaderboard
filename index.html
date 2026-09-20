@@ -382,19 +382,46 @@
             align-items: center;
         }
 
-        .player.top-1 {
+       .player.top-1 {
+    border-color: #8e7416;
     border-left: 4px solid #ffd43b;
-    box-shadow: 0 0 15px rgba(255, 212, 59, 0.25);
+
+    background: linear-gradient(
+        90deg,
+        #211d0b,
+        #111
+    );
+
+    box-shadow:
+        0 0 15px rgba(255, 212, 59, 0.18);
 }
 
-.player.top-2 {
+       .player.top-2 {
+    border-color: #444;
     border-left: 4px solid #c0c0c0;
-    box-shadow: 0 0 15px rgba(192, 192, 192, 0.15);
+
+    background: linear-gradient(
+        90deg,
+        #1c1c1c,
+        #111
+    );
+
+    box-shadow:
+        0 0 12px rgba(192, 192, 192, 0.10);
 }
 
-.player.top-3 {
+       .player.top-3 {
+    border-color: #4a3322;
     border-left: 4px solid #cd7f32;
-    box-shadow: 0 0 15px rgba(205, 127, 50, 0.15);
+
+    background: linear-gradient(
+        90deg,
+        #1d1510,
+        #111
+    );
+
+    box-shadow:
+        0 0 12px rgba(205, 127, 50, 0.10);
 }
 
 .top-1 .rank {
@@ -438,45 +465,58 @@
         }
 
 
-        .player:nth-child(even) {
-            background: #191919;
-        }
+        .player {
+    padding: 14px 25px;
 
+    background: #111;
 
-        .player:hover {
-            background: #252525;
-        }
+    border: 1px solid #292929;
+    border-left: 3px solid #333;
 
+    margin-bottom: 6px;
 
-        .rank {
+    border-radius: 6px;
 
-            color: #ffd43b;
+    transition: 0.15s;
+}
 
-            font-size: 18px;
+.player:nth-child(even) {
+    background: #151515;
+}
 
-            font-weight: bold;
-        }
+.player:hover {
+    background: #202020;
 
+    border-color: #8e7416;
+    border-left-color: #ffd43b;
 
-        .username {
+    transform: translateX(2px);
+}
 
-            font-size: 16px;
+.rank {
+    color: #ffd43b;
 
-            font-weight: bold;
-        }
+    font-size: 18px;
+    font-weight: bold;
 
+    text-align: center;
+}
 
-        .kills {
+.username {
+    font-size: 16px;
+    font-weight: bold;
 
-            text-align: right;
+    color: #eee;
+}
 
-            color: #ffd43b;
+.kills {
+    text-align: right;
 
-            font-size: 16px;
+    color: #ffd43b;
 
-            font-weight: bold;
-        }
-
+    font-size: 16px;
+    font-weight: bold;
+}
 
         /* =========================
            BOTTOM INFORMATION
