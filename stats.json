@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35142883,
-    "kills": 44219043,
-    "deaths": 41636825,
-    "suicides": 9357828,
+    "victories": 35142891,
+    "kills": 44219058,
+    "deaths": 41636840,
+    "suicides": 9357835,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 21,
+    "rank": 25,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2648,33 +2648,33 @@
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "victories": 20171,
-    "kills": 28474,
-    "deaths": 30446,
+    "victories": 20172,
+    "kills": 28476,
+    "deaths": 30449,
     "suicides": 8513,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x0102a9",
-      "numericValue": "0x0102a9",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xd90a16 61",
-      "numericValue": "0xd90a16",
-      "imageValue": "61"
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x010243",
-      "numericValue": "0x010243",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
-    "turretAccessory": "49",
+    "turretAccessory": "74",
     "barrelAccessory": "102",
-    "frontAccessory": "107",
+    "frontAccessory": "19",
     "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
@@ -3383,10 +3383,10 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "victories": 98354,
-    "kills": 223472,
-    "deaths": 169101,
-    "suicides": 45032,
+    "victories": 98356,
+    "kills": 223477,
+    "deaths": 169103,
+    "suicides": 45033,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
