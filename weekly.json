@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 42
+    "kills": 51
   },
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 25
+    "kills": 31
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -632,11 +637,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0
   },
   {
