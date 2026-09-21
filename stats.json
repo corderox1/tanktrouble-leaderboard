@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35142408,
-    "kills": 44218458,
-    "deaths": 41636193,
-    "suicides": 9357698,
+    "victories": 35142422,
+    "kills": 44218475,
+    "deaths": 41636208,
+    "suicides": 9357701,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 10,
+    "rank": 15,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12348,
-    "kills": 19575,
-    "deaths": 20246,
-    "suicides": 6816,
+    "victories": 12349,
+    "kills": 19579,
+    "deaths": 20252,
+    "suicides": 6818,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3383,10 +3383,10 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "victories": 98289,
-    "kills": 223379,
-    "deaths": 168995,
-    "suicides": 44996,
+    "victories": 98292,
+    "kills": 223385,
+    "deaths": 168999,
+    "suicides": 44997,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
