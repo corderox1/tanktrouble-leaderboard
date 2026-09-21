@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35140888,
-    "kills": 44216389,
-    "deaths": 41633479,
-    "suicides": 9357161,
+    "victories": 35140901,
+    "kills": 44216398,
+    "deaths": 41633497,
+    "suicides": 9357162,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 1445,
-    "kills": 1650,
-    "deaths": 1547,
-    "suicides": 311,
+    "victories": 1454,
+    "kills": 1660,
+    "deaths": 1552,
+    "suicides": 312,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3710,7 +3710,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 88750,
+    "xp": 89300,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
