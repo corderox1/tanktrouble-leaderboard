@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35144613,
-    "kills": 44221332,
-    "deaths": 41639923,
-    "suicides": 9358468,
+    "victories": 35144625,
+    "kills": 44221353,
+    "deaths": 41639963,
+    "suicides": 9358476,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,9 +835,9 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23858,
-    "kills": 38320,
-    "deaths": 41997,
+    "victories": 23861,
+    "kills": 38323,
+    "deaths": 42001,
     "suicides": 9019,
     "experience": 907,
     "surrenders": 0,
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39793,
-    "kills": 58747,
-    "deaths": 68880,
-    "suicides": 16375,
+    "victories": 39794,
+    "kills": 58749,
+    "deaths": 68885,
+    "suicides": 16376,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,17 +3677,17 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 1634,
-    "kills": 1937,
-    "deaths": 1861,
-    "suicides": 374,
+    "victories": 1635,
+    "kills": 1939,
+    "deaths": 1865,
+    "suicides": 375,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "treadColour": {
       "type": "image",
@@ -3696,10 +3696,10 @@
       "imageValue": "42"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "turretAccessory": "0",
     "barrelAccessory": "1",
@@ -3710,7 +3710,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 101070,
+    "xp": 101140,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
