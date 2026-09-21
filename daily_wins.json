@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2674
+    "kills": 2681
   },
   {
     "playerId": "4686507",
@@ -57,16 +57,16 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 46
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 45
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 43
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 43
   },
   {
@@ -92,7 +92,7 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 24
+    "kills": 26
   },
   {
     "playerId": "7559374",
@@ -112,7 +112,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 15
+    "kills": 17
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 14
   },
   {
     "playerId": "18625144",
@@ -120,9 +125,9 @@
     "kills": 14
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 13
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 11
   },
   {
     "playerId": "1145079",
@@ -140,11 +145,6 @@
     "kills": 8
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 8
-  },
-  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 7
@@ -155,6 +155,11 @@
     "kills": 4
   },
   {
+    "playerId": "21796745",
+    "username": "Sleeze",
+    "kills": 3
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2
@@ -162,11 +167,6 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 2
-  },
-  {
-    "playerId": "21796745",
-    "username": "Sleeze",
     "kills": 2
   },
   {
