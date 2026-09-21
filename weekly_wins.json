@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2653
+    "kills": 2657
   },
   {
     "playerId": "4686507",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 123
+    "kills": 128
   },
   {
     "playerId": "21103294",
@@ -47,7 +47,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 49
+    "kills": 52
   },
   {
     "playerId": "20984454",
@@ -100,13 +100,13 @@
     "kills": 19
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 17
-  },
-  {
     "playerId": "4501113",
     "username": "feed",
+    "kills": 19
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 17
   },
   {
@@ -120,6 +120,11 @@
     "kills": 9
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 9
+  },
+  {
     "playerId": "16736853",
     "username": "SaucyReaper",
     "kills": 9
@@ -130,19 +135,14 @@
     "kills": 8
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 7
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 6
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 5
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 7
   },
   {
     "playerId": "20621274",
@@ -160,18 +160,23 @@
     "kills": 2
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 2
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 1
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
+    "playerId": "21796745",
+    "username": "Sleeze",
     "kills": 1
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
@@ -432,11 +437,6 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "kills": 0
-  },
-  {
-    "playerId": "21796745",
-    "username": "Sleeze",
     "kills": 0
   },
   {
