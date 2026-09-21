@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24797
+    "kills": 24819
   },
   {
     "playerId": "22725175",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1175
+    "kills": 1182
   },
   {
     "playerId": "14617724",
@@ -47,7 +47,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 716
+    "kills": 720
   },
   {
     "playerId": "14892840",
@@ -97,7 +97,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 360
+    "kills": 362
   },
   {
     "playerId": "8502796",
@@ -170,13 +170,13 @@
     "kills": 171
   },
   {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
-    "kills": 167
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
+    "kills": 171
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
     "kills": 167
   },
   {
@@ -242,7 +242,7 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 64
+    "kills": 68
   },
   {
     "playerId": "18985660",
@@ -310,6 +310,11 @@
     "kills": 3
   },
   {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 2
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 0
@@ -327,11 +332,6 @@
   {
     "playerId": "160470",
     "username": "bbc",
-    "kills": 0
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
     "kills": 0
   },
   {
