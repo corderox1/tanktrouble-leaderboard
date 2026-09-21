@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35143931,
-    "kills": 44220433,
-    "deaths": 41638596,
-    "suicides": 9358194,
+    "victories": 35143942,
+    "kills": 44220450,
+    "deaths": 41638624,
+    "suicides": 9358200,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1081,9 +1081,9 @@
     "playerId": "20621274",
     "username": "ttw",
     "victories": 14112,
-    "kills": 18459,
-    "deaths": 25884,
-    "suicides": 6658,
+    "kills": 18461,
+    "deaths": 25892,
+    "suicides": 6661,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39662,
-    "kills": 58566,
-    "deaths": 68728,
-    "suicides": 16338,
+    "victories": 39668,
+    "kills": 58572,
+    "deaths": 68730,
+    "suicides": 16339,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4069,8 +4069,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 58051,
-    "kills": 99268,
+    "victories": 58058,
+    "kills": 99279,
     "deaths": 101062,
     "suicides": 26220,
     "experience": 0,
@@ -6176,10 +6176,10 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "victories": 21115,
-    "kills": 36814,
-    "deaths": 37453,
-    "suicides": 9587,
+    "victories": 21116,
+    "kills": 36816,
+    "deaths": 37460,
+    "suicides": 9590,
     "experience": 2079,
     "surrenders": 0,
     "turretColour": {

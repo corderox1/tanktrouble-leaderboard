@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3544
+    "kills": 3561
   },
   {
     "playerId": "4686507",
@@ -30,6 +30,11 @@
     "kills": 133
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 117
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 117
@@ -38,11 +43,6 @@
     "playerId": "20297710",
     "username": "KD419",
     "kills": 113
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 111
   },
   {
     "playerId": "21012136",
@@ -70,6 +70,11 @@
     "kills": 75
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 75
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 74
@@ -83,11 +88,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 65
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 64
   },
   {
     "playerId": "1145079",
@@ -137,7 +137,7 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 14
+    "kills": 16
   },
   {
     "playerId": "14892840",
@@ -147,6 +147,11 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
+    "kills": 2
+  },
+  {
+    "playerId": "20621274",
+    "username": "ttw",
     "kills": 2
   },
   {
@@ -237,11 +242,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
     "kills": 0
   },
   {
