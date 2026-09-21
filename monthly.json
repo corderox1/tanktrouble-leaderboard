@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 25047
+    "kills": 25051
   },
   {
     "playerId": "22725175",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1277
+    "kills": 1283
   },
   {
     "playerId": "14617724",
@@ -87,7 +87,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 398
+    "kills": 401
   },
   {
     "playerId": "22479485",
@@ -102,7 +102,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 362
+    "kills": 363
   },
   {
     "playerId": "21109495",
@@ -140,19 +140,19 @@
     "kills": 247
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 237
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 236
+    "kills": 241
   },
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 236
+    "kills": 239
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 237
   },
   {
     "playerId": "20270104",
@@ -270,13 +270,13 @@
     "kills": 31
   },
   {
-    "playerId": "7559374",
-    "username": "Catalyst",
-    "kills": 29
-  },
-  {
     "playerId": "4501113",
     "username": "feed",
+    "kills": 30
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
     "kills": 29
   },
   {
@@ -290,14 +290,14 @@
     "kills": 18
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
+    "playerId": "20621274",
+    "username": "ttw",
     "kills": 15
   },
   {
-    "playerId": "20621274",
-    "username": "ttw",
-    "kills": 13
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 15
   },
   {
     "playerId": "12331664",
@@ -308,6 +308,11 @@
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 6
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 4
   },
   {
     "playerId": "20644558",
@@ -622,11 +627,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2650
+    "kills": 2653
   },
   {
     "playerId": "4686507",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 120
+    "kills": 123
   },
   {
     "playerId": "21103294",
@@ -45,14 +45,14 @@
     "kills": 53
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 49
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 48
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 47
   },
   {
     "playerId": "22694251",
@@ -107,7 +107,7 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 15
+    "kills": 17
   },
   {
     "playerId": "18625144",
@@ -140,6 +140,11 @@
     "kills": 6
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 5
+  },
+  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 4
@@ -160,13 +165,13 @@
     "kills": 1
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 1
   },
   {
@@ -622,11 +627,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
