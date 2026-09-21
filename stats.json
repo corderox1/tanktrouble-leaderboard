@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35144767,
-    "kills": 44221494,
-    "deaths": 41640169,
-    "suicides": 9358529,
+    "victories": 35144771,
+    "kills": 44221496,
+    "deaths": 41640175,
+    "suicides": 9358531,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,10 +737,10 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20097,
-    "kills": 37597,
-    "deaths": 35018,
-    "suicides": 5800,
+    "victories": 20100,
+    "kills": 37600,
+    "deaths": 35026,
+    "suicides": 5802,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1382,8 +1382,8 @@
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0xff0000",
-      "numericValue": "0xff0000",
+      "rawValue": "0xe73027",
+      "numericValue": "0xe73027",
       "imageValue": ""
     },
     "treadColour": {
@@ -6225,10 +6225,10 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "victories": 63436,
-    "kills": 40377,
-    "deaths": 50311,
-    "suicides": 15309,
+    "victories": 63440,
+    "kills": 40381,
+    "deaths": 50320,
+    "suicides": 15312,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
