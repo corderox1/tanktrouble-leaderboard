@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2963
+    "kills": 2973
   },
   {
     "playerId": "4686507",
@@ -42,7 +42,7 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 76
+    "kills": 79
   },
   {
     "playerId": "14617724",
@@ -55,13 +55,13 @@
     "kills": 73
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 70
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 72
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
     "kills": 70
   },
   {
@@ -127,6 +127,11 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
+    "kills": 1
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 1
   },
   {
@@ -217,11 +222,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {

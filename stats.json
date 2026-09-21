@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35143397,
-    "kills": 44219852,
-    "deaths": 41637833,
-    "suicides": 9358046,
+    "victories": 35143405,
+    "kills": 44219862,
+    "deaths": 41637845,
+    "suicides": 9358049,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1130,9 +1130,9 @@
     "playerId": "20270104",
     "username": "3w0n",
     "victories": 21108,
-    "kills": 33724,
-    "deaths": 39780,
-    "suicides": 7163,
+    "kills": 33725,
+    "deaths": 39782,
+    "suicides": 7164,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1766,10 +1766,10 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37951,
-    "kills": 71362,
-    "deaths": 58418,
-    "suicides": 13213,
+    "victories": 37954,
+    "kills": 71365,
+    "deaths": 58420,
+    "suicides": 13214,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1866,8 +1866,8 @@
     "username": "KD419",
     "victories": 14499,
     "kills": 22332,
-    "deaths": 30027,
-    "suicides": 8405,
+    "deaths": 30030,
+    "suicides": 8406,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2949,24 +2949,24 @@
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xff8600 13",
-      "numericValue": "0xff8600",
-      "imageValue": "13"
+      "type": "numeric",
+      "rawValue": "0x666666",
+      "numericValue": "0x666666",
+      "imageValue": ""
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x666666",
+      "numericValue": "0x666666",
+      "imageValue": ""
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0xff8600 13",
-      "numericValue": "0xff8600",
-      "imageValue": "13"
+      "type": "numeric",
+      "rawValue": "0xcccccc",
+      "numericValue": "0xcccccc",
+      "imageValue": ""
     },
-    "turretAccessory": "22",
+    "turretAccessory": "48",
     "barrelAccessory": "101",
     "frontAccessory": "5",
     "backAccessory": "0",
@@ -3385,8 +3385,8 @@
     "username": "playboi",
     "victories": 98407,
     "kills": 223596,
-    "deaths": 169243,
-    "suicides": 45064,
+    "deaths": 169244,
+    "suicides": 45065,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
@@ -3420,7 +3420,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": true,
-    "lastForumPost": 1790008971,
+    "lastForumPost": 1790011157,
     "guest": false,
     "gmLevel": null,
     "created": 1542725593,
@@ -7156,10 +7156,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 1572,
-    "kills": 3437,
-    "deaths": 3088,
-    "suicides": 900,
+    "victories": 1573,
+    "kills": 3439,
+    "deaths": 3090,
+    "suicides": 901,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7189,7 +7189,7 @@
     "badge": "0",
     "premium": false,
     "rank": 106,
-    "xp": 135370,
+    "xp": 135440,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
