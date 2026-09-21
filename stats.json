@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35144210,
-    "kills": 44220904,
-    "deaths": 41639230,
-    "suicides": 9358319,
+    "victories": 35144219,
+    "kills": 44220917,
+    "deaths": 41639262,
+    "suicides": 9358326,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -786,10 +786,10 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "victories": 29337,
-    "kills": 28956,
-    "deaths": 46579,
-    "suicides": 10685,
+    "victories": 29339,
+    "kills": 28957,
+    "deaths": 46585,
+    "suicides": 10687,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 23764,
-    "kills": 38191,
-    "deaths": 41885,
-    "suicides": 8997,
+    "victories": 23767,
+    "kills": 38200,
+    "deaths": 41890,
+    "suicides": 8999,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -1962,10 +1962,10 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "victories": 10680,
-    "kills": 19734,
-    "deaths": 17904,
-    "suicides": 4487,
+    "victories": 10688,
+    "kills": 19741,
+    "deaths": 17906,
+    "suicides": 4488,
     "experience": 8218,
     "surrenders": 0,
     "turretColour": {
@@ -2354,9 +2354,9 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "victories": 142242,
-    "kills": 298852,
-    "deaths": 205287,
+    "victories": 142244,
+    "kills": 298853,
+    "deaths": 205292,
     "suicides": 51843,
     "experience": 165259,
     "surrenders": 0,
