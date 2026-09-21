@@ -51,10 +51,10 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "victories": 7600,
-    "kills": 15193,
-    "deaths": 12257,
-    "suicides": 2974,
+    "victories": 7602,
+    "kills": 15201,
+    "deaths": 12258,
+    "suicides": 2975,
     "experience": 28726,
     "surrenders": 0,
     "turretColour": {
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35141825,
-    "kills": 44217580,
-    "deaths": 41635120,
-    "suicides": 9357476,
+    "victories": 35141846,
+    "kills": 44217601,
+    "deaths": 41635143,
+    "suicides": 9357479,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1865,9 +1865,9 @@
     "playerId": "20297710",
     "username": "KD419",
     "victories": 14465,
-    "kills": 22253,
-    "deaths": 29898,
-    "suicides": 8359,
+    "kills": 22254,
+    "deaths": 29901,
+    "suicides": 8360,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
