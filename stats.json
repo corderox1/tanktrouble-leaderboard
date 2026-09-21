@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35142750,
-    "kills": 44218857,
-    "deaths": 41636610,
-    "suicides": 9357790,
+    "victories": 35142775,
+    "kills": 44218882,
+    "deaths": 41636629,
+    "suicides": 9357794,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -827,7 +827,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1713733012,
-    "lastLogin": 1789926091,
+    "lastLogin": 1789999913,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2942,8 +2942,8 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12390,
-    "kills": 19636,
+    "victories": 12391,
+    "kills": 19638,
     "deaths": 20299,
     "suicides": 6835,
     "experience": 0,
@@ -3383,10 +3383,10 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "victories": 98335,
-    "kills": 223443,
-    "deaths": 169066,
-    "suicides": 45016,
+    "victories": 98340,
+    "kills": 223449,
+    "deaths": 169071,
+    "suicides": 45017,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
@@ -7156,10 +7156,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 1544,
-    "kills": 3373,
-    "deaths": 3038,
-    "suicides": 892,
+    "victories": 1545,
+    "kills": 3374,
+    "deaths": 3040,
+    "suicides": 894,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7189,7 +7189,7 @@
     "badge": "0",
     "premium": false,
     "rank": 106,
-    "xp": 133130,
+    "xp": 133190,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
