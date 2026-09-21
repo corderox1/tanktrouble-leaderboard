@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3561
+    "kills": 3571
   },
   {
     "playerId": "4686507",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 117
+    "kills": 122
   },
   {
     "playerId": "22694251",
@@ -60,6 +60,11 @@
     "kills": 82
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 81
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 79
@@ -67,11 +72,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 75
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 75
   },
   {
@@ -125,6 +125,11 @@
     "kills": 22
   },
   {
+    "playerId": "4501113",
+    "username": "feed",
+    "kills": 19
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 18
@@ -135,23 +140,18 @@
     "kills": 17
   },
   {
-    "playerId": "4501113",
-    "username": "feed",
-    "kills": 16
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 10
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 2
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
+    "kills": 5
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
     "kills": 2
   },
   {

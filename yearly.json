@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 25001
+    "kills": 25011
   },
   {
     "playerId": "22725175",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1257
+    "kills": 1262
   },
   {
     "playerId": "14617724",
@@ -157,7 +157,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 217
+    "kills": 223
   },
   {
     "playerId": "20984454",
@@ -280,14 +280,14 @@
     "kills": 22
   },
   {
+    "playerId": "4501113",
+    "username": "feed",
+    "kills": 19
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 18
-  },
-  {
-    "playerId": "4501113",
-    "username": "feed",
-    "kills": 16
   },
   {
     "playerId": "17136803",
@@ -305,6 +305,11 @@
     "kills": 6
   },
   {
+    "playerId": "20621274",
+    "username": "ttw",
+    "kills": 5
+  },
+  {
     "playerId": "20644558",
     "username": "x",
     "kills": 3
@@ -317,11 +322,6 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 2
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
     "kills": 2
   },
   {
