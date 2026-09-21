@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35144443,
-    "kills": 44221141,
-    "deaths": 41639670,
-    "suicides": 9358408,
+    "victories": 35144455,
+    "kills": 44221156,
+    "deaths": 41639683,
+    "suicides": 9358411,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,9 +737,9 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20057,
-    "kills": 37547,
-    "deaths": 34956,
+    "victories": 20059,
+    "kills": 37551,
+    "deaths": 34958,
     "suicides": 5786,
     "experience": 0,
     "surrenders": 0,
@@ -786,10 +786,10 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "victories": 29343,
-    "kills": 28967,
-    "deaths": 46610,
-    "suicides": 10692,
+    "victories": 29344,
+    "kills": 28971,
+    "deaths": 46613,
+    "suicides": 10693,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1790018134,
+    "lastLogin": 1790026479,
     "banned": false,
     "usernameApproved": true,
     "country": null
