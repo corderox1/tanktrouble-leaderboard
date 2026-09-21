@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35142979,
-    "kills": 44219162,
-    "deaths": 41637008,
-    "suicides": 9357870,
+    "victories": 35142982,
+    "kills": 44219169,
+    "deaths": 41637011,
+    "suicides": 9357871,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2648,10 +2648,10 @@
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "victories": 20178,
-    "kills": 28491,
-    "deaths": 30469,
-    "suicides": 8516,
+    "victories": 20179,
+    "kills": 28492,
+    "deaths": 30474,
+    "suicides": 8517,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2672,7 +2672,7 @@
       "numericValue": "0x010243",
       "imageValue": ""
     },
-    "turretAccessory": "0",
+    "turretAccessory": "109",
     "barrelAccessory": "102",
     "frontAccessory": "107",
     "backAccessory": "0",
@@ -2943,9 +2943,9 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "victories": 12400,
-    "kills": 19666,
-    "deaths": 20332,
-    "suicides": 6845,
+    "kills": 19670,
+    "deaths": 20338,
+    "suicides": 6847,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3383,34 +3383,34 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "victories": 98379,
-    "kills": 223520,
-    "deaths": 169124,
+    "victories": 98382,
+    "kills": 223527,
+    "deaths": 169128,
     "suicides": 45037,
     "experience": 6495,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0xe73027",
+      "numericValue": "0xe73027",
+      "imageValue": ""
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x666666",
+      "numericValue": "0x666666",
+      "imageValue": ""
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x666666",
+      "numericValue": "0x666666",
+      "imageValue": ""
     },
-    "turretAccessory": "74",
+    "turretAccessory": "14",
     "barrelAccessory": "102",
-    "frontAccessory": "19",
-    "backAccessory": "0",
+    "frontAccessory": "20",
+    "backAccessory": "14",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
@@ -7158,7 +7158,7 @@
     "username": "CHITO",
     "victories": 1565,
     "kills": 3410,
-    "deaths": 3056,
+    "deaths": 3059,
     "suicides": 896,
     "experience": 0,
     "surrenders": 0,
