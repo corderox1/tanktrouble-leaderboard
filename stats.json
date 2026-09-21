@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35143286,
-    "kills": 44219740,
-    "deaths": 41637673,
-    "suicides": 9358022,
+    "victories": 35143303,
+    "kills": 44219763,
+    "deaths": 41637703,
+    "suicides": 9358026,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 19,
+    "rank": 15,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1766,9 +1766,9 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 37945,
-    "kills": 71345,
-    "deaths": 58385,
+    "victories": 37947,
+    "kills": 71347,
+    "deaths": 58386,
     "suicides": 13208,
     "experience": 0,
     "surrenders": 0,
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14490,
-    "kills": 22323,
-    "deaths": 30020,
-    "suicides": 8401,
+    "victories": 14491,
+    "kills": 22326,
+    "deaths": 30026,
+    "suicides": 8405,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2403,9 +2403,9 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 44424,
-    "kills": 69225,
-    "deaths": 53371,
+    "victories": 44427,
+    "kills": 69233,
+    "deaths": 53374,
     "suicides": 12512,
     "experience": 2287,
     "surrenders": 0,
@@ -2649,9 +2649,9 @@
     "playerId": "20984454",
     "username": "CHIMABOY",
     "victories": 20217,
-    "kills": 28608,
-    "deaths": 30612,
-    "suicides": 8551,
+    "kills": 28611,
+    "deaths": 30618,
+    "suicides": 8552,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2950,15 +2950,15 @@
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xfb01fc 45",
+      "numericValue": "0xfb01fc",
+      "imageValue": "45"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xfb01fc 45",
+      "numericValue": "0xfb01fc",
+      "imageValue": "45"
     },
     "baseColour": {
       "type": "image",
@@ -2969,7 +2969,7 @@
     "turretAccessory": "74",
     "barrelAccessory": "42",
     "frontAccessory": "22",
-    "backAccessory": "384",
+    "backAccessory": "45",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
@@ -3726,8 +3726,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3824,
-    "kills": 4442,
+    "victories": 3827,
+    "kills": 4443,
     "deaths": 1309,
     "suicides": 282,
     "experience": 0,
@@ -3873,10 +3873,10 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "victories": 7680,
-    "kills": 13276,
-    "deaths": 15934,
-    "suicides": 4729,
+    "victories": 7682,
+    "kills": 13282,
+    "deaths": 15939,
+    "suicides": 4730,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4118,10 +4118,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4198,
-    "kills": 6152,
-    "deaths": 5017,
-    "suicides": 1094,
+    "victories": 4206,
+    "kills": 6160,
+    "deaths": 5018,
+    "suicides": 1095,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
