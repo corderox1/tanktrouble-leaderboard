@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24945
+    "kills": 24956
   },
   {
     "playerId": "22725175",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1237
+    "kills": 1243
   },
   {
     "playerId": "14617724",
@@ -92,7 +92,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 383
+    "kills": 389
   },
   {
     "playerId": "6776098",
@@ -162,7 +162,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 188
+    "kills": 191
   },
   {
     "playerId": "19932455",
@@ -300,6 +300,11 @@
     "kills": 6
   },
   {
+    "playerId": "4501113",
+    "username": "feed",
+    "kills": 5
+  },
+  {
     "playerId": "20644558",
     "username": "x",
     "kills": 3
@@ -307,11 +312,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 3
-  },
-  {
-    "playerId": "4501113",
-    "username": "feed",
     "kills": 3
   },
   {
