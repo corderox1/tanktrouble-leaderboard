@@ -113,7 +113,6 @@ def compact_history(history):
 
     return compacted
 
-
 def make_leaderboard(history, start_date, stat):
     players = {}
 
@@ -140,15 +139,17 @@ def make_leaderboard(history, start_date, stat):
         latest = max(snapshots, key=lambda x: x[stat])
         amount = latest[stat] - first[stat]
 
-        first = snapshots[0]
-        latest = max(snapshots, key=lambda x: x[stat])
-        amount = latest[stat] - first[stat]
-
-        leaderboard.append({
+        player_entry = {
             "playerId": player_id,
             "username": latest["username"],
             "kills": amount
-        })
+        }
+
+        # Only record last kill time for kill leaderboards
+        if stat == "kills":
+            player_entry["lastKill"] = latest["date"]
+
+        leaderboard.append(player_entry)
 
     leaderboard.sort(key=lambda x: x["kills"], reverse=True)
 
@@ -241,14 +242,40 @@ save_json("yearly_wins.json", yearly_wins)
 total_kills = []
 
 for player in ALL_PLAYERS:
+
+    player_id = player["playerId"]
+
+    player_history = [
+        snapshot
+        for snapshot in history
+        if snapshot["playerId"] == player_id
+    ]
+
+    last_kill = None
+
+    if len(player_history) >= 2:
+
+        player_history.sort(key=lambda x: x["date"])
+
+        for i in range(1, len(player_history)):
+
+            previous = player_history[i - 1]
+            current = player_history[i]
+
+            if current["kills"] > previous["kills"]:
+                last_kill = current["date"]
+
     total_kills.append({
         "playerId": player["playerId"],
         "username": player["username"],
-        "kills": player["kills"]
+        "kills": player["kills"],
+        "lastKill": last_kill
     })
 
-total_kills.sort(key=lambda x: x["kills"], reverse=True)
-
+total_kills.sort(
+    key=lambda x: x["kills"],
+    reverse=True
+)
 
 # Create lifetime win leaderboard
 total_wins = []
