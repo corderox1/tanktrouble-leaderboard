@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3497
+    "kills": 3505
   },
   {
     "playerId": "4686507",
@@ -40,14 +40,14 @@
     "kills": 113
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 97
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 94
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 91
   },
   {
     "playerId": "151476",
@@ -122,7 +122,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 21
+    "kills": 22
   },
   {
     "playerId": "18625144",
@@ -138,6 +138,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 10
+  },
+  {
+    "playerId": "4501113",
+    "username": "feed",
+    "kills": 3
   },
   {
     "playerId": "19168800",
@@ -642,11 +647,6 @@
   {
     "playerId": "3024729",
     "username": "Masqurade",
-    "kills": 0
-  },
-  {
-    "playerId": "4501113",
-    "username": "feed",
     "kills": 0
   },
   {
