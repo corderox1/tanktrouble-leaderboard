@@ -909,6 +909,15 @@
     text-overflow: ellipsis;
 }
 
+.last-kill {
+    margin-left: 10px;
+    color: #777;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+
+        
 .card-players .kills {
     font-size: 13px;
 
@@ -1299,6 +1308,18 @@
         let secondsUntilRefresh = 60;
 
 
+      function formatLastKill(dateString) {
+           const date = new Date(dateString.replace(" ", "T"));
+
+           return date.toLocaleTimeString([], {
+               hour: "numeric",
+               minute: "2-digit"
+         });
+     }
+
+
+
+        
         /* =========================
            LOAD LEADERBOARD
         ========================= */
@@ -1426,12 +1447,18 @@ if (activeStatButton) {
                             }
                         </div>
 
-                        <div class="username">
-                            ${player.username}
-                        </div>
+                       <div class="username">
+                           ${player.username}
 
+                           ${
+                                 player.lastKill
+                                     ? `<span class="last-kill">Last kill ${formatLastKill(player.lastKill)}</span>`
+                                     : ""
+                            }
+                        </div>
                         <div class="kills">
-                            ${player.kills}
+                           
+                           ${player.kills}
                         </div>
                     `;
 
