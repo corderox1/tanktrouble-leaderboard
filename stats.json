@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35142715,
-    "kills": 44218816,
-    "deaths": 41636579,
-    "suicides": 9357781,
+    "victories": 35142728,
+    "kills": 44218836,
+    "deaths": 41636596,
+    "suicides": 9357787,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3383,8 +3383,8 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "victories": 98332,
-    "kills": 223436,
+    "victories": 98335,
+    "kills": 223439,
     "deaths": 169061,
     "suicides": 45012,
     "experience": 6495,
@@ -7157,22 +7157,22 @@
     "playerId": "22694251",
     "username": "CHITO",
     "victories": 1544,
-    "kills": 3372,
-    "deaths": 3035,
+    "kills": 3373,
+    "deaths": 3037,
     "suicides": 892,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0xddb135 43",
-      "numericValue": "0xddb135",
-      "imageValue": "43"
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0x660000",
-      "numericValue": "0x660000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "baseColour": {
       "type": "image",
@@ -7189,7 +7189,7 @@
     "badge": "0",
     "premium": false,
     "rank": 106,
-    "xp": 133120,
+    "xp": 133130,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
