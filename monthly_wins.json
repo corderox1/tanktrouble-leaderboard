@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16679
+    "kills": 16693
   },
   {
     "playerId": "22725175",
@@ -47,7 +47,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 377
+    "kills": 379
   },
   {
     "playerId": "21796745",
@@ -75,14 +75,14 @@
     "kills": 281
   },
   {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 268
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 265
-  },
-  {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 264
   },
   {
     "playerId": "21708970",
@@ -298,6 +298,11 @@
     "playerId": "8146384",
     "username": "itachi",
     "kills": 2
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1
   },
   {
     "playerId": "10132007",
@@ -727,11 +732,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   }
 ]
