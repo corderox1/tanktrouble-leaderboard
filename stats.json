@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35144576,
-    "kills": 44221287,
-    "deaths": 41639855,
-    "suicides": 9358459,
+    "victories": 35144586,
+    "kills": 44221299,
+    "deaths": 41639869,
+    "suicides": 9358461,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -836,8 +836,8 @@
     "playerId": "4142755",
     "username": "-Trippy-",
     "victories": 23854,
-    "kills": 38307,
-    "deaths": 41984,
+    "kills": 38309,
+    "deaths": 41986,
     "suicides": 9017,
     "experience": 907,
     "surrenders": 0,
@@ -1276,9 +1276,9 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39788,
-    "kills": 58739,
-    "deaths": 68867,
+    "victories": 39789,
+    "kills": 58740,
+    "deaths": 68868,
     "suicides": 16373,
     "experience": 0,
     "surrenders": 0,
@@ -2074,9 +2074,9 @@
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0xddb135 43",
-      "numericValue": "0xddb135",
-      "imageValue": "43"
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "baseColour": {
       "type": "image",
@@ -3678,9 +3678,9 @@
     "playerId": "21796745",
     "username": "Sleeze",
     "victories": 1633,
-    "kills": 1927,
-    "deaths": 1843,
-    "suicides": 368,
+    "kills": 1930,
+    "deaths": 1845,
+    "suicides": 369,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3710,7 +3710,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 100920,
+    "xp": 100950,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
