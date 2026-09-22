@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35146776,
-    "kills": 44224027,
-    "deaths": 41643404,
-    "suicides": 9359167,
+    "victories": 35146800,
+    "kills": 44224049,
+    "deaths": 41643432,
+    "suicides": 9359170,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -688,9 +688,9 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "victories": 19806,
-    "kills": 33687,
-    "deaths": 43248,
+    "victories": 19808,
+    "kills": 33692,
+    "deaths": 43249,
     "suicides": 10027,
     "experience": 0,
     "surrenders": 0,
@@ -713,9 +713,9 @@
       "imageValue": ""
     },
     "turretAccessory": "1",
-    "barrelAccessory": "0",
+    "barrelAccessory": "55",
     "frontAccessory": "0",
-    "backAccessory": "0",
+    "backAccessory": "34",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
@@ -729,7 +729,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1732982953,
-    "lastLogin": 1790077285,
+    "lastLogin": 1790081458,
     "banned": false,
     "usernameApproved": true,
     "country": null
