@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4597,
-    "lastKill": "2026-09-22 18:18:51"
+    "kills": 4715,
+    "lastKill": "2026-09-22 18:46:42"
   },
   {
     "playerId": "22694251",
@@ -72,6 +72,12 @@
     "lastKill": "2026-09-22 13:16:09"
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 112,
+    "lastKill": "2026-09-22 18:46:42"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 107,
@@ -108,12 +114,6 @@
     "lastKill": "2026-09-22 11:35:50"
   },
   {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 81,
-    "lastKill": "2026-09-22 17:33:26"
-  },
-  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 78,
@@ -128,14 +128,20 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 59,
-    "lastKill": "2026-09-22 17:55:42"
+    "kills": 61,
+    "lastKill": "2026-09-22 18:46:42"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 44,
     "lastKill": "2026-09-22 10:37:11"
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 44,
+    "lastKill": "2026-09-22 18:46:42"
   },
   {
     "playerId": "22706369",
@@ -184,12 +190,6 @@
     "username": "Trizz",
     "kills": 14,
     "lastKill": "2026-09-22 07:58:29"
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 13,
-    "lastKill": "2026-09-22 18:18:51"
   },
   {
     "playerId": "19932455",
