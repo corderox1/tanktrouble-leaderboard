@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35148376,
-    "kills": 44226201,
-    "deaths": 41646510,
-    "suicides": 9359753,
+    "victories": 35148400,
+    "kills": 44226284,
+    "deaths": 41646635,
+    "suicides": 9359769,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 18,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3138,10 +3138,10 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "victories": 43018,
-    "kills": 81334,
-    "deaths": 86235,
-    "suicides": 21878,
+    "victories": 43019,
+    "kills": 81336,
+    "deaths": 86238,
+    "suicides": 21879,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7197,7 +7197,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788279741,
-    "lastLogin": 1790105080,
+    "lastLogin": 1790107285,
     "banned": false,
     "usernameApproved": true,
     "country": null
