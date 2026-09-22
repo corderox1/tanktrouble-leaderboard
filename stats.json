@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35148442,
-    "kills": 44226325,
-    "deaths": 41646690,
-    "suicides": 9359780,
+    "victories": 35148459,
+    "kills": 44226340,
+    "deaths": 41646704,
+    "suicides": 9359782,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3530,10 +3530,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 11610,
-    "kills": 22491,
-    "deaths": 38508,
-    "suicides": 10556,
+    "victories": 11611,
+    "kills": 22492,
+    "deaths": 38513,
+    "suicides": 10557,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
