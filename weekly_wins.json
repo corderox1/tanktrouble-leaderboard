@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7531
+    "kills": 7547
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 288
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 288
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 283
   },
   {
     "playerId": "21508277",
@@ -180,6 +180,11 @@
     "kills": 29
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 25
+  },
+  {
     "playerId": "16736853",
     "username": "SaucyReaper",
     "kills": 24
@@ -212,11 +217,6 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 18
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
     "kills": 18
   },
   {
