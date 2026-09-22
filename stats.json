@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35147640,
-    "kills": 44225262,
-    "deaths": 41645185,
-    "suicides": 9359496,
+    "victories": 35147663,
+    "kills": 44225283,
+    "deaths": 41645212,
+    "suicides": 9359509,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1129,8 +1129,8 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "victories": 21185,
-    "kills": 33863,
+    "victories": 21191,
+    "kills": 33868,
     "deaths": 39915,
     "suicides": 7188,
     "experience": 0,
@@ -1180,7 +1180,7 @@
     "username": "_-YourDestruction-_",
     "victories": 43917,
     "kills": 91754,
-    "deaths": 128677,
+    "deaths": 128679,
     "suicides": 35907,
     "experience": 0,
     "surrenders": 0,
@@ -1219,7 +1219,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1586688568,
-    "lastLogin": 1790090881,
+    "lastLogin": 1790096817,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2453,8 +2453,8 @@
     "playerId": "22479485",
     "username": "-_purup_-",
     "victories": 1466,
-    "kills": 2972,
-    "deaths": 4104,
+    "kills": 2973,
+    "deaths": 4107,
     "suicides": 1155,
     "experience": 0,
     "surrenders": 0,
@@ -2485,7 +2485,7 @@
     "badge": "0",
     "premium": false,
     "rank": 27,
-    "xp": 116620,
+    "xp": 116630,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -2944,7 +2944,7 @@
     "username": "FATAI169",
     "victories": 12440,
     "kills": 19857,
-    "deaths": 20695,
+    "deaths": 20699,
     "suicides": 6930,
     "experience": 0,
     "surrenders": 0,
@@ -3726,7 +3726,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3980,
+    "victories": 3984,
     "kills": 4645,
     "deaths": 1337,
     "suicides": 293,
@@ -3739,10 +3739,10 @@
       "imageValue": "164"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0xc5a741",
-      "numericValue": "0xc5a741",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "baseColour": {
       "type": "image",
@@ -3873,10 +3873,10 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "victories": 7714,
-    "kills": 13381,
-    "deaths": 16103,
-    "suicides": 4764,
+    "victories": 7720,
+    "kills": 13386,
+    "deaths": 16108,
+    "suicides": 4766,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
