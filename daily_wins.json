@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 585
+    "kills": 601
   },
   {
     "playerId": "16092601",
@@ -27,6 +27,11 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 1
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 1
   },
   {
@@ -727,11 +732,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   }
 ]
