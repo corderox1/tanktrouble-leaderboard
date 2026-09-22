@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4008
+    "kills": 4022
   },
   {
     "playerId": "21601349",
@@ -27,7 +27,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 118
+    "kills": 123
   },
   {
     "playerId": "4142755",
@@ -130,6 +130,11 @@
     "kills": 29
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 28
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 26
@@ -157,11 +162,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 17
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 17
   },
   {
