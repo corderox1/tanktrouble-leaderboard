@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35146839,
-    "kills": 44224097,
-    "deaths": 41643520,
-    "suicides": 9359186,
+    "victories": 35146842,
+    "kills": 44224103,
+    "deaths": 41643532,
+    "suicides": 9359190,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2943,9 +2943,9 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "victories": 12418,
-    "kills": 19780,
-    "deaths": 20519,
-    "suicides": 6895,
+    "kills": 19783,
+    "deaths": 20525,
+    "suicides": 6896,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3726,7 +3726,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 3897,
+    "victories": 3905,
     "kills": 4546,
     "deaths": 1320,
     "suicides": 285,
@@ -3767,7 +3767,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789068508,
-    "lastLogin": 1790037143,
+    "lastLogin": 1790082446,
     "banned": false,
     "usernameApproved": true,
     "country": null
