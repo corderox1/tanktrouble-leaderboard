@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149091,
-    "kills": 44227075,
-    "deaths": 41647698,
-    "suicides": 9359968,
+    "victories": 35149110,
+    "kills": 44227091,
+    "deaths": 41647722,
+    "suicides": 9359972,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -739,7 +739,7 @@
     "username": "Dangel",
     "victories": 20164,
     "kills": 37704,
-    "deaths": 35139,
+    "deaths": 35141,
     "suicides": 5816,
     "experience": 0,
     "surrenders": 0,
