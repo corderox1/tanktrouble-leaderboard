@@ -1449,9 +1449,9 @@ if (activeStatButton) {
                          ${player.username}
 
                          ${
-                             period === "daily" && stat === "kills" && player.lastKill
-                                ? `<span class="last-kill">Last kill ${formatLastKill(player.lastKill)}</span>`
-                                : ""
+                             period === "daily" && stat === "kills" && player.lastKill && player.kills > 0
+                                 ? `<span class="last-kill">Last kill ${formatLastKill(player.lastKill)}</span>`
+                                 : ""
                          }
                      </div>
                         
