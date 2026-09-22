@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1653
+    "kills": 1678
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 101
   },
   {
     "playerId": "19425584",
@@ -15,19 +20,14 @@
     "kills": 100
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 93
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 63
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 53
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 51
+    "kills": 57
   },
   {
     "playerId": "21462355",
@@ -45,14 +45,14 @@
     "kills": 16
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 15
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 13
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 12
   },
   {
     "playerId": "1185396",
@@ -88,6 +88,11 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 2
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 1
   },
   {
     "playerId": "15931599",
@@ -402,11 +407,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
