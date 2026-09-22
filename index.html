@@ -870,21 +870,15 @@
 
 .card-players .player {
     display: grid;
-
-    grid-template-columns: 35px 1fr 75px;
-
+    grid-template-columns: 35px minmax(0, 1fr) 75px;
     align-items: center;
-
     padding: 12px 10px;
-
     margin: 0;
-
     border: 0;
     border-bottom: 1px solid #292929;
-
     border-radius: 0;
-
     background: #111;
+    min-width: 0;
 }
 
 .card-players .player:nth-child(even) {
