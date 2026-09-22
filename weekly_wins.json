@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6022
+    "kills": 6196
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 247
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 212
   },
   {
     "playerId": "4686507",
@@ -20,11 +25,6 @@
     "kills": 188
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 183
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 166
@@ -32,7 +32,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 134
+    "kills": 164
   },
   {
     "playerId": "14617724",
@@ -50,13 +50,18 @@
     "kills": 119
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 114
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 116
   },
   {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 115
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 114
   },
   {
@@ -85,19 +90,19 @@
     "kills": 77
   },
   {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 76
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 72
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 68
-  },
-  {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 66
+    "kills": 67
   },
   {
     "playerId": "2574833",
@@ -115,11 +120,6 @@
     "kills": 53
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 50
-  },
-  {
     "playerId": "21452912",
     "username": "k",
     "kills": 47
@@ -130,9 +130,29 @@
     "kills": 45
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 44
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 38
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 36
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 35
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 35
   },
   {
     "playerId": "151476",
@@ -150,14 +170,9 @@
     "kills": 29
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 26
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 23
+    "kills": 25
   },
   {
     "playerId": "7559374",
@@ -183,16 +198,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 18
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 17
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 17
   },
   {
     "playerId": "19068893",
@@ -407,11 +412,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
