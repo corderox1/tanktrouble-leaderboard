@@ -16,9 +16,9 @@
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "baseColour": {
       "type": "image",
@@ -27,7 +27,7 @@
       "imageValue": "162"
     },
     "turretAccessory": "164",
-    "barrelAccessory": "161",
+    "barrelAccessory": "164",
     "frontAccessory": "163",
     "backAccessory": "162",
     "treadAccessory": "0",
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35145528,
-    "kills": 44222567,
-    "deaths": 41641567,
-    "suicides": 9358778,
+    "victories": 35145529,
+    "kills": 44222568,
+    "deaths": 41641570,
+    "suicides": 9358779,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2354,9 +2354,9 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "victories": 142267,
-    "kills": 298889,
-    "deaths": 205322,
+    "victories": 142270,
+    "kills": 298891,
+    "deaths": 205327,
     "suicides": 51850,
     "experience": 165259,
     "surrenders": 0,
