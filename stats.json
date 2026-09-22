@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149074,
-    "kills": 44227059,
-    "deaths": 41647676,
-    "suicides": 9359961,
+    "victories": 35149091,
+    "kills": 44227075,
+    "deaths": 41647698,
+    "suicides": 9359968,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,9 +737,9 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20163,
-    "kills": 37701,
-    "deaths": 35129,
+    "victories": 20164,
+    "kills": 37704,
+    "deaths": 35139,
     "suicides": 5816,
     "experience": 0,
     "surrenders": 0,
@@ -4118,10 +4118,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 4352,
-    "kills": 6336,
-    "deaths": 5115,
-    "suicides": 1110,
+    "victories": 4356,
+    "kills": 6340,
+    "deaths": 5117,
+    "suicides": 1111,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
