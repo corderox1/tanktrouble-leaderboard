@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 31303,
-    "lastKill": "2026-09-22 16:37:40"
+    "kills": 31331,
+    "lastKill": "2026-09-22 16:40:22"
   },
   {
     "playerId": "22725175",
@@ -14,8 +14,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1477,
-    "lastKill": "2026-09-22 16:37:40"
+    "kills": 1486,
+    "lastKill": "2026-09-22 16:40:22"
   },
   {
     "playerId": "22716354",
@@ -162,6 +162,12 @@
     "lastKill": "2026-09-22 12:14:19"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 339,
+    "lastKill": "2026-09-22 16:40:22"
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 336,
@@ -172,12 +178,6 @@
     "username": "CHIMABOY",
     "kills": 334,
     "lastKill": "2026-09-22 12:05:56"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 330,
-    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "20375730",
@@ -392,8 +392,8 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 12,
-    "lastKill": "2026-09-22 16:37:40"
+    "kills": 14,
+    "lastKill": "2026-09-22 16:40:22"
   },
   {
     "playerId": "15931599",
@@ -958,5 +958,11 @@
     "username": "BillyTheKid",
     "kills": 0,
     "lastKill": "2026-09-22 14:47:21"
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 0,
+    "lastKill": "2026-09-22 16:37:40"
   }
 ]

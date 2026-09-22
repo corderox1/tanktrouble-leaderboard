@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22797
+    "kills": 22818
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1245
+    "kills": 1253
   },
   {
     "playerId": "22725175",
@@ -160,14 +160,14 @@
     "kills": 169
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 165
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 159
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 155
   },
   {
     "playerId": "1185396",
@@ -312,7 +312,7 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 11
+    "kills": 12
   },
   {
     "playerId": "20111777",
@@ -797,6 +797,11 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
+    "kills": 0
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
     "kills": 0
   }
 ]

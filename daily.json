@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4184,
-    "lastKill": "2026-09-22 16:37:40"
+    "kills": 4212,
+    "lastKill": "2026-09-22 16:40:22"
   },
   {
     "playerId": "22694251",
@@ -78,6 +78,12 @@
     "lastKill": "2026-09-22 13:16:09"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 92,
+    "lastKill": "2026-09-22 16:40:22"
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 89,
@@ -94,12 +100,6 @@
     "username": "FATAI169",
     "kills": 83,
     "lastKill": "2026-09-22 11:35:50"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 83,
-    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "12107881",
@@ -126,6 +126,12 @@
     "lastKill": "2026-09-22 10:37:11"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 40,
+    "lastKill": "2026-09-22 16:40:22"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 39,
@@ -136,12 +142,6 @@
     "username": "PrehistoricPyroGhost",
     "kills": 36,
     "lastKill": "2026-09-22 09:19:54"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 31,
-    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "20666777",
@@ -174,16 +174,16 @@
     "lastKill": "2026-09-22 07:58:29"
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 14,
+    "lastKill": "2026-09-22 16:40:22"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 13,
     "lastKill": "2026-09-22 10:37:11"
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 12,
-    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "6776098",
@@ -958,5 +958,11 @@
     "username": "BillyTheKid",
     "kills": 0,
     "lastKill": "2026-09-22 14:47:21"
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 0,
+    "lastKill": "2026-09-22 16:37:40"
   }
 ]
