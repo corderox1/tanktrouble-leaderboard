@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35148429,
-    "kills": 44226313,
-    "deaths": 41646674,
-    "suicides": 9359777,
+    "victories": 35148442,
+    "kills": 44226325,
+    "deaths": 41646690,
+    "suicides": 9359780,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 11,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3530,10 +3530,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 11609,
-    "kills": 22489,
-    "deaths": 38506,
-    "suicides": 10555,
+    "victories": 11610,
+    "kills": 22491,
+    "deaths": 38508,
+    "suicides": 10556,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6266,7 +6266,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1790054136,
+    "lastLogin": 1790108135,
     "banned": false,
     "usernameApproved": true,
     "country": null
