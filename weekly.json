@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8924,
-    "lastKill": "2026-09-22 13:27:18"
+    "kills": 9116,
+    "lastKill": "2026-09-22 13:56:38"
   },
   {
     "playerId": "22716354",
@@ -38,8 +38,8 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 283,
-    "lastKill": "2026-09-22 11:35:50"
+    "kills": 289,
+    "lastKill": "2026-09-22 13:56:38"
   },
   {
     "playerId": "3990108",
@@ -68,8 +68,8 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 233,
-    "lastKill": "2026-09-22 13:27:18"
+    "kills": 237,
+    "lastKill": "2026-09-22 13:56:38"
   },
   {
     "playerId": "21508277",
@@ -84,10 +84,22 @@
     "lastKill": "2026-09-22 13:16:09"
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 183,
+    "lastKill": "2026-09-22 13:56:38"
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 172,
-    "lastKill": "2026-09-22 13:27:18"
+    "kills": 183,
+    "lastKill": "2026-09-22 13:56:38"
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 163,
+    "lastKill": "2026-09-22 13:56:38"
   },
   {
     "playerId": "4142755",
@@ -102,22 +114,10 @@
     "lastKill": "2026-09-22 12:14:19"
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 144,
-    "lastKill": "2026-09-22 13:27:18"
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 140,
-    "lastKill": "2026-09-22 13:27:18"
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 128,
-    "lastKill": "2026-09-22 13:24:39"
+    "kills": 150,
+    "lastKill": "2026-09-22 13:56:38"
   },
   {
     "playerId": "20375730",
@@ -180,6 +180,12 @@
     "lastKill": "2026-09-21 12:11:49"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 63,
+    "lastKill": "2026-09-22 13:56:38"
+  },
+  {
     "playerId": "4501113",
     "username": "feed",
     "kills": 58,
@@ -216,12 +222,6 @@
     "lastKill": "2026-09-21 11:39:27"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 42,
-    "lastKill": "2026-09-22 13:24:39"
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 42,
@@ -240,22 +240,28 @@
     "lastKill": "2026-09-22 10:37:11"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 37,
+    "lastKill": "2026-09-22 13:56:38"
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 36,
     "lastKill": "2026-09-22 09:19:54"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 35,
+    "lastKill": "2026-09-22 13:56:38"
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 33,
     "lastKill": "2026-09-21 16:44:53"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 33,
-    "lastKill": "2026-09-22 13:27:18"
   },
   {
     "playerId": "16736853",
@@ -356,12 +362,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0,
-    "lastKill": "2026-09-21 00:00:16"
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0,
     "lastKill": "2026-09-21 00:00:16"
   },

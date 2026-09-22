@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22114
+    "kills": 22287
   },
   {
     "playerId": "21601349",
@@ -25,14 +25,14 @@
     "kills": 644
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 545
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 542
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 536
   },
   {
     "playerId": "11769746",
@@ -47,7 +47,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 444
+    "kills": 448
   },
   {
     "playerId": "21103294",
@@ -87,7 +87,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 292
+    "kills": 297
   },
   {
     "playerId": "8408190",
@@ -95,14 +95,19 @@
     "kills": 281
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 270
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 264
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 247
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 248
   },
   {
     "playerId": "20269995",
@@ -118,11 +123,6 @@
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 215
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 210
   },
   {
     "playerId": "12222122",
@@ -177,7 +177,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 131
+    "kills": 135
   },
   {
     "playerId": "4381511",
@@ -220,6 +220,11 @@
     "kills": 73
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 71
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 69
@@ -230,11 +235,6 @@
     "kills": 61
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 59
-  },
-  {
     "playerId": "21452912",
     "username": "k",
     "kills": 47
@@ -243,6 +243,11 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 43
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 39
   },
   {
     "playerId": "16874545",
@@ -377,11 +382,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0
   },
   {
