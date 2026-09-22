@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35146800,
-    "kills": 44224049,
-    "deaths": 41643432,
-    "suicides": 9359170,
+    "victories": 35146813,
+    "kills": 44224061,
+    "deaths": 41643449,
+    "suicides": 9359173,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -688,9 +688,9 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "victories": 19808,
-    "kills": 33692,
-    "deaths": 43249,
+    "victories": 19812,
+    "kills": 33699,
+    "deaths": 43250,
     "suicides": 10027,
     "experience": 0,
     "surrenders": 0,
