@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1494
+    "kills": 1507
   },
   {
     "playerId": "19425584",
@@ -12,7 +12,12 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 76
+    "kills": 79
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 41
   },
   {
     "playerId": "22694251",
@@ -20,14 +25,9 @@
     "kills": 23
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 22
-  },
-  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 18
+    "kills": 19
   },
   {
     "playerId": "19068893",
@@ -35,13 +35,13 @@
     "kills": 16
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 13
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 14
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 13
   },
   {
@@ -70,6 +70,11 @@
     "kills": 5
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 3
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 2
@@ -83,11 +88,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 2
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 1
   },
   {
     "playerId": "15931599",
