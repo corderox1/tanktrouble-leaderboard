@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5641
+    "kills": 5659
   },
   {
     "playerId": "21601349",
@@ -55,6 +55,11 @@
     "kills": 77
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 76
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 72
@@ -63,11 +68,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 70
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 68
   },
   {
     "playerId": "2574833",
@@ -97,7 +97,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 51
+    "kills": 52
   },
   {
     "playerId": "22710399",
@@ -152,7 +152,7 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 19
+    "kills": 22
   },
   {
     "playerId": "21109495",
@@ -233,6 +233,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 2
+  },
+  {
+    "playerId": "21462355",
+    "username": "PrehistoricPyroGhost",
+    "kills": 1
   },
   {
     "playerId": "1899675",
@@ -337,11 +342,6 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 0
-  },
-  {
-    "playerId": "21462355",
-    "username": "PrehistoricPyroGhost",
     "kills": 0
   },
   {
