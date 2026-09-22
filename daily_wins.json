@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2785
+    "kills": 2847
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 123
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 121
+    "kills": 122
   },
   {
     "playerId": "22716354",
@@ -18,11 +23,6 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 110
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 108
   },
   {
     "playerId": "19425584",
@@ -37,12 +37,17 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 91
+    "kills": 94
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 79
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 77
   },
   {
     "playerId": "20270104",
@@ -53,11 +58,6 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 60
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 45
   },
   {
     "playerId": "13773720",
@@ -75,14 +75,14 @@
     "kills": 42
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 41
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 40
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 38
   },
   {
     "playerId": "21012136",
@@ -102,7 +102,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 18
+    "kills": 19
   },
   {
     "playerId": "14892840",
@@ -117,11 +117,21 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 13
+    "kills": 14
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 12
   },
   {
     "playerId": "1185396",
     "username": "rhak",
+    "kills": 9
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
     "kills": 9
   },
   {
@@ -250,11 +260,6 @@
     "kills": 0
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 0
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 0
@@ -372,11 +377,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 0
   },
   {
