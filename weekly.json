@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8480,
-    "lastKill": "2026-09-22 12:24:41"
+    "kills": 8498,
+    "lastKill": "2026-09-22 12:27:39"
   },
   {
     "playerId": "22716354",
@@ -126,6 +126,12 @@
     "lastKill": "2026-09-21 20:40:15"
   },
   {
+    "playerId": "22479485",
+    "username": "-_purup_-",
+    "kills": 107,
+    "lastKill": "2026-09-22 12:27:39"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 105,
@@ -136,12 +142,6 @@
     "username": "interpreneur",
     "kills": 105,
     "lastKill": "2026-09-21 14:24:47"
-  },
-  {
-    "playerId": "22479485",
-    "username": "-_purup_-",
-    "kills": 104,
-    "lastKill": "2026-09-22 12:19:31"
   },
   {
     "playerId": "21465536",
@@ -304,6 +304,12 @@
     "username": "SoftMagmaDriver",
     "kills": 6,
     "lastKill": "2026-09-22 11:35:50"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 3,
+    "lastKill": "2026-09-22 12:27:39"
   },
   {
     "playerId": "19168800",
@@ -880,5 +886,17 @@
     "username": "Brainrot",
     "kills": 0,
     "lastKill": "2026-09-21 00:00:16"
+  },
+  {
+    "playerId": "4128764",
+    "username": "Bulletio",
+    "kills": 0,
+    "lastKill": "2026-09-22 12:24:41"
+  },
+  {
+    "playerId": "1623043",
+    "username": "Classic",
+    "kills": 0,
+    "lastKill": "2026-09-22 12:24:41"
   }
 ]

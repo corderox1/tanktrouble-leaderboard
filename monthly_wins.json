@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21762
+    "kills": 21779
   },
   {
     "playerId": "21601349",
@@ -112,7 +112,7 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 218
+    "kills": 222
   },
   {
     "playerId": "21708970",
@@ -347,6 +347,11 @@
   {
     "playerId": "1899675",
     "username": "TripleStryke",
+    "kills": 1
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
     "kills": 1
   },
   {
@@ -732,6 +737,16 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
+    "kills": 0
+  },
+  {
+    "playerId": "4128764",
+    "username": "Bulletio",
+    "kills": 0
+  },
+  {
+    "playerId": "1623043",
+    "username": "Classic",
     "kills": 0
   }
 ]
