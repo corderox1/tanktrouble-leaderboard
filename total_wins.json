@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 35148765
+    "kills": 35148796
   },
   {
     "playerId": "878689",
@@ -132,7 +132,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 58099
+    "kills": 58106
   },
   {
     "playerId": "4128764",
@@ -207,7 +207,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 39820
+    "kills": 39826
   },
   {
     "playerId": "29725",
@@ -485,6 +485,11 @@
     "kills": 13853
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 13688
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 12440
@@ -622,7 +627,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 4344
+    "kills": 4351
   },
   {
     "playerId": "21443824",
@@ -772,7 +777,7 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 246
+    "kills": 250
   },
   {
     "playerId": "13610618",
@@ -780,23 +785,8 @@
     "kills": 218
   },
   {
-    "playerId": "21808963",
-    "username": "StraightPride",
-    "kills": 0
-  },
-  {
     "playerId": "20642402",
     "username": "Scientist",
-    "kills": 0
-  },
-  {
-    "playerId": "21189632",
-    "username": "Megatron",
-    "kills": 0
-  },
-  {
-    "playerId": "20645735",
-    "username": "Saucy",
     "kills": 0
   }
 ]

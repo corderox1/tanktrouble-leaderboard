@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44226719,
-    "lastKill": "2026-09-22 16:32:27"
+    "kills": 44226752,
+    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "878689",
@@ -128,8 +128,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 99384,
-    "lastKill": "2026-09-22 16:32:27"
+    "kills": 99392,
+    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "1001669",
@@ -278,8 +278,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 58787,
-    "lastKill": "2026-09-22 14:47:21"
+    "kills": 58792,
+    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "1619013",
@@ -534,6 +534,12 @@
     "lastKill": "2026-09-22 09:09:07"
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 25388,
+    "lastKill": null
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 24743,
@@ -764,8 +770,8 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 6325,
-    "lastKill": "2026-09-22 16:32:27"
+    "kills": 6332,
+    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "21708970",
@@ -920,8 +926,8 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 440,
-    "lastKill": "2026-09-22 16:32:27"
+    "kills": 444,
+    "lastKill": "2026-09-22 16:37:40"
   },
   {
     "playerId": "22114709",
@@ -936,26 +942,8 @@
     "lastKill": null
   },
   {
-    "playerId": "21808963",
-    "username": "StraightPride",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "20642402",
     "username": "Scientist",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21189632",
-    "username": "Megatron",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20645735",
-    "username": "Saucy",
     "kills": 0,
     "lastKill": null
   }
