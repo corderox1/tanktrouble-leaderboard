@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35148537,
-    "kills": 44226442,
-    "deaths": 41646799,
-    "suicides": 9359813,
+    "victories": 35148584,
+    "kills": 44226492,
+    "deaths": 41646874,
+    "suicides": 9359826,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,10 +737,10 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20144,
-    "kills": 37655,
-    "deaths": 35065,
-    "suicides": 5808,
+    "victories": 20151,
+    "kills": 37669,
+    "deaths": 35080,
+    "suicides": 5810,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1790092712,
+    "lastLogin": 1790109913,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4069,10 +4069,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 58072,
-    "kills": 99313,
-    "deaths": 101098,
-    "suicides": 26231,
+    "victories": 58085,
+    "kills": 99339,
+    "deaths": 101113,
+    "suicides": 26233,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
