@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35146356,
-    "kills": 44223440,
-    "deaths": 41642614,
-    "suicides": 9358997,
+    "victories": 35146365,
+    "kills": 44223446,
+    "deaths": 41642624,
+    "suicides": 9359000,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1790071110,
+    "lastLogin": 1790071771,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7158,7 +7158,7 @@
     "username": "CHITO",
     "victories": 1593,
     "kills": 3512,
-    "deaths": 3201,
+    "deaths": 3202,
     "suicides": 930,
     "experience": 0,
     "surrenders": 0,
