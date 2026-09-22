@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35145391,
-    "kills": 44222361,
-    "deaths": 41641366,
-    "suicides": 9358723,
+    "victories": 35145393,
+    "kills": 44222366,
+    "deaths": 41641375,
+    "suicides": 9358724,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -631,7 +631,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1618340623,
-    "lastLogin": 1789615401,
+    "lastLogin": 1790046854,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2697,8 +2697,8 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 11160,
-    "kills": 21876,
+    "victories": 11162,
+    "kills": 21879,
     "deaths": 21177,
     "suicides": 4544,
     "experience": 0,
@@ -2738,7 +2738,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1728937767,
-    "lastLogin": 1789670437,
+    "lastLogin": 1790046791,
     "banned": false,
     "usernameApproved": true,
     "country": null
