@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3222
+    "kills": 3236
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 126
   },
   {
     "playerId": "8502796",
@@ -13,11 +18,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 122
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 120
   },
   {
     "playerId": "22716354",
@@ -92,7 +92,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 28
+    "kills": 30
   },
   {
     "playerId": "21103294",
@@ -158,6 +158,11 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 8
+  },
+  {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 7
   },
   {
     "playerId": "19932455",

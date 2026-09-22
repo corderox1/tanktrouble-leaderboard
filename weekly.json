@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9809,
-    "lastKill": "2026-09-22 16:29:13"
+    "kills": 9830,
+    "lastKill": "2026-09-22 16:32:27"
   },
   {
     "playerId": "22716354",
@@ -74,8 +74,8 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 209,
-    "lastKill": "2026-09-22 16:29:13"
+    "kills": 215,
+    "lastKill": "2026-09-22 16:32:27"
   },
   {
     "playerId": "8502796",
@@ -102,16 +102,16 @@
     "lastKill": "2026-09-22 13:56:38"
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 177,
-    "lastKill": "2026-09-22 16:29:13"
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 176,
-    "lastKill": "2026-09-22 16:29:13"
+    "kills": 180,
+    "lastKill": "2026-09-22 16:32:27"
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 178,
+    "lastKill": "2026-09-22 16:32:27"
   },
   {
     "playerId": "4142755",
@@ -304,6 +304,12 @@
     "username": "Trizz",
     "kills": 14,
     "lastKill": "2026-09-22 07:58:29"
+  },
+  {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 8,
+    "lastKill": "2026-09-22 16:32:27"
   },
   {
     "playerId": "16092601",
