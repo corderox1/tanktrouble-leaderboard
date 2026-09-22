@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35146842,
-    "kills": 44224103,
-    "deaths": 41643532,
-    "suicides": 9359190,
+    "victories": 35146849,
+    "kills": 44224118,
+    "deaths": 41643553,
+    "suicides": 9359192,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -935,8 +935,8 @@
     "username": "L_Shy_P",
     "victories": 71922,
     "kills": 127912,
-    "deaths": 100982,
-    "suicides": 23485,
+    "deaths": 100985,
+    "suicides": 23486,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14507,
-    "kills": 22365,
-    "deaths": 30102,
-    "suicides": 8425,
+    "victories": 14508,
+    "kills": 22366,
+    "deaths": 30105,
+    "suicides": 8426,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12418,
-    "kills": 19783,
-    "deaths": 20525,
-    "suicides": 6896,
+    "victories": 12420,
+    "kills": 19788,
+    "deaths": 20528,
+    "suicides": 6898,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3914,7 +3914,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1754650193,
-    "lastLogin": 1790078592,
+    "lastLogin": 1790082663,
     "banned": false,
     "usernameApproved": true,
     "country": null
