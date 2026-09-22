@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3805,
-    "lastKill": "2026-09-22 15:26:00"
+    "kills": 3874,
+    "lastKill": "2026-09-22 15:42:18"
   },
   {
     "playerId": "22694251",
@@ -126,6 +126,18 @@
     "lastKill": "2026-09-22 09:19:54"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 31,
+    "lastKill": "2026-09-22 15:42:18"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 27,
+    "lastKill": "2026-09-22 15:42:18"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 26,
@@ -136,18 +148,6 @@
     "username": "SaucyReaper",
     "kills": 26,
     "lastKill": "2026-09-22 15:02:42"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 25,
-    "lastKill": "2026-09-22 15:26:00"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 24,
-    "lastKill": "2026-09-22 15:26:00"
   },
   {
     "playerId": "19068893",
@@ -168,6 +168,12 @@
     "lastKill": "2026-09-22 10:37:11"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 10,
+    "lastKill": "2026-09-22 15:42:18"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 9,
@@ -178,6 +184,12 @@
     "username": "fyrenado",
     "kills": 7,
     "lastKill": "2026-09-22 00:22:08"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 4,
+    "lastKill": "2026-09-22 15:42:18"
   },
   {
     "playerId": "15931599",
@@ -254,12 +266,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": "2026-09-22 00:01:13"
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0,
     "lastKill": "2026-09-22 00:01:13"
   },
@@ -512,12 +518,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-09-22 00:01:13"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": "2026-09-22 00:01:13"
   },
