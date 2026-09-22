@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35145185,
-    "kills": 44222094,
-    "deaths": 41640946,
-    "suicides": 9358658,
+    "victories": 35145190,
+    "kills": 44222104,
+    "deaths": 41640961,
+    "suicides": 9358663,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,9 +149,9 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137869,
-    "kills": 189473,
-    "deaths": 187568,
+    "victories": 137871,
+    "kills": 189479,
+    "deaths": 187569,
     "suicides": 47967,
     "experience": 0,
     "surrenders": 0,
