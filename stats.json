@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35145045,
-    "kills": 44221955,
-    "deaths": 41640806,
-    "suicides": 9358641,
+    "victories": 35145066,
+    "kills": 44221976,
+    "deaths": 41640838,
+    "suicides": 9358646,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 137854,
-    "kills": 189432,
-    "deaths": 187542,
-    "suicides": 47963,
+    "victories": 137857,
+    "kills": 189446,
+    "deaths": 187549,
+    "suicides": 47964,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,10 +737,10 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20114,
-    "kills": 37617,
-    "deaths": 35039,
-    "suicides": 5805,
+    "victories": 20126,
+    "kills": 37631,
+    "deaths": 35048,
+    "suicides": 5806,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6764,9 +6764,9 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "victories": 60095,
-    "kills": 111685,
-    "deaths": 108734,
+    "victories": 60097,
+    "kills": 111691,
+    "deaths": 108741,
     "suicides": 26842,
     "experience": 0,
     "surrenders": 0,
