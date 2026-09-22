@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35145015,
-    "kills": 44221928,
-    "deaths": 41640759,
-    "suicides": 9358628,
+    "victories": 35145019,
+    "kills": 44221935,
+    "deaths": 41640769,
+    "suicides": 9358632,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6766,7 +6766,7 @@
     "username": "Orc-T72",
     "victories": 60094,
     "kills": 111678,
-    "deaths": 108724,
+    "deaths": 108725,
     "suicides": 26842,
     "experience": 0,
     "surrenders": 0,
