@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3614,
-    "lastKill": "2026-09-23 14:22:23"
+    "kills": 3635,
+    "lastKill": "2026-09-23 14:26:29"
   },
   {
     "playerId": "20297710",
@@ -32,8 +32,8 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 219,
-    "lastKill": "2026-09-23 14:22:23"
+    "kills": 227,
+    "lastKill": "2026-09-23 14:26:29"
   },
   {
     "playerId": "21508277",
@@ -84,16 +84,16 @@
     "lastKill": "2026-09-23 10:49:48"
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 61,
+    "lastKill": "2026-09-23 14:26:29"
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 60,
     "lastKill": "2026-09-23 14:13:30"
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 55,
-    "lastKill": "2026-09-23 14:22:23"
   },
   {
     "playerId": "20666777",
@@ -958,5 +958,17 @@
     "username": "Boagrius",
     "kills": 0,
     "lastKill": "2026-09-23 14:13:30"
+  },
+  {
+    "playerId": "972806",
+    "username": "missile123",
+    "kills": 0,
+    "lastKill": "2026-09-23 14:22:23"
+  },
+  {
+    "playerId": "635946",
+    "username": "iNf4MouS",
+    "kills": 0,
+    "lastKill": "2026-09-23 14:22:23"
   }
 ]

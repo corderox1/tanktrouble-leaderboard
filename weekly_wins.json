@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11038
+    "kills": 11041
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 470
+    "kills": 471
   },
   {
     "playerId": "21601349",
@@ -17,7 +17,7 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 389
+    "kills": 399
   },
   {
     "playerId": "22710399",
@@ -32,7 +32,7 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 313
+    "kills": 321
   },
   {
     "playerId": "20297710",
@@ -97,7 +97,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 114
+    "kills": 115
   },
   {
     "playerId": "13773720",
@@ -157,7 +157,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 72
+    "kills": 74
   },
   {
     "playerId": "6776098",
@@ -812,6 +812,16 @@
   {
     "playerId": "8478955",
     "username": "Boagrius",
+    "kills": 0
+  },
+  {
+    "playerId": "972806",
+    "username": "missile123",
+    "kills": 0
+  },
+  {
+    "playerId": "635946",
+    "username": "iNf4MouS",
     "kills": 0
   }
 ]
