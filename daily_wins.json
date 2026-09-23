@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2588
+    "kills": 2591
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 214
+    "kills": 217
   },
   {
     "playerId": "22710399",
@@ -32,12 +32,12 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 88
+    "kills": 99
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 82
+    "kills": 95
   },
   {
     "playerId": "21601349",
@@ -70,6 +70,11 @@
     "kills": 24
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 21
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 21
@@ -77,11 +82,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 17
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 17
   },
   {
@@ -103,6 +103,11 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 9
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 8
   },
   {
     "playerId": "21462355",
@@ -128,11 +133,6 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 3
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 2
   },
   {
     "playerId": "22479485",
@@ -787,6 +787,11 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
+    "kills": 0
+  },
+  {
+    "playerId": "7936247",
+    "username": "98Flow",
     "kills": 0
   }
 ]

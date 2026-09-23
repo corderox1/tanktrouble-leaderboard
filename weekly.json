@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14401,
-    "lastKill": "2026-09-23 13:40:53"
+    "kills": 14412,
+    "lastKill": "2026-09-23 13:45:03"
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 849,
-    "lastKill": "2026-09-23 13:40:53"
+    "kills": 853,
+    "lastKill": "2026-09-23 13:45:03"
   },
   {
     "playerId": "22694251",
@@ -26,14 +26,14 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 531,
-    "lastKill": "2026-09-23 13:40:53"
+    "kills": 537,
+    "lastKill": "2026-09-23 13:45:03"
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 487,
-    "lastKill": "2026-09-23 13:40:53"
+    "kills": 490,
+    "lastKill": "2026-09-23 13:45:03"
   },
   {
     "playerId": "21103294",
@@ -54,6 +54,12 @@
     "lastKill": "2026-09-23 12:52:40"
   },
   {
+    "playerId": "21796745",
+    "username": "Sleeze",
+    "kills": 359,
+    "lastKill": "2026-09-23 13:45:03"
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 353,
@@ -70,12 +76,6 @@
     "username": "Mandilindors",
     "kills": 346,
     "lastKill": "2026-09-23 10:49:48"
-  },
-  {
-    "playerId": "21796745",
-    "username": "Sleeze",
-    "kills": 344,
-    "lastKill": "2026-09-23 13:40:53"
   },
   {
     "playerId": "21012136",
@@ -98,8 +98,8 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 216,
-    "lastKill": "2026-09-23 13:40:53"
+    "kills": 227,
+    "lastKill": "2026-09-23 13:45:03"
   },
   {
     "playerId": "13773720",
@@ -180,16 +180,16 @@
     "lastKill": "2026-09-21 20:40:15"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 96,
+    "lastKill": "2026-09-23 13:45:03"
+  },
+  {
     "playerId": "151476",
     "username": "bangbangshoota",
     "kills": 88,
     "lastKill": "2026-09-21 11:23:54"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 87,
-    "lastKill": "2026-09-23 13:40:53"
   },
   {
     "playerId": "6776098",
@@ -964,5 +964,11 @@
     "username": "MAGATRON",
     "kills": 0,
     "lastKill": "2026-09-22 16:37:40"
+  },
+  {
+    "playerId": "7936247",
+    "username": "98Flow",
+    "kills": 0,
+    "lastKill": "2026-09-23 13:40:53"
   }
 ]
