@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35150282,
-    "kills": 44228660,
-    "deaths": 41650090,
-    "suicides": 9360390,
+    "victories": 35150293,
+    "kills": 44228669,
+    "deaths": 41650100,
+    "suicides": 9360392,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14559,
-    "kills": 22519,
-    "deaths": 30283,
-    "suicides": 8479,
+    "victories": 14568,
+    "kills": 22530,
+    "deaths": 30285,
+    "suicides": 8480,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1790158972,
+    "lastLogin": 1790159989,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3910,7 +3910,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1790103359,
+    "lastForumPost": 1790160034,
     "guest": false,
     "gmLevel": null,
     "created": 1754650193,
@@ -7197,7 +7197,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1790104526,
+    "lastLogin": 1790160025,
     "banned": false,
     "usernameApproved": true,
     "country": null
