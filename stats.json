@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149532,
-    "kills": 44227751,
-    "deaths": 41648842,
-    "suicides": 9360160,
+    "victories": 35149533,
+    "kills": 44227752,
+    "deaths": 41648849,
+    "suicides": 9360163,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7646,10 +7646,10 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "victories": 499,
-    "kills": 886,
-    "deaths": 533,
-    "suicides": 132,
+    "victories": 500,
+    "kills": 890,
+    "deaths": 537,
+    "suicides": 133,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7679,7 +7679,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 34910,
+    "xp": 35000,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
