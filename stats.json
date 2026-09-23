@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35151014,
-    "kills": 44229750,
-    "deaths": 41651610,
-    "suicides": 9360655,
+    "victories": 35151039,
+    "kills": 44229776,
+    "deaths": 41651658,
+    "suicides": 9360661,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 46,
+    "rank": 23,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -541,10 +541,10 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "victories": 4171,
-    "kills": 7329,
-    "deaths": 10200,
-    "suicides": 2644,
+    "victories": 4173,
+    "kills": 7336,
+    "deaths": 10206,
+    "suicides": 2646,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 71991,
-    "kills": 128089,
-    "deaths": 101148,
-    "suicides": 23515,
+    "victories": 71995,
+    "kills": 128097,
+    "deaths": 101152,
+    "suicides": 23516,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1905,7 +1905,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1737193297,
-    "lastLogin": 1790168374,
+    "lastLogin": 1790169899,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2983,7 +2983,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1757097829,
-    "lastLogin": 1790169722,
+    "lastLogin": 1790169881,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3531,9 +3531,9 @@
     "playerId": "20666777",
     "username": "Invincible",
     "victories": 11629,
-    "kills": 22529,
-    "deaths": 38557,
-    "suicides": 10572,
+    "kills": 22533,
+    "deaths": 38565,
+    "suicides": 10573,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3914,7 +3914,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1754650193,
-    "lastLogin": 1790169417,
+    "lastLogin": 1790169776,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7197,7 +7197,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1790165958,
+    "lastLogin": 1790169918,
     "banned": false,
     "usernameApproved": true,
     "country": null
