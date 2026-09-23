@@ -2,16 +2,16 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 826
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 47
+    "kills": 827
   },
   {
     "playerId": "20297710",
     "username": "KD419",
+    "kills": 50
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
     "kills": 47
   },
   {
@@ -20,13 +20,13 @@
     "kills": 18
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 14
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
+    "kills": 15
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 14
   },
   {
@@ -47,6 +47,11 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
+    "kills": 1
+  },
+  {
+    "playerId": "22479485",
+    "username": "-_purup_-",
     "kills": 1
   },
   {
@@ -267,11 +272,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0
-  },
-  {
-    "playerId": "22479485",
-    "username": "-_purup_-",
     "kills": 0
   },
   {
