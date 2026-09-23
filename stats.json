@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35151515,
-    "kills": 44230368,
-    "deaths": 41652624,
+    "victories": 35151533,
+    "kills": 44230385,
+    "deaths": 41652633,
     "suicides": 9360816,
     "experience": 0,
     "surrenders": 0,
@@ -933,7 +933,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 72060,
+    "victories": 72062,
     "kills": 128218,
     "deaths": 101218,
     "suicides": 23531,
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1790117225,
+    "lastLogin": 1790175100,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1864,8 +1864,8 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14731,
-    "kills": 22987,
+    "victories": 14737,
+    "kills": 22999,
     "deaths": 30374,
     "suicides": 8515,
     "experience": 0,
@@ -1905,7 +1905,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1737193297,
-    "lastLogin": 1790174343,
+    "lastLogin": 1790175043,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 1,
     "created": 1530892307,
-    "lastLogin": 1790172673,
+    "lastLogin": 1790175116,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7050,7 +7050,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788279741,
-    "lastLogin": 1790172747,
+    "lastLogin": 1790175225,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7156,10 +7156,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 1788,
-    "kills": 3340,
-    "deaths": 3451,
-    "suicides": 1300,
+    "victories": 1792,
+    "kills": 3341,
+    "deaths": 3455,
+    "suicides": 1301,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7189,7 +7189,7 @@
     "badge": "0",
     "premium": false,
     "rank": 513,
-    "xp": 138000,
+    "xp": 138210,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
