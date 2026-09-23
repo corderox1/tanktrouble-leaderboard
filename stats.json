@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35151058,
-    "kills": 44229794,
-    "deaths": 41651686,
-    "suicides": 9360665,
+    "victories": 35151075,
+    "kills": 44229814,
+    "deaths": 41651706,
+    "suicides": 9360670,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 72000,
-    "kills": 128107,
-    "deaths": 101154,
-    "suicides": 23516,
+    "victories": 72001,
+    "kills": 128112,
+    "deaths": 101160,
+    "suicides": 23517,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,8 +1864,8 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14689,
-    "kills": 22903,
+    "victories": 14691,
+    "kills": 22907,
     "deaths": 30362,
     "suicides": 8512,
     "experience": 0,
@@ -1905,7 +1905,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1737193297,
-    "lastLogin": 1790169899,
+    "lastLogin": 1790170199,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2983,7 +2983,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1757097829,
-    "lastLogin": 1790169881,
+    "lastLogin": 1790170133,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 11631,
-    "kills": 22535,
-    "deaths": 38570,
-    "suicides": 10573,
+    "victories": 11634,
+    "kills": 22544,
+    "deaths": 38574,
+    "suicides": 10574,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
