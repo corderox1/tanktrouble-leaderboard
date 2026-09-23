@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2687
+    "kills": 2691
   },
   {
     "playerId": "20297710",
@@ -17,12 +17,12 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 181
+    "kills": 200
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 154
+    "kills": 161
   },
   {
     "playerId": "21508277",
@@ -45,24 +45,24 @@
     "kills": 104
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 58
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 52
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "22744888",
+    "username": "fester",
     "kills": 52
   },
   {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 43
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 41
   },
   {
     "playerId": "3990108",
@@ -120,6 +120,11 @@
     "kills": 8
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 7
+  },
+  {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 7
@@ -132,11 +137,6 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 6
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 6
   },
   {
@@ -792,6 +792,11 @@
   {
     "playerId": "7936247",
     "username": "98Flow",
+    "kills": 0
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
     "kills": 0
   }
 ]

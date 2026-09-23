@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36007,
-    "lastKill": "2026-09-23 14:13:30"
+    "kills": 36046,
+    "lastKill": "2026-09-23 14:22:23"
   },
   {
     "playerId": "22725175",
@@ -20,8 +20,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 1539,
-    "lastKill": "2026-09-23 14:13:30"
+    "kills": 1567,
+    "lastKill": "2026-09-23 14:22:23"
   },
   {
     "playerId": "20297710",
@@ -62,8 +62,8 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 897,
-    "lastKill": "2026-09-23 14:13:30"
+    "kills": 920,
+    "lastKill": "2026-09-23 14:22:23"
   },
   {
     "playerId": "4686507",
@@ -120,16 +120,16 @@
     "lastKill": "2026-09-23 06:38:23"
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 513,
+    "lastKill": "2026-09-23 14:22:23"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 507,
     "lastKill": "2026-09-22 14:47:21"
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 501,
-    "lastKill": "2026-09-23 14:13:30"
   },
   {
     "playerId": "21012136",
@@ -176,8 +176,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 366,
-    "lastKill": "2026-09-23 14:13:30"
+    "kills": 372,
+    "lastKill": "2026-09-23 14:22:23"
   },
   {
     "playerId": "20270104",
@@ -270,6 +270,12 @@
     "lastKill": "2026-09-22 18:07:04"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 140,
+    "lastKill": "2026-09-23 14:22:23"
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 138,
@@ -286,12 +292,6 @@
     "username": "--Eddie--",
     "kills": 134,
     "lastKill": "2026-09-19 14:36:43"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 132,
-    "lastKill": "2026-09-23 14:13:30"
   },
   {
     "playerId": "16092601",
@@ -970,5 +970,11 @@
     "username": "98Flow",
     "kills": 0,
     "lastKill": "2026-09-23 13:40:53"
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 0,
+    "lastKill": "2026-09-23 14:13:30"
   }
 ]
