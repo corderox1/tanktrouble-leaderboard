@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149517,
-    "kills": 44227735,
-    "deaths": 41648799,
+    "victories": 35149527,
+    "kills": 44227744,
+    "deaths": 41648805,
     "suicides": 9360157,
     "experience": 0,
     "surrenders": 0,
@@ -778,7 +778,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1739056728,
-    "lastLogin": 1790129855,
+    "lastLogin": 1790130400,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7648,8 +7648,8 @@
     "username": "fester",
     "victories": 483,
     "kills": 861,
-    "deaths": 521,
-    "suicides": 127,
+    "deaths": 523,
+    "suicides": 128,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
