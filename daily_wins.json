@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2600
+    "kills": 2614
   },
   {
     "playerId": "20297710",
@@ -20,14 +20,19 @@
     "kills": 153
   },
   {
+    "playerId": "21796745",
+    "username": "Sleeze",
+    "kills": 132
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 129
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 125
-  },
-  {
-    "playerId": "21796745",
-    "username": "Sleeze",
-    "kills": 119
   },
   {
     "playerId": "22694251",
@@ -35,14 +40,9 @@
     "kills": 117
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 114
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 75
+    "kills": 82
   },
   {
     "playerId": "21103294",
@@ -80,6 +80,11 @@
     "kills": 21
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 19
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 17
@@ -88,11 +93,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 14
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 12
   },
   {
     "playerId": "13773720",
@@ -107,6 +107,11 @@
   {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 9
+  },
+  {
+    "playerId": "22744888",
+    "username": "fester",
     "kills": 9
   },
   {
@@ -132,6 +137,11 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
+    "kills": 3
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 3
   },
   {
@@ -432,11 +442,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -777,11 +782,6 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
     "kills": 0
   },
   {
