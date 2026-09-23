@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35152506,
-    "kills": 44231765,
-    "deaths": 41654826,
-    "suicides": 9361188,
+    "victories": 35152526,
+    "kills": 44231804,
+    "deaths": 41654865,
+    "suicides": 9361194,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2746,17 +2746,17 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "victories": 5979,
-    "kills": 13582,
-    "deaths": 17473,
+    "victories": 5980,
+    "kills": 13584,
+    "deaths": 17477,
     "suicides": 3322,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x990000",
+      "numericValue": "0x990000",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
@@ -2766,12 +2766,12 @@
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0x760000",
-      "numericValue": "0x760000",
+      "rawValue": "0xff0000",
+      "numericValue": "0xff0000",
       "imageValue": ""
     },
     "turretAccessory": "74",
-    "barrelAccessory": "45",
+    "barrelAccessory": "1",
     "frontAccessory": "15",
     "backAccessory": "42",
     "treadAccessory": "0",
@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 2163,
-    "kills": 2510,
-    "deaths": 2176,
-    "suicides": 438,
+    "victories": 2175,
+    "kills": 2523,
+    "deaths": 2187,
+    "suicides": 440,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3710,7 +3710,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 133250,
+    "xp": 133980,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
