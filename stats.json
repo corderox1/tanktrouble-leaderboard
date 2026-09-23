@@ -2,10 +2,10 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "victories": 2908,
-    "kills": 5428,
-    "deaths": 2815,
-    "suicides": 653,
+    "victories": 2910,
+    "kills": 5437,
+    "deaths": 2817,
+    "suicides": 654,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -34,7 +34,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 86,
+    "rank": 108,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35151603,
-    "kills": 44230519,
-    "deaths": 41652829,
-    "suicides": 9360851,
+    "victories": 35151607,
+    "kills": 44230528,
+    "deaths": 41652842,
+    "suicides": 9360852,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,9 +1276,9 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 39892,
-    "kills": 58872,
-    "deaths": 68987,
+    "victories": 39901,
+    "kills": 58880,
+    "deaths": 68990,
     "suicides": 16405,
     "experience": 0,
     "surrenders": 0,
@@ -2403,9 +2403,9 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 44543,
-    "kills": 69505,
-    "deaths": 53586,
+    "victories": 44549,
+    "kills": 69511,
+    "deaths": 53589,
     "suicides": 12555,
     "experience": 2287,
     "surrenders": 0,
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12460,
-    "kills": 19916,
-    "deaths": 20782,
-    "suicides": 6951,
+    "victories": 12462,
+    "kills": 19919,
+    "deaths": 20792,
+    "suicides": 6952,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3096,27 +3096,27 @@
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xff8600 13",
-      "numericValue": "0xff8600",
-      "imageValue": "13"
+      "type": "numeric",
+      "rawValue": "0x0102a9",
+      "numericValue": "0x0102a9",
+      "imageValue": ""
     },
     "treadColour": {
-      "type": "image",
-      "rawValue": "0xfff5ee 108",
-      "numericValue": "0xfff5ee",
-      "imageValue": "108"
+      "type": "numeric",
+      "rawValue": "0x0102a9",
+      "numericValue": "0x0102a9",
+      "imageValue": ""
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x2bde73 33",
-      "numericValue": "0x2bde73",
-      "imageValue": "33"
+      "type": "numeric",
+      "rawValue": "0x010243",
+      "numericValue": "0x010243",
+      "imageValue": ""
     },
-    "turretAccessory": "60",
-    "barrelAccessory": "21",
+    "turretAccessory": "101",
+    "barrelAccessory": "0",
     "frontAccessory": "101",
-    "backAccessory": "21",
+    "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
     "badge": "0",
@@ -3914,7 +3914,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1754650193,
-    "lastLogin": 1790177210,
+    "lastLogin": 1790177528,
     "banned": false,
     "usernameApproved": true,
     "country": null
