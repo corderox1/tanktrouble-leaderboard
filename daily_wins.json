@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2694
+    "kills": 2698
+  },
+  {
+    "playerId": "21796745",
+    "username": "Sleeze",
+    "kills": 225
   },
   {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 218
-  },
-  {
-    "playerId": "21796745",
-    "username": "Sleeze",
-    "kills": 210
   },
   {
     "playerId": "22710399",
@@ -45,13 +45,13 @@
     "kills": 104
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 60
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
+    "kills": 63
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
     "kills": 60
   },
   {
@@ -110,6 +110,11 @@
     "kills": 10
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 10
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 9
@@ -117,11 +122,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 8
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 8
   },
   {
