@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2698
+    "kills": 2701
   },
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 225
+    "kills": 237
   },
   {
     "playerId": "20297710",
@@ -47,7 +47,7 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 63
+    "kills": 70
   },
   {
     "playerId": "22706369",
@@ -100,6 +100,11 @@
     "kills": 14
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 11
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 10
@@ -107,11 +112,6 @@
   {
     "playerId": "19768925",
     "username": "Lil_May",
-    "kills": 10
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 10
   },
   {
