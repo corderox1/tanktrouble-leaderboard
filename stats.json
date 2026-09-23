@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149891,
-    "kills": 44228233,
-    "deaths": 41649500,
-    "suicides": 9360294,
+    "victories": 35149894,
+    "kills": 44228242,
+    "deaths": 41649506,
+    "suicides": 9360295,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3126,7 +3126,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1790151391,
+    "lastForumPost": 1790151683,
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
