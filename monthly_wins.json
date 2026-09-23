@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24462
+    "kills": 24468
   },
   {
     "playerId": "21601349",
@@ -47,7 +47,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 482
+    "kills": 484
   },
   {
     "playerId": "21103294",
@@ -345,6 +345,11 @@
     "kills": 3
   },
   {
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 3
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2
@@ -362,11 +367,6 @@
   {
     "playerId": "1899675",
     "username": "TripleStryke",
-    "kills": 1
-  },
-  {
-    "playerId": "20101050",
-    "username": "Brainrot",
     "kills": 1
   },
   {
