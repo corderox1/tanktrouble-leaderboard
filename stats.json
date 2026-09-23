@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35149955,
-    "kills": 44228308,
-    "deaths": 41649636,
-    "suicides": 9360317,
+    "victories": 35149972,
+    "kills": 44228323,
+    "deaths": 41649656,
+    "suicides": 9360322,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7403,8 +7403,8 @@
     "username": "Raxlyr",
     "victories": 46070,
     "kills": 82424,
-    "deaths": 53494,
-    "suicides": 12689,
+    "deaths": 53495,
+    "suicides": 12690,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7442,7 +7442,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1718119561,
-    "lastLogin": 1787761543,
+    "lastLogin": 1790152817,
     "banned": false,
     "usernameApproved": true,
     "country": null
