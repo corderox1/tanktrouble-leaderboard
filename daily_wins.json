@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 793
+    "kills": 805
   },
   {
     "playerId": "14892840",
@@ -15,13 +15,13 @@
     "kills": 34
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 14
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 15
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 14
   },
   {
@@ -42,6 +42,11 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
+    "kills": 1
+  },
+  {
+    "playerId": "20101050",
+    "username": "Brainrot",
     "kills": 1
   },
   {
@@ -712,11 +717,6 @@
   {
     "playerId": "8084329",
     "username": "Cicada3301",
-    "kills": 0
-  },
-  {
-    "playerId": "20101050",
-    "username": "Brainrot",
     "kills": 0
   },
   {
