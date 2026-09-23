@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9908
+    "kills": 9943
   },
   {
     "playerId": "21601349",
@@ -30,6 +30,11 @@
     "kills": 245
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 200
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 196
@@ -48,11 +53,6 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 188
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 184
   },
   {
     "playerId": "8502796",
@@ -75,6 +75,11 @@
     "kills": 125
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 123
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 120
@@ -82,11 +87,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 119
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 119
   },
   {
@@ -245,13 +245,13 @@
     "kills": 16
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 14
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 15
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 14
   },
   {
