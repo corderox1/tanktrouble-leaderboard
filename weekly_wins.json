@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9610
+    "kills": 9633
   },
   {
     "playerId": "21601349",
@@ -27,7 +27,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 216
+    "kills": 224
   },
   {
     "playerId": "21508277",
@@ -210,6 +210,11 @@
     "kills": 23
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 23
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 23
@@ -228,11 +233,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 18
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 17
   },
   {
     "playerId": "19068893",
