@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35150792,
-    "kills": 44229492,
-    "deaths": 41651204,
-    "suicides": 9360590,
+    "victories": 35150810,
+    "kills": 44229516,
+    "deaths": 41651233,
+    "suicides": 9360596,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -541,10 +541,10 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "victories": 4165,
-    "kills": 7318,
-    "deaths": 10184,
-    "suicides": 2640,
+    "victories": 4167,
+    "kills": 7323,
+    "deaths": 10191,
+    "suicides": 2641,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,10 +1864,10 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14651,
-    "kills": 22846,
-    "deaths": 30339,
-    "suicides": 8507,
+    "victories": 14654,
+    "kills": 22852,
+    "deaths": 30347,
+    "suicides": 8510,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2942,10 +2942,10 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "victories": 12441,
-    "kills": 19858,
-    "deaths": 20699,
-    "suicides": 6930,
+    "victories": 12442,
+    "kills": 19860,
+    "deaths": 20704,
+    "suicides": 6931,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2983,7 +2983,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1757097829,
-    "lastLogin": 1790168071,
+    "lastLogin": 1790168197,
     "banned": false,
     "usernameApproved": true,
     "country": null
