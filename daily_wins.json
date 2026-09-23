@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2257
+    "kills": 2277
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 204
+    "kills": 206
   },
   {
     "playerId": "22710399",
@@ -25,6 +25,16 @@
     "kills": 116
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 45
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 42
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 42
@@ -35,19 +45,9 @@
     "kills": 38
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 38
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 35
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 33
   },
   {
     "playerId": "21601349",
@@ -103,6 +103,11 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 6
+  },
+  {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 3
   },
   {
     "playerId": "16092601",
@@ -372,11 +377,6 @@
   {
     "playerId": "29695",
     "username": "77777",
-    "kills": 0
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
     "kills": 0
   },
   {
