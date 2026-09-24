@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35154288,
-    "kills": 44234064,
-    "deaths": 41657896,
-    "suicides": 9361764,
+    "victories": 35154313,
+    "kills": 44234087,
+    "deaths": 41657912,
+    "suicides": 9361769,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 29,
+    "rank": 31,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1864,9 +1864,9 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14769,
-    "kills": 23117,
-    "deaths": 30553,
+    "victories": 14772,
+    "kills": 23119,
+    "deaths": 30554,
     "suicides": 8565,
     "experience": 0,
     "surrenders": 0,
@@ -3130,7 +3130,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1790239421,
+    "lastLogin": 1790240458,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3914,7 +3914,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1754650193,
-    "lastLogin": 1790184521,
+    "lastLogin": 1790240469,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7197,7 +7197,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1790239091,
+    "lastLogin": 1790240562,
     "banned": false,
     "usernameApproved": true,
     "country": null
