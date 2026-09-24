@@ -100,9 +100,9 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35154200,
-    "kills": 44233967,
-    "deaths": 41657794,
+    "victories": 35154213,
+    "kills": 44233981,
+    "deaths": 41657803,
     "suicides": 9361739,
     "experience": 0,
     "surrenders": 0,
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 16,
+    "rank": 26,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4091,
-    "kills": 7809,
-    "deaths": 7091,
-    "suicides": 1622,
+    "victories": 4093,
+    "kills": 7816,
+    "deaths": 7096,
+    "suicides": 1623,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2337,7 +2337,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 62,
+    "rank": 60,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3530,10 +3530,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 11678,
-    "kills": 22621,
-    "deaths": 38672,
-    "suicides": 10604,
+    "victories": 11680,
+    "kills": 22627,
+    "deaths": 38675,
+    "suicides": 10606,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7011,21 +7011,21 @@
     "username": "CHITO",
     "victories": 1828,
     "kills": 4152,
-    "deaths": 3501,
+    "deaths": 3502,
     "suicides": 1026,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x660000",
-      "numericValue": "0x660000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0xbb0000",
-      "numericValue": "0xbb0000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xbcd4d6 164",
+      "numericValue": "0xbcd4d6",
+      "imageValue": "164"
     },
     "baseColour": {
       "type": "image",
@@ -7034,8 +7034,8 @@
       "imageValue": "164"
     },
     "turretAccessory": "48",
-    "barrelAccessory": "0",
-    "frontAccessory": "8",
+    "barrelAccessory": "100",
+    "frontAccessory": "163",
     "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
