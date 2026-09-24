@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4134
+    "kills": 4144
   },
   {
     "playerId": "20297710",
@@ -30,13 +30,13 @@
     "kills": 132
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 121
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
+    "kills": 123
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 121
   },
   {
@@ -132,7 +132,7 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 16
+    "kills": 17
   },
   {
     "playerId": "12107881",
@@ -142,12 +142,17 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "kills": 5
+    "kills": 8
   },
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 3
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 2
   },
   {
     "playerId": "13783887",
@@ -382,11 +387,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 0
   },
   {
