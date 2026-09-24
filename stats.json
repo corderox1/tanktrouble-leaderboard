@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35153326,
-    "kills": 44232769,
-    "deaths": 41656289,
-    "suicides": 9361437,
+    "victories": 35153335,
+    "kills": 44232776,
+    "deaths": 41656294,
+    "suicides": 9361438,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 2941,
-    "kills": 3361,
-    "deaths": 2880,
-    "suicides": 597,
+    "victories": 2956,
+    "kills": 3376,
+    "deaths": 2887,
+    "suicides": 598,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3710,7 +3710,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 180660,
+    "xp": 181560,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3726,7 +3726,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 4193,
+    "victories": 4196,
     "kills": 4825,
     "deaths": 1380,
     "suicides": 300,
@@ -3767,7 +3767,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789068508,
-    "lastLogin": 1790185897,
+    "lastLogin": 1790214653,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7687,7 +7687,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790094515,
-    "lastLogin": 1790212993,
+    "lastLogin": 1790214723,
     "banned": false,
     "usernameApproved": true,
     "country": null
