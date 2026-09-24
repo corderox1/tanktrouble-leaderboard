@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 3225,
-    "kills": 3665,
-    "deaths": 3153,
-    "suicides": 652,
+    "victories": 3237,
+    "kills": 3679,
+    "deaths": 3162,
+    "suicides": 653,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6129,7 +6129,7 @@
     "username": "volodymyr77",
     "victories": 63475,
     "kills": 40426,
-    "deaths": 50384,
+    "deaths": 50388,
     "suicides": 15333,
     "experience": 0,
     "surrenders": 0,
@@ -6168,7 +6168,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1790204239,
+    "lastLogin": 1790222035,
     "banned": false,
     "usernameApproved": true,
     "country": null
