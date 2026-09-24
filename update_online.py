@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 # Store player information for profiles
@@ -165,35 +166,43 @@ history = compact_history(history)
 
 print("Checking players...")
 
-for player_id in PLAYER_IDS:
+def check_player(player_id):
     try:
-        player = get_player(player_id)
-
-        if player:
-            snapshot = {
-                "date": today + " " + now.strftime("%H:%M:%S"),
-                "playerId": player["playerId"],
-                "username": player["username"],
-                "kills": player["kills"],
-                "deaths": player["deaths"],
-                "victories": player["victories"],
-                "suicides": player["suicides"],
-                "xp": player["xp"]
-            }
-
-            history.append(snapshot)
-
-            print(
-                player["username"],
-                "- Kills:",
-                player["kills"]
-            )
-
-        else:
-            print("Could not find player:", player_id)
-
+        return get_player(player_id)
     except Exception as e:
-        print("Error checking", player_id, ":", e)
+        print(f"Error checking {player_id}: {e}")
+        return None
+
+
+with ThreadPoolExecutor(max_workers=5) as executor:
+
+    players = list(
+        executor.map(check_player, PLAYER_IDS)
+    )
+
+
+for player in players:
+
+    if player:
+
+        snapshot = {
+            "date": today + " " + now.strftime("%H:%M:%S"),
+            "playerId": player["playerId"],
+            "username": player["username"],
+            "kills": player["kills"],
+            "deaths": player["deaths"],
+            "victories": player["victories"],
+            "suicides": player["suicides"],
+            "xp": player["xp"]
+        }
+
+        history.append(snapshot)
+
+        print(
+            player["username"],
+            "- Kills:",
+            player["kills"]
+        )
 
 
 # Compact and save history
