@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35154098,
-    "kills": 44233783,
-    "deaths": 41657510,
-    "suicides": 9361697,
+    "victories": 35154102,
+    "kills": 44233795,
+    "deaths": 41657525,
+    "suicides": 9361700,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3628,9 +3628,9 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "victories": 14511,
-    "kills": 22768,
-    "deaths": 18868,
+    "victories": 14518,
+    "kills": 22781,
+    "deaths": 18870,
     "suicides": 4548,
     "experience": 0,
     "surrenders": 0,
