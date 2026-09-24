@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35153412,
-    "kills": 44232858,
-    "deaths": 41656465,
-    "suicides": 9361475,
+    "victories": 35153413,
+    "kills": 44232866,
+    "deaths": 41656506,
+    "suicides": 9361477,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -970,7 +970,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1790179315,
+    "lastForumPost": 1790220064,
     "guest": false,
     "gmLevel": null,
     "created": 1639209721,
@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 3125,
-    "kills": 3558,
-    "deaths": 3101,
-    "suicides": 644,
+    "victories": 3144,
+    "kills": 3581,
+    "deaths": 3106,
+    "suicides": 646,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4020,10 +4020,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 17872,
-    "kills": 31284,
-    "deaths": 28804,
-    "suicides": 11126,
+    "victories": 17874,
+    "kills": 31295,
+    "deaths": 28809,
+    "suicides": 11129,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
