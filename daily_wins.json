@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4161
+    "kills": 4162
   },
   {
     "playerId": "20297710",
@@ -17,12 +17,12 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 153
+    "kills": 158
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 143
+    "kills": 144
   },
   {
     "playerId": "21465536",
@@ -140,13 +140,13 @@
     "kills": 14
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 8
-  },
-  {
     "playerId": "16736853",
     "username": "SaucyReaper",
+    "kills": 10
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 8
   },
   {
@@ -162,6 +162,11 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
+    "kills": 1
+  },
+  {
+    "playerId": "1899675",
+    "username": "TripleStryke",
     "kills": 1
   },
   {
@@ -372,11 +377,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0
-  },
-  {
-    "playerId": "1899675",
-    "username": "TripleStryke",
     "kills": 0
   },
   {
