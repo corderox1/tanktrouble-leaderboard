@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35153411,
-    "kills": 44232856,
-    "deaths": 41656446,
-    "suicides": 9361474,
+    "victories": 35153412,
+    "kills": 44232858,
+    "deaths": 41656465,
+    "suicides": 9361475,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 8668,
-    "kills": 14913,
-    "deaths": 16294,
-    "suicides": 3706,
+    "victories": 8670,
+    "kills": 14914,
+    "deaths": 16296,
+    "suicides": 3707,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,10 +3677,10 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "victories": 3103,
-    "kills": 3542,
-    "deaths": 3098,
-    "suicides": 643,
+    "victories": 3125,
+    "kills": 3558,
+    "deaths": 3101,
+    "suicides": 644,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4020,10 +4020,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 17871,
-    "kills": 31280,
-    "deaths": 28800,
-    "suicides": 11124,
+    "victories": 17872,
+    "kills": 31284,
+    "deaths": 28804,
+    "suicides": 11126,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4061,7 +4061,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1649974122,
-    "lastLogin": 1790219585,
+    "lastLogin": 1790219816,
     "banned": false,
     "usernameApproved": true,
     "country": null
