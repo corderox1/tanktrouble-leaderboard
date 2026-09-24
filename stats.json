@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35154231,
-    "kills": 44234000,
-    "deaths": 41657830,
-    "suicides": 9361744,
+    "victories": 35154252,
+    "kills": 44234021,
+    "deaths": 41657854,
+    "suicides": 9361750,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1864,8 +1864,8 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "victories": 14765,
-    "kills": 23108,
+    "victories": 14767,
+    "kills": 23115,
     "deaths": 30552,
     "suicides": 8564,
     "experience": 0,
@@ -1905,7 +1905,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1737193297,
-    "lastLogin": 1790176830,
+    "lastLogin": 1790239561,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,8 +3530,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 11685,
-    "kills": 22644,
+    "victories": 11687,
+    "kills": 22645,
     "deaths": 38689,
     "suicides": 10611,
     "experience": 0,
