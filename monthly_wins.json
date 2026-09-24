@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 27363
+    "kills": 27367
   },
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 1819
+    "kills": 1826
   },
   {
     "playerId": "21601349",
@@ -82,7 +82,7 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 358
+    "kills": 362
   },
   {
     "playerId": "4686507",
@@ -250,6 +250,11 @@
     "kills": 72
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 55
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 53
@@ -258,11 +263,6 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 52
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 49
   },
   {
     "playerId": "151476",
