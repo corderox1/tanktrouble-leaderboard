@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2359
+    "kills": 2373
   },
   {
     "playerId": "20297710",
@@ -12,7 +12,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 212
+    "kills": 213
   },
   {
     "playerId": "21103294",
@@ -42,7 +42,7 @@
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "kills": 54
+    "kills": 55
   },
   {
     "playerId": "16092601",
@@ -55,14 +55,14 @@
     "kills": 49
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 46
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 45
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 44
   },
   {
     "playerId": "22710399",
@@ -112,6 +112,11 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
+    "kills": 1
+  },
+  {
+    "playerId": "22744888",
+    "username": "fester",
     "kills": 1
   },
   {
@@ -777,11 +782,6 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
     "kills": 0
   },
   {
