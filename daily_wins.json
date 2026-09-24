@@ -70,14 +70,14 @@
     "kills": 50
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 50
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 49
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 46
   },
   {
     "playerId": "13773720",
@@ -110,6 +110,11 @@
     "kills": 24
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 12
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 9
@@ -117,11 +122,6 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 8
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
     "kills": 8
   },
   {
