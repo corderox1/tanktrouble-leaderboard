@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3120,
-    "lastKill": "2026-09-24 11:09:03"
+    "kills": 3127,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "20297710",
@@ -14,14 +14,14 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 410,
-    "lastKill": "2026-09-24 11:09:03"
+    "kills": 415,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 182,
-    "lastKill": "2026-09-24 11:09:03"
+    "kills": 184,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "22706369",
@@ -38,8 +38,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 119,
-    "lastKill": "2026-09-24 11:09:03"
+    "kills": 125,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "21508277",
@@ -54,16 +54,16 @@
     "lastKill": "2026-09-24 02:53:19"
   },
   {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 106,
+    "lastKill": "2026-09-24 11:11:43"
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 103,
     "lastKill": "2026-09-24 09:32:40"
-  },
-  {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 103,
-    "lastKill": "2026-09-24 11:09:03"
   },
   {
     "playerId": "21109495",
@@ -84,16 +84,16 @@
     "lastKill": "2026-09-24 09:16:49"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 63,
+    "lastKill": "2026-09-24 11:11:43"
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 62,
     "lastKill": "2026-09-24 09:38:54"
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 60,
-    "lastKill": "2026-09-24 11:09:03"
   },
   {
     "playerId": "21956820",
@@ -104,8 +104,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 41,
-    "lastKill": "2026-09-24 11:07:07"
+    "kills": 47,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "21465536",
@@ -142,6 +142,12 @@
     "username": "Sleeze",
     "kills": 1,
     "lastKill": "2026-09-24 10:12:11"
+  },
+  {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 1,
+    "lastKill": "2026-09-24 11:11:43"
   },
   {
     "playerId": "1145079",
@@ -932,12 +938,6 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 0,
-    "lastKill": "2026-09-24 00:02:09"
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
     "kills": 0,
     "lastKill": "2026-09-24 00:02:09"
   },
