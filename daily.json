@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1851,
-    "lastKill": "2026-09-24 07:07:17"
+    "kills": 1914,
+    "lastKill": "2026-09-24 07:17:41"
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 247,
-    "lastKill": "2026-09-24 07:07:17"
+    "kills": 258,
+    "lastKill": "2026-09-24 07:17:41"
   },
   {
     "playerId": "21012136",
@@ -36,16 +36,22 @@
     "lastKill": "2026-09-24 03:49:06"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 55,
+    "lastKill": "2026-09-24 07:17:41"
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 54,
+    "lastKill": "2026-09-24 07:17:41"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 52,
     "lastKill": "2026-09-24 05:47:42"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 52,
-    "lastKill": "2026-09-24 06:33:24"
   },
   {
     "playerId": "21109495",
@@ -54,16 +60,16 @@
     "lastKill": "2026-09-24 05:47:42"
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 36,
-    "lastKill": "2026-09-24 07:07:17"
-  },
-  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 28,
     "lastKill": "2026-09-24 02:27:23"
+  },
+  {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 13,
+    "lastKill": "2026-09-24 07:17:41"
   },
   {
     "playerId": "12107881",
@@ -368,12 +374,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": "2026-09-24 00:02:09"
-  },
-  {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
     "kills": 0,
     "lastKill": "2026-09-24 00:02:09"
   },
