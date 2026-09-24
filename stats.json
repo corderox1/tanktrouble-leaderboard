@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35153487,
-    "kills": 44233039,
-    "deaths": 41656747,
-    "suicides": 9361520,
+    "victories": 35153506,
+    "kills": 44233055,
+    "deaths": 41656768,
+    "suicides": 9361522,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -590,9 +590,9 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "victories": 17336,
-    "kills": 24743,
-    "deaths": 28021,
+    "victories": 17343,
+    "kills": 24751,
+    "deaths": 28033,
     "suicides": 5845,
     "experience": 0,
     "surrenders": 0,
