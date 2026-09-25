@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3065
+    "kills": 3075
   },
   {
     "playerId": "20297710",
@@ -85,6 +85,11 @@
     "kills": 31
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 31
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 30
@@ -105,11 +110,6 @@
     "kills": 26
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 25
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 20
@@ -120,13 +120,13 @@
     "kills": 18
   },
   {
-    "playerId": "19768925",
-    "username": "Lil_May",
-    "kills": 14
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 16
+  },
+  {
+    "playerId": "19768925",
+    "username": "Lil_May",
     "kills": 14
   },
   {
