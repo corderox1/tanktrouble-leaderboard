@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 27356,
-    "lastKill": "2026-09-25 18:55:11"
+    "kills": 27362,
+    "lastKill": "2026-09-25 18:57:36"
   },
   {
     "playerId": "20297710",
@@ -176,8 +176,8 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 213,
-    "lastKill": "2026-09-25 18:55:11"
+    "kills": 222,
+    "lastKill": "2026-09-25 18:57:36"
   },
   {
     "playerId": "20375730",
@@ -392,8 +392,14 @@
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 5,
+    "lastKill": "2026-09-25 18:57:36"
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 3,
-    "lastKill": "2026-09-25 18:55:11"
+    "lastKill": "2026-09-25 18:57:36"
   },
   {
     "playerId": "19168800",
@@ -446,12 +452,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": "2026-09-21 00:00:16"
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0,
     "lastKill": "2026-09-21 00:00:16"
   },
