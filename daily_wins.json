@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3257
+    "kills": 3258
   },
   {
     "playerId": "20297710",
@@ -75,6 +75,11 @@
     "kills": 65
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 47
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 44
@@ -83,11 +88,6 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 43
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 42
   },
   {
     "playerId": "22077521",
@@ -155,13 +155,13 @@
     "kills": 5
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 2
-  },
-  {
     "playerId": "16736853",
     "username": "SaucyReaper",
+    "kills": 3
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
     "kills": 2
   },
   {
