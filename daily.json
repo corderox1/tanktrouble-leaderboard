@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5538,
-    "lastKill": "2026-09-24 19:00:03"
+    "kills": 5541,
+    "lastKill": "2026-09-24 19:03:00"
   },
   {
     "playerId": "20297710",
@@ -20,8 +20,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 348,
-    "lastKill": "2026-09-24 19:00:03"
+    "kills": 354,
+    "lastKill": "2026-09-24 19:03:00"
   },
   {
     "playerId": "22710399",
@@ -102,6 +102,12 @@
     "lastKill": "2026-09-24 12:08:05"
   },
   {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 103,
+    "lastKill": "2026-09-24 19:03:00"
+  },
+  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 98,
@@ -114,16 +120,10 @@
     "lastKill": "2026-09-24 17:55:19"
   },
   {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 96,
-    "lastKill": "2026-09-24 19:00:03"
-  },
-  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 94,
-    "lastKill": "2026-09-24 19:00:03"
+    "kills": 95,
+    "lastKill": "2026-09-24 19:03:00"
   },
   {
     "playerId": "20666777",
@@ -140,8 +140,8 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 68,
-    "lastKill": "2026-09-24 19:00:03"
+    "kills": 72,
+    "lastKill": "2026-09-24 19:03:00"
   },
   {
     "playerId": "4381511",
@@ -202,6 +202,12 @@
     "username": "3w0n",
     "kills": 5,
     "lastKill": "2026-09-24 02:45:08"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 4,
+    "lastKill": "2026-09-24 19:03:00"
   },
   {
     "playerId": "19932455",
@@ -830,12 +836,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": "2026-09-24 00:02:09"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-09-24 00:02:09"
   },
