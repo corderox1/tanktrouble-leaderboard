@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36141
+    "kills": 36162
   },
   {
     "playerId": "21796745",
@@ -12,7 +12,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1802
+    "kills": 1803
   },
   {
     "playerId": "20297710",
@@ -112,7 +112,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 388
+    "kills": 389
   },
   {
     "playerId": "8408190",
@@ -137,7 +137,7 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 282
+    "kills": 288
   },
   {
     "playerId": "20270104",
@@ -197,7 +197,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 183
+    "kills": 187
   },
   {
     "playerId": "1185396",
@@ -237,7 +237,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 133
+    "kills": 135
   },
   {
     "playerId": "16092601",
@@ -340,6 +340,11 @@
     "kills": 15
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 13
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 13
@@ -348,11 +353,6 @@
     "playerId": "12331664",
     "username": "Reds",
     "kills": 12
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 11
   },
   {
     "playerId": "20111777",
