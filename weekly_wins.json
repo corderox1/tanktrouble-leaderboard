@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23016
+    "kills": 23026
   },
   {
     "playerId": "21796745",
@@ -57,7 +57,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 464
+    "kills": 465
   },
   {
     "playerId": "21103294",
@@ -67,7 +67,7 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 387
+    "kills": 389
   },
   {
     "playerId": "22706369",
@@ -77,7 +77,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 373
+    "kills": 374
   },
   {
     "playerId": "21465536",
@@ -140,13 +140,13 @@
     "kills": 186
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 171
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
+    "kills": 178
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
     "kills": 171
   },
   {
@@ -215,6 +215,11 @@
     "kills": 107
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 102
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 100
@@ -223,11 +228,6 @@
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 100
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 98
   },
   {
     "playerId": "17629928",

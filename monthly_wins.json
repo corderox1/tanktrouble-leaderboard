@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 38326
+    "kills": 38336
   },
   {
     "playerId": "21796745",
@@ -62,7 +62,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 729
+    "kills": 730
   },
   {
     "playerId": "21103294",
@@ -117,7 +117,7 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 387
+    "kills": 389
   },
   {
     "playerId": "22706369",
@@ -127,7 +127,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 373
+    "kills": 374
   },
   {
     "playerId": "10794529",
@@ -225,6 +225,11 @@
     "kills": 181
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 178
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 176
@@ -240,23 +245,18 @@
     "kills": 171
   },
   {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 171
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 167
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 152
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 156
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 152
   },
   {
