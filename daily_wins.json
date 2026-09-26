@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1332
+    "kills": 1340
   },
   {
     "playerId": "22744888",
@@ -27,7 +27,7 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 101
+    "kills": 102
   },
   {
     "playerId": "21708970",
@@ -45,19 +45,24 @@
     "kills": 82
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 77
-  },
-  {
     "playerId": "706234",
     "username": "yxngdebz",
+    "kills": 78
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 77
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 68
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 49
   },
   {
     "playerId": "13773720",
@@ -70,11 +75,6 @@
     "kills": 45
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 44
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 37
@@ -82,6 +82,11 @@
   {
     "playerId": "21012136",
     "username": "small-li",
+    "kills": 35
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
     "kills": 35
   },
   {
@@ -95,11 +100,6 @@
     "kills": 32
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 32
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 26
@@ -110,14 +110,14 @@
     "kills": 22
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 20
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 19
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 17
   },
   {
     "playerId": "21956820",
@@ -128,6 +128,11 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 12
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 10
   },
   {
     "playerId": "13783887",
@@ -150,9 +155,9 @@
     "kills": 8
   },
   {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 5
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 3
   },
   {
     "playerId": "19635407",
@@ -163,11 +168,6 @@
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 2
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 1
   },
   {
     "playerId": "21098942",
