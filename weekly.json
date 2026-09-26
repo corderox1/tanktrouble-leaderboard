@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29011,
-    "lastKill": "2026-09-26 03:59:43"
+    "kills": 29018,
+    "lastKill": "2026-09-26 04:03:30"
   },
   {
     "playerId": "20297710",
@@ -26,8 +26,8 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 1649,
-    "lastKill": "2026-09-26 03:59:43"
+    "kills": 1661,
+    "lastKill": "2026-09-26 04:03:30"
   },
   {
     "playerId": "21012136",
@@ -38,8 +38,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1274,
-    "lastKill": "2026-09-26 03:59:43"
+    "kills": 1281,
+    "lastKill": "2026-09-26 04:03:30"
   },
   {
     "playerId": "21601349",
@@ -432,6 +432,12 @@
     "lastKill": "2026-09-23 20:13:56"
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 3,
+    "lastKill": "2026-09-26 04:03:30"
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2,
@@ -560,12 +566,6 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 0,
-    "lastKill": "2026-09-21 00:00:16"
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0,
     "lastKill": "2026-09-21 00:00:16"
   },
