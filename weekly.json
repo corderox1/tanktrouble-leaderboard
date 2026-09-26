@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29286,
-    "lastKill": "2026-09-26 05:26:21"
+    "kills": 29297,
+    "lastKill": "2026-09-26 05:28:59"
   },
   {
     "playerId": "20297710",
@@ -26,8 +26,8 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 1785,
-    "lastKill": "2026-09-26 05:26:21"
+    "kills": 1786,
+    "lastKill": "2026-09-26 05:28:59"
   },
   {
     "playerId": "21012136",
@@ -38,8 +38,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1444,
-    "lastKill": "2026-09-26 05:26:21"
+    "kills": 1448,
+    "lastKill": "2026-09-26 05:28:59"
   },
   {
     "playerId": "21601349",
@@ -110,8 +110,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 491,
-    "lastKill": "2026-09-26 05:26:21"
+    "kills": 496,
+    "lastKill": "2026-09-26 05:28:59"
   },
   {
     "playerId": "4381511",
@@ -252,6 +252,12 @@
     "lastKill": "2026-09-23 06:38:23"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 119,
+    "lastKill": "2026-09-26 05:28:59"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 114,
@@ -262,12 +268,6 @@
     "username": "Ayanokoji",
     "kills": 114,
     "lastKill": "2026-09-26 03:01:58"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 113,
-    "lastKill": "2026-09-26 05:26:21"
   },
   {
     "playerId": "151476",
@@ -414,6 +414,12 @@
     "lastKill": "2026-09-25 09:50:15"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 11,
+    "lastKill": "2026-09-26 05:28:59"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 10,
@@ -426,16 +432,16 @@
     "lastKill": "2026-09-24 18:27:56"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 9,
-    "lastKill": "2026-09-26 05:26:21"
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 6,
     "lastKill": "2026-09-23 20:13:56"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 3,
+    "lastKill": "2026-09-26 05:28:59"
   },
   {
     "playerId": "21098942",
@@ -566,12 +572,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": "2026-09-21 00:00:16"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0,
     "lastKill": "2026-09-21 00:00:16"
   },
