@@ -65,6 +65,11 @@
     "kills": 98
   },
   {
+    "playerId": "22744888",
+    "username": "fester",
+    "kills": 93
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 92
@@ -73,11 +78,6 @@
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 84
-  },
-  {
-    "playerId": "22744888",
-    "username": "fester",
-    "kills": 83
   },
   {
     "playerId": "19932455",
@@ -207,6 +207,11 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
+    "kills": 1
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
     "kills": 1
   },
   {
@@ -652,11 +657,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0
   },
   {
