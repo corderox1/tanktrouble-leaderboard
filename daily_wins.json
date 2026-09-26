@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 390
+    "kills": 391
   },
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 381
+    "kills": 385
   },
   {
     "playerId": "21708970",
@@ -17,7 +17,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 63
+    "kills": 66
   },
   {
     "playerId": "16092601",
@@ -33,6 +33,11 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 10
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 2
   },
   {
     "playerId": "19068893",
@@ -732,11 +737,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0
   },
   {
