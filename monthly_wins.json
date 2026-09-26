@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36757
+    "kills": 36763
   },
   {
     "playerId": "21796745",
@@ -37,12 +37,12 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 1113
+    "kills": 1114
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 928
+    "kills": 930
   },
   {
     "playerId": "21508277",
@@ -385,6 +385,11 @@
     "kills": 4
   },
   {
+    "playerId": "13825931",
+    "username": "Tigers786",
+    "kills": 3
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2
@@ -392,11 +397,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 2
-  },
-  {
-    "playerId": "13825931",
-    "username": "Tigers786",
     "kills": 2
   },
   {
