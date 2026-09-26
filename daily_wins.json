@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1093
+    "kills": 1096
   },
   {
     "playerId": "22744888",
@@ -32,7 +32,7 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 80
+    "kills": 81
   },
   {
     "playerId": "20297710",
@@ -42,7 +42,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 57
+    "kills": 59
   },
   {
     "playerId": "13773720",
@@ -87,12 +87,17 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 24
+    "kills": 25
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 19
+    "kills": 21
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 20
   },
   {
     "playerId": "21109495",
@@ -102,11 +107,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 15
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 15
   },
   {
@@ -142,6 +142,11 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
+    "kills": 1
+  },
+  {
+    "playerId": "19635407",
+    "username": "Mashin",
     "kills": 1
   },
   {
@@ -662,11 +667,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "19635407",
-    "username": "Mashin",
     "kills": 0
   },
   {

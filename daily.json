@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1666,
-    "lastKill": "2026-09-26 08:44:06"
+    "kills": 1668,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "22744888",
@@ -38,14 +38,14 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 142,
-    "lastKill": "2026-09-26 07:30:19"
+    "kills": 149,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 112,
-    "lastKill": "2026-09-26 08:44:06"
+    "kills": 122,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "20297710",
@@ -116,14 +116,14 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 34,
-    "lastKill": "2026-09-26 08:44:06"
+    "kills": 38,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 34,
-    "lastKill": "2026-09-26 08:44:06"
+    "kills": 35,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "13783887",
@@ -132,16 +132,16 @@
     "lastKill": "2026-09-26 08:30:49"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 27,
+    "lastKill": "2026-09-26 08:46:44"
+  },
+  {
     "playerId": "13825931",
     "username": "Tigers786",
     "kills": 26,
     "lastKill": "2026-09-26 03:57:16"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 24,
-    "lastKill": "2026-09-26 08:44:06"
   },
   {
     "playerId": "18985660",
@@ -172,6 +172,12 @@
     "username": "MoodyBlastGargoyle",
     "kills": 3,
     "lastKill": "2026-09-26 04:03:30"
+  },
+  {
+    "playerId": "19635407",
+    "username": "Mashin",
+    "kills": 3,
+    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "8502796",
@@ -794,12 +800,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": "2026-09-26 00:00:00"
-  },
-  {
-    "playerId": "19635407",
-    "username": "Mashin",
     "kills": 0,
     "lastKill": "2026-09-26 00:00:00"
   },
