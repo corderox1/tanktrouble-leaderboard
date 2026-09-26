@@ -60,14 +60,14 @@
     "kills": 716
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 709
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 706
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 704
   },
   {
     "playerId": "21012136",
@@ -125,13 +125,13 @@
     "kills": 321
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 309
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
+    "kills": 312
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 309
   },
   {
@@ -152,7 +152,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 287
+    "kills": 288
   },
   {
     "playerId": "20270104",
@@ -315,13 +315,13 @@
     "kills": 29
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 25
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
+    "kills": 28
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 25
   },
   {
@@ -417,7 +417,7 @@
   {
     "playerId": "19635407",
     "username": "Mashin",
-    "kills": 1
+    "kills": 2
   },
   {
     "playerId": "10132007",

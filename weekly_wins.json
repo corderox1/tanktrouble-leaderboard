@@ -75,14 +75,14 @@
     "kills": 305
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 255
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 254
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 250
   },
   {
     "playerId": "8502796",
@@ -140,14 +140,14 @@
     "kills": 169
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 167
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 164
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 167
   },
   {
     "playerId": "20270104",
@@ -195,14 +195,14 @@
     "kills": 109
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 107
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 106
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 107
   },
   {
     "playerId": "12222122",
@@ -290,13 +290,13 @@
     "kills": 28
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 25
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
+    "kills": 28
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 25
   },
   {
@@ -380,6 +380,11 @@
     "kills": 2
   },
   {
+    "playerId": "19635407",
+    "username": "Mashin",
+    "kills": 2
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 1
@@ -387,11 +392,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 1
-  },
-  {
-    "playerId": "19635407",
-    "username": "Mashin",
     "kills": 1
   },
   {

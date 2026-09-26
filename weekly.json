@@ -152,8 +152,14 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 300,
-    "lastKill": "2026-09-26 08:46:44"
+    "kills": 304,
+    "lastKill": "2026-09-26 08:49:17"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 302,
+    "lastKill": "2026-09-26 08:49:17"
   },
   {
     "playerId": "1051525",
@@ -166,12 +172,6 @@
     "username": "PrehistoricPyroGhost",
     "kills": 293,
     "lastKill": "2026-09-25 12:40:19"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 292,
-    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "20270104",
@@ -254,14 +254,14 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 152,
-    "lastKill": "2026-09-26 08:46:44"
+    "kills": 153,
+    "lastKill": "2026-09-26 08:49:17"
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 149,
-    "lastKill": "2026-09-26 08:46:44"
+    "kills": 151,
+    "lastKill": "2026-09-26 08:49:17"
   },
   {
     "playerId": "17629928",
@@ -372,6 +372,12 @@
     "lastKill": "2026-09-21 11:39:27"
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 40,
+    "lastKill": "2026-09-26 08:49:17"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 38,
@@ -382,12 +388,6 @@
     "username": "Sc4r",
     "kills": 36,
     "lastKill": "2026-09-25 22:12:35"
-  },
-  {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 35,
-    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "19425584",
@@ -450,16 +450,16 @@
     "lastKill": "2026-09-24 18:27:56"
   },
   {
+    "playerId": "19635407",
+    "username": "Mashin",
+    "kills": 5,
+    "lastKill": "2026-09-26 08:49:17"
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 3,
     "lastKill": "2026-09-26 04:03:30"
-  },
-  {
-    "playerId": "19635407",
-    "username": "Mashin",
-    "kills": 3,
-    "lastKill": "2026-09-26 08:46:44"
   },
   {
     "playerId": "19168800",
