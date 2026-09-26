@@ -50,14 +50,14 @@
     "kills": 95
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 91
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 89
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 88
   },
   {
     "playerId": "21465536",
@@ -105,6 +105,11 @@
     "kills": 32
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 31
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 27
@@ -112,11 +117,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 26
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 26
   },
   {
