@@ -146,20 +146,20 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
+    "kills": 314,
+    "lastKill": "2026-09-26 08:54:26"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 311,
-    "lastKill": "2026-09-26 08:51:50"
+    "lastKill": "2026-09-26 08:54:26"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 311,
     "lastKill": "2026-09-26 07:41:23"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 308,
-    "lastKill": "2026-09-26 08:51:50"
   },
   {
     "playerId": "1051525",
@@ -252,16 +252,16 @@
     "lastKill": "2026-09-24 18:35:12"
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 154,
+    "lastKill": "2026-09-26 08:54:26"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 153,
     "lastKill": "2026-09-26 08:49:17"
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 152,
-    "lastKill": "2026-09-26 08:51:50"
   },
   {
     "playerId": "17629928",
@@ -288,16 +288,16 @@
     "lastKill": "2026-09-22 04:24:44"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 86,
+    "lastKill": "2026-09-26 08:54:26"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 85,
     "lastKill": "2026-09-26 08:30:49"
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 84,
-    "lastKill": "2026-09-26 08:51:50"
   },
   {
     "playerId": "1145079",
@@ -348,6 +348,12 @@
     "lastKill": "2026-09-24 19:09:36"
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 54,
+    "lastKill": "2026-09-26 08:54:26"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 50,
@@ -364,12 +370,6 @@
     "username": "Reds",
     "kills": 47,
     "lastKill": "2026-09-25 20:16:21"
-  },
-  {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 45,
-    "lastKill": "2026-09-26 08:51:50"
   },
   {
     "playerId": "1001669",
