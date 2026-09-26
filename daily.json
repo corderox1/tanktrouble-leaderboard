@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1467,
-    "lastKill": "2026-09-26 07:38:49"
+    "kills": 1472,
+    "lastKill": "2026-09-26 07:41:23"
   },
   {
     "playerId": "22744888",
@@ -20,20 +20,20 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 310,
-    "lastKill": "2026-09-26 07:38:49"
+    "kills": 311,
+    "lastKill": "2026-09-26 07:41:23"
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 143,
+    "lastKill": "2026-09-26 07:41:23"
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 142,
     "lastKill": "2026-09-26 07:30:19"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 141,
-    "lastKill": "2026-09-26 07:38:49"
   },
   {
     "playerId": "20297710",
@@ -102,16 +102,16 @@
     "lastKill": "2026-09-26 03:57:16"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 21,
+    "lastKill": "2026-09-26 07:41:23"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 18,
     "lastKill": "2026-09-26 07:25:07"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 17,
-    "lastKill": "2026-09-26 07:38:49"
   },
   {
     "playerId": "18985660",
@@ -148,6 +148,18 @@
     "username": "MoodyBlastGargoyle",
     "kills": 3,
     "lastKill": "2026-09-26 04:03:30"
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 2,
+    "lastKill": "2026-09-26 07:41:23"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 1,
+    "lastKill": "2026-09-26 07:41:23"
   },
   {
     "playerId": "22710399",
@@ -270,12 +282,6 @@
     "lastKill": "2026-09-26 00:00:00"
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": "2026-09-26 00:00:00"
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 0,
@@ -284,12 +290,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0,
-    "lastKill": "2026-09-26 00:00:00"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0,
     "lastKill": "2026-09-26 00:00:00"
   },
