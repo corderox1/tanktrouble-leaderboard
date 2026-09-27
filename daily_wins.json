@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1782
+    "kills": 1790
   },
   {
     "playerId": "22077521",
@@ -40,6 +40,11 @@
     "kills": 22
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 21
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 21
@@ -50,11 +55,6 @@
     "kills": 19
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 18
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 16
@@ -63,6 +63,11 @@
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 5
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 4
   },
   {
     "playerId": "21797119",
@@ -202,11 +207,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {

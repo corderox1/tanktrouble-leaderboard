@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2488,
-    "lastKill": "2026-09-27 12:18:45"
+    "kills": 2500,
+    "lastKill": "2026-09-27 12:21:35"
   },
   {
     "playerId": "22077521",
@@ -50,8 +50,8 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 60,
-    "lastKill": "2026-09-27 12:18:45"
+    "kills": 65,
+    "lastKill": "2026-09-27 12:21:35"
   },
   {
     "playerId": "21178768",
@@ -84,22 +84,28 @@
     "lastKill": "2026-09-27 06:06:58"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 3,
+    "lastKill": "2026-09-27 12:21:35"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 3,
     "lastKill": "2026-09-27 09:42:53"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 2,
+    "lastKill": "2026-09-27 12:21:35"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 2,
     "lastKill": "2026-09-27 00:29:23"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 1,
-    "lastKill": "2026-09-27 07:32:22"
   },
   {
     "playerId": "22710399",
@@ -242,12 +248,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": "2026-09-27 00:02:27"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": "2026-09-27 00:02:27"
   },
