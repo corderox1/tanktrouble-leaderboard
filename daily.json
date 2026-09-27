@@ -2,20 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 351,
-    "lastKill": "2026-09-27 02:26:45"
+    "kills": 371,
+    "lastKill": "2026-09-27 02:29:27"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 64,
-    "lastKill": "2026-09-27 02:26:45"
+    "kills": 70,
+    "lastKill": "2026-09-27 02:29:27"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 2,
     "lastKill": "2026-09-27 00:29:23"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 2,
+    "lastKill": "2026-09-27 02:29:27"
   },
   {
     "playerId": "22710399",
@@ -488,12 +494,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-09-27 00:02:27"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": "2026-09-27 00:02:27"
   },
