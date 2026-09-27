@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2262
+    "kills": 2263
   },
   {
     "playerId": "22077521",
@@ -17,7 +17,7 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 121
+    "kills": 124
   },
   {
     "playerId": "21508277",
@@ -27,7 +27,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 85
+    "kills": 88
   },
   {
     "playerId": "4142755",
@@ -47,7 +47,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 37
+    "kills": 40
   },
   {
     "playerId": "21700920",
@@ -57,7 +57,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 27
+    "kills": 29
   },
   {
     "playerId": "4381511",
@@ -837,6 +837,16 @@
   {
     "playerId": "1265805",
     "username": "sheep",
+    "kills": 0
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 0
+  },
+  {
+    "playerId": "21727981",
+    "username": "YHWH",
     "kills": 0
   }
 ]

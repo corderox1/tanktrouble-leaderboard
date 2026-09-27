@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 56829,
-    "lastKill": "2026-09-27 15:04:23"
+    "kills": 56830,
+    "lastKill": "2026-09-27 15:07:16"
   },
   {
     "playerId": "20297710",
@@ -14,8 +14,8 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 2816,
-    "lastKill": "2026-09-27 15:04:23"
+    "kills": 2822,
+    "lastKill": "2026-09-27 15:07:16"
   },
   {
     "playerId": "21601349",
@@ -128,14 +128,14 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 951,
-    "lastKill": "2026-09-27 15:04:23"
+    "kills": 954,
+    "lastKill": "2026-09-27 15:07:16"
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 924,
-    "lastKill": "2026-09-27 15:04:23"
+    "kills": 932,
+    "lastKill": "2026-09-27 15:07:16"
   },
   {
     "playerId": "11769746",
@@ -308,8 +308,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 192,
-    "lastKill": "2026-09-27 15:04:23"
+    "kills": 198,
+    "lastKill": "2026-09-27 15:07:16"
   },
   {
     "playerId": "16874545",
@@ -384,16 +384,16 @@
     "lastKill": "2026-09-21 14:33:54"
   },
   {
+    "playerId": "21967085",
+    "username": "Studdxr",
+    "kills": 56,
+    "lastKill": "2026-09-27 15:07:16"
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 56,
     "lastKill": "2026-09-24 19:09:36"
-  },
-  {
-    "playerId": "21967085",
-    "username": "Studdxr",
-    "kills": 54,
-    "lastKill": "2026-09-27 15:04:23"
   },
   {
     "playerId": "12331664",
@@ -1024,5 +1024,17 @@
     "username": "sheep",
     "kills": 0,
     "lastKill": "2026-09-25 16:35:55"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 0,
+    "lastKill": "2026-09-27 15:04:23"
+  },
+  {
+    "playerId": "21727981",
+    "username": "YHWH",
+    "kills": 0,
+    "lastKill": "2026-09-27 15:04:23"
   }
 ]
