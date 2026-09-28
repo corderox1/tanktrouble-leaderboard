@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4194,
-    "lastKill": "2026-09-28 16:44:15"
+    "kills": 4201,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "8590474",
@@ -38,8 +38,8 @@
   {
     "playerId": "8478955",
     "username": "Boagrius",
-    "kills": 177,
-    "lastKill": "2026-09-28 16:44:15"
+    "kills": 187,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "3990108",
@@ -74,8 +74,8 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 70,
-    "lastKill": "2026-09-28 16:38:07"
+    "kills": 71,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "21967085",
@@ -98,14 +98,20 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 54,
-    "lastKill": "2026-09-28 16:44:15"
+    "kills": 60,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 48,
     "lastKill": "2026-09-28 12:59:00"
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 44,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "20269995",
@@ -130,12 +136,6 @@
     "username": "Lokirss",
     "kills": 36,
     "lastKill": "2026-09-28 08:26:31"
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
-    "kills": 33,
-    "lastKill": "2026-09-28 16:44:15"
   },
   {
     "playerId": "21508277",
@@ -214,6 +214,12 @@
     "username": "rhak",
     "kills": 4,
     "lastKill": "2026-09-28 16:18:29"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 3,
+    "lastKill": "2026-09-28 16:47:37"
   },
   {
     "playerId": "18985660",
@@ -524,12 +530,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
