@@ -2,14 +2,14 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 537,
-    "lastKill": "2026-09-28 04:31:01"
+    "kills": 542,
+    "lastKill": "2026-09-28 04:34:00"
   },
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 509,
-    "lastKill": "2026-09-28 04:31:01"
+    "kills": 519,
+    "lastKill": "2026-09-28 04:34:00"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,14 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 27,
-    "lastKill": "2026-09-28 04:31:01"
+    "kills": 33,
+    "lastKill": "2026-09-28 04:34:00"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 4,
+    "lastKill": "2026-09-28 04:34:00"
   },
   {
     "playerId": "22710399",
@@ -488,12 +494,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
