@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3213
+    "kills": 3215
   },
   {
     "playerId": "8590474",
@@ -30,14 +30,14 @@
     "kills": 159
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 97
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 89
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 88
   },
   {
     "playerId": "1051525",
@@ -47,7 +47,7 @@
   {
     "playerId": "8478955",
     "username": "Boagrius",
-    "kills": 75
+    "kills": 77
   },
   {
     "playerId": "13773720",
@@ -140,6 +140,11 @@
     "kills": 8
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 7
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 7
@@ -150,14 +155,19 @@
     "kills": 6
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 4
-  },
-  {
     "playerId": "1899675",
     "username": "TripleStryke",
     "kills": 4
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 4
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 3
   },
   {
     "playerId": "10794529",
@@ -375,11 +385,6 @@
     "kills": 0
   },
   {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
-    "kills": 0
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 0
@@ -412,11 +417,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
