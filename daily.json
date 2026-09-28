@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4395,
-    "lastKill": "2026-09-28 17:23:42"
+    "kills": 4405,
+    "lastKill": "2026-09-28 17:26:55"
   },
   {
     "playerId": "8590474",
@@ -48,16 +48,16 @@
     "lastKill": "2026-09-28 14:17:15"
   },
   {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 148,
+    "lastKill": "2026-09-28 17:26:55"
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 142,
     "lastKill": "2026-09-28 17:07:33"
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
-    "kills": 140,
-    "lastKill": "2026-09-28 17:23:42"
   },
   {
     "playerId": "22077521",
@@ -110,8 +110,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 52,
-    "lastKill": "2026-09-28 17:23:42"
+    "kills": 56,
+    "lastKill": "2026-09-28 17:26:55"
   },
   {
     "playerId": "22706369",
@@ -214,6 +214,12 @@
     "username": "rhak",
     "kills": 4,
     "lastKill": "2026-09-28 16:18:29"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 4,
+    "lastKill": "2026-09-28 17:26:55"
   },
   {
     "playerId": "21797119",
@@ -530,12 +536,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
