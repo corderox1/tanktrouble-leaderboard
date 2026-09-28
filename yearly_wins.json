@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 45454
+    "kills": 45461
   },
   {
     "playerId": "21601349",
@@ -335,6 +335,11 @@
     "kills": 25
   },
   {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 25
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 23
@@ -347,11 +352,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 22
-  },
-  {
-    "playerId": "8478955",
-    "username": "Boagrius",
     "kills": 22
   },
   {
