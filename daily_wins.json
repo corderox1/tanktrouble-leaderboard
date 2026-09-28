@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3054
+    "kills": 3060
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 410
+    "kills": 411
   },
   {
     "playerId": "22077521",
@@ -27,7 +27,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 115
+    "kills": 123
   },
   {
     "playerId": "21508277",
@@ -47,7 +47,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 58
+    "kills": 61
   },
   {
     "playerId": "17629928",
@@ -62,7 +62,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 51
+    "kills": 52
   },
   {
     "playerId": "13773720",
@@ -170,6 +170,11 @@
     "kills": 1
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 0
@@ -257,11 +262,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {

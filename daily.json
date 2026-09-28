@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3954,
-    "lastKill": "2026-09-27 21:51:07"
+    "kills": 3962,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 615,
-    "lastKill": "2026-09-27 21:51:07"
+    "kills": 620,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "22077521",
@@ -44,8 +44,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 170,
-    "lastKill": "2026-09-27 21:51:07"
+    "kills": 181,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "4142755",
@@ -80,14 +80,20 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 80,
-    "lastKill": "2026-09-27 21:51:07"
+    "kills": 83,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 77,
     "lastKill": "2026-09-27 11:16:22"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 70,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "21109495",
@@ -100,12 +106,6 @@
     "username": "frogcatchflies",
     "kills": 70,
     "lastKill": "2026-09-27 19:29:58"
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 68,
-    "lastKill": "2026-09-27 21:51:07"
   },
   {
     "playerId": "19068893",
@@ -196,6 +196,12 @@
     "username": "SoftMagmaDriver",
     "kills": 6,
     "lastKill": "2026-09-27 16:02:01"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 2,
+    "lastKill": "2026-09-27 21:54:09"
   },
   {
     "playerId": "20375730",
@@ -314,12 +320,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": "2026-09-27 00:02:27"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": "2026-09-27 00:02:27"
   },
