@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3068
+    "kills": 3072
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 415
+    "kills": 416
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 283
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 153
   },
   {
     "playerId": "22706369",
@@ -25,11 +30,6 @@
     "kills": 146
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 143
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 93
@@ -40,19 +40,19 @@
     "kills": 91
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 73
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 67
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 67
-  },
-  {
     "playerId": "21452912",
     "username": "k",
-    "kills": 59
+    "kills": 60
   },
   {
     "playerId": "17629928",
@@ -140,6 +140,11 @@
     "kills": 12
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 10
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 8
@@ -148,11 +153,6 @@
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 6
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 5
   },
   {
     "playerId": "21708970",
