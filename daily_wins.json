@@ -55,14 +55,14 @@
     "kills": 67
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 58
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 57
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 53
   },
   {
     "playerId": "22694251",
@@ -105,6 +105,11 @@
     "kills": 21
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 20
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 20
@@ -118,11 +123,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 19
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 17
   },
   {
     "playerId": "21797119",
