@@ -2,32 +2,38 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2519,
-    "lastKill": "2026-09-28 10:13:23"
+    "kills": 2546,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 670,
-    "lastKill": "2026-09-28 10:13:23"
+    "kills": 681,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 472,
-    "lastKill": "2026-09-28 10:13:23"
+    "kills": 485,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 468,
-    "lastKill": "2026-09-28 10:13:23"
+    "kills": 473,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 222,
     "lastKill": "2026-09-28 09:47:06"
+  },
+  {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 69,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "21967085",
@@ -40,12 +46,6 @@
     "username": "frogcatchflies",
     "kills": 65,
     "lastKill": "2026-09-28 04:55:25"
-  },
-  {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 64,
-    "lastKill": "2026-09-28 10:13:23"
   },
   {
     "playerId": "21462355",
@@ -62,8 +62,8 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 28,
-    "lastKill": "2026-09-28 10:13:23"
+    "kills": 29,
+    "lastKill": "2026-09-28 10:16:43"
   },
   {
     "playerId": "8502796",
@@ -72,16 +72,16 @@
     "lastKill": "2026-09-28 09:28:01"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 23,
+    "lastKill": "2026-09-28 10:16:43"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 18,
     "lastKill": "2026-09-28 10:04:08"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 18,
-    "lastKill": "2026-09-28 09:31:16"
   },
   {
     "playerId": "1145079",
@@ -1018,5 +1018,17 @@
     "username": "YHWH",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 0,
+    "lastKill": "2026-09-28 10:13:23"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 0,
+    "lastKill": "2026-09-28 10:13:23"
   }
 ]

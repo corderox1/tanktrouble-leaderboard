@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1949
+    "kills": 1956
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 557
+    "kills": 560
   },
   {
     "playerId": "14892840",
@@ -17,12 +17,12 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 154
+    "kills": 156
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 142
+    "kills": 144
   },
   {
     "playerId": "21967085",
@@ -30,19 +30,19 @@
     "kills": 50
   },
   {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 34
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 33
   },
   {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 30
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 22
+    "kills": 23
   },
   {
     "playerId": "21601349",
@@ -70,13 +70,13 @@
     "kills": 8
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 7
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
+    "kills": 8
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 7
   },
   {
@@ -847,6 +847,16 @@
   {
     "playerId": "21727981",
     "username": "YHWH",
+    "kills": 0
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 0
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
     "kills": 0
   }
 ]
