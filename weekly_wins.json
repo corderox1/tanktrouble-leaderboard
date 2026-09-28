@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2381
+    "kills": 2407
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 641
+    "kills": 645
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,12 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 21
+    "kills": 25
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 19
   },
   {
     "playerId": "20984454",
@@ -75,11 +80,6 @@
     "kills": 11
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 11
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 11
@@ -88,6 +88,11 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 10
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 8
   },
   {
     "playerId": "8502796",
@@ -107,11 +112,6 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 4
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 4
   },
   {
