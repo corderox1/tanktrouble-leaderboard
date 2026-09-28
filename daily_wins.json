@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3199
+    "kills": 3208
   },
   {
     "playerId": "8590474",
@@ -37,17 +37,17 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 76
-  },
-  {
-    "playerId": "8478955",
-    "username": "Boagrius",
-    "kills": 74
+    "kills": 84
   },
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 70
+    "kills": 80
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 75
   },
   {
     "playerId": "13773720",
@@ -162,6 +162,11 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
+    "kills": 1
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 1
   },
   {
@@ -322,11 +327,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0
   },
   {
