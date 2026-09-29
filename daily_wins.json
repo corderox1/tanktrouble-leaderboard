@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2089
+    "kills": 2096
   },
   {
     "playerId": "20297710",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 158
+    "kills": 159
   },
   {
     "playerId": "20984454",
@@ -37,7 +37,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 54
+    "kills": 62
   },
   {
     "playerId": "14892840",
@@ -45,19 +45,19 @@
     "kills": 53
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 35
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 35
+    "kills": 37
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 33
+    "kills": 36
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 35
   },
   {
     "playerId": "21516705",
@@ -107,7 +107,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 10
+    "kills": 12
   },
   {
     "playerId": "14617724",
@@ -133,6 +133,11 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 3
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 1
   },
   {
     "playerId": "21012136",
@@ -392,11 +397,6 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 0
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0
   },
   {
