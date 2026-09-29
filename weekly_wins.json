@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6445
+    "kills": 6452
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1156
+    "kills": 1157
   },
   {
     "playerId": "22710399",
@@ -52,12 +52,12 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 127
+    "kills": 128
   },
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 111
+    "kills": 114
   },
   {
     "playerId": "21452912",
@@ -122,7 +122,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 46
+    "kills": 47
   },
   {
     "playerId": "6776098",
@@ -132,7 +132,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 37
+    "kills": 40
   },
   {
     "playerId": "14617724",
@@ -230,6 +230,11 @@
     "kills": 6
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 5
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 5
@@ -248,11 +253,6 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 3
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 1
   },
   {
     "playerId": "21012136",
