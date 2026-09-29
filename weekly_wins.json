@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6810
+    "kills": 6821
   },
   {
     "playerId": "8590474",
@@ -65,6 +65,11 @@
     "kills": 101
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 91
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 89
@@ -73,11 +78,6 @@
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 88
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 86
   },
   {
     "playerId": "13773720",
@@ -190,13 +190,13 @@
     "kills": 20
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 17
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 20
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 17
   },
   {
