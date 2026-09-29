@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2008
+    "kills": 2028
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 159
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 154
-  },
-  {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 151
   },
   {
     "playerId": "20984454",
@@ -130,6 +130,11 @@
     "kills": 3
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 3
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 1
@@ -147,11 +152,6 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 1
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 1
   },
   {
