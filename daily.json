@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1158,
-    "lastKill": "2026-09-29 06:14:56"
+    "kills": 1169,
+    "lastKill": "2026-09-29 06:18:30"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 126,
-    "lastKill": "2026-09-29 06:14:56"
+    "kills": 136,
+    "lastKill": "2026-09-29 06:18:30"
   },
   {
     "playerId": "14892840",
@@ -70,6 +70,12 @@
     "username": "SoftMagmaDriver",
     "kills": 6,
     "lastKill": "2026-09-29 05:21:03"
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 1,
+    "lastKill": "2026-09-29 06:18:30"
   },
   {
     "playerId": "22710399",
@@ -386,12 +392,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 0,
-    "lastKill": "2026-09-29 00:01:00"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 0,
     "lastKill": "2026-09-29 00:01:00"
   },
