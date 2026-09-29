@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2103
+    "kills": 2110
   },
   {
     "playerId": "20297710",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 160
+    "kills": 162
   },
   {
     "playerId": "20984454",
@@ -45,14 +45,14 @@
     "kills": 53
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 40
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 37
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 40
   },
   {
     "playerId": "16092601",
@@ -85,6 +85,11 @@
     "kills": 17
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 17
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 15
@@ -105,14 +110,19 @@
     "kills": 13
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 13
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 8
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 7
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 7
   },
   {
     "playerId": "6776098",
@@ -123,11 +133,6 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 6
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 5
   },
   {
     "playerId": "19425584",
@@ -387,11 +392,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
