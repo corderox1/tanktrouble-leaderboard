@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1347,
-    "lastKill": "2026-09-29 07:18:36"
+    "kills": 1370,
+    "lastKill": "2026-09-29 07:22:00"
   },
   {
     "playerId": "10794529",
@@ -48,22 +48,22 @@
     "lastKill": "2026-09-29 00:20:37"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 35,
+    "lastKill": "2026-09-29 07:22:00"
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 27,
     "lastKill": "2026-09-29 02:12:04"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 25,
-    "lastKill": "2026-09-29 07:18:36"
-  },
-  {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 17,
-    "lastKill": "2026-09-29 07:18:36"
+    "kills": 22,
+    "lastKill": "2026-09-29 07:22:00"
   },
   {
     "playerId": "6776098",
@@ -88,6 +88,12 @@
     "username": "FATAI169",
     "kills": 1,
     "lastKill": "2026-09-29 06:18:30"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 1,
+    "lastKill": "2026-09-29 07:22:00"
   },
   {
     "playerId": "22710399",
@@ -818,12 +824,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": "2026-09-29 00:01:00"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-09-29 00:01:00"
   },
