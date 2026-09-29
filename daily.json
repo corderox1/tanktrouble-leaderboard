@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1485,
-    "lastKill": "2026-09-29 07:41:27"
+    "kills": 1497,
+    "lastKill": "2026-09-29 07:44:44"
   },
   {
     "playerId": "10794529",
@@ -14,8 +14,8 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 76,
-    "lastKill": "2026-09-29 07:41:27"
+    "kills": 83,
+    "lastKill": "2026-09-29 07:44:44"
   },
   {
     "playerId": "14892840",
@@ -26,8 +26,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 51,
-    "lastKill": "2026-09-29 07:41:27"
+    "kills": 56,
+    "lastKill": "2026-09-29 07:44:44"
   },
   {
     "playerId": "21462355",
@@ -48,16 +48,16 @@
     "lastKill": "2026-09-29 05:47:19"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 44,
+    "lastKill": "2026-09-29 07:44:44"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 42,
     "lastKill": "2026-09-29 01:39:07"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 37,
-    "lastKill": "2026-09-29 07:41:27"
   },
   {
     "playerId": "21178768",
@@ -88,6 +88,12 @@
     "username": "SoftMagmaDriver",
     "kills": 15,
     "lastKill": "2026-09-29 06:51:38"
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 3,
+    "lastKill": "2026-09-29 07:44:44"
   },
   {
     "playerId": "22694251",
@@ -518,12 +524,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": "2026-09-29 00:01:00"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": "2026-09-29 00:01:00"
   },
