@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4251,
-    "lastKill": "2026-09-29 17:29:11"
+    "kills": 4252,
+    "lastKill": "2026-09-29 17:36:13"
   },
   {
     "playerId": "20984454",
@@ -204,6 +204,12 @@
     "lastKill": "2026-09-29 15:32:37"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 18,
+    "lastKill": "2026-09-29 17:36:13"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 15,
@@ -222,12 +228,6 @@
     "lastKill": "2026-09-29 11:45:20"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 13,
-    "lastKill": "2026-09-29 17:32:43"
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 3,
@@ -238,6 +238,12 @@
     "username": "RDCGAMER",
     "kills": 3,
     "lastKill": "2026-09-29 16:36:04"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 3,
+    "lastKill": "2026-09-29 17:36:13"
   },
   {
     "playerId": "22694251",
@@ -980,12 +986,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0,
-    "lastKill": "2026-09-29 00:01:00"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0,
     "lastKill": "2026-09-29 00:01:00"
   },
