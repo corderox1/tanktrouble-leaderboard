@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3233
+    "kills": 3250
   },
   {
     "playerId": "20297710",
@@ -67,7 +67,7 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 41
+    "kills": 45
   },
   {
     "playerId": "18625144",
@@ -115,6 +115,11 @@
     "kills": 21
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 21
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 20
@@ -130,13 +135,13 @@
     "kills": 17
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 17
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 15
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 15
   },
   {
@@ -152,11 +157,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 13
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 13
   },
   {
