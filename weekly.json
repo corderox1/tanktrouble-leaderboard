@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6412,
-    "lastKill": "2026-09-29 04:47:55"
+    "kills": 6439,
+    "lastKill": "2026-09-29 04:51:20"
   },
   {
     "playerId": "8590474",
@@ -122,8 +122,8 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 76,
-    "lastKill": "2026-09-29 04:47:55"
+    "kills": 81,
+    "lastKill": "2026-09-29 04:51:20"
   },
   {
     "playerId": "21967085",
@@ -180,6 +180,12 @@
     "lastKill": "2026-09-28 08:26:31"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 32,
+    "lastKill": "2026-09-29 04:51:20"
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 29,
@@ -204,16 +210,16 @@
     "lastKill": "2026-09-28 09:28:01"
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 23,
-    "lastKill": "2026-09-29 04:47:55"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 21,
     "lastKill": "2026-09-28 16:38:07"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 19,
+    "lastKill": "2026-09-29 04:51:20"
   },
   {
     "playerId": "13783887",
@@ -232,12 +238,6 @@
     "username": "SoftMagmaDriver",
     "kills": 15,
     "lastKill": "2026-09-28 19:33:44"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 14,
-    "lastKill": "2026-09-29 04:47:55"
   },
   {
     "playerId": "21109495",
