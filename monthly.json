@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 63506,
-    "lastKill": "2026-09-29 00:01:00"
+    "kills": 63513,
+    "lastKill": "2026-09-29 00:04:29"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 2430,
-    "lastKill": "2026-09-28 11:01:18"
+    "kills": 2431,
+    "lastKill": "2026-09-29 00:04:29"
   },
   {
     "playerId": "21796745",
@@ -492,6 +492,12 @@
     "lastKill": "2026-09-17 20:44:12"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 11,
+    "lastKill": "2026-09-29 00:04:29"
+  },
+  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 5,
@@ -508,12 +514,6 @@
     "username": "Reverend",
     "kills": 1,
     "lastKill": "2026-09-27 15:28:52"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 1,
-    "lastKill": "2026-09-29 00:01:00"
   },
   {
     "playerId": "10132007",
