@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5015
+    "kills": 5026
   },
   {
     "playerId": "8590474",
@@ -105,13 +105,13 @@
     "kills": 47
   },
   {
-    "playerId": "21462355",
-    "username": "PrehistoricPyroGhost",
-    "kills": 39
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
+    "kills": 40
+  },
+  {
+    "playerId": "21462355",
+    "username": "PrehistoricPyroGhost",
     "kills": 39
   },
   {
@@ -200,6 +200,11 @@
     "kills": 8
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 8
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 6
@@ -208,11 +213,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 5
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 4
   },
   {
     "playerId": "1899675",
