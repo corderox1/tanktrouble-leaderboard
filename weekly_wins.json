@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5963
+    "kills": 5977
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1044
+    "kills": 1046
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 302
+    "kills": 304
   },
   {
     "playerId": "16736853",
@@ -245,6 +245,11 @@
     "kills": 4
   },
   {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 3
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 1
@@ -437,11 +442,6 @@
   {
     "playerId": "29695",
     "username": "77777",
-    "kills": 0
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
     "kills": 0
   },
   {
