@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1152
+    "kills": 1166
   },
   {
     "playerId": "10794529",
@@ -15,6 +15,11 @@
     "kills": 43
   },
   {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 30
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 30
@@ -25,14 +30,9 @@
     "kills": 29
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 25
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 23
+    "kills": 27
   },
   {
     "playerId": "1185396",
@@ -72,6 +72,11 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 1
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 1
   },
   {
@@ -717,11 +722,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   },
   {
