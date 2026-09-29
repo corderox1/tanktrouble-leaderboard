@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3356
+    "kills": 3360
   },
   {
     "playerId": "20297710",
@@ -85,6 +85,11 @@
     "kills": 35
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 32
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 32
@@ -93,11 +98,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 30
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 29
   },
   {
     "playerId": "8502796",
@@ -165,13 +165,13 @@
     "kills": 13
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 10
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
+    "kills": 11
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
     "kills": 10
   },
   {
