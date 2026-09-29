@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2689,
-    "lastKill": "2026-09-29 12:12:23"
+    "kills": 2714,
+    "lastKill": "2026-09-29 12:15:49"
   },
   {
     "playerId": "20984454",
@@ -48,16 +48,16 @@
     "lastKill": "2026-09-29 11:21:54"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 102,
+    "lastKill": "2026-09-29 12:15:49"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 93,
     "lastKill": "2026-09-29 09:28:51"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 92,
-    "lastKill": "2026-09-29 12:12:23"
   },
   {
     "playerId": "19068893",
@@ -92,8 +92,8 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 40,
-    "lastKill": "2026-09-29 12:12:23"
+    "kills": 42,
+    "lastKill": "2026-09-29 12:15:49"
   },
   {
     "playerId": "16092601",
@@ -120,16 +120,22 @@
     "lastKill": "2026-09-29 09:32:17"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 28,
+    "lastKill": "2026-09-29 12:15:49"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 23,
     "lastKill": "2026-09-29 11:21:54"
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 21,
-    "lastKill": "2026-09-29 12:12:23"
+    "lastKill": "2026-09-29 12:15:49"
   },
   {
     "playerId": "6776098",
@@ -138,22 +144,16 @@
     "lastKill": "2026-09-29 04:57:43"
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 15,
+    "lastKill": "2026-09-29 12:15:49"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 15,
     "lastKill": "2026-09-29 06:51:38"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 14,
-    "lastKill": "2026-09-29 12:12:23"
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 14,
-    "lastKill": "2026-09-29 12:12:23"
   },
   {
     "playerId": "22706369",
@@ -178,6 +178,12 @@
     "username": "Lil_May",
     "kills": 8,
     "lastKill": "2026-09-29 09:42:28"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 3,
+    "lastKill": "2026-09-29 12:15:49"
   },
   {
     "playerId": "22694251",
@@ -290,12 +296,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": "2026-09-29 00:01:00"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": "2026-09-29 00:01:00"
   },
