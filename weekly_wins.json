@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5541
+    "kills": 5554
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1032
+    "kills": 1034
   },
   {
     "playerId": "22710399",
@@ -27,7 +27,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 250
+    "kills": 254
   },
   {
     "playerId": "4686507",
@@ -120,6 +120,11 @@
     "kills": 40
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 33
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 31
@@ -145,11 +150,6 @@
     "kills": 28
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 28
-  },
-  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 22
@@ -158,6 +158,11 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 20
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 17
   },
   {
     "playerId": "4381511",
@@ -182,11 +187,6 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 13
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 13
   },
   {
