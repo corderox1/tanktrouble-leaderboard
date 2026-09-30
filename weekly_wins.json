@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7913
+    "kills": 7918
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1179
+    "kills": 1181
   },
   {
     "playerId": "22710399",
@@ -80,6 +80,11 @@
     "kills": 99
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 89
+  },
+  {
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 88
@@ -92,11 +97,6 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 83
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 83
   },
   {
@@ -190,13 +190,13 @@
     "kills": 28
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 22
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
+    "kills": 23
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 22
   },
   {
