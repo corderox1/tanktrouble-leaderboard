@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10569
+    "kills": 10574
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 413
+    "kills": 417
   },
   {
     "playerId": "16736853",
@@ -190,13 +190,13 @@
     "kills": 35
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 32
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 33
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
     "kills": 32
   },
   {
@@ -285,6 +285,11 @@
     "kills": 6
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 5
+  },
+  {
     "playerId": "1899675",
     "username": "TripleStryke",
     "kills": 4
@@ -293,11 +298,6 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 4
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 2
   },
   {
     "playerId": "20011985",

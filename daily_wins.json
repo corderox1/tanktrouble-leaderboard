@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2193
+    "kills": 2198
   },
   {
     "playerId": "20297710",
@@ -10,14 +10,14 @@
     "kills": 155
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 141
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 139
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 137
   },
   {
     "playerId": "8899024",
@@ -52,7 +52,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 31
+    "kills": 32
   },
   {
     "playerId": "21700920",
@@ -100,6 +100,11 @@
     "kills": 6
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 5
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 3
@@ -108,11 +113,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 3
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 2
   },
   {
     "playerId": "1145079",
