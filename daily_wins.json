@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2070
+    "kills": 2096
   },
   {
     "playerId": "20297710",
@@ -75,6 +75,11 @@
     "kills": 15
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 15
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 14
@@ -85,11 +90,6 @@
     "kills": 14
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 11
-  },
-  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 6
@@ -98,6 +98,11 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 5
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 3
   },
   {
     "playerId": "21178768",
@@ -417,11 +422,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
     "kills": 0
   },
   {
