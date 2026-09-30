@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3335
+    "kills": 3341
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 326
+    "kills": 334
   },
   {
     "playerId": "8899024",
@@ -40,13 +40,13 @@
     "kills": 60
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 53
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
+    "kills": 60
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
     "kills": 53
   },
   {
@@ -110,6 +110,11 @@
     "kills": 19
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 15
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 15
@@ -130,11 +135,6 @@
     "kills": 13
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 9
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 9
@@ -147,6 +147,11 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
+    "kills": 6
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 6
   },
   {
@@ -222,11 +227,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {
