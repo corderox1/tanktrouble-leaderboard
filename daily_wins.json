@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2950
+    "kills": 2972
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 197
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 193
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 192
   },
   {
     "playerId": "20297710",
@@ -22,7 +22,7 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 150
+    "kills": 157
   },
   {
     "playerId": "22706369",
@@ -55,13 +55,13 @@
     "kills": 49
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 37
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 38
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 37
   },
   {
@@ -85,6 +85,11 @@
     "kills": 19
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 16
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 15
@@ -105,11 +110,6 @@
     "kills": 13
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 12
-  },
-  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 10
@@ -128,6 +128,11 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 6
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 4
   },
   {
     "playerId": "19068893",
@@ -242,11 +247,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
