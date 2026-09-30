@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5004,
-    "lastKill": "2026-09-30 18:34:00"
+    "kills": 5008,
+    "lastKill": "2026-09-30 18:37:36"
   },
   {
     "playerId": "20297710",
@@ -180,6 +180,12 @@
     "lastKill": "2026-09-30 04:51:23"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 31,
+    "lastKill": "2026-09-30 18:37:36"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 30,
@@ -196,12 +202,6 @@
     "username": "fyrenado",
     "kills": 24,
     "lastKill": "2026-09-30 12:08:30"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 24,
-    "lastKill": "2026-09-30 18:34:00"
   },
   {
     "playerId": "15164705",
@@ -244,6 +244,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 2,
     "lastKill": "2026-09-30 18:08:35"
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 1,
+    "lastKill": "2026-09-30 18:37:36"
   },
   {
     "playerId": "1145079",
@@ -476,12 +482,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": "2026-09-30 00:02:56"
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0,
     "lastKill": "2026-09-30 00:02:56"
   },
