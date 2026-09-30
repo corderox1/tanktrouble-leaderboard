@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 50804
+    "kills": 50815
   },
   {
     "playerId": "8590474",
@@ -57,7 +57,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 988
+    "kills": 990
   },
   {
     "playerId": "4142755",
@@ -212,7 +212,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 272
+    "kills": 275
   },
   {
     "playerId": "16092601",
@@ -432,6 +432,11 @@
   {
     "playerId": "19635407",
     "username": "Mashin",
+    "kills": 2
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
     "kills": 2
   },
   {
@@ -872,11 +877,6 @@
   {
     "playerId": "21727981",
     "username": "YHWH",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   }
 ]

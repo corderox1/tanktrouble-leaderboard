@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 68708,
-    "lastKill": "2026-09-30 00:20:41"
+    "kills": 68718,
+    "lastKill": "2026-09-30 00:24:14"
   },
   {
     "playerId": "22710399",
@@ -80,8 +80,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 1583,
-    "lastKill": "2026-09-30 00:06:20"
+    "kills": 1587,
+    "lastKill": "2026-09-30 00:24:14"
   },
   {
     "playerId": "3990108",
@@ -224,8 +224,8 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 528,
-    "lastKill": "2026-09-29 19:58:45"
+    "kills": 534,
+    "lastKill": "2026-09-30 00:24:14"
   },
   {
     "playerId": "20270104",
@@ -508,6 +508,12 @@
     "username": "Mashin",
     "kills": 5,
     "lastKill": "2026-09-26 08:49:17"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 3,
+    "lastKill": "2026-09-30 00:24:14"
   },
   {
     "playerId": "19168800",
@@ -1048,11 +1054,5 @@
     "username": "YHWH",
     "kills": 0,
     "lastKill": "2026-09-27 15:04:23"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": "2026-09-28 10:13:23"
   }
 ]
