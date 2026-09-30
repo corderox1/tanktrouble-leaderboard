@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15105,
-    "lastKill": "2026-09-30 15:53:48"
+    "kills": 15120,
+    "lastKill": "2026-09-30 15:57:17"
   },
   {
     "playerId": "8590474",
@@ -38,8 +38,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 370,
-    "lastKill": "2026-09-30 15:53:48"
+    "kills": 371,
+    "lastKill": "2026-09-30 15:57:17"
   },
   {
     "playerId": "21103294",
@@ -80,8 +80,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 267,
-    "lastKill": "2026-09-30 15:50:04"
+    "kills": 270,
+    "lastKill": "2026-09-30 15:57:17"
   },
   {
     "playerId": "4142755",
@@ -186,16 +186,16 @@
     "lastKill": "2026-09-30 14:26:27"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 141,
+    "lastKill": "2026-09-30 15:57:17"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 134,
     "lastKill": "2026-09-30 15:21:05"
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 131,
-    "lastKill": "2026-09-30 15:53:48"
   },
   {
     "playerId": "21109495",
@@ -376,6 +376,12 @@
     "username": "volodymyr77",
     "kills": 2,
     "lastKill": "2026-09-28 09:17:30"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 1,
+    "lastKill": "2026-09-30 15:57:17"
   },
   {
     "playerId": "12478286",
@@ -560,12 +566,6 @@
   {
     "playerId": "747025",
     "username": "Kamikaze",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
