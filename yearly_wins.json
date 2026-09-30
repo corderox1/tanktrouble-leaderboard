@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 52923
+    "kills": 52944
   },
   {
     "playerId": "8590474",
@@ -72,7 +72,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 845
+    "kills": 846
   },
   {
     "playerId": "3990108",
@@ -112,7 +112,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 587
+    "kills": 588
   },
   {
     "playerId": "4686507",
@@ -435,6 +435,11 @@
     "kills": 2
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 2
+  },
+  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 2
@@ -502,11 +507,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {
