@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2178
+    "kills": 2192
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 58
+    "kills": 59
   },
   {
     "playerId": "21601349",
@@ -70,13 +70,13 @@
     "kills": 6
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 5
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 6
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 5
   },
   {
@@ -87,6 +87,11 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
+    "kills": 3
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
     "kills": 3
   },
   {
@@ -782,11 +787,6 @@
   {
     "playerId": "4422058",
     "username": "YuriDior",
-    "kills": 0
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 0
   },
   {
