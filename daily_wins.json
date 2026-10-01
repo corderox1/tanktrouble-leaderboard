@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4159
+    "kills": 4160
   },
   {
     "playerId": "14892840",
@@ -57,7 +57,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 73
+    "kills": 74
   },
   {
     "playerId": "22472796",
@@ -215,6 +215,11 @@
     "kills": 2
   },
   {
+    "playerId": "20621274",
+    "username": "ttw",
+    "kills": 2
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 2
@@ -287,11 +292,6 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 0
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
     "kills": 0
   },
   {
