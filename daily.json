@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5546,
-    "lastKill": "2026-09-30 22:12:08"
+    "kills": 5552,
+    "lastKill": "2026-09-30 22:13:06"
   },
   {
     "playerId": "20297710",
@@ -174,16 +174,16 @@
     "lastKill": "2026-09-30 09:47:48"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 37,
+    "lastKill": "2026-09-30 22:13:06"
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 37,
     "lastKill": "2026-09-30 18:44:49"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 36,
-    "lastKill": "2026-09-30 22:11:09"
   },
   {
     "playerId": "3162693",
@@ -268,6 +268,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 2,
     "lastKill": "2026-09-30 18:08:35"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 1,
+    "lastKill": "2026-09-30 22:13:06"
   },
   {
     "playerId": "1145079",
@@ -788,12 +794,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": "2026-09-30 00:02:56"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": "2026-09-30 00:02:56"
   },
