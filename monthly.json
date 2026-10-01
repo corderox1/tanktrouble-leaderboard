@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2210,
-    "lastKill": "2026-10-01 09:28:09"
+    "kills": 2211,
+    "lastKill": "2026-10-01 09:29:09"
   },
   {
     "playerId": "14892840",
@@ -1030,5 +1030,17 @@
     "username": "PurpleSpaceBaboon",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
+  },
+  {
+    "playerId": "21739597",
+    "username": "Illuminate",
+    "kills": 0,
+    "lastKill": "2026-10-01 09:28:09"
+  },
+  {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 0,
+    "lastKill": "2026-10-01 09:28:09"
   }
 ]
