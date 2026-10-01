@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12850
+    "kills": 12859
   },
   {
     "playerId": "8590474",
@@ -62,7 +62,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 194
+    "kills": 195
   },
   {
     "playerId": "4142755",
@@ -255,6 +255,11 @@
     "kills": 17
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 15
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 14
@@ -262,11 +267,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 13
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 13
   },
   {
