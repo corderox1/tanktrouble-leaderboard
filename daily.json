@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3437,
-    "lastKill": "2026-10-01 12:21:12"
+    "kills": 3456,
+    "lastKill": "2026-10-01 12:24:09"
   },
   {
     "playerId": "14892840",
@@ -44,8 +44,8 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 72,
-    "lastKill": "2026-10-01 12:21:12"
+    "kills": 80,
+    "lastKill": "2026-10-01 12:24:09"
   },
   {
     "playerId": "16092601",
@@ -90,22 +90,28 @@
     "lastKill": "2026-10-01 12:03:08"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 14,
+    "lastKill": "2026-10-01 12:24:09"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 14,
     "lastKill": "2026-10-01 05:05:13"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 13,
-    "lastKill": "2026-10-01 12:21:12"
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 13,
     "lastKill": "2026-10-01 09:01:37"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 10,
+    "lastKill": "2026-10-01 12:24:09"
   },
   {
     "playerId": "22472796",
@@ -124,12 +130,6 @@
     "username": "--Eddie--",
     "kills": 7,
     "lastKill": "2026-10-01 11:04:10"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 5,
-    "lastKill": "2026-10-01 12:21:12"
   },
   {
     "playerId": "22077521",
