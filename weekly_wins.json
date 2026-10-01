@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16873
+    "kills": 16899
   },
   {
     "playerId": "8590474",
@@ -122,7 +122,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 130
+    "kills": 131
   },
   {
     "playerId": "2574833",
@@ -322,6 +322,11 @@
   {
     "playerId": "21012136",
     "username": "small-li",
+    "kills": 4
+  },
+  {
+    "playerId": "21528366",
+    "username": "killermax",
     "kills": 4
   },
   {
@@ -617,11 +622,6 @@
   {
     "playerId": "7559374",
     "username": "Catalyst",
-    "kills": 0
-  },
-  {
-    "playerId": "21528366",
-    "username": "killermax",
     "kills": 0
   },
   {
