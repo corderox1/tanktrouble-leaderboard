@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1949,
-    "lastKill": "2026-10-01 08:39:12"
+    "kills": 1954,
+    "lastKill": "2026-10-01 08:40:28"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 118,
-    "lastKill": "2026-10-01 08:39:12"
+    "kills": 119,
+    "lastKill": "2026-10-01 08:40:28"
   },
   {
     "playerId": "16092601",
@@ -50,8 +50,14 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 16,
-    "lastKill": "2026-10-01 08:39:12"
+    "kills": 20,
+    "lastKill": "2026-10-01 08:40:28"
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 15,
+    "lastKill": "2026-10-01 08:40:28"
   },
   {
     "playerId": "6776098",
@@ -84,16 +90,16 @@
     "lastKill": "2026-10-01 08:04:10"
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 7,
-    "lastKill": "2026-10-01 08:39:12"
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 4,
     "lastKill": "2026-10-01 05:34:07"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 1,
+    "lastKill": "2026-10-01 08:40:28"
   },
   {
     "playerId": "22706369",
@@ -818,12 +824,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
