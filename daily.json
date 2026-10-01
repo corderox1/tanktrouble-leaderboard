@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1846,
-    "lastKill": "2026-10-01 08:23:11"
+    "kills": 1854,
+    "lastKill": "2026-10-01 08:24:11"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 93,
-    "lastKill": "2026-10-01 08:23:11"
+    "kills": 95,
+    "lastKill": "2026-10-01 08:24:11"
   },
   {
     "playerId": "16092601",
@@ -76,6 +76,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 4,
     "lastKill": "2026-10-01 05:34:07"
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 2,
+    "lastKill": "2026-10-01 08:24:11"
   },
   {
     "playerId": "22706369",
@@ -506,12 +512,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
