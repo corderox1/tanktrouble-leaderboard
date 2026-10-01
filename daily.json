@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3353,
-    "lastKill": "2026-10-01 12:12:12"
+    "kills": 3384,
+    "lastKill": "2026-10-01 12:15:33"
   },
   {
     "playerId": "14892840",
@@ -44,8 +44,8 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 58,
-    "lastKill": "2026-10-01 12:12:12"
+    "kills": 60,
+    "lastKill": "2026-10-01 12:15:33"
   },
   {
     "playerId": "16092601",
@@ -148,6 +148,12 @@
     "username": "SaucyReaper",
     "kills": 2,
     "lastKill": "2026-10-01 10:05:08"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 1,
+    "lastKill": "2026-10-01 12:15:33"
   },
   {
     "playerId": "15931599",
@@ -302,12 +308,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
