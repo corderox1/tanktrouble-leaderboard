@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2697
+    "kills": 2715
   },
   {
     "playerId": "14892840",
@@ -12,7 +12,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 86
+    "kills": 93
   },
   {
     "playerId": "1051525",
@@ -25,6 +25,11 @@
     "kills": 72
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 65
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 64
@@ -35,19 +40,14 @@
     "kills": 60
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 56
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 43
+    "kills": 48
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 43
+    "kills": 48
   },
   {
     "playerId": "20270104",
@@ -75,6 +75,11 @@
     "kills": 15
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 10
+  },
+  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 9
@@ -93,11 +98,6 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 6
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 5
   },
   {
     "playerId": "21103294",
