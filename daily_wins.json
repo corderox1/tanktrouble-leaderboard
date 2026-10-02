@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3721
+    "kills": 3745
   },
   {
     "playerId": "706234",
@@ -80,6 +80,16 @@
     "kills": 38
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 37
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 36
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 35
@@ -90,19 +100,9 @@
     "kills": 35
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 35
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 34
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 33
   },
   {
     "playerId": "21103294",
@@ -135,13 +135,13 @@
     "kills": 24
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 22
-  },
-  {
     "playerId": "16736853",
     "username": "SaucyReaper",
+    "kills": 23
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 22
   },
   {
@@ -160,14 +160,14 @@
     "kills": 17
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 14
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 13
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 14
   },
   {
     "playerId": "20666777",
@@ -225,13 +225,13 @@
     "kills": 4
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 2
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 4
+  },
+  {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
     "kills": 2
   },
   {
