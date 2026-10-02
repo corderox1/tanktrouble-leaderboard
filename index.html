@@ -991,7 +991,31 @@
 
 }
 
-       
+    .add-player-box {
+    margin-top: 18px;
+    text-align: center;
+}
+
+.add-player-button {
+    background: #111;
+    color: #d4af37;
+    border: 2px solid #d4af37;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.add-player-button:hover {
+    background: #d4af37;
+    color: #111;
+    box-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
+}   
+
+    
+    
     </style>
 
 </head>
@@ -1017,7 +1041,22 @@
             Made by Corderox1
 
         </div>
+ 
+       <div class="add-player-box">
 
+           <button
+               class="add-player-button"
+               onclick="openAddPlayer()"
+           >
+                ➕ Add a Player to the Leaderboard 
+            </button>
+
+        </div>        
+
+
+
+
+        
     <div class="refresh-box">
 
         <div>
