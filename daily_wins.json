@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2975
+    "kills": 2988
   },
   {
     "playerId": "706234",
@@ -27,22 +27,22 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 110
+    "kills": 112
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 103
+    "kills": 108
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 84
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 82
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 79
   },
   {
     "playerId": "21251653",
@@ -120,13 +120,13 @@
     "kills": 26
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 24
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
+    "kills": 25
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 24
   },
   {
@@ -155,6 +155,11 @@
     "kills": 11
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 8
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 8
@@ -165,13 +170,13 @@
     "kills": 8
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 7
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 6
   },
   {
@@ -185,19 +190,14 @@
     "kills": 5
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 4
+  },
+  {
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 4
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 4
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 3
   },
   {
     "playerId": "20984454",
