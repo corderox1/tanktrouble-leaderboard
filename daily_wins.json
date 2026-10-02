@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3622
+    "kills": 3635
   },
   {
     "playerId": "706234",
@@ -150,6 +150,11 @@
     "kills": 17
   },
   {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 15
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 14
@@ -162,11 +167,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 11
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 11
   },
   {
@@ -210,18 +210,18 @@
     "kills": 4
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 2
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 2
+    "kills": 4
   },
   {
     "playerId": "4653977",
     "username": "MAGATRON",
+    "kills": 4
+  },
+  {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
     "kills": 2
   },
   {
