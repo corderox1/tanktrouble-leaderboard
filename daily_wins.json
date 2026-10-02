@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4147
+    "kills": 4148
   },
   {
     "playerId": "706234",
@@ -165,6 +165,11 @@
     "kills": 21
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 19
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 18
@@ -182,11 +187,6 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 14
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 14
   },
   {
@@ -245,9 +245,19 @@
     "kills": 4
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 3
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 2
+  },
+  {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 1
   },
   {
     "playerId": "21700920",
@@ -410,11 +420,6 @@
     "kills": 0
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 0
-  },
-  {
     "playerId": "5134622",
     "username": "kaag",
     "kills": 0
@@ -492,11 +497,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
