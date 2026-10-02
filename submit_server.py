@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, session, redirect, url_for
 import os
 import html
+import requests
 
 app = Flask(__name__)
 
@@ -9,9 +10,40 @@ ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD")
 
 pending_requests = []
 
+TANK_TROUBLE_API = "https://tanktrouble.com/ajax/"
 
-def get_leaderboard_players():
-    """Read usernames from players.txt."""
+
+def get_player_by_username(username):
+    """Look up a TankTrouble player by username."""
+
+    payload = {
+        "jsonrpc": "2.0",
+        "method": "tanktrouble.getPlayerDetailsByUsername",
+        "id": 1,
+        "params": [username]
+    }
+
+    try:
+        response = requests.post(
+            TANK_TROUBLE_API,
+            json=payload,
+            timeout=10
+        )
+
+        data = response.json()
+
+        if "result" not in data:
+            return None
+
+        return data["result"]
+
+    except Exception:
+        return None
+
+
+def get_leaderboard_player_ids():
+    """Read Player IDs from players.txt."""
+
     players = set()
 
     try:
@@ -20,7 +52,7 @@ def get_leaderboard_players():
                 line = line.strip()
 
                 if line:
-                    players.add(line.lower())
+                    players.add(line)
 
     except FileNotFoundError:
         pass
@@ -35,6 +67,7 @@ def home():
 
 @app.route("/submit", methods=["POST"])
 def submit():
+
     data = request.get_json()
 
     if not data:
@@ -51,26 +84,44 @@ def submit():
             "message": "Username is required."
         }), 400
 
-    # Check if already on the leaderboard
-    leaderboard_players = get_leaderboard_players()
+    # Look up the player on TankTrouble
+    player = get_player_by_username(username)
 
-    if username.lower() in leaderboard_players:
+    if not player:
+        return jsonify({
+            "success": False,
+            "message": "That TankTrouble username could not be found."
+        }), 404
+
+    player_id = str(player.get("playerId", ""))
+
+    if not player_id:
+        return jsonify({
+            "success": False,
+            "message": "Could not determine the player's ID."
+        }), 500
+
+    # Check if the Player ID is already on the leaderboard
+    leaderboard_players = get_leaderboard_player_ids()
+
+    if player_id in leaderboard_players:
         return jsonify({
             "success": False,
             "message": "This player is already on the leaderboard."
         }), 400
 
     # Check if already waiting for approval
-    for player in pending_requests:
-        if player["username"].lower() == username.lower():
+    for pending in pending_requests:
+        if pending["playerId"] == player_id:
             return jsonify({
                 "success": False,
-                "message": "This username is already waiting for approval."
+                "message": "This player is already waiting for approval."
             }), 400
 
     # Add to pending submissions
     pending_requests.append({
-        "username": username
+        "username": player.get("username", username),
+        "playerId": player_id
     })
 
     return jsonify({
@@ -84,6 +135,7 @@ def admin():
 
     # Login
     if request.method == "POST":
+
         password = request.form.get("password", "")
 
         if password == ADMIN_PASSWORD:
@@ -103,18 +155,26 @@ def admin():
         <head>
             <title>TankTrouble Admin</title>
         </head>
+
         <body>
+
             <h1>TankTrouble Leaderboard Admin</h1>
 
             <form method="POST">
+
                 <input
                     type="password"
                     name="password"
                     placeholder="Admin password"
                     required
                 >
-                <button type="submit">Login</button>
+
+                <button type="submit">
+                    Login
+                </button>
+
             </form>
+
         </body>
         </html>
         """
@@ -122,11 +182,15 @@ def admin():
     # Admin panel
     html_page = """
     <!DOCTYPE html>
+
     <html>
+
     <head>
+
         <title>TankTrouble Admin</title>
 
         <style>
+
             body {
                 background: #111;
                 color: white;
@@ -149,6 +213,11 @@ def admin():
             .username {
                 font-size: 20px;
                 font-weight: bold;
+                margin-bottom: 8px;
+            }
+
+            .player-id {
+                color: #aaa;
                 margin-bottom: 12px;
             }
 
@@ -174,7 +243,9 @@ def admin():
             button:hover {
                 opacity: 0.8;
             }
+
         </style>
+
     </head>
 
     <body>
@@ -185,41 +256,76 @@ def admin():
     """
 
     if not pending_requests:
-        html_page += "<p>No pending submissions.</p>"
+
+        html_page += """
+        <p>No pending submissions.</p>
+        """
 
     for index, player in enumerate(pending_requests):
 
         safe_username = html.escape(player["username"])
+        safe_player_id = html.escape(player["playerId"])
 
         html_page += f"""
+
         <div class="request">
 
             <div class="username">
                 {safe_username}
             </div>
 
-            <p>Waiting for approval.</p>
+            <div class="player-id">
+                Player ID: {safe_player_id}
+            </div>
+
+            <p>
+                Waiting for approval.
+            </p>
 
             <form method="POST" action="/verify" style="display:inline;">
-                <input type="hidden" name="index" value="{index}">
-                <button class="verify" type="submit">
+
+                <input
+                    type="hidden"
+                    name="index"
+                    value="{index}"
+                >
+
+                <button
+                    class="verify"
+                    type="submit"
+                >
                     ✅ Verify
                 </button>
+
             </form>
 
             <form method="POST" action="/reject" style="display:inline;">
-                <input type="hidden" name="index" value="{index}">
-                <button class="reject" type="submit">
+
+                <input
+                    type="hidden"
+                    name="index"
+                    value="{index}"
+                >
+
+                <button
+                    class="reject"
+                    type="submit"
+                >
                     ❌ Reject
                 </button>
+
             </form>
 
         </div>
+
         """
 
     html_page += """
+
     </body>
+
     </html>
+
     """
 
     return html_page
@@ -233,6 +339,7 @@ def verify():
 
     try:
         index = int(request.form.get("index"))
+
     except:
         return "Invalid request", 400
 
@@ -252,6 +359,7 @@ def reject():
 
     try:
         index = int(request.form.get("index"))
+
     except:
         return "Invalid request", 400
 
@@ -276,4 +384,7 @@ def pending():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000)
+    app.run(
+        host="0.0.0.0",
+        port=10000
+    )
