@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5976
+    "kills": 5978
   },
   {
     "playerId": "8899024",
@@ -42,7 +42,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 88
+    "kills": 95
   },
   {
     "playerId": "22077521",
@@ -105,6 +105,11 @@
     "kills": 44
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 44
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 42
@@ -113,11 +118,6 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 40
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 38
   },
   {
     "playerId": "21956820",
@@ -160,13 +160,13 @@
     "kills": 24
   },
   {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
-    "kills": 22
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
+    "kills": 23
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
     "kills": 22
   },
   {
@@ -210,18 +210,23 @@
     "kills": 7
   },
   {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 5
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 5
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
+    "playerId": "21528366",
+    "username": "killermax",
     "kills": 4
   },
   {
-    "playerId": "21528366",
-    "username": "killermax",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 4
   },
   {
@@ -232,11 +237,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 2
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 2
   },
   {
