@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6161
+    "kills": 6166
   },
   {
     "playerId": "8899024",
@@ -65,13 +65,13 @@
     "kills": 80
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 77
-  },
-  {
     "playerId": "20297710",
     "username": "KD419",
+    "kills": 78
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
     "kills": 77
   },
   {
@@ -132,7 +132,7 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 33
+    "kills": 34
   },
   {
     "playerId": "21516705",
@@ -170,6 +170,11 @@
     "kills": 23
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 23
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 22
@@ -178,11 +183,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 22
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 19
   },
   {
     "playerId": "6776098",
@@ -220,6 +220,11 @@
     "kills": 7
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 6
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 5
@@ -232,11 +237,6 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 3
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 3
   },
   {
