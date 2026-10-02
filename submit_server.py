@@ -412,7 +412,10 @@ def submit():
 
     try:
 
-        data = request.get_json()
+        data = request.get_json(silent=True) or {}
+
+        if not data:
+            data = request.form.to_dict()
 
         if not data:
 
