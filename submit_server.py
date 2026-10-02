@@ -30,6 +30,9 @@ def get_player_by_username(username):
             timeout=10
         )
 
+        print("TankTrouble API STATUS:", response.status_code)
+        print("TankTrouble API RESPONSE:", response.text)
+
         data = response.json()
 
         if "result" not in data:
@@ -37,7 +40,8 @@ def get_player_by_username(username):
 
         return data["result"]
 
-    except Exception:
+        except Exception as e:
+        print("TankTrouble API ERROR:", repr(e))
         return None
 
 
