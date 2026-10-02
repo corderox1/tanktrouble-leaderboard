@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19801
+    "kills": 19809
   },
   {
     "playerId": "8590474",
@@ -95,6 +95,11 @@
     "kills": 196
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 194
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 190
@@ -102,11 +107,6 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 187
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 187
   },
   {
@@ -350,13 +350,13 @@
     "kills": 4
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 3
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
+    "kills": 4
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 3
   },
   {
