@@ -12,6 +12,14 @@ app.secret_key = os.environ.get("ADMIN_PASSWORD", "temporary-secret")
 
 PENDING_FILE = "pending.json"
 
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
+
+GITHUB_PENDING_URL = (
+    "https://api.github.com/repos/"
+    "corderox1/tanktrouble-leaderboard/"
+    "contents/pending.json"
+)
+
 TANK_TROUBLE_API = "https://tanktrouble.com/ajax/"
 
 
