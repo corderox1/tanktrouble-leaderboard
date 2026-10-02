@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3117,
-    "lastKill": "2026-10-02 11:27:11"
+    "kills": 3136,
+    "lastKill": "2026-10-02 11:30:28"
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 444,
-    "lastKill": "2026-10-02 11:27:11"
+    "kills": 449,
+    "lastKill": "2026-10-02 11:30:28"
   },
   {
     "playerId": "8590474",
@@ -36,16 +36,16 @@
     "lastKill": "2026-10-02 11:00:10"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 108,
+    "lastKill": "2026-10-02 11:30:28"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 107,
     "lastKill": "2026-10-02 03:27:06"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 100,
-    "lastKill": "2026-10-02 11:27:11"
   },
   {
     "playerId": "20297710",
@@ -68,8 +68,8 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 68,
-    "lastKill": "2026-10-02 11:27:11"
+    "kills": 71,
+    "lastKill": "2026-10-02 11:30:28"
   },
   {
     "playerId": "22077521",
@@ -120,6 +120,12 @@
     "lastKill": "2026-10-02 06:42:10"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 39,
+    "lastKill": "2026-10-02 11:30:28"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 37,
@@ -130,6 +136,12 @@
     "username": "SoftMagmaDriver",
     "kills": 36,
     "lastKill": "2026-10-02 05:33:09"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 35,
+    "lastKill": "2026-10-02 11:30:28"
   },
   {
     "playerId": "22694251",
@@ -144,22 +156,16 @@
     "lastKill": "2026-10-02 11:12:15"
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 31,
-    "lastKill": "2026-10-02 11:27:11"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 31,
-    "lastKill": "2026-10-02 11:27:11"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 31,
     "lastKill": "2026-10-02 07:27:06"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 30,
+    "lastKill": "2026-10-02 11:30:28"
   },
   {
     "playerId": "20984454",
@@ -172,12 +178,6 @@
     "username": "playboi",
     "kills": 27,
     "lastKill": "2026-10-02 11:24:13"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 25,
-    "lastKill": "2026-10-02 11:27:11"
   },
   {
     "playerId": "6776098",
@@ -210,6 +210,12 @@
     "lastKill": "2026-10-02 05:12:07"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 1,
+    "lastKill": "2026-10-02 11:30:28"
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 1,
@@ -218,12 +224,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
