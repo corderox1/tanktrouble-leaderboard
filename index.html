@@ -2013,7 +2013,7 @@ document.getElementById("profileModal").addEventListener("click", function(event
 
 });
    
-const SUBMISSION_SERVER = "https://tanktrouble-submissions.onrender.com";
+
 
 function openAddPlayer() {
     const modal = document.getElementById("addPlayerModal");
@@ -2030,6 +2030,9 @@ function closeAddPlayer() {
     document.getElementById("addPlayerModal").style.display = "none";
 }
 
+const SUBMISSION_SERVER = "https://tanktrouble-submissions.onrender.com";
+        
+        
 async function submitPlayer() {
     const input = document.getElementById("addPlayerUsername");
     const button = document.getElementById("addPlayerSubmit");
