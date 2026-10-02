@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2512
+    "kills": 2532
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 341
+    "kills": 343
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 108
+    "kills": 115
   },
   {
     "playerId": "13773720",
@@ -80,9 +80,19 @@
     "kills": 30
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 29
+  },
+  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 28
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 27
   },
   {
     "playerId": "2574833",
@@ -90,18 +100,8 @@
     "kills": 27
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 26
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 26
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 26
   },
   {
@@ -115,13 +115,13 @@
     "kills": 24
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 23
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 24
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
     "kills": 23
   },
   {
@@ -132,7 +132,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 12
+    "kills": 13
   },
   {
     "playerId": "6776098",
@@ -163,6 +163,11 @@
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 4
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 3
   },
   {
     "playerId": "20984454",
@@ -282,11 +287,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
