@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 81784,
-    "lastKill": "2026-10-02 05:06:09"
+    "kills": 81797,
+    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "20297710",
@@ -122,8 +122,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 1316,
-    "lastKill": "2026-10-02 05:06:09"
+    "kills": 1324,
+    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "1051525",
@@ -344,8 +344,8 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 254,
-    "lastKill": "2026-10-02 05:06:09"
+    "kills": 257,
+    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "16874545",
@@ -392,8 +392,8 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 114,
-    "lastKill": "2026-10-02 05:00:29"
+    "kills": 117,
+    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "13783887",
@@ -438,16 +438,16 @@
     "lastKill": "2026-09-29 16:53:37"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 51,
+    "lastKill": "2026-10-02 05:09:10"
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 47,
     "lastKill": "2026-09-25 22:12:35"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 44,
-    "lastKill": "2026-10-02 05:06:09"
   },
   {
     "playerId": "1001669",
@@ -550,6 +550,12 @@
     "username": "Reverend",
     "kills": 1,
     "lastKill": "2026-09-27 15:28:52"
+  },
+  {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 1,
+    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "10132007",
@@ -1058,12 +1064,6 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
-    "kills": 0,
-    "lastKill": "2026-10-01 09:28:09"
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
     "kills": 0,
     "lastKill": "2026-10-01 09:28:09"
   }
