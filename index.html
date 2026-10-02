@@ -2066,7 +2066,7 @@ async function submitPlayer() {
             input.value = "";
         } else {
             message.textContent =
-                data.error || "Something went wrong. Please try again.";
+                data.message || "Something went wrong. Please try again.";
             message.style.color = "#ff5555";
         }
 
