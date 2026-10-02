@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7888,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 7893,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "22710399",
@@ -74,8 +74,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 116,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 117,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "10794529",
@@ -102,6 +102,12 @@
     "lastKill": "2026-10-01 17:48:08"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 96,
+    "lastKill": "2026-10-02 06:39:08"
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 94,
@@ -112,12 +118,6 @@
     "username": "MACHOSOLTERO",
     "kills": 94,
     "lastKill": "2026-10-01 23:51:11"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 93,
-    "lastKill": "2026-10-02 06:36:13"
   },
   {
     "playerId": "21516705",
@@ -198,10 +198,22 @@
     "lastKill": "2026-10-01 08:50:16"
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 41,
+    "lastKill": "2026-10-02 06:39:08"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 39,
     "lastKill": "2026-10-01 13:42:07"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 38,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "15931599",
@@ -214,18 +226,6 @@
     "username": "SilentSpaceSergeant",
     "kills": 36,
     "lastKill": "2026-10-01 17:57:09"
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 32,
-    "lastKill": "2026-10-02 06:36:13"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 29,
-    "lastKill": "2026-10-02 06:36:13"
   },
   {
     "playerId": "22472796",
@@ -280,6 +280,12 @@
     "username": "WifiSciFi",
     "kills": 5,
     "lastKill": "2026-10-02 05:12:07"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 4,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "21528366",
@@ -770,12 +776,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },

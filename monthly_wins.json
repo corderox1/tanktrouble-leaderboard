@@ -42,7 +42,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 85
+    "kills": 88
   },
   {
     "playerId": "22077521",
@@ -115,6 +115,11 @@
     "kills": 40
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 38
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 34
@@ -123,11 +128,6 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 34
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 33
   },
   {
     "playerId": "21516705",
@@ -165,6 +165,11 @@
     "kills": 22
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 22
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 22
@@ -188,11 +193,6 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 16
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 15
   },
   {
     "playerId": "3990108",
@@ -235,13 +235,13 @@
     "kills": 2
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 1
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 2
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 1
   },
   {

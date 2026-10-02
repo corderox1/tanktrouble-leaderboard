@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1739,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 1744,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "21178768",
@@ -20,8 +20,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 93,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 96,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "13773720",
@@ -66,22 +66,22 @@
     "lastKill": "2026-10-02 00:18:11"
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 36,
-    "lastKill": "2026-10-02 05:33:09"
-  },
-  {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 32,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 41,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 29,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 38,
+    "lastKill": "2026-10-02 06:39:08"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 36,
+    "lastKill": "2026-10-02 05:33:09"
   },
   {
     "playerId": "6776098",
@@ -98,8 +98,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 20,
-    "lastKill": "2026-10-02 06:36:13"
+    "kills": 21,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "22706369",
@@ -118,6 +118,12 @@
     "username": "WifiSciFi",
     "kills": 5,
     "lastKill": "2026-10-02 05:12:07"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 4,
+    "lastKill": "2026-10-02 06:39:08"
   },
   {
     "playerId": "20666777",
@@ -746,12 +752,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
