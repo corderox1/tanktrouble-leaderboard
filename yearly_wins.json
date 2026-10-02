@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 59977
+    "kills": 59991
   },
   {
     "playerId": "8590474",
@@ -157,7 +157,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 462
+    "kills": 466
   },
   {
     "playerId": "20984454",
@@ -435,6 +435,11 @@
     "kills": 4
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 3
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2
@@ -497,11 +502,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4512
+    "kills": 4526
   },
   {
     "playerId": "14892840",
@@ -95,6 +95,11 @@
     "kills": 31
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 30
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 28
@@ -103,11 +108,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 27
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 26
   },
   {
     "playerId": "20270104",
@@ -173,6 +173,11 @@
     "playerId": "21528366",
     "username": "killermax",
     "kills": 4
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 3
   },
   {
     "playerId": "20984454",
@@ -357,11 +362,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
