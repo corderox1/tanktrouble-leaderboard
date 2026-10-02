@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4621,
-    "lastKill": "2026-10-02 14:57:11"
+    "kills": 4634,
+    "lastKill": "2026-10-02 15:00:23"
   },
   {
     "playerId": "706234",
@@ -246,6 +246,12 @@
     "lastKill": "2026-10-02 08:30:11"
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 14,
+    "lastKill": "2026-10-02 15:00:23"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 11,
@@ -258,10 +264,10 @@
     "lastKill": "2026-10-02 08:33:07"
   },
   {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 9,
-    "lastKill": "2026-10-02 14:57:11"
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 7,
+    "lastKill": "2026-10-02 15:00:23"
   },
   {
     "playerId": "22081323",
@@ -578,12 +584,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
