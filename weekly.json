@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22664,
-    "lastKill": "2026-10-01 23:57:11"
+    "kills": 22686,
+    "lastKill": "2026-10-02 00:00:45"
   },
   {
     "playerId": "8590474",
@@ -30,16 +30,16 @@
     "lastKill": "2026-10-01 14:36:06"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 647,
+    "lastKill": "2026-10-02 00:00:45"
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 646,
     "lastKill": "2026-10-01 11:18:11"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 645,
-    "lastKill": "2026-10-01 23:51:11"
   },
   {
     "playerId": "20984454",
@@ -420,6 +420,12 @@
     "lastKill": "2026-10-01 17:45:29"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 1,
+    "lastKill": "2026-10-02 00:00:45"
+  },
+  {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
     "kills": 1,
@@ -458,12 +464,6 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
