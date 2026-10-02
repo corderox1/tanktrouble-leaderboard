@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24796,
-    "lastKill": "2026-10-02 08:21:11"
+    "kills": 24807,
+    "lastKill": "2026-10-02 08:24:09"
   },
   {
     "playerId": "8590474",
@@ -450,6 +450,12 @@
     "lastKill": "2026-09-29 09:15:40"
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 1,
+    "lastKill": "2026-10-02 08:24:09"
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 0,
@@ -878,12 +884,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": "2026-09-28 00:03:59"
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": "2026-09-28 00:03:59"
   },
