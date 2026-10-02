@@ -34,7 +34,7 @@ def get_player_by_username(username):
         api_response = response.json()
 
 
-       def get_leaderboard_player_ids():
+def get_leaderboard_player_ids():
     players = set()
 
     try:
