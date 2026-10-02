@@ -49,9 +49,10 @@ def get_player_by_username(username):
 
         return data["result"]
 
-    except Exception as e:
-        print("TankTrouble API ERROR:", repr(e))
-        return None
+   except Exception as e:
+       return {
+          "error": str(e)
+    }
 
 
 # ============================================================
@@ -140,23 +141,17 @@ def submit():
 
     player = get_player_by_username(username)
 
-    if not player:
+if not player:
+    return jsonify({
+        "success": False,
+        "message": "The TankTrouble API lookup failed."
+    }), 500
 
-        return jsonify({
-            "success": False,
-            "message": "That TankTrouble username could not be found."
-        }), 404
-
-    player_id = str(
-        player.get("playerId", "")
-    )
-
-    if not player_id:
-
-        return jsonify({
-            "success": False,
-            "message": "Could not determine the player's ID."
-        }), 500
+if "error" in player:
+    return jsonify({
+        "success": False,
+        "message": "TankTrouble API error: " + player["error"]
+    }), 500
 
     # --------------------------------------------------------
     # Check if already on leaderboard
