@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4279
+    "kills": 4281
   },
   {
     "playerId": "706234",
@@ -90,13 +90,13 @@
     "kills": 57
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 46
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
+    "kills": 48
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
     "kills": 46
   },
   {
@@ -260,6 +260,11 @@
     "kills": 2
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 1
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 1
@@ -392,11 +397,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
     "kills": 0
   },
   {

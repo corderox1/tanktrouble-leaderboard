@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8890
+    "kills": 8892
   },
   {
     "playerId": "706234",
@@ -92,7 +92,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 90
+    "kills": 92
   },
   {
     "playerId": "20666777",
@@ -305,6 +305,11 @@
     "kills": 1
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 1
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 1
@@ -422,11 +427,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
     "kills": 0
   },
   {
