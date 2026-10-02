@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5253
+    "kills": 5270
   },
   {
     "playerId": "8899024",
@@ -90,6 +90,11 @@
     "kills": 44
   },
   {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 43
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 42
@@ -103,11 +108,6 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 34
-  },
-  {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 33
   },
   {
     "playerId": "21508277",
@@ -155,13 +155,13 @@
     "kills": 14
   },
   {
-    "playerId": "19768925",
-    "username": "Lil_May",
-    "kills": 9
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 10
+  },
+  {
+    "playerId": "19768925",
+    "username": "Lil_May",
     "kills": 9
   },
   {
@@ -175,13 +175,13 @@
     "kills": 7
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 6
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
+    "kills": 7
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 6
   },
   {
