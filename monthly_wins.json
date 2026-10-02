@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5684
+    "kills": 5700
   },
   {
     "playerId": "8899024",
@@ -50,6 +50,11 @@
     "kills": 80
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 77
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 75
@@ -63,11 +68,6 @@
     "playerId": "20297710",
     "username": "KD419",
     "kills": 72
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 70
   },
   {
     "playerId": "21465536",
@@ -90,13 +90,13 @@
     "kills": 52
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 47
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 48
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 47
   },
   {
@@ -150,6 +150,11 @@
     "kills": 22
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 22
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 21
@@ -160,19 +165,14 @@
     "kills": 18
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 16
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 16
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 15
   },
   {
     "playerId": "3990108",
@@ -182,7 +182,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 11
+    "kills": 12
   },
   {
     "playerId": "19768925",
