@@ -33,15 +33,15 @@ def get_player_by_username(username):
 
         data = response.json()
 
-        if "result" not in data:
-            print("No result found in API response.")
-            return None
+       if not data.get("result"):
+                        print("TankTrouble API did not return a successful result.")
+                        return None
 
-        player = data["result"]
+       player = data.get("data")
 
-        print("FULL PLAYER DATA:", player)
+       print("FULL PLAYER DATA:", player)
 
-        return player
+       return player
 
     except Exception as e:
         print("TankTrouble API ERROR:", repr(e))
