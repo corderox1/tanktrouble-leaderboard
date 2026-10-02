@@ -33,37 +33,19 @@ def get_player_by_username(username):
 
         data = response.json()
 
-       if not data.get("result"):
-                        print("TankTrouble API did not return a successful result.")
-                        return None
+        if not data.get("result"):
+            print("TankTrouble API did not return a successful result.")
+            return None
 
-       player = data.get("data")
+        player = data.get("data")
 
-       print("FULL PLAYER DATA:", player)
+        print("FULL PLAYER DATA:", player)
 
-       return player
+        return player
 
     except Exception as e:
         print("TankTrouble API ERROR:", repr(e))
         return None
-
-
-def get_leaderboard_player_ids():
-    players = set()
-
-    try:
-        with open("players.txt", "r", encoding="utf-8") as file:
-            for line in file:
-                line = line.strip()
-
-                if line:
-                    players.add(line)
-
-    except FileNotFoundError:
-        print("players.txt was not found.")
-
-    return players
-
 
 @app.route("/")
 def home():
