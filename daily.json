@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4910,
-    "lastKill": "2026-10-02 15:39:11"
+    "kills": 4926,
+    "lastKill": "2026-10-02 15:42:07"
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 493,
-    "lastKill": "2026-10-02 12:00:08"
+    "kills": 494,
+    "lastKill": "2026-10-02 15:42:07"
   },
   {
     "playerId": "13773720",
@@ -78,16 +78,16 @@
     "lastKill": "2026-10-02 13:51:11"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 112,
+    "lastKill": "2026-10-02 15:42:07"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 107,
     "lastKill": "2026-10-02 03:27:06"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 106,
-    "lastKill": "2026-10-02 15:39:11"
   },
   {
     "playerId": "1145079",
@@ -128,8 +128,8 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 68,
-    "lastKill": "2026-10-02 15:39:11"
+    "kills": 73,
+    "lastKill": "2026-10-02 15:42:07"
   },
   {
     "playerId": "21708970",
@@ -146,8 +146,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 59,
-    "lastKill": "2026-10-02 15:39:11"
+    "kills": 62,
+    "lastKill": "2026-10-02 15:42:07"
   },
   {
     "playerId": "21465536",
@@ -294,6 +294,18 @@
     "lastKill": "2026-10-02 12:57:08"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1,
+    "lastKill": "2026-10-02 15:42:07"
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 1,
+    "lastKill": "2026-10-02 15:42:07"
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 1,
@@ -362,12 +374,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
@@ -524,12 +530,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
