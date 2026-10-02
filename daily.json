@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1360,
-    "lastKill": "2026-10-02 05:27:11"
+    "kills": 1374,
+    "lastKill": "2026-10-02 05:30:07"
   },
   {
     "playerId": "21178768",
@@ -26,8 +26,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 71,
-    "lastKill": "2026-10-02 05:27:11"
+    "kills": 74,
+    "lastKill": "2026-10-02 05:30:07"
   },
   {
     "playerId": "20297710",
@@ -44,8 +44,14 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 37,
-    "lastKill": "2026-10-02 05:27:11"
+    "kills": 41,
+    "lastKill": "2026-10-02 05:30:07"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 35,
+    "lastKill": "2026-10-02 05:30:07"
   },
   {
     "playerId": "19068893",
@@ -58,12 +64,6 @@
     "username": "small-li",
     "kills": 30,
     "lastKill": "2026-10-02 04:12:11"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 30,
-    "lastKill": "2026-10-02 05:27:11"
   },
   {
     "playerId": "6776098",
@@ -88,6 +88,12 @@
     "username": "WifiSciFi",
     "kills": 5,
     "lastKill": "2026-10-02 05:12:07"
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 3,
+    "lastKill": "2026-10-02 05:30:07"
   },
   {
     "playerId": "20666777",
@@ -422,12 +428,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
