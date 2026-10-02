@@ -423,33 +423,99 @@ def verify():
     if index < 0 or index >= len(pending_requests):
         return "Request not found", 404
 
-    player = pending_requests.pop(index)
+    player = pending_requests[index]
 
-    print("Verified player:", player)
+    username = player["username"]
+    player_id = player["playerId"]
 
-    return redirect(url_for("admin"))
+    print("Verifying player:", player)
 
+    github_token = os.environ.get("GITHUB_TOKEN")
 
-@app.route("/reject", methods=["POST"])
-def reject():
+    if not github_token:
+        return "GitHub token is not configured.", 500
 
-    if not session.get("admin_logged_in"):
-        return "Unauthorized", 401
+    github_url = (
+        "https://api.github.com/repos/"
+        "corderox1/tanktrouble-leaderboard/"
+        "contents/players.txt"
+    )
+
+    headers = {
+        "Authorization": f"Bearer {github_token}",
+        "Accept": "application/vnd.github+json"
+    }
 
     try:
-        index = int(request.form.get("index", ""))
 
-    except ValueError:
-        return "Invalid request", 400
+        # Get current players.txt from GitHub
+        response = requests.get(
+            github_url,
+            headers=headers,
+            timeout=10
+        )
 
-    if index < 0 or index >= len(pending_requests):
-        return "Request not found", 404
+        if response.status_code != 200:
+            print("GitHub GET ERROR:", response.text)
+            return "Could not read players.txt from GitHub.", 500
 
-    player = pending_requests.pop(index)
+        file_data = response.json()
 
-    print("Rejected player:", player)
+        import base64
 
-    return redirect(url_for("admin"))
+        current_content = base64.b64decode(
+            file_data["content"]
+        ).decode("utf-8")
+
+        current_players = current_content.splitlines()
+
+        # Make sure the player isn't already there
+        if player_id in current_players:
+
+            pending_requests.pop(index)
+
+            return redirect(url_for("admin"))
+
+        # Add the new player ID
+        new_content = current_content.rstrip() + "\n" + player_id + "\n"
+
+        encoded_content = base64.b64encode(
+            new_content.encode("utf-8")
+        ).decode("utf-8")
+
+        update_data = {
+            "message": f"Add approved player {username}",
+            "content": encoded_content,
+            "sha": file_data["sha"],
+            "branch": "main"
+        }
+
+        # Update players.txt on GitHub
+        update_response = requests.put(
+            github_url,
+            headers=headers,
+            json=update_data,
+            timeout=10
+        )
+
+        if update_response.status_code not in (200, 201):
+            print("GitHub UPDATE ERROR:", update_response.text)
+            return "GitHub rejected the update. Player was NOT approved.", 500
+
+        print("GitHub players.txt updated successfully.")
+
+        # Only remove the request AFTER GitHub succeeds
+        pending_requests.pop(index)
+
+        print("Approved player:", player)
+
+        return redirect(url_for("admin"))
+
+    except Exception as e:
+
+        print("VERIFY ERROR:", repr(e))
+
+        return "Verification failed: " + str(e), 500
 
 
 @app.route("/pending")
