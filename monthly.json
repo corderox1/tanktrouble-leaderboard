@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11385,
-    "lastKill": "2026-10-02 16:39:06"
+    "kills": 11392,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 536,
-    "lastKill": "2026-10-02 16:33:12"
+    "kills": 537,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 520,
-    "lastKill": "2026-10-02 16:36:13"
+    "kills": 522,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "8899024",
@@ -62,8 +62,8 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 222,
-    "lastKill": "2026-10-02 16:36:13"
+    "kills": 228,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "2574833",
@@ -86,8 +86,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 171,
-    "lastKill": "2026-10-02 16:39:06"
+    "kills": 173,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "20666777",
@@ -152,8 +152,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 122,
-    "lastKill": "2026-10-02 16:39:06"
+    "kills": 125,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "22694251",
@@ -352,6 +352,12 @@
     "username": "killermax",
     "kills": 3,
     "lastKill": "2026-10-01 17:45:29"
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 2,
+    "lastKill": "2026-10-02 16:42:08"
   },
   {
     "playerId": "12107881",
@@ -1048,11 +1054,5 @@
     "username": "Corderos",
     "kills": 0,
     "lastKill": "2026-10-02 13:33:11"
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 0,
-    "lastKill": "2026-10-02 14:03:16"
   }
 ]

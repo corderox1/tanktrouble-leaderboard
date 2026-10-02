@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21812
+    "kills": 21816
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 449
+    "kills": 450
   },
   {
     "playerId": "1051525",
@@ -57,7 +57,7 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 386
+    "kills": 387
   },
   {
     "playerId": "21708970",
@@ -92,7 +92,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 258
+    "kills": 259
   },
   {
     "playerId": "2574833",
@@ -285,6 +285,11 @@
     "kills": 34
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 29
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 28
@@ -292,11 +297,6 @@
   {
     "playerId": "4128764",
     "username": "Bulletio",
-    "kills": 28
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 28
   },
   {
@@ -367,6 +367,11 @@
   {
     "playerId": "20621274",
     "username": "ttw",
+    "kills": 2
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
     "kills": 2
   },
   {
@@ -877,11 +882,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0
   }
 ]
