@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3649
+    "kills": 3665
   },
   {
     "playerId": "706234",
@@ -142,7 +142,7 @@
   {
     "playerId": "16736853",
     "username": "SaucyReaper",
-    "kills": 21
+    "kills": 22
   },
   {
     "playerId": "22706369",
@@ -153,6 +153,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 17
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 15
   },
   {
     "playerId": "19932455",
@@ -172,11 +177,6 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 11
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 11
   },
   {
@@ -220,14 +220,14 @@
     "kills": 4
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 2
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 1
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 2
   },
   {
     "playerId": "21700920",

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 63725
+    "kills": 63741
   },
   {
     "playerId": "8590474",
@@ -115,13 +115,13 @@
     "kills": 667
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 663
-  },
-  {
     "playerId": "16736853",
     "username": "SaucyReaper",
+    "kills": 664
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 663
   },
   {
@@ -257,7 +257,7 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 227
+    "kills": 228
   },
   {
     "playerId": "18985660",
@@ -400,6 +400,11 @@
     "kills": 18
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 15
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 14
@@ -408,11 +413,6 @@
     "playerId": "12331664",
     "username": "Reds",
     "kills": 12
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 11
   },
   {
     "playerId": "1899675",
