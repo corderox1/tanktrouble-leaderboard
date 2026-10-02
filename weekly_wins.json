@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19061
+    "kills": 19066
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1530
+    "kills": 1531
   },
   {
     "playerId": "14892840",
@@ -62,7 +62,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 256
+    "kills": 258
   },
   {
     "playerId": "19932455",
@@ -92,7 +92,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 195
+    "kills": 196
   },
   {
     "playerId": "10794529",
@@ -260,6 +260,11 @@
     "kills": 34
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 33
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 32
@@ -268,11 +273,6 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 28
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 27
   },
   {
     "playerId": "20644558",
@@ -290,14 +290,14 @@
     "kills": 24
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 22
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 21
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 15
   },
   {
     "playerId": "20269995",
@@ -355,13 +355,13 @@
     "kills": 2
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 1
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 2
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 1
   },
   {
