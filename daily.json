@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3556,
-    "lastKill": "2026-10-02 12:24:08"
+    "kills": 3587,
+    "lastKill": "2026-10-02 12:27:09"
   },
   {
     "playerId": "706234",
@@ -44,20 +44,20 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 123,
-    "lastKill": "2026-10-02 12:24:08"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 109,
-    "lastKill": "2026-10-02 12:24:08"
+    "kills": 129,
+    "lastKill": "2026-10-02 12:27:09"
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 108,
-    "lastKill": "2026-10-02 12:24:08"
+    "kills": 119,
+    "lastKill": "2026-10-02 12:27:09"
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 114,
+    "lastKill": "2026-10-02 12:27:09"
   },
   {
     "playerId": "21956820",
@@ -78,16 +78,16 @@
     "lastKill": "2026-10-02 12:18:12"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 86,
+    "lastKill": "2026-10-02 12:27:09"
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 84,
     "lastKill": "2026-10-02 07:39:12"
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 83,
-    "lastKill": "2026-10-02 11:42:15"
   },
   {
     "playerId": "21516705",
@@ -126,22 +126,28 @@
     "lastKill": "2026-10-02 11:24:13"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 51,
+    "lastKill": "2026-10-02 12:27:09"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 49,
     "lastKill": "2026-10-02 11:45:11"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 47,
-    "lastKill": "2026-10-02 12:09:11"
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 46,
     "lastKill": "2026-10-02 06:36:13"
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 45,
+    "lastKill": "2026-10-02 12:27:09"
   },
   {
     "playerId": "4128764",
@@ -154,12 +160,6 @@
     "username": "commander",
     "kills": 41,
     "lastKill": "2026-10-02 06:42:10"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 38,
-    "lastKill": "2026-10-02 12:24:08"
   },
   {
     "playerId": "20269995",
@@ -222,22 +222,28 @@
     "lastKill": "2026-10-02 05:12:07"
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 2,
+    "lastKill": "2026-10-02 12:27:09"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 2,
     "lastKill": "2026-10-02 12:12:13"
   },
   {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 1,
+    "lastKill": "2026-10-02 12:27:09"
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 1,
     "lastKill": "2026-10-02 08:24:09"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
   },
   {
     "playerId": "14617724",
@@ -500,12 +506,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
