@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5991
+    "kills": 5992
   },
   {
     "playerId": "8899024",
@@ -15,6 +15,11 @@
     "kills": 178
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 148
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 143
@@ -23,11 +28,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 143
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 137
   },
   {
     "playerId": "21708970",
@@ -65,6 +65,11 @@
     "kills": 77
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 75
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 73
@@ -73,11 +78,6 @@
     "playerId": "20297710",
     "username": "KD419",
     "kills": 72
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 69
   },
   {
     "playerId": "16092601",
@@ -185,13 +185,13 @@
     "kills": 18
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 16
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 17
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 16
   },
   {
