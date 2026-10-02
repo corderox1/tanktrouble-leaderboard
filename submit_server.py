@@ -2,13 +2,26 @@ from flask import Flask, request, jsonify, session, redirect, url_for
 import os
 import html
 import requests
+import json
 
 app = Flask(__name__)
 
 ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD", "")
 app.secret_key = os.environ.get("ADMIN_PASSWORD", "temporary-secret")
 
-pending_requests = []
+PENDING_FILE = "pending.json"
+
+
+def load_pending_requests():
+    try:
+        with open(PENDING_FILE, "r", encoding="utf-8") as file:
+            return json.load(file)
+
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+pending_requests = load_pending_requests()
 
 TANK_TROUBLE_API = "https://tanktrouble.com/ajax/"
 
@@ -137,11 +150,15 @@ def submit():
                     "message": "This player is already waiting for approval."
                 }), 400
 
-        # Add to pending submissions
-        pending_requests.append({
-            "username": player.get("username", username),
-            "playerId": player_id
-        })
+       # Add to pending submissions
+       pending_requests.append({
+           "username": player.get("username", username),
+           "playerId": player_id
+       })
+
+       # Save pending submissions
+       with open(PENDING_FILE, "w", encoding="utf-8") as file:
+           json.dump(pending_requests, file, indent=4)
 
         return jsonify({
             "success": True,
