@@ -3,6 +3,7 @@ import os
 import html
 import requests
 import json
+import base64
 
 app = Flask(__name__)
 
@@ -10,6 +11,8 @@ ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD", "")
 app.secret_key = os.environ.get("ADMIN_PASSWORD", "temporary-secret")
 
 PENDING_FILE = "pending.json"
+
+TANK_TROUBLE_API = "https://tanktrouble.com/ajax/"
 
 
 def load_pending_requests():
@@ -21,9 +24,12 @@ def load_pending_requests():
         return []
 
 
-pending_requests = load_pending_requests()
+def save_pending_requests():
+    with open(PENDING_FILE, "w", encoding="utf-8") as file:
+        json.dump(pending_requests, file, indent=4)
 
-TANK_TROUBLE_API = "https://tanktrouble.com/ajax/"
+
+pending_requests = load_pending_requests()
 
 
 def get_player_by_username(username):
@@ -46,14 +52,12 @@ def get_player_by_username(username):
 
         api_response = response.json()
 
-        # TankTrouble puts the actual API result inside "result"
         api_result = api_response.get("result")
 
         if not api_result or not api_result.get("result"):
             print("TankTrouble API did not return a successful result.")
             return None
 
-        # Player information is inside result -> data
         player = api_result.get("data")
 
         print("FULL PLAYER DATA:", player)
@@ -109,7 +113,6 @@ def submit():
 
         print("SUBMISSION:", username)
 
-        # Look up the username on TankTrouble
         player = get_player_by_username(username)
 
         print("PLAYER FROM API:", player)
@@ -120,7 +123,6 @@ def submit():
                 "message": "That TankTrouble username could not be found."
             }), 404
 
-        # Get Player ID
         player_id = str(player.get("playerId", ""))
 
         print("PLAYER ID:", player_id)
@@ -131,7 +133,6 @@ def submit():
                 "message": "Could not determine the player's ID."
             }), 500
 
-        # Check if already on leaderboard
         leaderboard_players = get_leaderboard_player_ids()
 
         print("LEADERBOARD IDS LOADED:", len(leaderboard_players))
@@ -142,7 +143,6 @@ def submit():
                 "message": "This player is already on the leaderboard."
             }), 400
 
-        # Check if already pending
         for pending in pending_requests:
             if pending["playerId"] == player_id:
                 return jsonify({
@@ -150,15 +150,12 @@ def submit():
                     "message": "This player is already waiting for approval."
                 }), 400
 
-       # Add to pending submissions
-       pending_requests.append({
-           "username": player.get("username", username),
-           "playerId": player_id
-       })
+        pending_requests.append({
+            "username": player.get("username", username),
+            "playerId": player_id
+        })
 
-       # Save pending submissions
-       with open(PENDING_FILE, "w", encoding="utf-8") as file:
-           json.dump(pending_requests, file, indent=4)
+        save_pending_requests()
 
         return jsonify({
             "success": True,
@@ -178,7 +175,6 @@ def submit():
 @app.route("/admin", methods=["GET", "POST"])
 def admin():
 
-    # Login
     if request.method == "POST":
 
         password = request.form.get("password", "")
@@ -207,7 +203,6 @@ def admin():
         </html>
         """
 
-    # Require login
     if not session.get("admin_logged_in"):
 
         return """
@@ -270,7 +265,6 @@ def admin():
         </html>
         """
 
-    # Admin panel
     page = """
     <!DOCTYPE html>
 
@@ -465,7 +459,6 @@ def verify():
 
     try:
 
-        # Get current players.txt from GitHub
         response = requests.get(
             github_url,
             headers=headers,
@@ -478,22 +471,19 @@ def verify():
 
         file_data = response.json()
 
-        import base64
-
         current_content = base64.b64decode(
             file_data["content"]
         ).decode("utf-8")
 
         current_players = current_content.splitlines()
 
-        # Make sure the player isn't already there
         if player_id in current_players:
 
             pending_requests.pop(index)
+            save_pending_requests()
 
             return redirect(url_for("admin"))
 
-        # Add the new player ID
         new_content = current_content.rstrip() + "\n" + player_id + "\n"
 
         encoded_content = base64.b64encode(
@@ -507,7 +497,6 @@ def verify():
             "branch": "main"
         }
 
-        # Update players.txt on GitHub
         update_response = requests.put(
             github_url,
             headers=headers,
@@ -521,8 +510,8 @@ def verify():
 
         print("GitHub players.txt updated successfully.")
 
-        # Only remove the request AFTER GitHub succeeds
         pending_requests.pop(index)
+        save_pending_requests()
 
         print("Approved player:", player)
 
@@ -533,6 +522,30 @@ def verify():
         print("VERIFY ERROR:", repr(e))
 
         return "Verification failed: " + str(e), 500
+
+
+@app.route("/reject", methods=["POST"])
+def reject():
+
+    if not session.get("admin_logged_in"):
+        return "Unauthorized", 401
+
+    try:
+        index = int(request.form.get("index", ""))
+
+    except ValueError:
+        return "Invalid request", 400
+
+    if index < 0 or index >= len(pending_requests):
+        return "Request not found", 404
+
+    player = pending_requests.pop(index)
+
+    save_pending_requests()
+
+    print("Rejected player:", player)
+
+    return redirect(url_for("admin"))
 
 
 @app.route("/pending")
