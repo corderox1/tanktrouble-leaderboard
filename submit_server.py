@@ -59,21 +59,85 @@ def home():
 @app.route("/submit", methods=["POST"])
 def submit():
 
-    data = request.get_json()
+    try:
+        data = request.get_json()
 
-    if not data:
+        if not data:
+            return jsonify({
+                "success": False,
+                "message": "Invalid submission."
+            }), 400
+
+        username = data.get("username", "").strip()
+
+        if not username:
+            return jsonify({
+                "success": False,
+                "message": "Username is required."
+            }), 400
+
+        print("SUBMISSION:", username)
+
+        # Look up username on TankTrouble
+        player = get_player_by_username(username)
+
+        print("PLAYER FROM API:", player)
+
+        if not player:
+            return jsonify({
+                "success": False,
+                "message": "That TankTrouble username could not be found."
+            }), 404
+
+        # Get Player ID
+        player_id = str(player.get("playerId", ""))
+
+        print("PLAYER ID:", player_id)
+
+        if not player_id:
+            return jsonify({
+                "success": False,
+                "message": "Could not determine the player's ID."
+            }), 500
+
+        # Check if already on leaderboard
+        leaderboard_players = get_leaderboard_player_ids()
+
+        print("LEADERBOARD IDS LOADED:", len(leaderboard_players))
+
+        if player_id in leaderboard_players:
+            return jsonify({
+                "success": False,
+                "message": "This player is already on the leaderboard."
+            }), 400
+
+        # Check if already pending
+        for pending in pending_requests:
+            if pending["playerId"] == player_id:
+                return jsonify({
+                    "success": False,
+                    "message": "This player is already waiting for approval."
+                }), 400
+
+        # Add to pending list
+        pending_requests.append({
+            "username": player.get("username", username),
+            "playerId": player_id
+        })
+
+        return jsonify({
+            "success": True,
+            "message": "Submission received and is waiting for approval!"
+        })
+
+    except Exception as e:
+
+        print("SUBMIT ERROR:", repr(e))
+
         return jsonify({
             "success": False,
-            "message": "Invalid submission."
-        }), 400
-
-    username = data.get("username", "").strip()
-
-    if not username:
-        return jsonify({
-            "success": False,
-            "message": "Username is required."
-        }), 400
+            "message": "SUBMIT ERROR: " + str(e)
+        }), 500
 
     # Look up username on TankTrouble
     player = get_player_by_username(username)
