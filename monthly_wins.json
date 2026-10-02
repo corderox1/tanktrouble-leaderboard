@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6050
+    "kills": 6075
   },
   {
     "playerId": "8899024",
@@ -45,6 +45,11 @@
     "kills": 95
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 84
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 81
@@ -68,11 +73,6 @@
     "playerId": "20297710",
     "username": "KD419",
     "kills": 77
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 75
   },
   {
     "playerId": "20666777",
@@ -215,13 +215,13 @@
     "kills": 7
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 5
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 6
+  },
+  {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
     "kills": 5
   },
   {
