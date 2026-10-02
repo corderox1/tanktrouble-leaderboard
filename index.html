@@ -1014,7 +1014,98 @@
     box-shadow: 0 0 12px rgba(212, 175, 55, 0.5);
 }   
 
-    
+.add-player-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    align-items: center;
+    justify-content: center;
+}
+
+.add-player-modal-content {
+    position: relative;
+    width: 90%;
+    max-width: 420px;
+    background: #111;
+    border: 2px solid #d4af37;
+    border-radius: 12px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 0 25px rgba(212, 175, 55, 0.35);
+}
+
+.add-player-modal-content h2 {
+    color: #d4af37;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.add-player-modal-content p {
+    color: #ccc;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.add-player-close {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    color: #d4af37;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.add-player-close:hover {
+    color: white;
+}
+
+#addPlayerUsername {
+    width: 90%;
+    padding: 11px;
+    background: #222;
+    color: white;
+    border: 1px solid #555;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    outline: none;
+}
+
+#addPlayerUsername:focus {
+    border-color: #d4af37;
+}
+
+.add-player-submit {
+    background: #d4af37;
+    color: #111;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.add-player-submit:hover {
+    background: #f0c94b;
+}
+
+.add-player-submit:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+#addPlayerMessage {
+    margin-top: 15px;
+    font-size: 14px;
+}    
     
     </style>
 
@@ -1921,6 +2012,84 @@ document.getElementById("profileModal").addEventListener("click", function(event
     }
 
 });
+   
+const SUBMISSION_SERVER = "https://tanktrouble-submissions.onrender.com";
+
+function openAddPlayer() {
+    const modal = document.getElementById("addPlayerModal");
+    const input = document.getElementById("addPlayerUsername");
+    const message = document.getElementById("addPlayerMessage");
+
+    modal.style.display = "flex";
+    input.value = "";
+    message.textContent = "";
+    input.focus();
+}
+
+function closeAddPlayer() {
+    document.getElementById("addPlayerModal").style.display = "none";
+}
+
+async function submitPlayer() {
+    const input = document.getElementById("addPlayerUsername");
+    const button = document.getElementById("addPlayerSubmit");
+    const message = document.getElementById("addPlayerMessage");
+
+    const username = input.value.trim();
+
+    if (!username) {
+        message.textContent = "Please enter your TankTrouble username.";
+        message.style.color = "#ff5555";
+        return;
+    }
+
+    button.disabled = true;
+    button.textContent = "Submitting...";
+    message.textContent = "";
+
+    try {
+        const response = await fetch(`${SUBMISSION_SERVER}/submit`, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                username: username
+            })
+        });
+
+        const data = await response.json();
+
+        if (response.ok && data.success) {
+            message.textContent =
+                "✅ Your request was submitted! It is waiting for approval.";
+            message.style.color = "#d4af37";
+
+            input.value = "";
+        } else {
+            message.textContent =
+                data.error || "Something went wrong. Please try again.";
+            message.style.color = "#ff5555";
+        }
+
+    } catch (error) {
+        console.error("Submission error:", error);
+
+        message.textContent =
+            "Could not connect to the submission server.";
+        message.style.color = "#ff5555";
+    }
+
+    button.disabled = false;
+    button.textContent = "Submit";
+}    
+    
+ document.getElementById("addPlayerModal").addEventListener("click", function(event) {
+    if (event.target === this) {
+        closeAddPlayer();
+    }
+});   
+    
     </script>
 
 <div id="profileModal" class="profile-modal">
@@ -1990,6 +2159,48 @@ document.getElementById("profileModal").addEventListener("click", function(event
     </div>
 
 </div>
+
+<!-- Add Player Modal -->
+<div id="addPlayerModal" class="add-player-modal">
+
+    <div class="add-player-modal-content">
+
+        <button
+            class="add-player-close"
+            onclick="closeAddPlayer()"
+        >
+            ×
+        </button>
+
+        <h2>Add Yourself</h2>
+
+        <p>
+            Enter your TankTrouble username to request being added to the leaderboard.
+        </p>
+
+        <input
+            type="text"
+            id="addPlayerUsername"
+            placeholder="TankTrouble username"
+            maxlength="30"
+        >
+
+        <button
+            class="add-player-submit"
+            id="addPlayerSubmit"
+            onclick="submitPlayer()"
+        >
+            Submit
+        </button>
+
+        <div id="addPlayerMessage"></div>
+
+    </div>
+
+</div>
+
+
+
 
 </body>
 
