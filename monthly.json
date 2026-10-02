@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9046,
-    "lastKill": "2026-10-02 10:18:10"
+    "kills": 9063,
+    "lastKill": "2026-10-02 10:21:07"
   },
   {
     "playerId": "22710399",
@@ -20,8 +20,8 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 320,
-    "lastKill": "2026-10-02 10:18:10"
+    "kills": 326,
+    "lastKill": "2026-10-02 10:21:07"
   },
   {
     "playerId": "21601349",
@@ -72,16 +72,16 @@
     "lastKill": "2026-10-01 11:18:11"
   },
   {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 143,
-    "lastKill": "2026-10-02 10:18:10"
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 141,
-    "lastKill": "2026-10-02 10:18:10"
+    "kills": 146,
+    "lastKill": "2026-10-02 10:21:07"
+  },
+  {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 144,
+    "lastKill": "2026-10-02 10:21:07"
   },
   {
     "playerId": "20297710",
@@ -324,6 +324,12 @@
     "lastKill": "2026-10-02 00:00:45"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1,
+    "lastKill": "2026-10-02 10:21:07"
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 1,
@@ -416,12 +422,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
