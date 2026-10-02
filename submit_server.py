@@ -31,13 +31,17 @@ def get_player_by_username(username):
         print("TankTrouble API STATUS:", response.status_code)
         print("TankTrouble API RESPONSE:", response.text)
 
-        data = response.json()
+        api_response = response.json()
 
-        if not data.get("result"):
+        # The TankTrouble API puts the actual data inside "result"
+        api_result = api_response.get("result")
+
+        if not api_result or not api_result.get("result"):
             print("TankTrouble API did not return a successful result.")
             return None
 
-        player = data.get("data")
+        # The actual player information is inside result -> data
+        player = api_result.get("data")
 
         print("FULL PLAYER DATA:", player)
 
