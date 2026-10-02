@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3686
+    "kills": 3698
   },
   {
     "playerId": "706234",
@@ -100,13 +100,13 @@
     "kills": 33
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 31
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 32
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
     "kills": 31
   },
   {
@@ -175,6 +175,11 @@
     "kills": 11
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 11
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 11
@@ -198,11 +203,6 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 8
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 5
   },
   {
     "playerId": "20269995",
@@ -232,6 +232,11 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
+    "kills": 1
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 1
   },
   {
@@ -732,11 +737,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {

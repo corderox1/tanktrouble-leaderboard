@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8297
+    "kills": 8309
   },
   {
     "playerId": "706234",
@@ -80,13 +80,13 @@
     "kills": 85
   },
   {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 80
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 81
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
     "kills": 80
   },
   {
@@ -97,7 +97,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 73
+    "kills": 74
   },
   {
     "playerId": "19932455",
@@ -245,6 +245,11 @@
     "kills": 11
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 11
+  },
+  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 9
@@ -258,11 +263,6 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 8
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 5
   },
   {
     "playerId": "20269995",
