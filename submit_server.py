@@ -33,6 +33,24 @@ def get_player_by_username(username):
 
         api_response = response.json()
 
+
+       def get_leaderboard_player_ids():
+    players = set()
+
+    try:
+        with open("players.txt", "r", encoding="utf-8") as file:
+            for line in file:
+                line = line.strip()
+
+                if line:
+                    players.add(line)
+
+    except FileNotFoundError:
+        print("players.txt was not found.")
+
+    return players
+
+          
         # The TankTrouble API puts the actual data inside "result"
         api_result = api_response.get("result")
 
