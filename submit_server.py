@@ -404,9 +404,13 @@ def home():
 # SUBMIT PLAYER
 # ============================================================
 
-@app.route("/submit", methods=["POST", "OPTIONS"])
+@app.route("/submit", methods=["GET", "POST", "OPTIONS"])
 def submit():
-
+    if request.method == "GET":
+        return jsonify({
+            "success": True,
+            "message": "Submit endpoint is reachable."
+     })
     if request.method == "OPTIONS":
         return "", 204
 
