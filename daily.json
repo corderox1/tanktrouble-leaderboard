@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4127,
-    "lastKill": "2026-10-02 13:33:11"
+    "kills": 4148,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "706234",
@@ -42,16 +42,16 @@
     "lastKill": "2026-10-02 07:00:34"
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 150,
+    "lastKill": "2026-10-02 13:36:10"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 148,
     "lastKill": "2026-10-02 11:48:11"
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 146,
-    "lastKill": "2026-10-02 13:33:11"
   },
   {
     "playerId": "21251653",
@@ -102,16 +102,16 @@
     "lastKill": "2026-10-02 12:36:14"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 87,
+    "lastKill": "2026-10-02 13:36:10"
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 84,
     "lastKill": "2026-10-02 07:39:12"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 83,
-    "lastKill": "2026-10-02 13:33:11"
   },
   {
     "playerId": "21516705",
@@ -180,6 +180,12 @@
     "lastKill": "2026-10-02 13:00:48"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 38,
+    "lastKill": "2026-10-02 13:36:10"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 37,
@@ -192,16 +198,10 @@
     "lastKill": "2026-10-02 05:33:09"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 35,
-    "lastKill": "2026-10-02 13:33:11"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 32,
-    "lastKill": "2026-10-02 12:09:11"
+    "kills": 34,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "17629928",
@@ -1042,5 +1042,11 @@
     "username": "Illuminate",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
+  },
+  {
+    "playerId": "22752688",
+    "username": "Corderos",
+    "kills": 0,
+    "lastKill": "2026-10-02 13:33:11"
   }
 ]

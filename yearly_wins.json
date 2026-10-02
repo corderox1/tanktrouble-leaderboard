@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 63365
+    "kills": 63382
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 1683
+    "kills": 1684
   },
   {
     "playerId": "21508277",
@@ -117,7 +117,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 653
+    "kills": 655
   },
   {
     "playerId": "16736853",
@@ -162,7 +162,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 523
+    "kills": 525
   },
   {
     "playerId": "19932455",
@@ -887,6 +887,11 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
+    "kills": 0
+  },
+  {
+    "playerId": "22752688",
+    "username": "Corderos",
     "kills": 0
   }
 ]

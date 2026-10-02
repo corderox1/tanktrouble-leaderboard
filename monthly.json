@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10276,
-    "lastKill": "2026-10-02 13:33:11"
+    "kills": 10297,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "21601349",
@@ -56,8 +56,8 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 185,
-    "lastKill": "2026-10-02 13:33:11"
+    "kills": 189,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "22077521",
@@ -176,8 +176,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 83,
-    "lastKill": "2026-10-02 13:33:11"
+    "kills": 87,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "21516705",
@@ -236,8 +236,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 45,
-    "lastKill": "2026-10-02 13:33:11"
+    "kills": 48,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "12222122",
@@ -256,6 +256,12 @@
     "username": "Bulletio",
     "kills": 43,
     "lastKill": "2026-10-02 10:48:14"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 38,
+    "lastKill": "2026-10-02 13:36:10"
   },
   {
     "playerId": "22472796",
@@ -280,12 +286,6 @@
     "username": "SilentSpaceSergeant",
     "kills": 36,
     "lastKill": "2026-10-01 17:57:09"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 36,
-    "lastKill": "2026-10-02 12:09:11"
   },
   {
     "playerId": "20984454",
@@ -1042,5 +1042,11 @@
     "username": "Illuminate",
     "kills": 0,
     "lastKill": "2026-10-01 09:28:09"
+  },
+  {
+    "playerId": "22752688",
+    "username": "Corderos",
+    "kills": 0,
+    "lastKill": "2026-10-02 13:33:11"
   }
 ]
