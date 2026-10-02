@@ -33,6 +33,24 @@ def get_player_by_username(username):
 
         api_response = response.json()
 
+        # TankTrouble puts the actual API result inside "result"
+        api_result = api_response.get("result")
+
+        if not api_result or not api_result.get("result"):
+            print("TankTrouble API did not return a successful result.")
+            return None
+
+        # Player information is inside result -> data
+        player = api_result.get("data")
+
+        print("FULL PLAYER DATA:", player)
+
+        return player
+
+    except Exception as e:
+        print("TankTrouble API ERROR:", repr(e))
+        return None
+
 
 def get_leaderboard_player_ids():
     players = set()
@@ -50,24 +68,6 @@ def get_leaderboard_player_ids():
 
     return players
 
-          
-        # The TankTrouble API puts the actual data inside "result"
-        api_result = api_response.get("result")
-
-        if not api_result or not api_result.get("result"):
-            print("TankTrouble API did not return a successful result.")
-            return None
-
-        # The actual player information is inside result -> data
-        player = api_result.get("data")
-
-        print("FULL PLAYER DATA:", player)
-
-        return player
-
-    except Exception as e:
-        print("TankTrouble API ERROR:", repr(e))
-        return None
 
 @app.route("/")
 def home():
@@ -96,7 +96,7 @@ def submit():
 
         print("SUBMISSION:", username)
 
-        # Look up username on TankTrouble
+        # Look up the username on TankTrouble
         player = get_player_by_username(username)
 
         print("PLAYER FROM API:", player)
@@ -137,7 +137,7 @@ def submit():
                     "message": "This player is already waiting for approval."
                 }), 400
 
-        # Add to pending list
+        # Add to pending submissions
         pending_requests.append({
             "username": player.get("username", username),
             "playerId": player_id
@@ -157,52 +157,6 @@ def submit():
             "message": "SUBMIT ERROR: " + str(e)
         }), 500
 
-    # Look up username on TankTrouble
-    player = get_player_by_username(username)
-
-    if not player:
-        return jsonify({
-            "success": False,
-            "message": "That TankTrouble username could not be found."
-        }), 404
-
-    # Get Player ID
-    player_id = str(player.get("playerId", ""))
-
-    if not player_id:
-        return jsonify({
-            "success": False,
-            "message": "Could not determine the player's ID."
-        }), 500
-
-    # Check if already on leaderboard
-    leaderboard_players = get_leaderboard_player_ids()
-
-    if player_id in leaderboard_players:
-        return jsonify({
-            "success": False,
-            "message": "This player is already on the leaderboard."
-        }), 400
-
-    # Check if already pending
-    for pending in pending_requests:
-        if pending["playerId"] == player_id:
-            return jsonify({
-                "success": False,
-                "message": "This player is already waiting for approval."
-            }), 400
-
-    # Add to pending list
-    pending_requests.append({
-        "username": player.get("username", username),
-        "playerId": player_id
-    })
-
-    return jsonify({
-        "success": True,
-        "message": "Submission received and is waiting for approval!"
-    })
-
 
 @app.route("/admin", methods=["GET", "POST"])
 def admin():
@@ -219,9 +173,19 @@ def admin():
         return """
         <!DOCTYPE html>
         <html>
-        <body style="background:#111;color:white;font-family:Arial;padding:30px;">
+        <body style="
+            background:#111;
+            color:white;
+            font-family:Arial;
+            padding:30px;
+        ">
+
             <h2>Wrong password ❌</h2>
-            <a href="/admin" style="color:gold;">Try again</a>
+
+            <a href="/admin" style="color:gold;">
+                Try again
+            </a>
+
         </body>
         </html>
         """
@@ -234,9 +198,11 @@ def admin():
         <html>
 
         <head>
+
             <title>TankTrouble Admin</title>
 
             <style>
+
                 body {
                     background: #111;
                     color: white;
@@ -258,7 +224,9 @@ def admin():
                     font-size: 16px;
                     cursor: pointer;
                 }
+
             </style>
+
         </head>
 
         <body>
@@ -281,12 +249,14 @@ def admin():
             </form>
 
         </body>
+
         </html>
         """
 
     # Admin panel
     page = """
     <!DOCTYPE html>
+
     <html>
 
     <head>
