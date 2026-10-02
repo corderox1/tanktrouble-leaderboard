@@ -2048,15 +2048,13 @@ async function submitPlayer() {
     message.textContent = "";
 
     try {
+        const body = new URLSearchParams();
+        body.append("username", username);
+
         const response = await fetch(`${SUBMISSION_SERVER}/submit`, {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                username: username
-            })
-        });
+         method: "POST",
+         body: body
+    });
 
         const data = await response.json();
 
