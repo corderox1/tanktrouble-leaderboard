@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 61028
+    "kills": 61044
   },
   {
     "playerId": "8590474",
@@ -92,7 +92,7 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 714
+    "kills": 717
   },
   {
     "playerId": "21012136",
@@ -302,7 +302,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 107
+    "kills": 110
   },
   {
     "playerId": "16874545",
@@ -342,7 +342,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 40
+    "kills": 42
   },
   {
     "playerId": "21098942",
@@ -453,6 +453,11 @@
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 2
+  },
+  {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 1
   },
   {
     "playerId": "10132007",
@@ -882,11 +887,6 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
-    "kills": 0
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
     "kills": 0
   }
 ]
