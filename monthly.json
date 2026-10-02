@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7443,
-    "lastKill": "2026-10-02 05:18:10"
+    "kills": 7466,
+    "lastKill": "2026-10-02 05:21:07"
   },
   {
     "playerId": "22710399",
@@ -60,6 +60,12 @@
     "lastKill": "2026-10-02 03:48:09"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 115,
+    "lastKill": "2026-10-02 05:21:07"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 114,
@@ -78,16 +84,10 @@
     "lastKill": "2026-10-02 04:18:06"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 112,
-    "lastKill": "2026-10-02 05:18:10"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 101,
-    "lastKill": "2026-10-02 05:18:10"
+    "kills": 105,
+    "lastKill": "2026-10-02 05:21:07"
   },
   {
     "playerId": "4381511",
@@ -198,22 +198,28 @@
     "lastKill": "2026-10-02 04:12:11"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 28,
+    "lastKill": "2026-10-02 05:21:07"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 28,
     "lastKill": "2026-10-02 04:00:26"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 25,
+    "lastKill": "2026-10-02 05:21:07"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 23,
     "lastKill": "2026-10-01 12:51:06"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 23,
-    "lastKill": "2026-10-02 05:15:07"
   },
   {
     "playerId": "22706369",
@@ -226,12 +232,6 @@
     "username": "Mandilindors",
     "kills": 20,
     "lastKill": "2026-10-01 16:12:08"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 20,
-    "lastKill": "2026-10-02 05:09:10"
   },
   {
     "playerId": "22716354",
