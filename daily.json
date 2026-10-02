@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4728,
-    "lastKill": "2026-10-02 15:12:07"
+    "kills": 4751,
+    "lastKill": "2026-10-02 15:15:28"
   },
   {
     "playerId": "706234",
@@ -212,14 +212,14 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 32,
-    "lastKill": "2026-10-02 11:12:15"
+    "kills": 36,
+    "lastKill": "2026-10-02 15:15:28"
   },
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 29,
-    "lastKill": "2026-10-02 15:12:07"
+    "kills": 31,
+    "lastKill": "2026-10-02 15:15:28"
   },
   {
     "playerId": "22710399",
@@ -272,8 +272,14 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
+    "kills": 6,
+    "lastKill": "2026-10-02 15:15:28"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 5,
-    "lastKill": "2026-10-02 15:12:07"
+    "lastKill": "2026-10-02 15:15:28"
   },
   {
     "playerId": "22081323",
@@ -878,12 +884,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
