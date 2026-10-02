@@ -40,29 +40,9 @@ def get_player_by_username(username):
 
         return data["result"]
 
-        except Exception as e:
+    except Exception as e:
         print("TankTrouble API ERROR:", repr(e))
         return None
-
-
-def get_leaderboard_player_ids():
-    """Read Player IDs from players.txt."""
-
-    players = set()
-
-    try:
-        with open("players.txt", "r", encoding="utf-8") as file:
-            for line in file:
-                line = line.strip()
-
-                if line:
-                    players.add(line)
-
-    except FileNotFoundError:
-        pass
-
-    return players
-
 
 @app.route("/")
 def home():
