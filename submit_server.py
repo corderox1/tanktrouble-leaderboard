@@ -44,10 +44,12 @@ def get_player_by_username(username):
 
         data = response.json()
 
-        if "result" not in data:
-            return None
+    if "result" not in data:
+        return None
 
-        return data["result"]
+    print("FULL PLAYER DATA:", data["result"])
+
+    return data["result"]
 
    except Exception as e:
        return {
