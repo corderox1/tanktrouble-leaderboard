@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7625,
-    "lastKill": "2026-10-02 05:45:35"
+    "kills": 7640,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "22710399",
@@ -122,8 +122,8 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 81,
-    "lastKill": "2026-10-02 05:45:35"
+    "kills": 83,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "17629928",
@@ -134,8 +134,8 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 65,
-    "lastKill": "2026-10-02 05:45:35"
+    "kills": 67,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "6776098",
@@ -148,6 +148,12 @@
     "username": "fyrenado",
     "kills": 58,
     "lastKill": "2026-10-01 03:52:04"
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 52,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "21508277",
@@ -166,12 +172,6 @@
     "username": "RDCGAMER",
     "kills": 48,
     "lastKill": "2026-10-01 16:00:09"
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 47,
-    "lastKill": "2026-10-02 05:45:35"
   },
   {
     "playerId": "12222122",
@@ -236,8 +236,8 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 13,
-    "lastKill": "2026-10-02 05:45:35"
+    "kills": 16,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "22716354",
@@ -286,6 +286,12 @@
     "username": "Jaw",
     "kills": 1,
     "lastKill": "2026-10-02 00:00:45"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 1,
+    "lastKill": "2026-10-02 05:48:12"
   },
   {
     "playerId": "1145079",
@@ -506,12 +512,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
