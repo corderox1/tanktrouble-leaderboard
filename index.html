@@ -2070,13 +2070,14 @@ async function submitPlayer() {
             message.style.color = "#ff5555";
         }
 
-    } catch (error) {
-        console.error("Submission error:", error);
+   } catch (error) {
+    console.error("Submission error:", error);
 
-        message.textContent =
-            "Could not connect to the submission server.";
-        message.style.color = "#ff5555";
-    }
+    message.textContent =
+        "Error: " + error.message;
+
+    message.style.color = "#ff5555";
+}
 
     button.disabled = false;
     button.textContent = "Submit";
