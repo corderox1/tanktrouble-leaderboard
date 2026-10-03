@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1623
+    "kills": 1624
   },
   {
     "playerId": "20270104",
@@ -40,6 +40,11 @@
     "kills": 29
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 29
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 26
@@ -65,11 +70,6 @@
     "kills": 21
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 21
-  },
-  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 16
@@ -90,13 +90,13 @@
     "kills": 12
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 11
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 12
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 11
   },
   {
