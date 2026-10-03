@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1624
+    "kills": 1629
   },
   {
     "playerId": "20270104",
@@ -30,8 +30,18 @@
     "kills": 36
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 33
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 32
+  },
+  {
+    "playerId": "21739597",
+    "username": "Illuminate",
     "kills": 32
   },
   {
@@ -40,18 +50,8 @@
     "kills": 29
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 29
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 26
-  },
-  {
-    "playerId": "21739597",
-    "username": "Illuminate",
     "kills": 26
   },
   {
@@ -100,6 +100,11 @@
     "kills": 11
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 8
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 6
@@ -113,11 +118,6 @@
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 4
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 2
   },
   {
     "playerId": "22710399",
