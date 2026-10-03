@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2188,
-    "lastKill": "2026-10-03 09:33:23"
+    "kills": 2214,
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 107,
-    "lastKill": "2026-10-03 09:33:23"
+    "kills": 108,
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "1051525",
@@ -38,8 +38,20 @@
   {
     "playerId": "20297710",
     "username": "KD419",
+    "kills": 63,
+    "lastKill": "2026-10-03 09:36:23"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 63,
+    "lastKill": "2026-10-03 09:36:23"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
     "kills": 58,
-    "lastKill": "2026-10-03 09:30:36"
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "21956820",
@@ -54,18 +66,6 @@
     "lastKill": "2026-10-03 07:33:24"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 56,
-    "lastKill": "2026-10-03 09:33:23"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 54,
-    "lastKill": "2026-10-03 09:24:25"
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 53,
@@ -76,6 +76,12 @@
     "username": "Illuminate",
     "kills": 52,
     "lastKill": "2026-10-03 09:18:19"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 46,
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "13773720",
@@ -90,16 +96,10 @@
     "lastKill": "2026-10-03 09:01:16"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 38,
-    "lastKill": "2026-10-03 09:33:23"
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 28,
-    "lastKill": "2026-10-03 07:24:19"
+    "kills": 31,
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "8899024",
@@ -146,8 +146,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 12,
-    "lastKill": "2026-10-03 09:33:23"
+    "kills": 13,
+    "lastKill": "2026-10-03 09:36:23"
   },
   {
     "playerId": "1145079",
