@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24936
+    "kills": 24940
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 523
+    "kills": 524
   },
   {
     "playerId": "22077521",
@@ -90,6 +90,11 @@
     "kills": 271
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 270
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 269
@@ -98,11 +103,6 @@
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 268
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 267
   },
   {
     "playerId": "20984454",
@@ -117,7 +117,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 213
+    "kills": 214
   },
   {
     "playerId": "18625144",
@@ -147,7 +147,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 157
+    "kills": 158
   },
   {
     "playerId": "3990108",
@@ -157,7 +157,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 144
+    "kills": 145
   },
   {
     "playerId": "21797119",
@@ -265,13 +265,13 @@
     "kills": 55
   },
   {
-    "playerId": "21967085",
-    "username": "Studdxr",
-    "kills": 50
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 51
+  },
+  {
+    "playerId": "21967085",
+    "username": "Studdxr",
     "kills": 50
   },
   {
