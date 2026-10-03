@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5087
+    "kills": 5092
   },
   {
     "playerId": "706234",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 219
+    "kills": 221
   },
   {
     "playerId": "8899024",
@@ -130,6 +130,11 @@
     "kills": 35
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 35
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 34
@@ -137,11 +142,6 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 34
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 34
   },
   {
@@ -175,14 +175,14 @@
     "kills": 24
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 23
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 22
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 21
   },
   {
     "playerId": "22081323",
