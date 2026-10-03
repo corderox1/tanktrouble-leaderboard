@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5623,
-    "lastKill": "2026-10-02 19:21:09"
+    "kills": 5633,
+    "lastKill": "2026-10-02 19:24:08"
   },
   {
     "playerId": "706234",
@@ -24,16 +24,16 @@
     "lastKill": "2026-10-02 17:54:12"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 217,
+    "lastKill": "2026-10-02 19:24:08"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 216,
     "lastKill": "2026-10-02 12:51:10"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 212,
-    "lastKill": "2026-10-02 19:21:09"
   },
   {
     "playerId": "22077521",
@@ -328,6 +328,12 @@
     "username": "seyi-vibez-jr",
     "kills": 4,
     "lastKill": "2026-10-02 12:57:08"
+  },
+  {
+    "playerId": "16202507",
+    "username": "DaveMadeByDave",
+    "kills": 2,
+    "lastKill": "2026-10-02 19:24:08"
   },
   {
     "playerId": "22105718",
@@ -788,12 +794,6 @@
   {
     "playerId": "6919151",
     "username": "SavageSmokie",
-    "kills": 0,
-    "lastKill": "2026-10-02 00:00:45"
-  },
-  {
-    "playerId": "16202507",
-    "username": "DaveMadeByDave",
     "kills": 0,
     "lastKill": "2026-10-02 00:00:45"
   },
