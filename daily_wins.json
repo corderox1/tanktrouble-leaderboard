@@ -105,6 +105,11 @@
     "kills": 28
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 25
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 25
@@ -117,11 +122,6 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 23
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 23
   },
   {
@@ -165,13 +165,13 @@
     "kills": 11
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 7
-  },
-  {
     "playerId": "16736853",
     "username": "SaucyReaper",
+    "kills": 8
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 7
   },
   {
@@ -182,6 +182,11 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 5
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 5
   },
   {
@@ -482,11 +487,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
