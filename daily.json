@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 839,
-    "lastKill": "2026-10-03 03:57:19"
+    "kills": 846,
+    "lastKill": "2026-10-03 04:00:19"
   },
   {
     "playerId": "8590474",
@@ -36,10 +36,34 @@
     "lastKill": "2026-10-03 03:03:22"
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 5,
+    "lastKill": "2026-10-03 04:00:19"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 3,
+    "lastKill": "2026-10-03 04:00:19"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 2,
     "lastKill": "2026-10-03 00:03:20"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 1,
+    "lastKill": "2026-10-03 04:00:19"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 1,
+    "lastKill": "2026-10-03 04:00:19"
   },
   {
     "playerId": "22710399",
@@ -492,12 +516,6 @@
     "lastKill": "2026-10-03 00:00:37"
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 0,
@@ -876,12 +894,6 @@
     "lastKill": "2026-10-03 00:00:37"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1026,12 +1038,6 @@
     "lastKill": "2026-10-03 00:00:37"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1046,12 +1052,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0,
     "lastKill": "2026-10-03 00:00:37"
   }

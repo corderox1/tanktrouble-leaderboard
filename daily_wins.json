@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 638
+    "kills": 646
   },
   {
     "playerId": "8590474",
@@ -20,18 +20,23 @@
     "kills": 16
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 3
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 2
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 1
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 2
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 1
   },
   {
@@ -872,11 +877,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0
   }
 ]

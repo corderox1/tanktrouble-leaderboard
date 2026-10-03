@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23435
+    "kills": 23443
   },
   {
     "playerId": "8590474",
@@ -237,7 +237,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 62
+    "kills": 63
   },
   {
     "playerId": "8502796",
@@ -320,6 +320,11 @@
     "kills": 24
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 22
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 21
@@ -327,11 +332,6 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 19
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 19
   },
   {
