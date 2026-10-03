@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1501,
-    "lastKill": "2026-10-03 06:51:21"
+    "kills": 1506,
+    "lastKill": "2026-10-03 06:54:22"
   },
   {
     "playerId": "20270104",
@@ -82,6 +82,12 @@
     "username": "Astra",
     "kills": 2,
     "lastKill": "2026-10-03 00:03:20"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 1,
+    "lastKill": "2026-10-03 06:54:22"
   },
   {
     "playerId": "22710399",
@@ -404,12 +410,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": "2026-10-03 00:00:37"
   },
