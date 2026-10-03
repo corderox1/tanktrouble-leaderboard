@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1118
+    "kills": 1121
   },
   {
     "playerId": "20270104",
@@ -35,6 +35,11 @@
     "kills": 25
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 18
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 16
@@ -45,14 +50,19 @@
     "kills": 15
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 14
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 11
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 6
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 6
   },
   {
     "playerId": "19068893",
@@ -63,16 +73,6 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 4
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 4
-  },
-  {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 1
   },
   {
     "playerId": "22710399",
