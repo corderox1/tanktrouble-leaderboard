@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24465
+    "kills": 24476
   },
   {
     "playerId": "8590474",
@@ -107,7 +107,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 219
+    "kills": 223
   },
   {
     "playerId": "20984454",
@@ -127,7 +127,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 197
+    "kills": 198
   },
   {
     "playerId": "6776098",
@@ -160,6 +160,11 @@
     "kills": 119
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 115
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 112
@@ -185,11 +190,6 @@
     "kills": 108
   },
   {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 107
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 96
@@ -200,13 +200,13 @@
     "kills": 90
   },
   {
-    "playerId": "8478955",
-    "username": "Boagrius",
-    "kills": 88
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 90
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
     "kills": 88
   },
   {
