@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29000,
-    "lastKill": "2026-10-02 23:21:14"
+    "kills": 29010,
+    "lastKill": "2026-10-02 23:24:23"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2267,
-    "lastKill": "2026-10-02 23:21:14"
+    "kills": 2272,
+    "lastKill": "2026-10-02 23:24:23"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 910,
-    "lastKill": "2026-10-02 23:21:14"
+    "kills": 913,
+    "lastKill": "2026-10-02 23:24:23"
   },
   {
     "playerId": "21601349",
@@ -384,6 +384,12 @@
     "lastKill": "2026-10-02 10:48:14"
   },
   {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 34,
+    "lastKill": "2026-10-02 23:24:23"
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 30,
@@ -406,12 +412,6 @@
     "username": "3w0n",
     "kills": 23,
     "lastKill": "2026-10-01 12:51:06"
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
-    "kills": 23,
-    "lastKill": "2026-10-02 23:21:14"
   },
   {
     "playerId": "21098942",
