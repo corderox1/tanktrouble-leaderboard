@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11800
+    "kills": 11813
   },
   {
     "playerId": "8899024",
@@ -52,17 +52,17 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 176
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 164
+    "kills": 178
   },
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 160
+    "kills": 175
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 165
   },
   {
     "playerId": "17629928",
@@ -82,7 +82,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 142
+    "kills": 143
   },
   {
     "playerId": "2574833",
@@ -142,7 +142,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 68
+    "kills": 69
   },
   {
     "playerId": "19932455",
@@ -200,6 +200,11 @@
     "kills": 48
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 48
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 48
@@ -207,11 +212,6 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 47
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 47
   },
   {
