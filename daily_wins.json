@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3375
+    "kills": 3378
   },
   {
     "playerId": "22694251",
@@ -45,13 +45,13 @@
     "kills": 68
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 64
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 65
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 64
   },
   {
@@ -140,14 +140,14 @@
     "kills": 15
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 15
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 14
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 13
   },
   {
     "playerId": "6776098",
@@ -183,6 +183,11 @@
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 4
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 3
   },
   {
     "playerId": "1185396",
@@ -417,11 +422,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 0
   },
   {

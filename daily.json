@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4522,
-    "lastKill": "2026-10-03 16:54:29"
+    "kills": 4524,
+    "lastKill": "2026-10-03 16:57:36"
   },
   {
     "playerId": "22694251",
@@ -68,8 +68,8 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 91,
-    "lastKill": "2026-10-03 16:54:29"
+    "kills": 92,
+    "lastKill": "2026-10-03 16:57:36"
   },
   {
     "playerId": "21465536",
@@ -144,16 +144,16 @@
     "lastKill": "2026-10-03 09:18:19"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 43,
+    "lastKill": "2026-10-03 16:57:36"
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 41,
     "lastKill": "2026-10-03 16:00:32"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 36,
-    "lastKill": "2026-10-03 16:54:29"
   },
   {
     "playerId": "1145079",
@@ -226,6 +226,12 @@
     "username": "rhak",
     "kills": 7,
     "lastKill": "2026-10-03 12:57:29"
+  },
+  {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 3,
+    "lastKill": "2026-10-03 16:57:36"
   },
   {
     "playerId": "14617724",
@@ -506,12 +512,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 0,
     "lastKill": "2026-10-03 00:00:37"
   },
