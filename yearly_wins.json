@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 66801
+    "kills": 66811
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1295
+    "kills": 1298
   },
   {
     "playerId": "22744888",
@@ -260,6 +260,11 @@
     "kills": 230
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 230
+  },
+  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 229
@@ -268,11 +273,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 229
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 224
   },
   {
     "playerId": "18985660",
@@ -302,7 +302,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 137
+    "kills": 138
   },
   {
     "playerId": "16874545",
@@ -350,6 +350,11 @@
     "kills": 57
   },
   {
+    "playerId": "21739597",
+    "username": "Illuminate",
+    "kills": 44
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 44
@@ -377,11 +382,6 @@
   {
     "playerId": "151476",
     "username": "bangbangshoota",
-    "kills": 32
-  },
-  {
-    "playerId": "21739597",
-    "username": "Illuminate",
     "kills": 32
   },
   {
