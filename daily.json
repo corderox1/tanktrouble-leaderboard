@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 856,
-    "lastKill": "2026-10-03 04:03:17"
+    "kills": 861,
+    "lastKill": "2026-10-03 04:06:19"
   },
   {
     "playerId": "8590474",
@@ -24,16 +24,16 @@
     "lastKill": "2026-10-03 00:24:25"
   },
   {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 11,
-    "lastKill": "2026-10-03 04:03:17"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 10,
-    "lastKill": "2026-10-03 04:03:17"
+    "kills": 15,
+    "lastKill": "2026-10-03 04:06:19"
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 15,
+    "lastKill": "2026-10-03 04:06:19"
   },
   {
     "playerId": "21708970",
@@ -52,6 +52,12 @@
     "username": "Astra",
     "kills": 2,
     "lastKill": "2026-10-03 00:03:20"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 2,
+    "lastKill": "2026-10-03 04:06:19"
   },
   {
     "playerId": "22472796",
@@ -326,12 +332,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": "2026-10-03 00:00:37"
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": "2026-10-03 00:00:37"
   },

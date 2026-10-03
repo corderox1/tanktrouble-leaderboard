@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10359
+    "kills": 10362
   },
   {
     "playerId": "8899024",
@@ -180,13 +180,13 @@
     "kills": 43
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 42
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 43
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 42
   },
   {
@@ -220,6 +220,11 @@
     "kills": 27
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 26
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 25
@@ -237,11 +242,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 24
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 24
   },
   {
