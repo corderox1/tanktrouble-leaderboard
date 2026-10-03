@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4918
+    "kills": 4919
   },
   {
     "playerId": "706234",
@@ -17,17 +17,17 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 191
+    "kills": 193
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 148
   },
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 146
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 144
   },
   {
     "playerId": "4381511",
@@ -145,13 +145,13 @@
     "kills": 31
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 29
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
+    "kills": 30
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 29
   },
   {
@@ -200,6 +200,11 @@
     "kills": 17
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 14
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 14
@@ -208,11 +213,6 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 14
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 13
   },
   {
     "playerId": "20666777",
