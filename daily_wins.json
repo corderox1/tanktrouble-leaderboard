@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4916
+    "kills": 4917
   },
   {
     "playerId": "706234",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 162
+    "kills": 164
   },
   {
     "playerId": "13773720",
@@ -270,6 +270,11 @@
     "kills": 3
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 2
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 2
@@ -283,11 +288,6 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 1
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 0
   },
   {
     "playerId": "10132007",
