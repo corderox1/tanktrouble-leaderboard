@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3379
+    "kills": 3387
   },
   {
     "playerId": "22694251",
@@ -90,6 +90,11 @@
     "kills": 39
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 36
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 33
@@ -98,11 +103,6 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 32
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 31
   },
   {
     "playerId": "21601349",
@@ -130,9 +130,19 @@
     "kills": 22
   },
   {
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 18
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 18
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 16
   },
   {
     "playerId": "8899024",
@@ -150,11 +160,6 @@
     "kills": 14
   },
   {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
-    "kills": 13
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 12
@@ -168,11 +173,6 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 11
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 9
   },
   {
     "playerId": "21708970",
