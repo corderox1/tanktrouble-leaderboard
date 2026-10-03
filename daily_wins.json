@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1679
+    "kills": 1695
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 84
+    "kills": 85
   },
   {
     "playerId": "8590474",
@@ -77,7 +77,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 16
+    "kills": 20
   },
   {
     "playerId": "8899024",
@@ -88,6 +88,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 15
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 14
   },
   {
     "playerId": "20011985",
@@ -110,11 +115,6 @@
     "kills": 11
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 9
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 6
@@ -132,7 +132,12 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 1
+    "kills": 3
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 2
   },
   {
     "playerId": "22710399",
@@ -832,11 +837,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0
   },
   {
