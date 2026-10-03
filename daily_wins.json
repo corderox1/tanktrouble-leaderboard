@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3560
+    "kills": 3561
   },
   {
     "playerId": "22694251",
@@ -50,13 +50,13 @@
     "kills": 65
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 64
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 65
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 64
   },
   {
@@ -65,14 +65,19 @@
     "kills": 59
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 59
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 56
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 55
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 56
   },
   {
     "playerId": "21178768",
@@ -83,11 +88,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 54
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 52
   },
   {
     "playerId": "21739597",
