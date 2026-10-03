@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9538
+    "kills": 9543
   },
   {
     "playerId": "706234",
@@ -27,7 +27,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 196
+    "kills": 200
   },
   {
     "playerId": "21708970",
@@ -170,14 +170,14 @@
     "kills": 46
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 43
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 42
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 41
   },
   {
     "playerId": "19068893",
@@ -320,13 +320,13 @@
     "kills": 3
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 1
-  },
-  {
     "playerId": "22081323",
     "username": "WifiSciFi",
+    "kills": 2
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 1
   },
   {

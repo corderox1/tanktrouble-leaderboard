@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28970,
-    "lastKill": "2026-10-02 23:09:18"
+    "kills": 28980,
+    "lastKill": "2026-10-02 23:12:17"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2250,
-    "lastKill": "2026-10-02 23:09:18"
+    "kills": 2256,
+    "lastKill": "2026-10-02 23:12:17"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 897,
-    "lastKill": "2026-10-02 23:09:18"
+    "kills": 898,
+    "lastKill": "2026-10-02 23:12:17"
   },
   {
     "playerId": "21601349",
@@ -180,6 +180,12 @@
     "lastKill": "2026-10-02 08:30:11"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 225,
+    "lastKill": "2026-10-02 23:12:17"
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 224,
@@ -190,12 +196,6 @@
     "username": "PrehistoricPyroGhost",
     "kills": 222,
     "lastKill": "2026-09-30 09:37:26"
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 214,
-    "lastKill": "2026-10-02 23:09:18"
   },
   {
     "playerId": "21178768",
@@ -420,6 +420,12 @@
     "lastKill": "2026-09-28 10:04:08"
   },
   {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 12,
+    "lastKill": "2026-10-02 23:12:17"
+  },
+  {
     "playerId": "16202507",
     "username": "DaveMadeByDave",
     "kills": 9,
@@ -430,12 +436,6 @@
     "username": "TripleStryke",
     "kills": 8,
     "lastKill": "2026-09-28 14:07:22"
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
-    "kills": 8,
-    "lastKill": "2026-10-02 18:03:08"
   },
   {
     "playerId": "20111777",
