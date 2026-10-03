@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11325
+    "kills": 11330
   },
   {
     "playerId": "8899024",
@@ -87,7 +87,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 123
+    "kills": 125
   },
   {
     "playerId": "20270104",
@@ -130,13 +130,13 @@
     "kills": 81
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 67
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 68
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 67
   },
   {
@@ -150,6 +150,11 @@
     "kills": 64
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 63
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 61
@@ -158,11 +163,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 59
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 58
   },
   {
     "playerId": "21516705",
