@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 65016
+    "kills": 65031
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2756
+    "kills": 2758
   },
   {
     "playerId": "21601349",
@@ -137,7 +137,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 588
+    "kills": 592
   },
   {
     "playerId": "4686507",
@@ -450,6 +450,11 @@
     "kills": 6
   },
   {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 6
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 4
@@ -457,11 +462,6 @@
   {
     "playerId": "16202507",
     "username": "DaveMadeByDave",
-    "kills": 4
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
     "kills": 4
   },
   {
