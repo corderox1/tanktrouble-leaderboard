@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24815
+    "kills": 24835
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 682
+    "kills": 684
   },
   {
     "playerId": "8899024",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 509
+    "kills": 511
   },
   {
     "playerId": "22077521",
@@ -145,6 +145,11 @@
     "kills": 153
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 150
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 147
@@ -153,11 +158,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 143
-  },
-  {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 141
   },
   {
     "playerId": "20270104",
@@ -245,13 +245,13 @@
     "kills": 68
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 58
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
+    "kills": 64
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
     "kills": 58
   },
   {

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2018
+    "kills": 2038
   },
   {
     "playerId": "20270104",
@@ -20,6 +20,11 @@
     "kills": 57
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 56
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 55
@@ -35,11 +40,6 @@
     "kills": 48
   },
   {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 47
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 39
@@ -47,7 +47,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 36
+    "kills": 38
   },
   {
     "playerId": "22706369",
@@ -105,14 +105,19 @@
     "kills": 15
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 14
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 14
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 13
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 12
   },
   {
     "playerId": "6776098",
@@ -133,11 +138,6 @@
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 11
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 8
   },
   {
     "playerId": "22694251",
