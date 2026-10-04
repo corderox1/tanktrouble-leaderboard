@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1001
+    "kills": 1008
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 104
+    "kills": 106
   },
   {
     "playerId": "8899024",
@@ -40,6 +40,11 @@
     "kills": 23
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 20
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 19
@@ -55,9 +60,9 @@
     "kills": 16
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 16
+    "playerId": "21739597",
+    "username": "Illuminate",
+    "kills": 10
   },
   {
     "playerId": "15931599",
@@ -862,11 +867,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "21739597",
-    "username": "Illuminate",
     "kills": 0
   },
   {
