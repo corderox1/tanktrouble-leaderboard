@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2795
+    "kills": 2806
   },
   {
     "playerId": "10794529",
@@ -155,6 +155,11 @@
     "kills": 3
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 3
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 2
@@ -165,13 +170,13 @@
     "kills": 2
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 2
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
+    "kills": 1
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
     "kills": 1
   },
   {
@@ -812,11 +817,6 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 0
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 0
   },
   {

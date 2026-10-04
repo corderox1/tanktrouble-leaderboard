@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3566,
-    "lastKill": "2026-10-04 16:21:56"
+    "kills": 3576,
+    "lastKill": "2026-10-04 16:24:55"
   },
   {
     "playerId": "14892840",
@@ -180,6 +180,12 @@
     "lastKill": "2026-10-04 05:48:51"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 7,
+    "lastKill": "2026-10-04 16:24:55"
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 5,
@@ -216,16 +222,16 @@
     "lastKill": "2026-10-04 12:46:08"
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 2,
-    "lastKill": "2026-10-04 16:12:54"
-  },
-  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 1,
     "lastKill": "2026-10-04 15:31:09"
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 1,
+    "lastKill": "2026-10-04 16:24:55"
   },
   {
     "playerId": "22710399",
@@ -974,12 +980,6 @@
   {
     "playerId": "22744888",
     "username": "fester",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
