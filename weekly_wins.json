@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28233
+    "kills": 28238
   },
   {
     "playerId": "8590474",
@@ -60,6 +60,11 @@
     "kills": 450
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 362
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 358
@@ -68,11 +73,6 @@
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 357
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 352
   },
   {
     "playerId": "4381511",
@@ -152,7 +152,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 192
+    "kills": 194
   },
   {
     "playerId": "21251653",
