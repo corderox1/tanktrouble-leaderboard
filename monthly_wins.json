@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15945
+    "kills": 15950
   },
   {
     "playerId": "8590474",
@@ -50,6 +50,11 @@
     "kills": 232
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 225
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 222
@@ -58,11 +63,6 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 221
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 218
   },
   {
     "playerId": "22694251",
@@ -165,14 +165,14 @@
     "kills": 82
   },
   {
-    "playerId": "21739597",
-    "username": "Illuminate",
+    "playerId": "20984454",
+    "username": "CHIMABOY",
     "kills": 72
   },
   {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 71
+    "playerId": "21739597",
+    "username": "Illuminate",
+    "kills": 72
   },
   {
     "playerId": "21956820",
