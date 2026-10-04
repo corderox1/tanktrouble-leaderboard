@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15216
+    "kills": 15222
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 367
+    "kills": 373
   },
   {
     "playerId": "4381511",
@@ -115,6 +115,11 @@
     "kills": 142
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 135
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 135
@@ -132,11 +137,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 125
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 125
   },
   {
@@ -290,14 +290,14 @@
     "kills": 14
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 13
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 11
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 10
   },
   {
     "playerId": "19768925",
