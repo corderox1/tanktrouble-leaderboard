@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20892,
-    "lastKill": "2026-10-04 12:03:52"
+    "kills": 20900,
+    "lastKill": "2026-10-04 12:06:47"
   },
   {
     "playerId": "21601349",
@@ -420,6 +420,12 @@
     "lastKill": "2026-10-02 21:45:38"
   },
   {
+    "playerId": "7559374",
+    "username": "Catalyst",
+    "kills": 3,
+    "lastKill": "2026-10-04 12:06:47"
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 3,
@@ -770,12 +776,6 @@
   {
     "playerId": "255912",
     "username": "captainahvong",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "7559374",
-    "username": "Catalyst",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
