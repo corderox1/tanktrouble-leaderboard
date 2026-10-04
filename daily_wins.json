@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3150
+    "kills": 3151
   },
   {
     "playerId": "10794529",
@@ -892,6 +892,11 @@
   {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
+    "kills": 0
+  },
+  {
+    "playerId": "21077567",
+    "username": "Runner",
     "kills": 0
   }
 ]
