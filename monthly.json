@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21363,
-    "lastKill": "2026-10-04 14:01:28"
+    "kills": 21369,
+    "lastKill": "2026-10-04 14:03:52"
   },
   {
     "playerId": "21601349",
@@ -54,6 +54,12 @@
     "lastKill": "2026-10-04 14:01:28"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 405,
+    "lastKill": "2026-10-04 14:03:52"
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 403,
@@ -64,12 +70,6 @@
     "username": "NoonooKJ",
     "kills": 402,
     "lastKill": "2026-10-04 09:51:52"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 397,
-    "lastKill": "2026-10-04 14:01:28"
   },
   {
     "playerId": "22706369",
@@ -122,8 +122,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 324,
-    "lastKill": "2026-10-04 14:01:28"
+    "kills": 325,
+    "lastKill": "2026-10-04 14:03:52"
   },
   {
     "playerId": "20270104",
@@ -132,14 +132,14 @@
     "lastKill": "2026-10-04 08:36:44"
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 272,
-    "lastKill": "2026-10-04 14:01:28"
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
+    "kills": 273,
+    "lastKill": "2026-10-04 14:03:52"
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 272,
     "lastKill": "2026-10-04 14:01:28"
   },
