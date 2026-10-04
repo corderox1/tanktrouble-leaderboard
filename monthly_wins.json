@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16864
+    "kills": 16875
   },
   {
     "playerId": "21601349",
@@ -37,12 +37,17 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 316
+    "kills": 319
   },
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 249
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 234
   },
   {
     "playerId": "20270104",
@@ -57,11 +62,6 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 230
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 230
   },
   {
@@ -172,7 +172,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 73
+    "kills": 76
   },
   {
     "playerId": "21739597",
@@ -207,7 +207,7 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 63
+    "kills": 64
   },
   {
     "playerId": "22047175",
@@ -280,6 +280,11 @@
     "kills": 25
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 23
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 21
@@ -288,11 +293,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 20
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 19
   },
   {
     "playerId": "19425584",
