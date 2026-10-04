@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 457,
-    "lastKill": "2026-10-04 02:27:42"
+    "kills": 463,
+    "lastKill": "2026-10-04 02:31:28"
   },
   {
     "playerId": "14617724",
@@ -28,6 +28,12 @@
     "username": "Invincible",
     "kills": 15,
     "lastKill": "2026-10-04 01:36:44"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 10,
+    "lastKill": "2026-10-04 02:31:28"
   },
   {
     "playerId": "15931599",
@@ -806,12 +812,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
