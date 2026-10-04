@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28288
+    "kills": 28290
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1988
+    "kills": 1990
   },
   {
     "playerId": "14892840",
@@ -62,7 +62,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 426
+    "kills": 432
   },
   {
     "playerId": "13773720",
@@ -137,7 +137,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 223
+    "kills": 226
   },
   {
     "playerId": "6776098",
@@ -397,6 +397,11 @@
   {
     "playerId": "20621274",
     "username": "ttw",
+    "kills": 2
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
     "kills": 2
   },
   {
@@ -752,11 +757,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {

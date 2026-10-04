@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1263
+    "kills": 1265
   },
   {
     "playerId": "14892840",
@@ -12,12 +12,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 156
+    "kills": 162
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 128
+    "kills": 130
   },
   {
     "playerId": "8899024",
@@ -25,14 +25,14 @@
     "kills": 89
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 79
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 78
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 76
   },
   {
     "playerId": "22472796",
@@ -88,6 +88,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 4
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 2
   },
   {
     "playerId": "22710399",
@@ -692,11 +697,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
