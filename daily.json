@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 841,
-    "lastKill": "2026-10-04 04:00:45"
+    "kills": 842,
+    "lastKill": "2026-10-04 04:09:41"
   },
   {
     "playerId": "14617724",
@@ -46,6 +46,12 @@
     "username": "SoftMagmaDriver",
     "kills": 5,
     "lastKill": "2026-10-04 03:39:43"
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 1,
+    "lastKill": "2026-10-04 04:09:41"
   },
   {
     "playerId": "22710399",
@@ -1046,12 +1052,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   }
