@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1823,
-    "lastKill": "2026-10-04 08:33:50"
+    "kills": 1830,
+    "lastKill": "2026-10-04 08:36:44"
   },
   {
     "playerId": "14892840",
@@ -14,14 +14,14 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 243,
-    "lastKill": "2026-10-04 08:33:50"
+    "kills": 248,
+    "lastKill": "2026-10-04 08:36:44"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 157,
-    "lastKill": "2026-10-04 08:33:50"
+    "kills": 160,
+    "lastKill": "2026-10-04 08:36:44"
   },
   {
     "playerId": "14617724",
@@ -36,16 +36,16 @@
     "lastKill": "2026-10-04 02:24:43"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 90,
+    "lastKill": "2026-10-04 08:36:44"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 86,
     "lastKill": "2026-10-04 06:27:43"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 84,
-    "lastKill": "2026-10-04 08:31:00"
   },
   {
     "playerId": "20666777",
@@ -118,6 +118,12 @@
     "username": "Ayanokoji",
     "kills": 2,
     "lastKill": "2026-10-04 04:15:55"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 1,
+    "lastKill": "2026-10-04 08:36:44"
   },
   {
     "playerId": "20011985",
@@ -530,12 +536,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
