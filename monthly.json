@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21968,
-    "lastKill": "2026-10-04 17:09:53"
+    "kills": 21976,
+    "lastKill": "2026-10-04 17:16:16"
   },
   {
     "playerId": "21601349",
@@ -44,8 +44,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 606,
-    "lastKill": "2026-10-04 17:09:53"
+    "kills": 616,
+    "lastKill": "2026-10-04 17:16:16"
   },
   {
     "playerId": "22694251",
@@ -80,8 +80,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 385,
-    "lastKill": "2026-10-04 17:09:53"
+    "kills": 395,
+    "lastKill": "2026-10-04 17:16:16"
   },
   {
     "playerId": "21956820",
@@ -216,16 +216,16 @@
     "lastKill": "2026-10-04 07:12:45"
   },
   {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 150,
-    "lastKill": "2026-10-04 17:06:59"
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 147,
-    "lastKill": "2026-10-04 17:09:53"
+    "kills": 156,
+    "lastKill": "2026-10-04 17:16:16"
+  },
+  {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 155,
+    "lastKill": "2026-10-04 17:16:16"
   },
   {
     "playerId": "19932455",
@@ -312,6 +312,12 @@
     "lastKill": "2026-10-02 13:09:10"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 47,
+    "lastKill": "2026-10-04 17:16:16"
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 47,
@@ -340,12 +346,6 @@
     "username": "Bulletio",
     "kills": 43,
     "lastKill": "2026-10-02 10:48:14"
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 40,
-    "lastKill": "2026-10-04 17:09:53"
   },
   {
     "playerId": "22081323",

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2940
+    "kills": 2946
   },
   {
     "playerId": "10794529",
@@ -47,7 +47,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 62
+    "kills": 64
   },
   {
     "playerId": "1051525",
@@ -70,9 +70,19 @@
     "kills": 39
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 37
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 35
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 33
   },
   {
     "playerId": "22105718",
@@ -80,9 +90,9 @@
     "kills": 31
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 28
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 29
   },
   {
     "playerId": "2574833",
@@ -100,19 +110,9 @@
     "kills": 24
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 24
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 24
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 20
   },
   {
     "playerId": "21098942",
@@ -160,6 +160,11 @@
     "kills": 7
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 7
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 4
@@ -167,11 +172,6 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 3
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 3
   },
   {
