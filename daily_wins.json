@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2965
+    "kills": 2975
   },
   {
     "playerId": "10794529",
@@ -25,14 +25,14 @@
     "kills": 154
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 89
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 86
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 89
   },
   {
     "playerId": "20270104",
@@ -47,17 +47,22 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 72
+    "kills": 74
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 54
+    "kills": 62
   },
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 53
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 47
   },
   {
     "playerId": "18625144",
@@ -68,11 +73,6 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 46
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 43
   },
   {
     "playerId": "21797119",
@@ -130,14 +130,14 @@
     "kills": 18
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 18
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 15
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 12
   },
   {
     "playerId": "20297710",
@@ -148,6 +148,11 @@
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 10
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 8
   },
   {
     "playerId": "22694251",
@@ -173,6 +178,11 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 3
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 2
   },
   {
     "playerId": "7559374",
@@ -265,11 +275,6 @@
     "kills": 0
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 0
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 0
@@ -282,11 +287,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
