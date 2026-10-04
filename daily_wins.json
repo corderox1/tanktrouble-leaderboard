@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 324
+    "kills": 326
   },
   {
     "playerId": "8590474",
@@ -10,19 +10,24 @@
     "kills": 115
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 73
-  },
-  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 71
+    "kills": 75
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 74
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 11
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -407,11 +412,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   },
   {

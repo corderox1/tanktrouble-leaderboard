@@ -2,8 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 411,
-    "lastKill": "2026-10-04 02:12:46"
+    "kills": 417,
+    "lastKill": "2026-10-04 02:15:50"
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 119,
+    "lastKill": "2026-10-04 02:15:50"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 119,
+    "lastKill": "2026-10-04 02:15:50"
   },
   {
     "playerId": "8590474",
@@ -12,22 +24,16 @@
     "lastKill": "2026-10-04 00:54:49"
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 113,
-    "lastKill": "2026-10-04 02:12:46"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 113,
-    "lastKill": "2026-10-04 02:12:46"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 15,
     "lastKill": "2026-10-04 01:36:44"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-10-04 02:15:50"
   },
   {
     "playerId": "22710399",
@@ -488,12 +494,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
