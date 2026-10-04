@@ -47,12 +47,17 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 67
+    "kills": 69
   },
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 53
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 48
   },
   {
     "playerId": "18625144",
@@ -65,14 +70,19 @@
     "kills": 46
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 45
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 39
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 37
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 35
   },
   {
     "playerId": "20984454",
@@ -80,19 +90,9 @@
     "kills": 35
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 33
-  },
-  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 31
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 30
   },
   {
     "playerId": "2574833",
@@ -145,6 +145,11 @@
     "kills": 10
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 9
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 8
@@ -157,11 +162,6 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 7
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
     "kills": 7
   },
   {
