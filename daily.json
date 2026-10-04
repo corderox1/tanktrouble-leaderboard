@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2434,
-    "lastKill": "2026-10-04 11:12:52"
+    "kills": 2451,
+    "lastKill": "2026-10-04 11:15:54"
   },
   {
     "playerId": "14892840",
@@ -90,6 +90,12 @@
     "lastKill": "2026-10-04 09:33:47"
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 27,
+    "lastKill": "2026-10-04 11:15:54"
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 22,
@@ -120,12 +126,6 @@
     "lastKill": "2026-10-04 10:39:53"
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 14,
-    "lastKill": "2026-10-04 11:12:52"
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 9,
@@ -136,6 +136,12 @@
     "username": "SoftMagmaDriver",
     "kills": 7,
     "lastKill": "2026-10-04 05:48:51"
+  },
+  {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 4,
+    "lastKill": "2026-10-04 11:15:54"
   },
   {
     "playerId": "20011985",
@@ -154,6 +160,12 @@
     "username": "Lil_May",
     "kills": 2,
     "lastKill": "2026-10-04 11:09:53"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 2,
+    "lastKill": "2026-10-04 11:15:54"
   },
   {
     "playerId": "22710399",
@@ -422,12 +434,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
@@ -1004,12 +1010,6 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
