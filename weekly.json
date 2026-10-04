@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 37988,
-    "lastKill": "2026-10-04 14:30:53"
+    "kills": 37995,
+    "lastKill": "2026-10-04 14:33:52"
   },
   {
     "playerId": "8590474",
@@ -80,8 +80,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 695,
-    "lastKill": "2026-10-04 14:30:53"
+    "kills": 699,
+    "lastKill": "2026-10-04 14:33:52"
   },
   {
     "playerId": "22077521",
@@ -1060,5 +1060,11 @@
     "username": "Corderos",
     "kills": 0,
     "lastKill": "2026-10-02 13:33:11"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 0,
+    "lastKill": "2026-10-04 14:30:53"
   }
 ]
