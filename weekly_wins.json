@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30116
+    "kills": 30128
   },
   {
     "playerId": "8590474",
@@ -67,7 +67,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 455
+    "kills": 462
   },
   {
     "playerId": "16736853",
@@ -210,19 +210,24 @@
     "kills": 108
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 98
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 96
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 93
   },
   {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 92
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 93
   },
   {
     "playerId": "8478955",
@@ -238,11 +243,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 81
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 80
   },
   {
     "playerId": "12222122",
@@ -345,6 +345,11 @@
     "kills": 28
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 27
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 25
@@ -353,11 +358,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 25
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 24
   },
   {
     "playerId": "22081323",

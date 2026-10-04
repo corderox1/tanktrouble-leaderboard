@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3091
+    "kills": 3103
   },
   {
     "playerId": "10794529",
@@ -32,7 +32,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 111
+    "kills": 118
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 93
   },
   {
     "playerId": "8899024",
@@ -43,11 +48,6 @@
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 85
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 80
   },
   {
     "playerId": "14617724",
@@ -90,6 +90,11 @@
     "kills": 39
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 37
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 35
@@ -100,24 +105,19 @@
     "kills": 31
   },
   {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 31
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 28
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 27
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 26
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 24
   },
   {
     "playerId": "20666777",
