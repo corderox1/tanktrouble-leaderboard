@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28298
+    "kills": 28306
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1990
+    "kills": 1993
   },
   {
     "playerId": "14892840",
@@ -55,14 +55,14 @@
     "kills": 496
   },
   {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 450
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 444
+    "playerId": "16736853",
+    "username": "SaucyReaper",
+    "kills": 450
   },
   {
     "playerId": "13773720",
@@ -170,14 +170,14 @@
     "kills": 165
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 149
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 147
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 144
   },
   {
     "playerId": "21178768",
@@ -360,6 +360,11 @@
     "kills": 11
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 10
+  },
+  {
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 6
@@ -392,11 +397,6 @@
   {
     "playerId": "16202507",
     "username": "DaveMadeByDave",
-    "kills": 4
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 4
   },
   {
