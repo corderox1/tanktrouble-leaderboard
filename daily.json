@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 996,
-    "lastKill": "2026-10-04 04:42:48"
+    "kills": 1013,
+    "lastKill": "2026-10-04 04:45:45"
   },
   {
     "playerId": "14617724",
@@ -24,16 +24,16 @@
     "lastKill": "2026-10-04 00:54:49"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 40,
+    "lastKill": "2026-10-04 04:45:45"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 34,
     "lastKill": "2026-10-04 04:06:47"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 32,
-    "lastKill": "2026-10-04 04:42:48"
   },
   {
     "playerId": "18625144",
@@ -58,6 +58,12 @@
     "username": "biscuit",
     "kills": 8,
     "lastKill": "2026-10-04 04:15:55"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 5,
+    "lastKill": "2026-10-04 04:45:45"
   },
   {
     "playerId": "15931599",
@@ -170,12 +176,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
