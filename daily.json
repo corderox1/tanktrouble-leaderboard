@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1875,
-    "lastKill": "2026-10-04 08:48:47"
+    "kills": 1893,
+    "lastKill": "2026-10-04 08:51:49"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 185,
-    "lastKill": "2026-10-04 08:48:47"
+    "kills": 187,
+    "lastKill": "2026-10-04 08:51:49"
   },
   {
     "playerId": "14617724",
@@ -72,6 +72,12 @@
     "lastKill": "2026-10-04 06:06:45"
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 21,
+    "lastKill": "2026-10-04 08:51:49"
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 20,
@@ -84,22 +90,16 @@
     "lastKill": "2026-10-04 02:36:46"
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 18,
+    "lastKill": "2026-10-04 08:51:49"
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 17,
     "lastKill": "2026-10-04 07:12:45"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 16,
-    "lastKill": "2026-10-04 08:48:47"
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 16,
-    "lastKill": "2026-10-04 08:48:47"
   },
   {
     "playerId": "19068893",
@@ -118,6 +118,12 @@
     "username": "SoftMagmaDriver",
     "kills": 7,
     "lastKill": "2026-10-04 05:48:51"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 2,
+    "lastKill": "2026-10-04 08:51:49"
   },
   {
     "playerId": "21708970",
@@ -260,12 +266,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },

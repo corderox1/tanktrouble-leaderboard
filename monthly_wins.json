@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15245
+    "kills": 15260
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 553
+    "kills": 554
   },
   {
     "playerId": "8899024",
@@ -22,7 +22,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 492
+    "kills": 494
   },
   {
     "playerId": "14892840",
@@ -110,14 +110,14 @@
     "kills": 147
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 143
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 142
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 139
   },
   {
     "playerId": "22472796",
@@ -270,6 +270,11 @@
     "kills": 25
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 21
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 21
@@ -277,11 +282,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 20
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 20
   },
   {

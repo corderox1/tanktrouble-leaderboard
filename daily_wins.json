@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1310
+    "kills": 1325
   },
   {
     "playerId": "10794529",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 139
+    "kills": 140
   },
   {
     "playerId": "8899024",
@@ -45,23 +45,23 @@
     "kills": 24
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 24
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 24
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 20
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 20
-  },
-  {
     "playerId": "22105718",
     "username": "Escape",
+    "kills": 21
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 20
   },
   {
@@ -98,6 +98,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 4
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 2
   },
   {
     "playerId": "22710399",
@@ -207,11 +212,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
