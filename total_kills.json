@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44292036,
-    "lastKill": "2026-10-04 18:16:02"
+    "kills": 44292041,
+    "lastKill": "2026-10-04 18:18:57"
   },
   {
     "playerId": "878689",
@@ -1065,6 +1065,12 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 12,
+    "lastKill": null
+  },
+  {
+    "playerId": "21077567",
+    "username": "Runner",
+    "kills": 1,
     "lastKill": null
   },
   {
