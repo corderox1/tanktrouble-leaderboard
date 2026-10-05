@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1382
+    "kills": 1403
   },
   {
     "playerId": "20297710",
@@ -17,12 +17,12 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 117
+    "kills": 119
   },
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "kills": 80
+    "kills": 81
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 33
+    "kills": 35
   },
   {
     "playerId": "21103294",
@@ -55,6 +55,11 @@
     "kills": 19
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 13
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 13
@@ -65,23 +70,18 @@
     "kills": 13
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 13
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 12
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 12
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 12
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 12
   },
   {
@@ -122,6 +122,11 @@
   {
     "playerId": "160470",
     "username": "bbc",
+    "kills": 2
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
     "kills": 2
   },
   {
@@ -432,11 +437,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
