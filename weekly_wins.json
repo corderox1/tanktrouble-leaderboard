@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 780
+    "kills": 787
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 118
+    "kills": 121
   },
   {
     "playerId": "21956820",
@@ -72,6 +72,11 @@
   {
     "playerId": "160470",
     "username": "bbc",
+    "kills": 2
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 2
   },
   {
@@ -207,11 +212,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
@@ -897,6 +897,11 @@
   {
     "playerId": "21077567",
     "username": "Runner",
+    "kills": 0
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
     "kills": 0
   }
 ]

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23642,
-    "lastKill": "2026-10-05 08:55:18"
+    "kills": 23651,
+    "lastKill": "2026-10-05 08:58:14"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 797,
-    "lastKill": "2026-10-05 08:55:18"
+    "kills": 801,
+    "lastKill": "2026-10-05 08:58:14"
   },
   {
     "playerId": "14892840",
@@ -44,8 +44,8 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 723,
-    "lastKill": "2026-10-04 17:06:59"
+    "kills": 725,
+    "lastKill": "2026-10-05 08:58:14"
   },
   {
     "playerId": "706234",
@@ -1078,5 +1078,11 @@
     "username": "Runner",
     "kills": 0,
     "lastKill": "2026-10-04 18:18:57"
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 0,
+    "lastKill": "2026-10-05 08:55:18"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18362
+    "kills": 18369
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 403
+    "kills": 405
   },
   {
     "playerId": "4381511",
@@ -47,7 +47,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 333
+    "kills": 336
   },
   {
     "playerId": "4142755",
@@ -897,6 +897,11 @@
   {
     "playerId": "21077567",
     "username": "Runner",
+    "kills": 0
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
     "kills": 0
   }
 ]
