@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2141
+    "kills": 2155
   },
   {
     "playerId": "20297710",
@@ -55,14 +55,14 @@
     "kills": 63
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 41
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 38
-  },
-  {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 37
   },
   {
     "playerId": "20269995",
@@ -187,6 +187,11 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
+    "kills": 1
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 1
   },
   {
@@ -392,11 +397,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
