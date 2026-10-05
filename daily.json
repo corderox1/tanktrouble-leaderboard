@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 544,
-    "lastKill": "2026-10-05 06:55:16"
+    "kills": 549,
+    "lastKill": "2026-10-05 07:07:10"
   },
   {
     "playerId": "14617724",
@@ -22,6 +22,12 @@
     "username": "Corderox1",
     "kills": 11,
     "lastKill": "2026-10-05 00:07:14"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 6,
+    "lastKill": "2026-10-05 07:07:10"
   },
   {
     "playerId": "15931599",
@@ -356,12 +362,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
