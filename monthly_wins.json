@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20012
+    "kills": 20020
   },
   {
     "playerId": "21601349",
@@ -132,7 +132,7 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 166
+    "kills": 167
   },
   {
     "playerId": "22472796",
@@ -260,6 +260,11 @@
     "kills": 47
   },
   {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 35
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 31
@@ -298,11 +303,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 25
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
-    "kills": 24
   },
   {
     "playerId": "21098942",
