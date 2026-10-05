@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2578,
-    "lastKill": "2026-10-05 15:46:31"
+    "kills": 2591,
+    "lastKill": "2026-10-05 15:49:12"
   },
   {
     "playerId": "20297710",
@@ -146,8 +146,8 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 24,
-    "lastKill": "2026-10-05 15:46:31"
+    "kills": 26,
+    "lastKill": "2026-10-05 15:49:12"
   },
   {
     "playerId": "3162693",
@@ -190,6 +190,12 @@
     "username": "kamarov",
     "kills": 4,
     "lastKill": "2026-10-05 08:37:09"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 3,
+    "lastKill": "2026-10-05 15:49:12"
   },
   {
     "playerId": "19768925",
@@ -758,12 +764,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
