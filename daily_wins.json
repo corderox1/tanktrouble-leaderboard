@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 873
+    "kills": 881
   },
   {
     "playerId": "22694251",
@@ -12,7 +12,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 36
+    "kills": 42
   },
   {
     "playerId": "21956820",
@@ -25,6 +25,11 @@
     "kills": 19
   },
   {
+    "playerId": "20984454",
+    "username": "CHIMABOY",
+    "kills": 13
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 13
@@ -33,11 +38,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 12
-  },
-  {
-    "playerId": "20984454",
-    "username": "CHIMABOY",
-    "kills": 10
   },
   {
     "playerId": "22710399",
@@ -55,13 +55,13 @@
     "kills": 6
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 4
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 5
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 4
   },
   {
