@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4256,
-    "lastKill": "2026-10-04 22:31:49"
+    "kills": 4257,
+    "lastKill": "2026-10-04 22:37:13"
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 344,
+    "lastKill": "2026-10-04 22:37:13"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 326,
     "lastKill": "2026-10-04 21:55:03"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 322,
-    "lastKill": "2026-10-04 22:34:05"
   },
   {
     "playerId": "10794529",
@@ -146,8 +146,8 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 43,
-    "lastKill": "2026-10-04 22:34:05"
+    "kills": 45,
+    "lastKill": "2026-10-04 22:37:13"
   },
   {
     "playerId": "6776098",
@@ -274,6 +274,12 @@
     "username": "Lil_May",
     "kills": 2,
     "lastKill": "2026-10-04 11:09:53"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 2,
+    "lastKill": "2026-10-04 22:37:13"
   },
   {
     "playerId": "22706369",
@@ -818,12 +824,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": "2026-10-04 00:00:46"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": "2026-10-04 00:00:46"
   },
