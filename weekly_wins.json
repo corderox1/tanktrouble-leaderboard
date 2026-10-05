@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2155
+    "kills": 2165
   },
   {
     "playerId": "20297710",
@@ -57,7 +57,7 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 41
+    "kills": 42
   },
   {
     "playerId": "10794529",
@@ -140,6 +140,11 @@
     "kills": 6
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 5
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 4
@@ -187,11 +192,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 1
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 1
   },
   {
