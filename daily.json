@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 795,
-    "lastKill": "2026-10-05 08:16:18"
+    "kills": 799,
+    "lastKill": "2026-10-05 08:22:11"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 65,
+    "lastKill": "2026-10-05 08:22:11"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 56,
     "lastKill": "2026-10-05 08:01:13"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 54,
-    "lastKill": "2026-10-05 08:19:10"
   },
   {
     "playerId": "14617724",
@@ -48,10 +48,22 @@
     "lastKill": "2026-10-05 08:19:10"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 7,
+    "lastKill": "2026-10-05 08:22:11"
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 6,
     "lastKill": "2026-10-05 07:07:10"
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 5,
+    "lastKill": "2026-10-05 08:22:11"
   },
   {
     "playerId": "22706369",
@@ -60,22 +72,16 @@
     "lastKill": "2026-10-05 07:19:10"
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 3,
-    "lastKill": "2026-10-05 08:16:18"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 2,
-    "lastKill": "2026-10-05 08:19:10"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 1,
     "lastKill": "2026-10-05 08:01:13"
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 1,
+    "lastKill": "2026-10-05 08:22:11"
   },
   {
     "playerId": "15931599",
@@ -482,12 +488,6 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
