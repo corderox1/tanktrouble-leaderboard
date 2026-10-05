@@ -1,5 +1,10 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 35199530
+  },
+  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 1000358
@@ -18,6 +23,11 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 142365
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 138453
   },
   {
     "playerId": "2574833",
@@ -63,6 +73,11 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 75211
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 73795
   },
   {
     "playerId": "8478955",
@@ -300,6 +315,11 @@
     "kills": 29546
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 29495
+  },
+  {
     "playerId": "972806",
     "username": "missile123",
     "kills": 28674
@@ -330,6 +350,11 @@
     "kills": 25147
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 24803
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 24242
@@ -348,6 +373,11 @@
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 23265
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 22211
   },
   {
     "playerId": "19068893",
@@ -370,6 +400,11 @@
     "kills": 20990
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 20866
+  },
+  {
     "playerId": "21727981",
     "username": "YHWH",
     "kills": 20814
@@ -380,6 +415,21 @@
     "kills": 20683
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 20328
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 19820
+  },
+  {
+    "playerId": "19691813",
+    "username": "Jhxjan",
+    "kills": 19741
+  },
+  {
     "playerId": "1265805",
     "username": "sheep",
     "kills": 19370
@@ -388,6 +438,11 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 19264
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 19199
   },
   {
     "playerId": "499659",
@@ -405,6 +460,11 @@
     "kills": 18482
   },
   {
+    "playerId": "10132007",
+    "username": "scientistt",
+    "kills": 18217
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 17965
@@ -413,6 +473,11 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 17963
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 17467
   },
   {
     "playerId": "20101050",
@@ -505,6 +570,11 @@
     "kills": 11580
   },
   {
+    "playerId": "15164705",
+    "username": "Glitter56371",
+    "kills": 11537
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 11463
@@ -570,6 +640,11 @@
     "kills": 8045
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 7670
+  },
+  {
     "playerId": "2113313",
     "username": "HydroDonkey",
     "kills": 7314
@@ -583,6 +658,11 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 6831
+  },
+  {
+    "playerId": "13819102",
+    "username": "Sir-Nightmare",
+    "kills": 6741
   },
   {
     "playerId": "12632496",
@@ -620,14 +700,29 @@
     "kills": 4729
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 4643
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 4349
   },
   {
+    "playerId": "21443824",
+    "username": "FLICK",
+    "kills": 4310
+  },
+  {
     "playerId": "8427337",
     "username": "Iichen",
     "kills": 4228
+  },
+  {
+    "playerId": "13783887",
+    "username": "EPIC_GIRL",
+    "kills": 4204
   },
   {
     "playerId": "747025",
@@ -648,6 +743,11 @@
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 3559
+  },
+  {
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 3518
   },
   {
     "playerId": "21796745",
