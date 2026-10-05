@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19341
+    "kills": 19350
   },
   {
     "playerId": "8590474",
@@ -55,13 +55,13 @@
     "kills": 320
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 309
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 314
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 309
   },
   {
@@ -102,7 +102,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 185
+    "kills": 187
   },
   {
     "playerId": "22716354",
@@ -295,6 +295,11 @@
     "kills": 25
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 22
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 21
@@ -303,11 +308,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 20
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 19
   },
   {
     "playerId": "19425584",
