@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19644
+    "kills": 19665
   },
   {
     "playerId": "21601349",
@@ -150,13 +150,13 @@
     "kills": 154
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 134
-  },
-  {
     "playerId": "4653977",
     "username": "MAGATRON",
+    "kills": 136
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 134
   },
   {
@@ -235,6 +235,11 @@
     "kills": 61
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 59
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 58
@@ -243,11 +248,6 @@
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 56
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 55
   },
   {
     "playerId": "20269995",
