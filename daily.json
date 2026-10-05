@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1267,
-    "lastKill": "2026-10-05 10:13:18"
+    "kills": 1281,
+    "lastKill": "2026-10-05 10:16:09"
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 232,
+    "lastKill": "2026-10-05 10:16:09"
   },
   {
     "playerId": "22694251",
@@ -12,28 +18,28 @@
     "lastKill": "2026-10-05 09:01:11"
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 222,
-    "lastKill": "2026-10-05 10:13:18"
-  },
-  {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "kills": 81,
-    "lastKill": "2026-10-05 10:13:18"
+    "kills": 90,
+    "lastKill": "2026-10-05 10:16:09"
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 62,
-    "lastKill": "2026-10-05 10:13:18"
+    "kills": 71,
+    "lastKill": "2026-10-05 10:16:09"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 56,
     "lastKill": "2026-10-05 08:01:13"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 45,
+    "lastKill": "2026-10-05 10:16:09"
   },
   {
     "playerId": "21103294",
@@ -46,12 +52,6 @@
     "username": "Astra",
     "kills": 40,
     "lastKill": "2026-10-05 00:28:07"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 40,
-    "lastKill": "2026-10-05 10:13:18"
   },
   {
     "playerId": "8899024",
@@ -78,16 +78,16 @@
     "lastKill": "2026-10-05 10:07:13"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 11,
+    "lastKill": "2026-10-05 10:16:09"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 10,
     "lastKill": "2026-10-05 09:34:16"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 8,
-    "lastKill": "2026-10-05 10:13:18"
   },
   {
     "playerId": "21012136",
@@ -118,6 +118,12 @@
     "username": "interstellar",
     "kills": 3,
     "lastKill": "2026-10-05 09:01:11"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 2,
+    "lastKill": "2026-10-05 10:16:09"
   },
   {
     "playerId": "20666777",
@@ -986,12 +992,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
