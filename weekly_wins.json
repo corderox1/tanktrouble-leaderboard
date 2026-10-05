@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1729
+    "kills": 1737
   },
   {
     "playerId": "20297710",
@@ -35,14 +35,14 @@
     "kills": 76
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 63
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 63
+    "kills": 66
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 64
   },
   {
     "playerId": "10794529",
@@ -90,13 +90,13 @@
     "kills": 15
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 13
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 15
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
     "kills": 13
   },
   {
@@ -153,6 +153,11 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 2
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1
   },
   {
     "playerId": "21700920",
@@ -232,11 +237,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {
