@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 914
+    "kills": 924
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 142
+    "kills": 144
   },
   {
     "playerId": "16092601",
@@ -25,6 +25,11 @@
     "kills": 22
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 11
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 10
@@ -35,11 +40,6 @@
     "kills": 10
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 9
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 9
@@ -47,7 +47,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 7
+    "kills": 8
   },
   {
     "playerId": "20984454",
@@ -58,6 +58,11 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 4
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 3
   },
   {
     "playerId": "160470",
@@ -187,11 +192,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
