@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5148
+    "kills": 5154
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 318
   },
   {
     "playerId": "14892840",
@@ -12,11 +17,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 309
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 309
   },
   {
@@ -37,12 +37,12 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 169
+    "kills": 172
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 149
+    "kills": 151
   },
   {
     "playerId": "22710399",
@@ -52,7 +52,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 141
+    "kills": 142
   },
   {
     "playerId": "21601349",
@@ -110,6 +110,11 @@
     "kills": 58
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 54
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 54
@@ -118,11 +123,6 @@
     "playerId": "4653977",
     "username": "MAGATRON",
     "kills": 52
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 51
   },
   {
     "playerId": "22706369",
@@ -195,6 +195,11 @@
     "kills": 12
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 7
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 7
@@ -208,11 +213,6 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 6
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 5
   },
   {
     "playerId": "21465536",
