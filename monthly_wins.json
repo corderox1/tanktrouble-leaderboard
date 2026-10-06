@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23226
+    "kills": 23228
   },
   {
     "playerId": "8590474",
@@ -40,6 +40,11 @@
     "kills": 496
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 495
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 495
@@ -48,11 +53,6 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 490
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 488
   },
   {
     "playerId": "22694251",
@@ -80,14 +80,14 @@
     "kills": 371
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
+    "playerId": "16736853",
+    "username": "Saucy",
     "kills": 274
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 271
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 274
   },
   {
     "playerId": "20270104",
@@ -147,7 +147,7 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 205
+    "kills": 207
   },
   {
     "playerId": "21251653",
