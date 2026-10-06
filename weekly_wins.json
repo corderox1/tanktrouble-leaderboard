@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5775
+    "kills": 5783
   },
   {
     "playerId": "20666777",
@@ -35,13 +35,13 @@
     "kills": 231
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 226
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 228
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 226
   },
   {
@@ -102,7 +102,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 95
+    "kills": 97
   },
   {
     "playerId": "13173087",
@@ -137,7 +137,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 61
+    "kills": 62
   },
   {
     "playerId": "2574833",
@@ -190,6 +190,11 @@
     "kills": 20
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 19
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 19
@@ -203,11 +208,6 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 15
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 14
   },
   {
     "playerId": "21797119",
@@ -227,7 +227,7 @@
   {
     "playerId": "4686507",
     "username": "playboi",
-    "kills": 7
+    "kills": 9
   },
   {
     "playerId": "18625144",
