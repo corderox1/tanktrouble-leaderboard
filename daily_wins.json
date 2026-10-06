@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2104
+    "kills": 2109
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 257
+    "kills": 266
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 106
+    "kills": 108
   },
   {
     "playerId": "13173087",
@@ -62,12 +62,17 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 42
+    "kills": 44
   },
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 40
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 35
   },
   {
     "playerId": "20984454",
@@ -80,18 +85,13 @@
     "kills": 30
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 30
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 29
   },
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "kills": 27
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 27
   },
   {
@@ -105,6 +105,11 @@
     "kills": 22
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 19
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 18
@@ -115,11 +120,6 @@
     "kills": 17
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 16
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 7
@@ -128,6 +128,11 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 6
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 5
   },
   {
     "playerId": "22081323",
@@ -837,11 +842,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0
   },
   {
