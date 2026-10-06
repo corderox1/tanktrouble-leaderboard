@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23423
+    "kills": 23426
   },
   {
     "playerId": "8590474",
@@ -35,14 +35,14 @@
     "kills": 540
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 518
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 517
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 516
   },
   {
     "playerId": "4381511",
@@ -305,14 +305,14 @@
     "kills": 28
   },
   {
-    "playerId": "4128764",
-    "username": "Bulletio",
+    "playerId": "4686507",
+    "username": "playboi",
     "kills": 28
   },
   {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 26
+    "playerId": "4128764",
+    "username": "Bulletio",
+    "kills": 28
   },
   {
     "playerId": "1145079",
@@ -410,6 +410,11 @@
     "kills": 2
   },
   {
+    "playerId": "13327781",
+    "username": "rickgrimes",
+    "kills": 2
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1
@@ -417,11 +422,6 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 1
-  },
-  {
-    "playerId": "13327781",
-    "username": "rickgrimes",
     "kills": 1
   },
   {
