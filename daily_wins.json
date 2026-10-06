@@ -2,16 +2,16 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1467
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 170
+    "kills": 1484
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 172
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 170
   },
   {
@@ -22,7 +22,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 85
+    "kills": 89
   },
   {
     "playerId": "14617724",
@@ -32,7 +32,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 56
+    "kills": 58
   },
   {
     "playerId": "10794529",
@@ -60,6 +60,11 @@
     "kills": 20
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 18
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 18
@@ -75,23 +80,18 @@
     "kills": 15
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 13
-  },
-  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 4
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 3
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
+    "kills": 4
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 3
   },
   {
