@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26386,
-    "lastKill": "2026-10-06 00:43:38"
+    "kills": 26389,
+    "lastKill": "2026-10-06 00:52:38"
   },
   {
     "playerId": "22710399",
@@ -224,8 +224,8 @@
   {
     "playerId": "22081323",
     "username": "WifiSciFi",
-    "kills": 187,
-    "lastKill": "2026-10-06 00:49:38"
+    "kills": 188,
+    "lastKill": "2026-10-06 00:52:38"
   },
   {
     "playerId": "19932455",
@@ -480,6 +480,12 @@
     "lastKill": "2026-10-04 21:22:02"
   },
   {
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 1,
+    "lastKill": "2026-10-06 00:52:38"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1,
@@ -500,12 +506,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "160470",
-    "username": "bbc",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },

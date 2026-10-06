@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3027
+    "kills": 3032
   },
   {
     "playerId": "1051525",
@@ -42,7 +42,7 @@
   {
     "playerId": "22081323",
     "username": "WifiSciFi",
-    "kills": 105
+    "kills": 106
   },
   {
     "playerId": "8899024",
@@ -185,6 +185,11 @@
     "kills": 4
   },
   {
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 3
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 3
@@ -213,11 +218,6 @@
     "playerId": "22056849",
     "username": "Preww",
     "kills": 3
-  },
-  {
-    "playerId": "160470",
-    "username": "bbc",
-    "kills": 2
   },
   {
     "playerId": "21109495",
