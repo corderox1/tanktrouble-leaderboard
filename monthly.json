@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30002,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 30010,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "8590474",
@@ -32,8 +32,8 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1175,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 1177,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "14892840",
@@ -68,14 +68,14 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 781,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 782,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 748,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 749,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "706234",
@@ -96,16 +96,16 @@
     "lastKill": "2026-10-06 10:25:42"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 577,
+    "lastKill": "2026-10-06 18:04:49"
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 577,
     "lastKill": "2026-10-06 13:52:50"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 572,
-    "lastKill": "2026-10-06 18:01:57"
   },
   {
     "playerId": "22706369",
@@ -266,8 +266,8 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 147,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 155,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "22047175",
@@ -330,6 +330,12 @@
     "lastKill": "2026-10-06 08:28:32"
   },
   {
+    "playerId": "4686507",
+    "username": "playboi",
+    "kills": 76,
+    "lastKill": "2026-10-06 18:04:49"
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 74,
@@ -340,12 +346,6 @@
     "username": "Dangel",
     "kills": 73,
     "lastKill": "2026-10-05 16:19:23"
-  },
-  {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 72,
-    "lastKill": "2026-10-06 18:01:57"
   },
   {
     "playerId": "16874545",
@@ -502,6 +502,12 @@
     "username": "Jaw",
     "kills": 1,
     "lastKill": "2026-10-02 00:00:45"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 1,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "10132007",
@@ -1096,11 +1102,5 @@
     "username": "Runner",
     "kills": 0,
     "lastKill": "2026-10-04 18:18:57"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 0,
-    "lastKill": "2026-10-05 19:01:34"
   }
 ]

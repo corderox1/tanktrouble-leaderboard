@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 104413,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 104421,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "22710399",
@@ -50,8 +50,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 2383,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 2384,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "21796745",
@@ -86,8 +86,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1860,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 1865,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "3990108",
@@ -158,20 +158,20 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1525,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 1527,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1453,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 1454,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "4686507",
     "username": "playboi",
-    "kills": 1430,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 1434,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "22077521",
@@ -218,8 +218,8 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 923,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 931,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "11769746",
@@ -634,6 +634,12 @@
     "username": "Reverend",
     "kills": 1,
     "lastKill": "2026-09-27 15:28:52"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 1,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "10132007",
@@ -1120,11 +1126,5 @@
     "username": "Runner",
     "kills": 0,
     "lastKill": "2026-10-04 18:18:57"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 0,
-    "lastKill": "2026-10-05 19:01:34"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7307,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 7315,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "20297710",
@@ -26,8 +26,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 507,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 508,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "8590474",
@@ -44,14 +44,14 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 360,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 362,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 359,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 360,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "20984454",
@@ -144,16 +144,16 @@
     "lastKill": "2026-10-06 10:34:45"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 157,
+    "lastKill": "2026-10-06 18:04:49"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 156,
     "lastKill": "2026-10-06 14:07:45"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 152,
-    "lastKill": "2026-10-06 18:01:57"
   },
   {
     "playerId": "22081323",
@@ -216,22 +216,22 @@
     "lastKill": "2026-10-05 08:01:13"
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 49,
-    "lastKill": "2026-10-06 08:28:32"
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 52,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "4686507",
     "username": "playboi",
-    "kills": 45,
-    "lastKill": "2026-10-06 18:01:57"
+    "kills": 49,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 44,
-    "lastKill": "2026-10-06 18:01:57"
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 49,
+    "lastKill": "2026-10-06 08:28:32"
   },
   {
     "playerId": "20269995",
@@ -346,6 +346,12 @@
     "username": "seyi-vibez-jr",
     "kills": 1,
     "lastKill": "2026-10-05 09:49:15"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 1,
+    "lastKill": "2026-10-06 18:04:49"
   },
   {
     "playerId": "1145079",
@@ -1096,11 +1102,5 @@
     "username": "Runner",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 0,
-    "lastKill": "2026-10-05 19:01:34"
   }
 ]
