@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5200,
-    "lastKill": "2026-10-06 08:28:32"
+    "kills": 5223,
+    "lastKill": "2026-10-06 08:31:53"
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 501,
-    "lastKill": "2026-10-06 08:28:32"
+    "kills": 503,
+    "lastKill": "2026-10-06 08:31:53"
   },
   {
     "playerId": "8590474",
@@ -108,16 +108,16 @@
     "lastKill": "2026-10-05 13:13:23"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 90,
+    "lastKill": "2026-10-06 08:31:53"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 87,
     "lastKill": "2026-10-05 13:58:20"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 86,
-    "lastKill": "2026-10-06 08:28:32"
   },
   {
     "playerId": "13173087",
@@ -162,14 +162,14 @@
     "lastKill": "2026-10-05 11:43:13"
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 49,
-    "lastKill": "2026-10-06 08:28:32"
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 52,
+    "lastKill": "2026-10-06 08:31:53"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
     "kills": 49,
     "lastKill": "2026-10-06 08:28:32"
   },
@@ -304,6 +304,12 @@
     "username": "seyi-vibez-jr",
     "kills": 1,
     "lastKill": "2026-10-05 09:49:15"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 1,
+    "lastKill": "2026-10-06 08:31:53"
   },
   {
     "playerId": "1145079",
@@ -866,12 +872,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
