@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5406
+    "kills": 5415
   },
   {
     "playerId": "20666777",
@@ -40,14 +40,14 @@
     "kills": 210
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 200
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 199
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 197
   },
   {
     "playerId": "8899024",
@@ -95,13 +95,13 @@
     "kills": 89
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 87
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
+    "kills": 88
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 87
   },
   {
@@ -117,7 +117,7 @@
   {
     "playerId": "4653977",
     "username": "MAGATRON",
-    "kills": 72
+    "kills": 73
   },
   {
     "playerId": "22706369",
@@ -142,7 +142,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 37
+    "kills": 43
   },
   {
     "playerId": "20269995",
@@ -180,6 +180,11 @@
     "kills": 28
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 20
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 20
@@ -193,11 +198,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 18
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 15
   },
   {
     "playerId": "21614515",
