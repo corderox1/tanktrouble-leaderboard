@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3652,
-    "lastKill": "2026-10-06 00:13:40"
+    "kills": 3656,
+    "lastKill": "2026-10-06 00:16:52"
   },
   {
     "playerId": "20297710",
@@ -138,16 +138,16 @@
     "lastKill": "2026-10-05 23:16:42"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 44,
+    "lastKill": "2026-10-06 00:16:52"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 41,
     "lastKill": "2026-10-05 13:55:13"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 40,
-    "lastKill": "2026-10-05 23:34:30"
   },
   {
     "playerId": "17953682",
@@ -250,6 +250,12 @@
     "username": "Lil_May",
     "kills": 2,
     "lastKill": "2026-10-05 13:16:17"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 2,
+    "lastKill": "2026-10-06 00:16:52"
   },
   {
     "playerId": "21109495",
@@ -806,12 +812,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },

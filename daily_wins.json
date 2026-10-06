@@ -1,5 +1,15 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 5
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 3
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 0
@@ -7,11 +17,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0
-  },
-  {
-    "playerId": "6148530",
-    "username": "Laika",
     "kills": 0
   },
   {
@@ -402,11 +407,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   },
   {
