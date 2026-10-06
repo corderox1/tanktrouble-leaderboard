@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2851
+    "kills": 2855
   },
   {
     "playerId": "20666777",
@@ -27,7 +27,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 151
+    "kills": 153
   },
   {
     "playerId": "22694251",
@@ -62,7 +62,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 83
+    "kills": 84
   },
   {
     "playerId": "20011985",
@@ -92,7 +92,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 59
+    "kills": 64
   },
   {
     "playerId": "21516705",
@@ -150,14 +150,14 @@
     "kills": 20
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
+    "playerId": "4686507",
+    "username": "playboi",
     "kills": 18
   },
   {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 17
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 18
   },
   {
     "playerId": "21178768",
@@ -197,6 +197,11 @@
   {
     "playerId": "160470",
     "username": "bbc",
+    "kills": 1
+  },
+  {
+    "playerId": "13327781",
+    "username": "rickgrimes",
     "kills": 1
   },
   {
@@ -757,11 +762,6 @@
   {
     "playerId": "1341685",
     "username": "supervolcano",
-    "kills": 0
-  },
-  {
-    "playerId": "13327781",
-    "username": "rickgrimes",
     "kills": 0
   },
   {
