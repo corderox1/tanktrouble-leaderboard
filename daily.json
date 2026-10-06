@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2687,
-    "lastKill": "2026-10-06 12:13:42"
+    "kills": 2722,
+    "lastKill": "2026-10-06 12:17:08"
   },
   {
     "playerId": "22694251",
@@ -20,8 +20,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 357,
-    "lastKill": "2026-10-06 11:01:45"
+    "kills": 363,
+    "lastKill": "2026-10-06 12:17:08"
   },
   {
     "playerId": "14892840",
@@ -42,16 +42,16 @@
     "lastKill": "2026-10-06 10:34:45"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 127,
+    "lastKill": "2026-10-06 12:17:08"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 122,
     "lastKill": "2026-10-06 08:19:43"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 121,
-    "lastKill": "2026-10-06 12:13:42"
   },
   {
     "playerId": "21012136",
@@ -62,8 +62,8 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 84,
-    "lastKill": "2026-10-06 12:13:42"
+    "kills": 85,
+    "lastKill": "2026-10-06 12:17:08"
   },
   {
     "playerId": "22706369",
@@ -138,16 +138,22 @@
     "lastKill": "2026-10-06 11:49:43"
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 12,
+    "lastKill": "2026-10-06 12:17:08"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 8,
     "lastKill": "2026-10-06 09:58:34"
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 6,
-    "lastKill": "2026-10-06 12:13:42"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 4,
+    "lastKill": "2026-10-06 12:17:08"
   },
   {
     "playerId": "21708970",
@@ -296,12 +302,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": "2026-10-06 00:02:31"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": "2026-10-06 00:02:31"
   },
