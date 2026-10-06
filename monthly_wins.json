@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22802
+    "kills": 22810
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 793
+    "kills": 800
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 678
+    "kills": 680
   },
   {
     "playerId": "22710399",
@@ -30,14 +30,14 @@
     "kills": 584
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 498
+  },
+  {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 496
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 492
   },
   {
     "playerId": "10794529",
@@ -87,7 +87,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 261
+    "kills": 263
   },
   {
     "playerId": "18625144",
@@ -115,24 +115,24 @@
     "kills": 211
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 211
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 210
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 209
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 209
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 209
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 206
+    "kills": 209
   },
   {
     "playerId": "21251653",
@@ -162,7 +162,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 150
+    "kills": 153
   },
   {
     "playerId": "20011985",
@@ -305,6 +305,11 @@
     "kills": 28
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 26
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 25
@@ -313,11 +318,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 25
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 21
   },
   {
     "playerId": "19425584",
@@ -345,13 +345,13 @@
     "kills": 7
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 6
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
+    "kills": 7
+  },
+  {
+    "playerId": "20644558",
+    "username": "x",
     "kills": 6
   },
   {
