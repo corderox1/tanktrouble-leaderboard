@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1360,
-    "lastKill": "2026-10-06 07:40:33"
+    "kills": 1371,
+    "lastKill": "2026-10-06 07:43:40"
   },
   {
     "playerId": "8590474",
@@ -14,8 +14,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 237,
-    "lastKill": "2026-10-06 07:40:33"
+    "kills": 241,
+    "lastKill": "2026-10-06 07:43:40"
   },
   {
     "playerId": "20297710",
@@ -30,6 +30,12 @@
     "lastKill": "2026-10-06 07:40:33"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 43,
+    "lastKill": "2026-10-06 07:43:40"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 35,
@@ -40,12 +46,6 @@
     "username": "fyrenado",
     "kills": 34,
     "lastKill": "2026-10-06 04:04:33"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 29,
-    "lastKill": "2026-10-06 07:40:33"
   },
   {
     "playerId": "21178768",
@@ -82,6 +82,12 @@
     "username": "volodymyr77",
     "kills": 2,
     "lastKill": "2026-10-06 00:16:52"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 2,
+    "lastKill": "2026-10-06 07:43:40"
   },
   {
     "playerId": "160470",
@@ -812,12 +818,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": "2026-10-06 00:02:31"
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": "2026-10-06 00:02:31"
   },
