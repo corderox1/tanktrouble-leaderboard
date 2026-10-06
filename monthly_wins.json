@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21351
+    "kills": 21357
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 890
+    "kills": 891
   },
   {
     "playerId": "21601349",
@@ -67,7 +67,12 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 309
+    "kills": 310
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 270
   },
   {
     "playerId": "20270104",
@@ -75,14 +80,9 @@
     "kills": 268
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 268
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 257
+    "kills": 258
   },
   {
     "playerId": "18625144",
@@ -155,14 +155,14 @@
     "kills": 155
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 142
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 141
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 140
   },
   {
     "playerId": "21508277",
