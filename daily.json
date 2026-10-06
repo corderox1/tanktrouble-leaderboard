@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3154,
-    "lastKill": "2026-10-06 13:55:44"
+    "kills": 3161,
+    "lastKill": "2026-10-06 13:58:46"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 534,
-    "lastKill": "2026-10-06 13:55:44"
+    "kills": 536,
+    "lastKill": "2026-10-06 13:58:46"
   },
   {
     "playerId": "22694251",
@@ -26,8 +26,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 317,
-    "lastKill": "2026-10-06 13:55:44"
+    "kills": 320,
+    "lastKill": "2026-10-06 13:58:46"
   },
   {
     "playerId": "20297710",
@@ -60,16 +60,16 @@
     "lastKill": "2026-10-06 13:55:44"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 130,
+    "lastKill": "2026-10-06 13:58:46"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 122,
     "lastKill": "2026-10-06 08:19:43"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 122,
-    "lastKill": "2026-10-06 13:55:44"
   },
   {
     "playerId": "21601349",
@@ -122,8 +122,8 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 62,
-    "lastKill": "2026-10-06 13:52:50"
+    "kills": 64,
+    "lastKill": "2026-10-06 13:58:46"
   },
   {
     "playerId": "21614515",
@@ -186,6 +186,12 @@
     "lastKill": "2026-10-06 13:13:48"
   },
   {
+    "playerId": "4653977",
+    "username": "MAGATRON",
+    "kills": 10,
+    "lastKill": "2026-10-06 13:58:46"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 8,
@@ -208,6 +214,12 @@
     "username": "bbc",
     "kills": 1,
     "lastKill": "2026-10-06 00:52:38"
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 1,
+    "lastKill": "2026-10-06 13:58:46"
   },
   {
     "playerId": "22710399",
@@ -990,12 +1002,6 @@
     "lastKill": "2026-10-06 00:02:31"
   },
   {
-    "playerId": "4653977",
-    "username": "MAGATRON",
-    "kills": 0,
-    "lastKill": "2026-10-06 00:02:31"
-  },
-  {
     "playerId": "7936247",
     "username": "98Flow",
     "kills": 0,
@@ -1064,12 +1070,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0,
-    "lastKill": "2026-10-06 00:02:31"
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0,
     "lastKill": "2026-10-06 00:02:31"
   },
