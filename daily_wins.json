@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2168
+    "kills": 2185
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 315
+    "kills": 318
   },
   {
     "playerId": "14892840",
@@ -45,14 +45,14 @@
     "kills": 81
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 57
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 54
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 52
   },
   {
     "playerId": "21516705",
@@ -77,7 +77,7 @@
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "kills": 35
+    "kills": 37
   },
   {
     "playerId": "22706369",
@@ -125,6 +125,11 @@
     "kills": 17
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 9
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 7
@@ -143,6 +148,11 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 4
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 2
   },
   {
     "playerId": "160470",
@@ -382,11 +392,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
@@ -907,11 +912,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {
