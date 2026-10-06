@@ -37,7 +37,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 126
+    "kills": 129
   },
   {
     "playerId": "21601349",
@@ -65,6 +65,11 @@
     "kills": 74
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 68
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 67
@@ -73,11 +78,6 @@
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 63
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 62
   },
   {
     "playerId": "21516705",
@@ -165,14 +165,14 @@
     "kills": 9
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 7
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 5
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 7
   },
   {
     "playerId": "22081323",

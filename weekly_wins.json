@@ -65,14 +65,14 @@
     "kills": 136
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 129
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 127
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 126
   },
   {
     "playerId": "22716354",
@@ -120,6 +120,11 @@
     "kills": 73
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 69
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 65
@@ -127,11 +132,6 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 63
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
     "kills": 63
   },
   {
@@ -210,13 +210,13 @@
     "kills": 13
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 10
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
+    "kills": 12
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 10
   },
   {
