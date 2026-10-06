@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23397
+    "kills": 23398
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 506
+    "kills": 507
   },
   {
     "playerId": "4381511",
@@ -72,7 +72,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 393
+    "kills": 403
   },
   {
     "playerId": "4142755",
@@ -245,6 +245,11 @@
     "kills": 71
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 64
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 64
@@ -257,11 +262,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 61
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
     "kills": 61
   },
   {
@@ -335,6 +335,11 @@
     "kills": 14
   },
   {
+    "playerId": "21528366",
+    "username": "killermax",
+    "kills": 10
+  },
+  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 9
@@ -342,11 +347,6 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 8
-  },
-  {
-    "playerId": "21528366",
-    "username": "killermax",
     "kills": 8
   },
   {
