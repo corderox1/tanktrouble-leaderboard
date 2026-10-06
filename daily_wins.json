@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1639
+    "kills": 1649
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 217
+    "kills": 222
   },
   {
     "playerId": "20666777",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 170
+    "kills": 175
   },
   {
     "playerId": "20297710",
@@ -42,7 +42,12 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 40
+    "kills": 45
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 35
   },
   {
     "playerId": "20984454",
@@ -58,11 +63,6 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 27
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 25
   },
   {
     "playerId": "15931599",
@@ -100,14 +100,14 @@
     "kills": 4
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 3
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 2
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 3
   },
   {
     "playerId": "160470",
