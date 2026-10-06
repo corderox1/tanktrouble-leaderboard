@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3069
+    "kills": 3079
   },
   {
     "playerId": "1051525",
@@ -175,6 +175,11 @@
     "kills": 5
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 5
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 5
@@ -192,11 +197,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 3
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 3
   },
   {
