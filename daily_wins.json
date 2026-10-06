@@ -17,7 +17,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 251
+    "kills": 252
   },
   {
     "playerId": "8590474",
@@ -65,13 +65,13 @@
     "kills": 81
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 76
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 77
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 76
   },
   {
@@ -87,12 +87,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 61
+    "kills": 63
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 55
+    "kills": 56
   },
   {
     "playerId": "21516705",
@@ -192,6 +192,11 @@
   {
     "playerId": "160470",
     "username": "bbc",
+    "kills": 1
+  },
+  {
+    "playerId": "21528366",
+    "username": "killermax",
     "kills": 1
   },
   {
@@ -627,11 +632,6 @@
   {
     "playerId": "7559374",
     "username": "Catalyst",
-    "kills": 0
-  },
-  {
-    "playerId": "21528366",
-    "username": "killermax",
     "kills": 0
   },
   {
