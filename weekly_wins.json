@@ -22,7 +22,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 286
+    "kills": 293
   },
   {
     "playerId": "22694251",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 231
+    "kills": 232
   },
   {
     "playerId": "17629928",
@@ -90,14 +90,14 @@
     "kills": 112
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 107
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 106
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 104
   },
   {
     "playerId": "4653977",
@@ -157,7 +157,7 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 37
+    "kills": 39
   },
   {
     "playerId": "20269995",
@@ -230,6 +230,11 @@
     "kills": 10
   },
   {
+    "playerId": "21528366",
+    "username": "killermax",
+    "kills": 9
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 7
@@ -237,11 +242,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 6
-  },
-  {
-    "playerId": "21528366",
-    "username": "killermax",
     "kills": 6
   },
   {
