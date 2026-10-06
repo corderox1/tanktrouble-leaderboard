@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44298245,
-    "lastKill": "2026-10-06 10:10:41"
+    "kills": 44298254,
+    "lastKill": "2026-10-06 10:13:39"
   },
   {
     "playerId": "878689",
@@ -86,8 +86,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 131229,
-    "lastKill": "2026-10-06 10:10:41"
+    "kills": 131241,
+    "lastKill": "2026-10-06 10:13:39"
   },
   {
     "playerId": "8408190",
@@ -620,8 +620,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 23277,
-    "lastKill": "2026-10-06 10:10:41"
+    "kills": 23287,
+    "lastKill": "2026-10-06 10:13:39"
   },
   {
     "playerId": "21528366",
@@ -704,8 +704,8 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 15693,
-    "lastKill": "2026-10-06 10:10:41"
+    "kills": 15697,
+    "lastKill": "2026-10-06 10:13:39"
   },
   {
     "playerId": "1145079",
@@ -720,12 +720,6 @@
     "lastKill": null
   },
   {
-    "playerId": "9881740",
-    "username": "lichens",
-    "kills": 15266,
-    "lastKill": null
-  },
-  {
     "playerId": "21452912",
     "username": "k",
     "kills": 15262,
@@ -734,8 +728,8 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 14972,
-    "lastKill": "2026-10-06 10:10:41"
+    "kills": 14975,
+    "lastKill": "2026-10-06 10:13:39"
   },
   {
     "playerId": "2113313",
@@ -900,16 +894,16 @@
     "lastKill": null
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 5758,
+    "lastKill": "2026-10-06 10:13:39"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 5757,
     "lastKill": "2026-10-05 20:31:52"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 5756,
-    "lastKill": "2026-10-06 10:10:41"
   },
   {
     "playerId": "22694251",
@@ -1095,12 +1089,6 @@
     "playerId": "21077567",
     "username": "Runner",
     "kills": 1,
-    "lastKill": null
-  },
-  {
-    "playerId": "20642402",
-    "username": "Scientist",
-    "kills": 0,
     "lastKill": null
   }
 ]

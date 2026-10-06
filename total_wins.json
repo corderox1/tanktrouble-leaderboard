@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 35203567
+    "kills": 35203571
   },
   {
     "playerId": "878689",
@@ -77,7 +77,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 74002
+    "kills": 74008
   },
   {
     "playerId": "8478955",
@@ -552,7 +552,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 12054
+    "kills": 12057
   },
   {
     "playerId": "21598862",
@@ -592,7 +592,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 9646
+    "kills": 9648
   },
   {
     "playerId": "21452912",
@@ -613,11 +613,6 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 8382
-  },
-  {
-    "playerId": "9881740",
-    "username": "lichens",
-    "kills": 8379
   },
   {
     "playerId": "17794648",
@@ -913,10 +908,5 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 15
-  },
-  {
-    "playerId": "20642402",
-    "username": "Scientist",
-    "kills": 0
   }
 ]
