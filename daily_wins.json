@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 954
+    "kills": 968
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 146
+    "kills": 148
   },
   {
     "playerId": "16092601",
@@ -32,7 +32,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 12
+    "kills": 15
   },
   {
     "playerId": "20297710",
@@ -63,6 +63,11 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 4
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 3
   },
   {
     "playerId": "160470",
@@ -677,11 +682,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
