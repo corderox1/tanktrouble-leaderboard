@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5244
+    "kills": 5268
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 353
+    "kills": 363
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 175
+    "kills": 176
   },
   {
     "playerId": "8899024",
@@ -47,7 +47,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 160
+    "kills": 164
   },
   {
     "playerId": "14617724",
@@ -97,7 +97,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 76
+    "kills": 81
   },
   {
     "playerId": "4381511",
@@ -117,7 +117,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 56
+    "kills": 57
   },
   {
     "playerId": "21516705",
@@ -132,7 +132,12 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 45
+    "kills": 47
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 44
   },
   {
     "playerId": "20269995",
@@ -153,11 +158,6 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 36
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 35
   },
   {
     "playerId": "3990108",
@@ -220,6 +220,11 @@
     "kills": 6
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 6
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 5
@@ -262,11 +267,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 1
-  },
-  {
-    "playerId": "16736853",
-    "username": "SaucyReaper",
     "kills": 1
   },
   {
