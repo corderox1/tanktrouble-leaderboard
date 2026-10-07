@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7776,
-    "lastKill": "2026-10-06 21:28:56"
+    "kills": 7778,
+    "lastKill": "2026-10-06 21:32:29"
   },
   {
     "playerId": "20297710",
@@ -1102,5 +1102,17 @@
     "username": "Runner",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
+  },
+  {
+    "playerId": "10689052",
+    "username": "TankDestroyah52",
+    "kills": 0,
+    "lastKill": "2026-10-06 21:28:56"
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 0,
+    "lastKill": "2026-10-06 21:28:56"
   }
 ]
