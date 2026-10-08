@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29420
+    "kills": 29455
   },
   {
     "playerId": "14892840",
@@ -82,7 +82,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 401
+    "kills": 410
   },
   {
     "playerId": "16736853",
@@ -172,7 +172,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 211
+    "kills": 212
   },
   {
     "playerId": "21797119",
@@ -335,6 +335,11 @@
     "kills": 24
   },
   {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 21
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 20
@@ -358,11 +363,6 @@
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 14
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
-    "kills": 12
   },
   {
     "playerId": "11769746",
@@ -442,6 +442,11 @@
   {
     "playerId": "21452912",
     "username": "k",
+    "kills": 1
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
     "kills": 1
   },
   {
@@ -922,11 +927,6 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 0
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 0
   }
 ]

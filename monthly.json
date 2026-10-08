@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 38181,
-    "lastKill": "2026-10-08 11:28:24"
+    "kills": 38221,
+    "lastKill": "2026-10-08 11:31:42"
   },
   {
     "playerId": "8590474",
@@ -92,8 +92,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 676,
-    "lastKill": "2026-10-08 11:28:24"
+    "kills": 687,
+    "lastKill": "2026-10-08 11:31:42"
   },
   {
     "playerId": "4142755",
@@ -140,8 +140,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 536,
-    "lastKill": "2026-10-08 11:19:37"
+    "kills": 537,
+    "lastKill": "2026-10-08 11:31:42"
   },
   {
     "playerId": "4653977",
@@ -152,8 +152,8 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 465,
-    "lastKill": "2026-10-08 11:28:24"
+    "kills": 466,
+    "lastKill": "2026-10-08 11:31:42"
   },
   {
     "playerId": "21956820",
@@ -366,16 +366,16 @@
     "lastKill": "2026-10-02 23:51:17"
   },
   {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 59,
+    "lastKill": "2026-10-08 11:31:42"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 57,
     "lastKill": "2026-10-03 12:57:29"
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
-    "kills": 50,
-    "lastKill": "2026-10-08 11:28:24"
   },
   {
     "playerId": "3923647",
@@ -484,6 +484,12 @@
     "username": "kamarov",
     "kills": 4,
     "lastKill": "2026-10-05 08:37:09"
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 4,
+    "lastKill": "2026-10-08 11:31:42"
   },
   {
     "playerId": "7559374",
@@ -1106,12 +1112,6 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 0,
-    "lastKill": "2026-10-06 21:28:56"
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 0,
     "lastKill": "2026-10-06 21:28:56"
   }
