@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2635
+    "kills": 2651
   },
   {
     "playerId": "13173087",
@@ -80,9 +80,19 @@
     "kills": 31
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 25
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 25
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 24
   },
   {
     "playerId": "21940268",
@@ -105,19 +115,9 @@
     "kills": 22
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 20
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 20
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 18
   },
   {
     "playerId": "21109495",
