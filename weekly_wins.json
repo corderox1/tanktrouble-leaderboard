@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12848
+    "kills": 12853
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 271
+    "kills": 279
   },
   {
     "playerId": "19932455",
@@ -150,6 +150,11 @@
     "kills": 113
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 108
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 106
@@ -157,11 +162,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 102
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 102
   },
   {
