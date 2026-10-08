@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2552
+    "kills": 2555
   },
   {
     "playerId": "13173087",
@@ -90,6 +90,11 @@
     "kills": 24
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 23
+  },
+  {
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 23
@@ -98,11 +103,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 22
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 20
   },
   {
     "playerId": "21178768",
@@ -138,6 +138,11 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 2
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 1
   },
   {
     "playerId": "15931599",
@@ -397,11 +402,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
