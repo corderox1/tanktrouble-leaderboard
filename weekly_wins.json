@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12358
+    "kills": 12377
   },
   {
     "playerId": "14892840",
@@ -175,6 +175,11 @@
     "kills": 71
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 67
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 65
@@ -183,11 +188,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 65
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 64
   },
   {
     "playerId": "19768925",
@@ -245,13 +245,13 @@
     "kills": 24
   },
   {
-    "playerId": "4686507",
-    "username": "playboi",
-    "kills": 22
-  },
-  {
     "playerId": "21231891",
     "username": "ColdFlare",
+    "kills": 23
+  },
+  {
+    "playerId": "4686507",
+    "username": "playboi",
     "kills": 22
   },
   {
