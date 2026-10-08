@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2603
+    "kills": 2617
   },
   {
     "playerId": "13173087",
@@ -115,6 +115,11 @@
     "kills": 17
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 14
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 13
@@ -125,11 +130,6 @@
     "kills": 10
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 8
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 6
@@ -138,6 +138,11 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 5
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 2
   },
   {
     "playerId": "21098942",
@@ -267,11 +272,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {

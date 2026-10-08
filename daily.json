@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3699,
-    "lastKill": "2026-10-08 15:16:42"
+    "kills": 3712,
+    "lastKill": "2026-10-08 15:19:29"
   },
   {
     "playerId": "13173087",
@@ -156,6 +156,12 @@
     "lastKill": "2026-10-08 12:52:28"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 10,
+    "lastKill": "2026-10-08 15:19:29"
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 8,
@@ -168,16 +174,16 @@
     "lastKill": "2026-10-08 13:37:29"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 5,
-    "lastKill": "2026-10-08 15:16:42"
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-10-08 08:32:07"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 1,
+    "lastKill": "2026-10-08 15:19:29"
   },
   {
     "playerId": "22710399",
@@ -320,12 +326,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0,
-    "lastKill": "2026-10-08 00:02:03"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0,
     "lastKill": "2026-10-08 00:02:03"
   },
