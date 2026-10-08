@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3883,
-    "lastKill": "2026-10-08 16:19:37"
+    "kills": 3888,
+    "lastKill": "2026-10-08 16:28:40"
   },
   {
     "playerId": "13173087",
@@ -38,8 +38,8 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 118,
-    "lastKill": "2026-10-08 16:25:42"
+    "kills": 120,
+    "lastKill": "2026-10-08 16:28:40"
   },
   {
     "playerId": "20269995",
@@ -150,16 +150,16 @@
     "lastKill": "2026-10-08 06:28:26"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 32,
+    "lastKill": "2026-10-08 16:28:40"
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 30,
     "lastKill": "2026-10-08 05:22:26"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 30,
-    "lastKill": "2026-10-08 16:22:26"
   },
   {
     "playerId": "21614515",
@@ -182,8 +182,8 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 12,
-    "lastKill": "2026-10-08 16:25:42"
+    "kills": 14,
+    "lastKill": "2026-10-08 16:28:40"
   },
   {
     "playerId": "21098942",
@@ -196,6 +196,12 @@
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-10-08 08:32:07"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 1,
+    "lastKill": "2026-10-08 16:28:40"
   },
   {
     "playerId": "22710399",
@@ -518,12 +524,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": "2026-10-08 00:02:03"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0,
     "lastKill": "2026-10-08 00:02:03"
   },
