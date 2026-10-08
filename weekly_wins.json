@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11946
+    "kills": 11970
   },
   {
     "playerId": "14892840",
@@ -27,7 +27,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 428
+    "kills": 435
   },
   {
     "playerId": "8590474",
@@ -95,6 +95,11 @@
     "kills": 160
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 154
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 153
@@ -103,11 +108,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 152
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 151
   },
   {
     "playerId": "4381511",
@@ -132,7 +132,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 118
+    "kills": 123
   },
   {
     "playerId": "3990108",
@@ -210,6 +210,11 @@
     "kills": 42
   },
   {
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 41
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 39
@@ -218,11 +223,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 36
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
-    "kills": 35
   },
   {
     "playerId": "21098942",
@@ -280,13 +280,13 @@
     "kills": 13
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 10
-  },
-  {
     "playerId": "21231891",
     "username": "ColdFlare",
+    "kills": 11
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 10
   },
   {
