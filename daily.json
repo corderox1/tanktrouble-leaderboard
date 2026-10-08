@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3434,
-    "lastKill": "2026-10-08 14:01:47"
+    "kills": 3459,
+    "lastKill": "2026-10-08 14:04:34"
   },
   {
     "playerId": "13173087",
@@ -42,16 +42,16 @@
     "lastKill": "2026-10-08 11:10:25"
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 77,
+    "lastKill": "2026-10-08 14:04:34"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 76,
     "lastKill": "2026-10-08 09:58:27"
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 74,
-    "lastKill": "2026-10-08 14:01:47"
   },
   {
     "playerId": "22472796",
@@ -62,8 +62,8 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 67,
-    "lastKill": "2026-10-08 14:01:47"
+    "kills": 71,
+    "lastKill": "2026-10-08 14:04:34"
   },
   {
     "playerId": "19768925",
@@ -152,8 +152,8 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 7,
-    "lastKill": "2026-10-08 14:01:47"
+    "kills": 8,
+    "lastKill": "2026-10-08 14:04:34"
   },
   {
     "playerId": "15931599",
@@ -166,6 +166,12 @@
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-10-08 08:32:07"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 4,
+    "lastKill": "2026-10-08 14:04:34"
   },
   {
     "playerId": "22710399",
@@ -548,12 +554,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-10-08 00:02:03"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": "2026-10-08 00:02:03"
   },
