@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 31536
+    "kills": 31537
   },
   {
     "playerId": "14892840",
@@ -187,7 +187,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 182
+    "kills": 185
   },
   {
     "playerId": "21012136",
@@ -242,7 +242,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 97
+    "kills": 98
   },
   {
     "playerId": "16092601",
@@ -280,13 +280,13 @@
     "kills": 61
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 56
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
+    "kills": 57
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
     "kills": 56
   },
   {
@@ -375,6 +375,11 @@
     "kills": 14
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 9
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 8
@@ -443,11 +448,6 @@
     "playerId": "13327781",
     "username": "rickgrimes",
     "kills": 2
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 1
   },
   {
     "playerId": "10132007",
