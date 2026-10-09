@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4356,
-    "lastKill": "2026-10-09 15:41:00"
+    "kills": 4380,
+    "lastKill": "2026-10-09 15:43:56"
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 696,
-    "lastKill": "2026-10-09 15:41:00"
+    "kills": 703,
+    "lastKill": "2026-10-09 15:43:56"
   },
   {
     "playerId": "8590474",
@@ -48,16 +48,16 @@
     "lastKill": "2026-10-09 08:40:44"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 94,
+    "lastKill": "2026-10-09 15:43:56"
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 93,
     "lastKill": "2026-10-09 12:28:45"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 90,
-    "lastKill": "2026-10-09 15:41:00"
   },
   {
     "playerId": "20984454",
@@ -182,8 +182,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 6,
-    "lastKill": "2026-10-09 15:17:29"
+    "kills": 8,
+    "lastKill": "2026-10-09 15:43:56"
   },
   {
     "playerId": "20011985",
@@ -208,6 +208,12 @@
     "username": "ColdFlare",
     "kills": 2,
     "lastKill": "2026-10-09 13:43:55"
+  },
+  {
+    "playerId": "878689",
+    "username": "Gentleman",
+    "kills": 1,
+    "lastKill": "2026-10-09 15:43:56"
   },
   {
     "playerId": "21098942",
@@ -458,12 +464,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0,
-    "lastKill": "2026-10-09 00:01:30"
-  },
-  {
-    "playerId": "878689",
-    "username": "Gentleman",
     "kills": 0,
     "lastKill": "2026-10-09 00:01:30"
   },
