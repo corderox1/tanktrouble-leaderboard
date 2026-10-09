@@ -2,16 +2,16 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1539
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 173
+    "kills": 1557
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 174
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 173
   },
   {
@@ -20,13 +20,13 @@
     "kills": 111
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 86
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 87
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 86
   },
   {
@@ -67,7 +67,7 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 9
+    "kills": 10
   },
   {
     "playerId": "20984454",
@@ -92,7 +92,12 @@
   {
     "playerId": "160470",
     "username": "bbc",
-    "kills": 1
+    "kills": 2
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 2
   },
   {
     "playerId": "16874545",
@@ -337,11 +342,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {
