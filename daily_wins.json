@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2631
+    "kills": 2641
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 92
+    "kills": 94
   },
   {
     "playerId": "20297710",
@@ -37,7 +37,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 34
+    "kills": 37
   },
   {
     "playerId": "21601349",
@@ -52,7 +52,7 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 25
+    "kills": 26
   },
   {
     "playerId": "22706369",
@@ -110,6 +110,11 @@
     "kills": 5
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 4
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 4
@@ -123,11 +128,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 4
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 3
   },
   {
     "playerId": "160470",
