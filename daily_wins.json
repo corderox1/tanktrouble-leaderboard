@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2549
+    "kills": 2579
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 189
+    "kills": 193
   },
   {
     "playerId": "22472796",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 80
+    "kills": 83
   },
   {
     "playerId": "21452912",
@@ -130,6 +130,11 @@
     "kills": 2
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 1
@@ -222,11 +227,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
