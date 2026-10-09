@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3553,
-    "lastKill": "2026-10-09 12:47:02"
+    "kills": 3565,
+    "lastKill": "2026-10-09 12:49:45"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 367,
-    "lastKill": "2026-10-09 12:47:02"
+    "kills": 372,
+    "lastKill": "2026-10-09 12:49:45"
   },
   {
     "playerId": "22472796",
@@ -50,14 +50,14 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 67,
-    "lastKill": "2026-10-09 12:47:02"
+    "kills": 69,
+    "lastKill": "2026-10-09 12:49:45"
   },
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 59,
-    "lastKill": "2026-10-09 12:47:02"
+    "kills": 61,
+    "lastKill": "2026-10-09 12:49:45"
   },
   {
     "playerId": "22706369",
@@ -108,6 +108,12 @@
     "lastKill": "2026-10-09 12:47:02"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 24,
+    "lastKill": "2026-10-09 12:49:45"
+  },
+  {
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 23,
@@ -124,12 +130,6 @@
     "username": "Rapid",
     "kills": 21,
     "lastKill": "2026-10-09 11:47:01"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 21,
-    "lastKill": "2026-10-09 12:40:40"
   },
   {
     "playerId": "21700920",
@@ -172,6 +172,12 @@
     "username": "MoodyBlastGargoyle",
     "kills": 1,
     "lastKill": "2026-10-09 12:13:48"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 1,
+    "lastKill": "2026-10-09 12:49:45"
   },
   {
     "playerId": "21231891",
@@ -740,12 +746,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": "2026-10-09 00:01:30"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": "2026-10-09 00:01:30"
   },
