@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13949
+    "kills": 13950
   },
   {
     "playerId": "14892840",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 652
+    "kills": 653
   },
   {
     "playerId": "13173087",
@@ -250,6 +250,11 @@
     "kills": 28
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 26
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 24
@@ -278,11 +283,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 18
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 17
   },
   {
     "playerId": "21700920",

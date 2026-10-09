@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3812
+    "kills": 3813
   },
   {
     "playerId": "13173087",
@@ -145,6 +145,11 @@
     "kills": 20
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 18
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 17
@@ -163,11 +168,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 10
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 9
   },
   {
     "playerId": "16736853",
@@ -212,6 +212,11 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
+    "kills": 1
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
     "kills": 1
   },
   {
@@ -437,11 +442,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0
   },
   {
