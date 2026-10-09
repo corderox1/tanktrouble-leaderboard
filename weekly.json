@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18195,
-    "lastKill": "2026-10-08 23:22:40"
+    "kills": 18196,
+    "lastKill": "2026-10-08 23:25:51"
   },
   {
     "playerId": "20297710",
@@ -14,8 +14,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 997,
-    "lastKill": "2026-10-08 23:22:40"
+    "kills": 1002,
+    "lastKill": "2026-10-08 23:25:51"
   },
   {
     "playerId": "13173087",
@@ -26,8 +26,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 915,
-    "lastKill": "2026-10-08 23:22:40"
+    "kills": 922,
+    "lastKill": "2026-10-08 23:25:51"
   },
   {
     "playerId": "22694251",
@@ -1114,5 +1114,11 @@
     "username": "TankDestroyah52",
     "kills": 0,
     "lastKill": "2026-10-06 21:28:56"
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 0,
+    "lastKill": "2026-10-08 23:22:40"
   }
 ]
