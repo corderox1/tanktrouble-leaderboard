@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3856
+    "kills": 3862
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 98
+    "kills": 102
   },
   {
     "playerId": "21452912",
@@ -112,7 +112,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 31
+    "kills": 33
   },
   {
     "playerId": "21940268",
@@ -133,6 +133,11 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 25
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 24
   },
   {
     "playerId": "4381511",
@@ -158,11 +163,6 @@
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 17
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 15
   },
   {
     "playerId": "1051525",
@@ -215,13 +215,13 @@
     "kills": 5
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 2
-  },
-  {
     "playerId": "4653977",
     "username": "MAGATRON",
+    "kills": 4
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 2
   },
   {
