@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4327
+    "kills": 4350
   },
   {
     "playerId": "8590474",
@@ -110,6 +110,11 @@
     "kills": 17
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 17
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 17
@@ -165,11 +170,6 @@
     "kills": 9
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 7
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 6
@@ -198,6 +198,11 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 2
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 1
   },
   {
     "playerId": "16874545",
@@ -262,11 +267,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
