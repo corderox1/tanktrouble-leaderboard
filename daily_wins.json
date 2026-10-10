@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 484
+    "kills": 489
   },
   {
     "playerId": "21452912",
@@ -17,12 +17,12 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 40
+    "kills": 48
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 36
+    "kills": 40
   },
   {
     "playerId": "3923647",
@@ -53,6 +53,11 @@
     "playerId": "12331664",
     "username": "Reds",
     "kills": 4
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 3
   },
   {
     "playerId": "22710399",
@@ -712,11 +717,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   },
   {
