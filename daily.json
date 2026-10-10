@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4056,
-    "lastKill": "2026-10-10 17:53:08"
+    "kills": 4077,
+    "lastKill": "2026-10-10 17:55:58"
   },
   {
     "playerId": "8590474",
@@ -62,8 +62,8 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 127,
-    "lastKill": "2026-10-10 17:53:08"
+    "kills": 133,
+    "lastKill": "2026-10-10 17:55:58"
   },
   {
     "playerId": "21940268",
@@ -108,16 +108,16 @@
     "lastKill": "2026-10-10 03:32:36"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 69,
+    "lastKill": "2026-10-10 17:55:58"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 65,
     "lastKill": "2026-10-10 14:22:55"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 65,
-    "lastKill": "2026-10-10 17:53:08"
   },
   {
     "playerId": "3923647",
@@ -126,16 +126,16 @@
     "lastKill": "2026-10-10 01:03:06"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 59,
+    "lastKill": "2026-10-10 17:55:58"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 57,
     "lastKill": "2026-10-10 04:55:59"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 56,
-    "lastKill": "2026-10-10 17:53:08"
   },
   {
     "playerId": "21957440",
@@ -226,6 +226,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 2,
     "lastKill": "2026-10-10 17:49:50"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 2,
+    "lastKill": "2026-10-10 17:55:58"
   },
   {
     "playerId": "21708970",
@@ -800,12 +806,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
