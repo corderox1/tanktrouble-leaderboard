@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 210,
-    "lastKill": "2026-10-10 00:37:54"
+    "kills": 220,
+    "lastKill": "2026-10-10 00:40:59"
   },
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 56,
-    "lastKill": "2026-10-10 00:37:54"
+    "kills": 64,
+    "lastKill": "2026-10-10 00:40:59"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 36,
+    "lastKill": "2026-10-10 00:40:59"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 36,
+    "lastKill": "2026-10-10 00:40:59"
   },
   {
     "playerId": "14892840",
@@ -18,22 +30,16 @@
     "lastKill": "2026-10-10 00:19:58"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 32,
-    "lastKill": "2026-10-10 00:37:54"
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 31,
-    "lastKill": "2026-10-10 00:37:54"
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 10,
-    "lastKill": "2026-10-10 00:37:54"
+    "kills": 11,
+    "lastKill": "2026-10-10 00:40:59"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-10-10 00:40:59"
   },
   {
     "playerId": "22710399",
@@ -482,12 +488,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
