@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20294
+    "kills": 20305
   },
   {
     "playerId": "20666777",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 920
+    "kills": 924
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 631
+    "kills": 633
   },
   {
     "playerId": "17629928",
@@ -47,7 +47,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 476
+    "kills": 477
   },
   {
     "playerId": "10794529",
@@ -105,13 +105,13 @@
     "kills": 203
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 199
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 202
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 199
   },
   {
@@ -345,6 +345,11 @@
     "kills": 9
   },
   {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 6
+  },
+  {
     "playerId": "160470",
     "username": "bbc",
     "kills": 5
@@ -352,11 +357,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 4
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 4
   },
   {
