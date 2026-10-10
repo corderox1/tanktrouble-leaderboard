@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5449,
-    "lastKill": "2026-10-09 21:46:51"
+    "kills": 5458,
+    "lastKill": "2026-10-09 21:49:55"
   },
   {
     "playerId": "22694251",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 505,
-    "lastKill": "2026-10-09 21:46:51"
+    "kills": 507,
+    "lastKill": "2026-10-09 21:49:55"
   },
   {
     "playerId": "17629928",
@@ -96,16 +96,16 @@
     "lastKill": "2026-10-09 05:22:43"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 42,
+    "lastKill": "2026-10-09 21:49:55"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 38,
     "lastKill": "2026-10-09 06:04:35"
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 37,
-    "lastKill": "2026-10-09 21:46:51"
   },
   {
     "playerId": "1051525",
@@ -220,6 +220,12 @@
     "username": "Saucy",
     "kills": 8,
     "lastKill": "2026-10-09 16:55:53"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 5,
+    "lastKill": "2026-10-09 21:49:55"
   },
   {
     "playerId": "20011985",
@@ -428,12 +434,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0,
-    "lastKill": "2026-10-09 00:01:30"
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0,
     "lastKill": "2026-10-09 00:01:30"
   },

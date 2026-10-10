@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4168
+    "kills": 4180
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 306
+    "kills": 307
   },
   {
     "playerId": "22694251",
@@ -67,7 +67,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 34
+    "kills": 38
   },
   {
     "playerId": "21601349",
@@ -163,6 +163,11 @@
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 6
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 4
   },
   {
     "playerId": "3990108",
@@ -337,11 +342,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {

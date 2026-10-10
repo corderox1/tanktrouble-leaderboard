@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 35782
+    "kills": 35794
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1380
+    "kills": 1381
   },
   {
     "playerId": "14892840",
@@ -260,6 +260,11 @@
     "kills": 74
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 72
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 72
@@ -268,11 +273,6 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 69
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 68
   },
   {
     "playerId": "20375730",
@@ -325,6 +325,11 @@
     "kills": 30
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 29
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 29
@@ -348,11 +353,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 27
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 25
   },
   {
     "playerId": "18985660",

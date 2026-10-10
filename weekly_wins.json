@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18200
+    "kills": 18212
   },
   {
     "playerId": "20666777",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 689
+    "kills": 690
   },
   {
     "playerId": "20297710",
@@ -200,14 +200,14 @@
     "kills": 73
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 71
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 67
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 71
   },
   {
     "playerId": "19768925",
@@ -338,6 +338,11 @@
     "playerId": "160470",
     "username": "bbc",
     "kills": 5
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 4
   },
   {
     "playerId": "15878197",
@@ -472,11 +477,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
