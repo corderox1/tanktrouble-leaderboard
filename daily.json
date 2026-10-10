@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4218,
-    "lastKill": "2026-10-10 18:43:55"
+    "kills": 4225,
+    "lastKill": "2026-10-10 18:47:24"
   },
   {
     "playerId": "8590474",
@@ -66,16 +66,16 @@
     "lastKill": "2026-10-10 18:17:32"
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 123,
-    "lastKill": "2026-10-10 18:41:08"
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 120,
-    "lastKill": "2026-10-10 18:43:55"
+    "kills": 128,
+    "lastKill": "2026-10-10 18:47:24"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 125,
+    "lastKill": "2026-10-10 18:47:24"
   },
   {
     "playerId": "8408190",
@@ -86,8 +86,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 105,
-    "lastKill": "2026-10-10 18:43:55"
+    "kills": 106,
+    "lastKill": "2026-10-10 18:47:24"
   },
   {
     "playerId": "21098942",
@@ -210,6 +210,12 @@
     "lastKill": "2026-10-10 12:43:57"
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 6,
+    "lastKill": "2026-10-10 18:47:24"
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 5,
@@ -226,12 +232,6 @@
     "username": "Alternator",
     "kills": 2,
     "lastKill": "2026-10-10 17:05:02"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 2,
-    "lastKill": "2026-10-10 17:49:50"
   },
   {
     "playerId": "21601349",
