@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3234,
-    "lastKill": "2026-10-10 13:29:03"
+    "kills": 3237,
+    "lastKill": "2026-10-10 13:32:45"
   },
   {
     "playerId": "8590474",
@@ -78,6 +78,12 @@
     "lastKill": "2026-10-10 04:46:51"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 71,
+    "lastKill": "2026-10-10 13:32:45"
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 71,
@@ -88,12 +94,6 @@
     "username": "slayer",
     "kills": 64,
     "lastKill": "2026-10-10 01:03:06"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 61,
-    "lastKill": "2026-10-10 13:29:03"
   },
   {
     "playerId": "15931599",
@@ -126,16 +126,16 @@
     "lastKill": "2026-10-10 12:47:18"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 23,
+    "lastKill": "2026-10-10 13:32:45"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 22,
     "lastKill": "2026-10-10 01:46:55"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 19,
-    "lastKill": "2026-10-10 13:29:03"
   },
   {
     "playerId": "21098942",
@@ -178,6 +178,12 @@
     "username": "Orc-T72",
     "kills": 5,
     "lastKill": "2026-10-10 13:02:25"
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 4,
+    "lastKill": "2026-10-10 13:32:45"
   },
   {
     "playerId": "21708970",
@@ -1106,12 +1112,6 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },

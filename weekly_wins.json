@@ -52,7 +52,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 339
+    "kills": 347
   },
   {
     "playerId": "21601349",
@@ -275,6 +275,11 @@
     "kills": 29
   },
   {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 27
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 25
@@ -285,9 +290,9 @@
     "kills": 24
   },
   {
-    "playerId": "21231891",
-    "username": "ColdFlare",
-    "kills": 24
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 22
   },
   {
     "playerId": "4686507",
@@ -308,11 +313,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 18
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 17
   },
   {
     "playerId": "20375730",
