@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4366
+    "kills": 4370
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 112
+    "kills": 115
   },
   {
     "playerId": "20297710",
@@ -55,6 +55,11 @@
     "kills": 65
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 43
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 43
@@ -68,11 +73,6 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 42
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 33
   },
   {
     "playerId": "21601349",
@@ -170,14 +170,14 @@
     "kills": 9
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 6
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 5
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 6
   },
   {
     "playerId": "3990108",
