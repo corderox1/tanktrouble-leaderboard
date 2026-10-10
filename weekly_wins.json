@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18983
+    "kills": 18999
   },
   {
     "playerId": "20666777",
@@ -32,7 +32,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 579
+    "kills": 580
   },
   {
     "playerId": "17629928",
@@ -190,6 +190,11 @@
     "kills": 85
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 78
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 77
@@ -202,11 +207,6 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 75
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 75
   },
   {
@@ -265,13 +265,13 @@
     "kills": 39
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 29
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
+    "kills": 35
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
     "kills": 29
   },
   {
