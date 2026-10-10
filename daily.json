@@ -38,8 +38,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 118,
-    "lastKill": "2026-10-10 07:55:54"
+    "kills": 122,
+    "lastKill": "2026-10-10 07:59:01"
   },
   {
     "playerId": "8408190",
@@ -118,6 +118,12 @@
     "username": "interstellar",
     "kills": 2,
     "lastKill": "2026-10-10 07:43:58"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 1,
+    "lastKill": "2026-10-10 07:59:01"
   },
   {
     "playerId": "22710399",
@@ -986,12 +992,6 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
