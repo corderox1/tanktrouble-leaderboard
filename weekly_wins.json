@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20875
+    "kills": 20879
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1014
+    "kills": 1024
   },
   {
     "playerId": "14892840",
@@ -165,14 +165,14 @@
     "kills": 115
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 114
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 113
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 111
   },
   {
     "playerId": "21465536",
@@ -262,7 +262,12 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 43
+    "kills": 46
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 39
   },
   {
     "playerId": "13773720",
@@ -273,11 +278,6 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 39
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 33
   },
   {
     "playerId": "3162693",
