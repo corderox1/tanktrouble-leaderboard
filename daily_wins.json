@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3076
+    "kills": 3083
   },
   {
     "playerId": "8590474",
@@ -82,7 +82,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 44
+    "kills": 45
   },
   {
     "playerId": "15931599",
@@ -125,14 +125,14 @@
     "kills": 23
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 20
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 18
+    "kills": 21
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 21
   },
   {
     "playerId": "19068893",
@@ -187,6 +187,11 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
+    "kills": 1
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 1
   },
   {
@@ -457,11 +462,6 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 0
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0
   },
   {
