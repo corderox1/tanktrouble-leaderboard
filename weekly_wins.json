@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20863
+    "kills": 20868
   },
   {
     "playerId": "8590474",
@@ -52,7 +52,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 351
+    "kills": 358
   },
   {
     "playerId": "21601349",
@@ -192,7 +192,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 102
+    "kills": 103
   },
   {
     "playerId": "19068893",
@@ -272,12 +272,17 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 33
+    "kills": 37
   },
   {
     "playerId": "3162693",
     "username": "commander",
     "kills": 29
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 28
   },
   {
     "playerId": "21957440",
@@ -288,11 +293,6 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 24
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 22
   },
   {
     "playerId": "4686507",
