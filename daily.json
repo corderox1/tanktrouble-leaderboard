@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2201,
-    "lastKill": "2026-10-10 09:56:02"
+    "kills": 2216,
+    "lastKill": "2026-10-10 09:59:02"
   },
   {
     "playerId": "20297710",
@@ -48,16 +48,16 @@
     "lastKill": "2026-10-10 08:02:04"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 122,
+    "lastKill": "2026-10-10 09:59:02"
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 117,
     "lastKill": "2026-10-10 01:46:55"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 116,
-    "lastKill": "2026-10-10 09:56:02"
   },
   {
     "playerId": "21956820",
@@ -136,6 +136,12 @@
     "username": "interstellar",
     "kills": 2,
     "lastKill": "2026-10-10 07:43:58"
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 2,
+    "lastKill": "2026-10-10 09:59:02"
   },
   {
     "playerId": "22706369",
@@ -512,12 +518,6 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
