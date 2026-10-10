@@ -67,7 +67,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 40
+    "kills": 44
   },
   {
     "playerId": "15931599",
@@ -120,6 +120,11 @@
     "kills": 11
   },
   {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 10
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 9
@@ -137,11 +142,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 4
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 4
   },
   {
