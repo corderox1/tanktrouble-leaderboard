@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2436
+    "kills": 2440
   },
   {
     "playerId": "8590474",
@@ -70,14 +70,14 @@
     "kills": 36
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 32
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 30
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 26
   },
   {
     "playerId": "21957440",
@@ -100,6 +100,11 @@
     "kills": 16
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 14
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 13
@@ -108,11 +113,6 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 13
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 11
   },
   {
     "playerId": "12107881",
@@ -167,6 +167,11 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 1
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
     "kills": 1
   },
   {
@@ -922,11 +927,6 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 0
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 0
   },
   {
