@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1994
+    "kills": 2002
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 194
+    "kills": 195
   },
   {
     "playerId": "13173087",
@@ -15,14 +15,14 @@
     "kills": 106
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 77
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 75
+    "kills": 80
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 78
   },
   {
     "playerId": "22706369",
@@ -50,14 +50,14 @@
     "kills": 36
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 33
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 32
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 31
   },
   {
     "playerId": "18625144",
@@ -83,6 +83,11 @@
     "playerId": "673237",
     "username": "Dare",
     "kills": 12
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 5
   },
   {
     "playerId": "20984454",
@@ -182,11 +187,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
