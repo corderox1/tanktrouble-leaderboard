@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29366,
-    "lastKill": "2026-10-11 00:50:24"
+    "kills": 29383,
+    "lastKill": "2026-10-11 00:53:17"
   },
   {
     "playerId": "22694251",
@@ -456,6 +456,12 @@
     "lastKill": "2026-10-06 00:52:38"
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 1,
+    "lastKill": "2026-10-11 00:53:17"
+  },
+  {
     "playerId": "9881740",
     "username": "lichens",
     "kills": 1,
@@ -590,12 +596,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": "2026-10-05 00:01:49"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": "2026-10-05 00:01:49"
   },
