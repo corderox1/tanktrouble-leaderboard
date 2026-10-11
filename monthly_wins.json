@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 40532
+    "kills": 40542
   },
   {
     "playerId": "8590474",
@@ -270,14 +270,14 @@
     "kills": 103
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
+    "playerId": "1145079",
+    "username": "purup",
     "kills": 95
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 93
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 95
   },
   {
     "playerId": "3162693",
@@ -452,6 +452,11 @@
   {
     "playerId": "9881740",
     "username": "lichens",
+    "kills": 1
+  },
+  {
+    "playerId": "673237",
+    "username": "Dare",
     "kills": 1
   },
   {
@@ -717,11 +722,6 @@
   {
     "playerId": "6919151",
     "username": "SavageSmokie",
-    "kills": 0
-  },
-  {
-    "playerId": "673237",
-    "username": "Dare",
     "kills": 0
   },
   {

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 52657,
-    "lastKill": "2026-10-11 04:02:15"
+    "kills": 52666,
+    "lastKill": "2026-10-11 04:05:24"
   },
   {
     "playerId": "8590474",
@@ -306,6 +306,12 @@
     "lastKill": "2026-10-10 19:29:13"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 210,
+    "lastKill": "2026-10-11 04:05:24"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 209,
@@ -316,12 +322,6 @@
     "username": "Sangpi",
     "kills": 208,
     "lastKill": "2026-10-03 09:15:30"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 207,
-    "lastKill": "2026-10-11 04:02:15"
   },
   {
     "playerId": "22081323",
@@ -538,6 +538,12 @@
     "username": "Gentleman",
     "kills": 1,
     "lastKill": "2026-10-09 15:43:56"
+  },
+  {
+    "playerId": "673237",
+    "username": "Dare",
+    "kills": 1,
+    "lastKill": "2026-10-11 04:05:24"
   },
   {
     "playerId": "8779272",
@@ -854,12 +860,6 @@
   {
     "playerId": "6919151",
     "username": "SavageSmokie",
-    "kills": 0,
-    "lastKill": "2026-10-01 00:00:18"
-  },
-  {
-    "playerId": "673237",
-    "username": "Dare",
     "kills": 0,
     "lastKill": "2026-10-01 00:00:18"
   },
