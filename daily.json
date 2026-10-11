@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3114,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 3117,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "8590474",
@@ -32,8 +32,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 110,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 113,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "21940268",
@@ -74,8 +74,8 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 57,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 60,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "22077521",
@@ -102,6 +102,12 @@
     "lastKill": "2026-10-11 04:02:15"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 35,
+    "lastKill": "2026-10-11 14:23:22"
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 34,
@@ -114,28 +120,22 @@
     "lastKill": "2026-10-11 11:59:23"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 31,
-    "lastKill": "2026-10-11 14:20:28"
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 26,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 27,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 24,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 25,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 17,
-    "lastKill": "2026-10-11 14:20:28"
+    "kills": 18,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "673237",
@@ -184,6 +184,12 @@
     "username": "Lil_May",
     "kills": 1,
     "lastKill": "2026-10-11 07:59:23"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 1,
+    "lastKill": "2026-10-11 14:23:22"
   },
   {
     "playerId": "22710399",
@@ -542,12 +548,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": "2026-10-11 00:03:07"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": "2026-10-11 00:03:07"
   },
