@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4478,
-    "lastKill": "2026-10-10 20:50:08"
+    "kills": 4486,
+    "lastKill": "2026-10-10 20:53:08"
   },
   {
     "playerId": "8590474",
@@ -96,16 +96,16 @@
     "lastKill": "2026-10-10 19:29:13"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 101,
+    "lastKill": "2026-10-10 20:53:08"
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 98,
     "lastKill": "2026-10-10 16:02:09"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 95,
-    "lastKill": "2026-10-10 20:50:08"
   },
   {
     "playerId": "22706369",
@@ -226,6 +226,12 @@
     "username": "Orc-T72",
     "kills": 5,
     "lastKill": "2026-10-10 13:02:25"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 3,
+    "lastKill": "2026-10-10 20:53:08"
   },
   {
     "playerId": "18985660",
@@ -368,12 +374,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
