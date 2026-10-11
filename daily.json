@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1530,
-    "lastKill": "2026-10-11 07:14:15"
+    "kills": 1539,
+    "lastKill": "2026-10-11 07:17:16"
   },
   {
     "playerId": "21516705",
@@ -44,8 +44,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 25,
-    "lastKill": "2026-10-11 07:14:15"
+    "kills": 30,
+    "lastKill": "2026-10-11 07:17:16"
   },
   {
     "playerId": "22077521",
@@ -64,6 +64,12 @@
     "username": "Dare",
     "kills": 15,
     "lastKill": "2026-10-11 04:14:19"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 7,
+    "lastKill": "2026-10-11 07:17:16"
   },
   {
     "playerId": "20270104",
@@ -182,12 +188,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": "2026-10-11 00:03:07"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": "2026-10-11 00:03:07"
   },
