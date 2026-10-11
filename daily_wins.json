@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2234
+    "kills": 2248
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 44
+    "kills": 45
   },
   {
     "playerId": "22077521",
@@ -70,14 +70,14 @@
     "kills": 32
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 28
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 27
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 26
   },
   {
     "playerId": "19068893",
@@ -100,6 +100,11 @@
     "kills": 12
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 6
+  },
+  {
     "playerId": "20984454",
     "username": "CHIMABOY",
     "kills": 5
@@ -115,13 +120,13 @@
     "kills": 4
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 3
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
+    "kills": 2
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 2
   },
   {
@@ -452,11 +457,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
