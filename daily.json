@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4917,
-    "lastKill": "2026-10-10 22:47:33"
+    "kills": 4930,
+    "lastKill": "2026-10-10 22:50:16"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 493,
-    "lastKill": "2026-10-10 12:38:00"
+    "kills": 494,
+    "lastKill": "2026-10-10 22:50:16"
   },
   {
     "playerId": "20297710",
@@ -274,6 +274,12 @@
     "username": "ISAH",
     "kills": 1,
     "lastKill": "2026-10-10 07:59:01"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1,
+    "lastKill": "2026-10-10 22:50:16"
   },
   {
     "playerId": "10132007",
@@ -1034,12 +1040,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0,
-    "lastKill": "2026-10-10 00:02:55"
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0,
     "lastKill": "2026-10-10 00:02:55"
   },
