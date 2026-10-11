@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23461
+    "kills": 23468
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1088
+    "kills": 1091
   },
   {
     "playerId": "14892840",
@@ -120,6 +120,11 @@
     "kills": 199
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 192
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 184
@@ -133,11 +138,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 179
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 178
   },
   {
     "playerId": "21251653",
