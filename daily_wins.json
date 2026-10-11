@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2140
+    "kills": 2157
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 203
+    "kills": 206
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 95
+    "kills": 96
   },
   {
     "playerId": "20269995",
@@ -65,14 +65,14 @@
     "kills": 29
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 28
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 27
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 24
   },
   {
     "playerId": "19068893",
@@ -112,6 +112,11 @@
   {
     "playerId": "1185396",
     "username": "rhak",
+    "kills": 1
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
     "kills": 1
   },
   {
@@ -352,11 +357,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
