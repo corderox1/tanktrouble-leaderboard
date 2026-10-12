@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2278,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 2292,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "8899024",
@@ -20,26 +20,32 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 173,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 178,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 155,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 158,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 116,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 119,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "20984454",
     "username": "CHIMABOY",
-    "kills": 88,
-    "lastKill": "2026-10-12 08:34:13"
+    "kills": 93,
+    "lastKill": "2026-10-12 09:01:43"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 86,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "20297710",
@@ -48,16 +54,10 @@
     "lastKill": "2026-10-12 08:31:17"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 72,
-    "lastKill": "2026-10-12 08:58:37"
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 55,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 60,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "19068893",
@@ -86,14 +86,20 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 8,
-    "lastKill": "2026-10-12 08:58:37"
+    "kills": 11,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 7,
     "lastKill": "2026-10-12 08:52:35"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 7,
+    "lastKill": "2026-10-12 09:01:43"
   },
   {
     "playerId": "22056849",
@@ -506,12 +512,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0,
-    "lastKill": "2026-10-12 00:00:42"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0,
     "lastKill": "2026-10-12 00:00:42"
   },
