@@ -310,3 +310,12 @@ print("Leaderboards updated!")
 
 # Save player profiles
 save_json("stats.json", ALL_PLAYERS)
+
+# Save the exact time this leaderboard update completed
+last_updated = {
+    "lastUpdated": datetime.now(
+        ZoneInfo("America/Chicago")
+    ).isoformat()
+}
+
+save_json("last_updated.json", last_updated)
