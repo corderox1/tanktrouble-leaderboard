@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3850,
-    "lastKill": "2026-10-12 14:21:39"
+    "kills": 3860,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "8899024",
@@ -68,14 +68,14 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 109,
-    "lastKill": "2026-10-12 14:21:39"
+    "kills": 110,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 76,
-    "lastKill": "2026-10-12 14:21:39"
+    "kills": 77,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "2574833",
@@ -104,14 +104,14 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 64,
-    "lastKill": "2026-10-12 14:21:39"
+    "kills": 66,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 51,
-    "lastKill": "2026-10-12 14:21:39"
+    "kills": 54,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "20270104",
@@ -208,6 +208,12 @@
     "username": "fyrenado",
     "kills": 1,
     "lastKill": "2026-10-12 04:25:42"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 1,
+    "lastKill": "2026-10-12 14:24:44"
   },
   {
     "playerId": "22710399",
@@ -554,12 +560,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": "2026-10-12 00:00:42"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": "2026-10-12 00:00:42"
   },
