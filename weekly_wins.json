@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3045
+    "kills": 3050
   },
   {
     "playerId": "8899024",
@@ -10,14 +10,14 @@
     "kills": 303
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 187
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 186
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 179
   },
   {
     "playerId": "20297710",
@@ -57,12 +57,17 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 56
+    "kills": 58
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 50
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 42
   },
   {
     "playerId": "3990108",
@@ -73,11 +78,6 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 38
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 37
   },
   {
     "playerId": "2574833",
@@ -120,6 +120,11 @@
     "kills": 9
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 8
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 8
@@ -128,11 +133,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 7
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 6
   },
   {
     "playerId": "21103294",
