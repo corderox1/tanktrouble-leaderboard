@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3306
+    "kills": 3322
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,17 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 86
+    "kills": 87
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 68
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 66
+    "kills": 67
   },
   {
     "playerId": "22077521",
@@ -35,14 +40,9 @@
     "kills": 65
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 64
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 55
+    "kills": 61
   },
   {
     "playerId": "21251653",
@@ -135,14 +135,19 @@
     "kills": 9
   },
   {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 7
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 6
   },
   {
-    "playerId": "21231891",
-    "username": "ColdFlare",
-    "kills": 6
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 2
   },
   {
     "playerId": "22056849",
@@ -227,11 +232,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {

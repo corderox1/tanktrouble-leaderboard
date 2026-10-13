@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7626
+    "kills": 7642
   },
   {
     "playerId": "8899024",
@@ -17,7 +17,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 235
+    "kills": 236
   },
   {
     "playerId": "22706369",
@@ -30,14 +30,14 @@
     "kills": 186
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 183
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 180
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 179
   },
   {
     "playerId": "8590474",
@@ -57,7 +57,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 116
+    "kills": 117
   },
   {
     "playerId": "13173087",
@@ -87,7 +87,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 80
+    "kills": 86
   },
   {
     "playerId": "22716354",
@@ -222,7 +222,7 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 6
+    "kills": 7
   },
   {
     "playerId": "22056849",
@@ -252,6 +252,11 @@
   {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 2
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 2
   },
   {
@@ -332,11 +337,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {
