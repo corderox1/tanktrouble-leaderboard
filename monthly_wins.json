@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 50365
+    "kills": 50372
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2233
+    "kills": 2246
   },
   {
     "playerId": "14892840",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1705
+    "kills": 1709
   },
   {
     "playerId": "20297710",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1147
+    "kills": 1150
   },
   {
     "playerId": "13173087",
@@ -130,14 +130,14 @@
     "kills": 368
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 368
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 357
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 352
   },
   {
     "playerId": "21465536",
@@ -290,14 +290,14 @@
     "kills": 103
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 92
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 90
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 80
   },
   {
     "playerId": "21739597",
@@ -415,6 +415,11 @@
     "kills": 12
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 8
+  },
+  {
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 7
@@ -437,11 +442,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 4
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 4
   },
   {
