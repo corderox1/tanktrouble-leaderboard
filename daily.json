@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3852,
-    "lastKill": "2026-10-13 12:58:23"
+    "kills": 3882,
+    "lastKill": "2026-10-13 13:02:03"
   },
   {
     "playerId": "8590474",
@@ -84,6 +84,12 @@
     "lastKill": "2026-10-13 12:44:12"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 52,
+    "lastKill": "2026-10-13 13:02:03"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 49,
@@ -96,22 +102,16 @@
     "lastKill": "2026-10-13 12:33:57"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 43,
+    "lastKill": "2026-10-13 13:02:03"
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 42,
     "lastKill": "2026-10-13 12:51:10"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 41,
-    "lastKill": "2026-10-13 12:58:23"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 40,
-    "lastKill": "2026-10-13 12:58:23"
   },
   {
     "playerId": "20869330",
@@ -146,8 +146,8 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 14,
-    "lastKill": "2026-10-13 11:10:29"
+    "kills": 19,
+    "lastKill": "2026-10-13 13:02:03"
   },
   {
     "playerId": "22694251",
@@ -178,6 +178,12 @@
     "username": "Corderox1",
     "kills": 2,
     "lastKill": "2026-10-13 09:58:19"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 2,
+    "lastKill": "2026-10-13 13:02:03"
   },
   {
     "playerId": "1145079",
@@ -1088,12 +1094,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0,
-    "lastKill": "2026-10-13 00:00:25"
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0,
     "lastKill": "2026-10-13 00:00:25"
   },

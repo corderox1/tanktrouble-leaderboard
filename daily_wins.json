@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3102
+    "kills": 3123
   },
   {
     "playerId": "8590474",
@@ -45,14 +45,14 @@
     "kills": 52
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 49
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 48
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 49
   },
   {
     "playerId": "13173087",
@@ -62,7 +62,7 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 34
+    "kills": 35
   },
   {
     "playerId": "20869330",
@@ -70,13 +70,13 @@
     "kills": 33
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 31
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
+    "kills": 32
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 31
   },
   {
@@ -88,6 +88,11 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 17
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 16
   },
   {
     "playerId": "21614515",
@@ -105,6 +110,11 @@
     "kills": 14
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 13
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 13
@@ -113,16 +123,6 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 12
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 12
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 11
   },
   {
     "playerId": "22706369",
@@ -138,6 +138,11 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 5
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 2
   },
   {
     "playerId": "22710399",
@@ -907,11 +912,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0
   },
   {

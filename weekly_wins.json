@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7422
+    "kills": 7443
   },
   {
     "playerId": "8899024",
@@ -67,7 +67,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 98
+    "kills": 99
   },
   {
     "playerId": "22077521",
@@ -112,7 +112,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 56
+    "kills": 57
   },
   {
     "playerId": "22710399",
@@ -140,13 +140,13 @@
     "kills": 36
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 34
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 35
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 34
   },
   {
@@ -167,7 +167,12 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 25
+    "kills": 27
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 24
   },
   {
     "playerId": "19068893",
@@ -183,11 +188,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 22
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 20
   },
   {
     "playerId": "18625144",
@@ -220,6 +220,11 @@
     "kills": 7
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 5
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 4
@@ -237,11 +242,6 @@
   {
     "playerId": "3617624",
     "username": "Envy",
-    "kills": 3
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 3
   },
   {
