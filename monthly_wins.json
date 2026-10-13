@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 50300
+    "kills": 50308
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1690
+    "kills": 1692
   },
   {
     "playerId": "20297710",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1112
+    "kills": 1116
   },
   {
     "playerId": "13173087",
@@ -130,6 +130,11 @@
     "kills": 368
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 347
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 347
@@ -138,11 +143,6 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 345
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 344
   },
   {
     "playerId": "19932455",
@@ -160,13 +160,13 @@
     "kills": 339
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 334
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
+    "kills": 336
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 334
   },
   {
