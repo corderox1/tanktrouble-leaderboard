@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7223
+    "kills": 7252
   },
   {
     "playerId": "8899024",
@@ -125,6 +125,11 @@
     "kills": 45
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 44
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 39
@@ -137,11 +142,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 34
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 34
   },
   {
@@ -187,12 +187,22 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 16
+    "kills": 17
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 15
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 10
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 10
   },
   {
     "playerId": "21940268",
@@ -205,18 +215,8 @@
     "kills": 9
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 8
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 7
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 7
   },
   {
