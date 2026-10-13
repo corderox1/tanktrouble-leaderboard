@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6616
+    "kills": 6623
   },
   {
     "playerId": "8899024",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 369
+    "kills": 376
   },
   {
     "playerId": "20297710",
@@ -45,14 +45,14 @@
     "kills": 131
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 130
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 129
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 121
   },
   {
     "playerId": "21452912",
@@ -72,7 +72,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 85
+    "kills": 86
   },
   {
     "playerId": "22716354",
@@ -80,14 +80,19 @@
     "kills": 78
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 71
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 70
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 70
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 66
   },
   {
     "playerId": "4142755",
@@ -98,11 +103,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 62
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 59
   },
   {
     "playerId": "22710399",
@@ -150,13 +150,13 @@
     "kills": 25
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 22
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 23
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 22
   },
   {
@@ -215,6 +215,11 @@
     "kills": 3
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 3
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 2
@@ -222,6 +227,11 @@
   {
     "playerId": "16202507",
     "username": "DaveMadeByDave",
+    "kills": 2
+  },
+  {
+    "playerId": "9184666",
+    "username": "-I-",
     "kills": 2
   },
   {
@@ -915,11 +925,6 @@
     "kills": 0
   },
   {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 0
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0
@@ -952,11 +957,6 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 0
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0
   },
   {
