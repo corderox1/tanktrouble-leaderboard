@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3854
+    "kills": 3869
   },
   {
     "playerId": "8899024",
@@ -72,7 +72,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 53
+    "kills": 56
   },
   {
     "playerId": "10794529",
@@ -120,14 +120,14 @@
     "kills": 24
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 20
-  },
-  {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 18
+    "kills": 22
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 21
   },
   {
     "playerId": "13173087",
@@ -198,6 +198,11 @@
     "playerId": "16202507",
     "username": "DaveMadeByDave",
     "kills": 2
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 1
   },
   {
     "playerId": "21797119",
@@ -272,11 +277,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
