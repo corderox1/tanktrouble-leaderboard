@@ -1148,9 +1148,7 @@
 
 
         
-    <div class="refresh-box">
-
-   <div class="refresh-box">
+ <div class="refresh-box">
 
     <div>
         <span class="refresh-time" id="countdown">
@@ -1801,9 +1799,7 @@ function loadLifetimeLeaderboard(stat) {
         });
 
 
-    // Update Laika
-    loadLifetimeLaika(stat);
-}
+    }
         /* =========================
            LOAD LAIKA
         ========================= */
@@ -1933,8 +1929,6 @@ function updateLastUpdatedDisplay(timestamp) {
         formattedTime;
 
 }
-
-
 /*
    Check GitHub for a new update every 30 seconds.
    The page only reloads the leaderboard when
@@ -2053,14 +2047,15 @@ function closePlayerProfile() {
 
 }
 
-document.getElementById("profileModal").addEventListener("click", function(event) {
+document.addEventListener("click", function(event) {
 
-    if (event.target === this) {
+    const modal = document.getElementById("profileModal");
+
+    if (modal && event.target === modal) {
         closePlayerProfile();
     }
 
-});
-   
+});   
 
 
 function openAddPlayer() {
@@ -2145,12 +2140,15 @@ async function submitPlayer() {
     button.textContent = "Submit";
 }    
     
- document.getElementById("addPlayerModal").addEventListener("click", function(event) {
-    if (event.target === this) {
+document.addEventListener("click", function(event) {
+
+    const modal = document.getElementById("addPlayerModal");
+
+    if (modal && event.target === modal) {
         closeAddPlayer();
     }
-});   
-    
+
+});    
     </script>
 
 <div id="profileModal" class="profile-modal">
