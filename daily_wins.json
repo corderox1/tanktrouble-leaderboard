@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2966
+    "kills": 2972
   },
   {
     "playerId": "8590474",
@@ -75,9 +75,19 @@
     "kills": 25
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 17
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 17
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 15
   },
   {
     "playerId": "21614515",
@@ -85,19 +95,14 @@
     "kills": 15
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
+    "playerId": "20984454",
+    "username": "Rlyc4n",
     "kills": 14
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 14
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 13
   },
   {
     "playerId": "19068893",
@@ -113,11 +118,6 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 10
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 9
   },
   {
     "playerId": "22706369",
