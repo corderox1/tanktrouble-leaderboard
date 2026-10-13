@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3152
+    "kills": 3180
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,17 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 83
+    "kills": 85
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 65
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 61
   },
   {
     "playerId": "22472796",
@@ -45,11 +50,6 @@
     "kills": 52
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 51
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 49
@@ -62,7 +62,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 35
+    "kills": 39
   },
   {
     "playerId": "20011985",
@@ -80,13 +80,13 @@
     "kills": 31
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 18
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 20
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 18
   },
   {
