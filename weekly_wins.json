@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7642
+    "kills": 7651
   },
   {
     "playerId": "8899024",
@@ -17,7 +17,7 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 236
+    "kills": 240
   },
   {
     "playerId": "22706369",
@@ -80,13 +80,13 @@
     "kills": 89
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 86
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
+    "kills": 89
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
     "kills": 86
   },
   {
@@ -215,6 +215,11 @@
     "kills": 9
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 7
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 7
@@ -252,11 +257,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 2
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 2
   },
   {

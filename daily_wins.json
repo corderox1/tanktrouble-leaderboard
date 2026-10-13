@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3322
+    "kills": 3331
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 172
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 91
   },
   {
     "playerId": "20666777",
@@ -17,11 +22,6 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 87
-  },
-  {
-    "playerId": "20297710",
-    "username": "KD419",
     "kills": 87
   },
   {
@@ -42,7 +42,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 61
+    "kills": 64
   },
   {
     "playerId": "21251653",
@@ -135,6 +135,11 @@
     "kills": 9
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 7
+  },
+  {
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 7
@@ -143,11 +148,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 6
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 2
   },
   {
     "playerId": "22056849",
