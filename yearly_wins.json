@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 105437
+    "kills": 105476
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 4684
+    "kills": 4706
   },
   {
     "playerId": "14892840",
@@ -407,7 +407,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 60
+    "kills": 62
   },
   {
     "playerId": "21957440",
@@ -562,6 +562,11 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 1
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
     "kills": 1
   },
   {
@@ -932,11 +937,6 @@
   {
     "playerId": "3810608",
     "username": "Zeus",
-    "kills": 0
-  },
-  {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
     "kills": 0
   },
   {

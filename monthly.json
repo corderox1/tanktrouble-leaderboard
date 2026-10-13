@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 64799,
-    "lastKill": "2026-10-13 09:12:53"
+    "kills": 64834,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 3216,
-    "lastKill": "2026-10-13 09:12:53"
+    "kills": 3244,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "22694251",
@@ -350,8 +350,8 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 139,
-    "lastKill": "2026-10-13 09:12:53"
+    "kills": 141,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "22047175",
@@ -526,6 +526,12 @@
     "username": "Catalyst",
     "kills": 3,
     "lastKill": "2026-10-04 12:06:47"
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
+    "kills": 3,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "22752688",
@@ -1094,12 +1100,6 @@
   {
     "playerId": "3810608",
     "username": "Zeus",
-    "kills": 0,
-    "lastKill": "2026-10-04 17:16:16"
-  },
-  {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
     "kills": 0,
     "lastKill": "2026-10-04 17:16:16"
   },

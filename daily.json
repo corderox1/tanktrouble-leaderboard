@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2426,
-    "lastKill": "2026-10-13 09:12:53"
+    "kills": 2461,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "14892840",
@@ -24,6 +24,12 @@
     "lastKill": "2026-10-13 08:55:23"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 66,
+    "lastKill": "2026-10-13 09:19:53"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 48,
@@ -42,12 +48,6 @@
     "lastKill": "2026-10-13 08:04:40"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 38,
-    "lastKill": "2026-10-13 09:12:53"
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 35,
@@ -60,22 +60,28 @@
     "lastKill": "2026-10-13 07:39:35"
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 10,
+    "lastKill": "2026-10-13 09:19:53"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 9,
     "lastKill": "2026-10-13 04:21:25"
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 8,
-    "lastKill": "2026-10-13 09:12:53"
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 5,
     "lastKill": "2026-10-13 03:04:49"
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
+    "kills": 3,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "22710399",
@@ -1076,12 +1082,6 @@
   {
     "playerId": "3810608",
     "username": "Zeus",
-    "kills": 0,
-    "lastKill": "2026-10-13 00:00:25"
-  },
-  {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
     "kills": 0,
     "lastKill": "2026-10-13 00:00:25"
   },

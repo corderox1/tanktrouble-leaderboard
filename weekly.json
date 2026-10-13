@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7952,
-    "lastKill": "2026-10-13 09:12:53"
+    "kills": 7987,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "8899024",
@@ -156,6 +156,12 @@
     "lastKill": "2026-10-12 21:22:07"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 66,
+    "lastKill": "2026-10-13 09:19:53"
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 63,
@@ -172,12 +178,6 @@
     "username": "3w0n",
     "kills": 40,
     "lastKill": "2026-10-12 13:48:37"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 38,
-    "lastKill": "2026-10-13 09:12:53"
   },
   {
     "playerId": "17629928",
@@ -228,16 +228,16 @@
     "lastKill": "2026-10-12 14:07:41"
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 10,
+    "lastKill": "2026-10-13 09:19:53"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 8,
     "lastKill": "2026-10-12 21:51:41"
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 8,
-    "lastKill": "2026-10-13 09:12:53"
   },
   {
     "playerId": "1145079",
@@ -280,6 +280,12 @@
     "username": "DaveMadeByDave",
     "kills": 4,
     "lastKill": "2026-10-12 19:24:09"
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
+    "kills": 3,
+    "lastKill": "2026-10-13 09:19:53"
   },
   {
     "playerId": "21708970",
@@ -1082,12 +1088,6 @@
   {
     "playerId": "3810608",
     "username": "Zeus",
-    "kills": 0,
-    "lastKill": "2026-10-12 00:00:42"
-  },
-  {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
     "kills": 0,
     "lastKill": "2026-10-12 00:00:42"
   },

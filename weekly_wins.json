@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6239
+    "kills": 6278
   },
   {
     "playerId": "8899024",
@@ -100,6 +100,11 @@
     "kills": 50
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 50
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 49
@@ -133,11 +138,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 30
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 28
   },
   {
     "playerId": "20270104",
@@ -185,6 +185,11 @@
     "kills": 7
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 5
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 4
@@ -210,11 +215,6 @@
     "kills": 3
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 3
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 2
@@ -232,6 +232,11 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
+    "kills": 1
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
     "kills": 1
   },
   {
@@ -902,11 +907,6 @@
   {
     "playerId": "3810608",
     "username": "Zeus",
-    "kills": 0
-  },
-  {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
     "kills": 0
   },
   {
