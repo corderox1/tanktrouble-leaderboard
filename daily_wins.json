@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3352
+    "kills": 3388
   },
   {
     "playerId": "8590474",
@@ -10,14 +10,14 @@
     "kills": 172
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 93
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 92
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 91
   },
   {
     "playerId": "14892840",
@@ -27,7 +27,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 73
+    "kills": 75
   },
   {
     "playerId": "22472796",
@@ -37,7 +37,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 67
+    "kills": 68
   },
   {
     "playerId": "22077521",
@@ -85,19 +85,19 @@
     "kills": 24
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 18
-  },
-  {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 17
+    "kills": 20
   },
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 17
+    "kills": 18
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 18
   },
   {
     "playerId": "9184666",
@@ -107,7 +107,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 15
+    "kills": 16
   },
   {
     "playerId": "20984454",
@@ -157,6 +157,11 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
+    "kills": 1
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
     "kills": 1
   },
   {
@@ -387,11 +392,6 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 0
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0
   },
   {
