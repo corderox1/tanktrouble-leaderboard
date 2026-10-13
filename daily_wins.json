@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3857
+    "kills": 3868
   },
   {
     "playerId": "8590474",
@@ -70,6 +70,11 @@
     "kills": 52
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 35
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 35
@@ -90,6 +95,11 @@
     "kills": 31
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 30
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 27
@@ -108,16 +118,6 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 25
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 21
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 20
   },
   {
     "playerId": "1185396",
@@ -182,6 +182,11 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
+    "kills": 1
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
     "kills": 1
   },
   {
@@ -472,11 +477,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
