@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2611,
-    "lastKill": "2026-10-13 09:40:58"
+    "kills": 2683,
+    "lastKill": "2026-10-13 09:48:01"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 113,
-    "lastKill": "2026-10-13 09:40:58"
+    "kills": 127,
+    "lastKill": "2026-10-13 09:48:01"
   },
   {
     "playerId": "14892840",
@@ -56,8 +56,14 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 20,
-    "lastKill": "2026-10-13 09:37:40"
+    "kills": 22,
+    "lastKill": "2026-10-13 09:48:01"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 17,
+    "lastKill": "2026-10-13 09:48:01"
   },
   {
     "playerId": "20984454",
@@ -78,10 +84,10 @@
     "lastKill": "2026-10-13 09:23:31"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 6,
-    "lastKill": "2026-10-13 09:40:58"
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 5,
+    "lastKill": "2026-10-13 09:48:01"
   },
   {
     "playerId": "19068893",
@@ -200,12 +206,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": "2026-10-13 00:00:25"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": "2026-10-13 00:00:25"
   },
