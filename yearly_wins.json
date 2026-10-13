@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 103280
+    "kills": 103281
   },
   {
     "playerId": "8590474",
@@ -222,7 +222,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 545
+    "kills": 550
   },
   {
     "playerId": "21956820",
@@ -540,6 +540,11 @@
     "kills": 2
   },
   {
+    "playerId": "3617624",
+    "username": "Envy",
+    "kills": 2
+  },
+  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 2
@@ -657,11 +662,6 @@
   {
     "playerId": "4067875",
     "username": "NelFusion",
-    "kills": 0
-  },
-  {
-    "playerId": "3617624",
-    "username": "Envy",
     "kills": 0
   },
   {
