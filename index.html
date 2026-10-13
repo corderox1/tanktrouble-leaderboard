@@ -1150,14 +1150,16 @@
         
     <div class="refresh-box">
 
+   <div class="refresh-box">
+
     <div>
         <span class="refresh-time" id="countdown">
-            Waiting...
+            Last update: Waiting...
         </span>
     </div>
 
     <div class="refresh-label">
-        Refreshes when the leaderboard updates
+        Automatically updates
     </div>
 
 </div>
@@ -1916,9 +1918,19 @@ function updateLastUpdatedDisplay(timestamp) {
 
     const date = new Date(timestamp);
 
+    const formattedTime =
+        date.toLocaleTimeString([], {
+            hour: "numeric",
+            minute: "2-digit"
+        });
+
     document.getElementById("lastUpdated").textContent =
         "Last Updated: " +
         date.toLocaleString();
+
+    document.getElementById("countdown").textContent =
+        "Last update: " +
+        formattedTime;
 
 }
 
