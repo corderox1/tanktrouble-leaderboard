@@ -1150,24 +1150,17 @@
         
     <div class="refresh-box">
 
-        <div>
-            Next refresh in:
-
-            <span
-                class="refresh-time"
-                id="countdown">
-
-                60
-
-            </span>
-
-        </div>
-
-        <div class="refresh-label">
-            Updates every 3 minutes
-        </div>
-
+    <div>
+        <span class="refresh-time" id="countdown">
+            Waiting...
+        </span>
     </div>
+
+    <div class="refresh-label">
+        Refreshes when the leaderboard updates
+    </div>
+
+</div>
 
 
 
@@ -1634,9 +1627,7 @@ if (activeStatButton) {
     // Update Laika using the selected period/stat
     loadLaika(type, stat);
 
-    document.getElementById("lastUpdated").textContent =
-        "Last Updated: " +
-        new Date().toLocaleTimeString();
+   
 
 }
 
@@ -1856,51 +1847,96 @@ function loadLifetimeLeaderboard(stat) {
 
 
 
-        /* =========================
-           AUTO REFRESH
-        ========================= */
+    
 
-        const REFRESH_INTERVAL = 3 * 60 * 1000;
+/* =========================
+   AUTO REFRESH
+========================= */
 
-let nextRefreshTime = Number(
-    localStorage.getItem("nextRefreshTime")
-);
+const LAST_UPDATED_URL =
+    "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/last_updated.json";
 
-if (!nextRefreshTime || nextRefreshTime <= Date.now()) {
-    nextRefreshTime = Date.now() + REFRESH_INTERVAL;
-    localStorage.setItem("nextRefreshTime", nextRefreshTime);
-}
+let lastKnownUpdate = null;
 
-function refreshEverything() {
+async function checkForLeaderboardUpdate() {
 
-    loadLeaderboard(currentType, currentStat);
-    loadLaika(currentType, currentStat);
+    try {
 
-    nextRefreshTime = Date.now() + REFRESH_INTERVAL;
+        const response = await fetch(
+            LAST_UPDATED_URL + "?time=" + Date.now()
+        );
 
-    localStorage.setItem(
-        "nextRefreshTime",
-        nextRefreshTime
-    );
-}
+        const data = await response.json();
 
-setInterval(() => {
+        if (!data.lastUpdated) {
+            return;
+        }
 
-    const remaining =
-        Math.max(0, nextRefreshTime - Date.now());
+        const githubUpdateTime = data.lastUpdated;
 
-    const seconds =
-        Math.ceil(remaining / 1000);
+        // First check: just remember the current GitHub update
+        if (lastKnownUpdate === null) {
 
-    document.getElementById(
-        "countdown"
-    ).textContent = seconds;
+            lastKnownUpdate = githubUpdateTime;
 
-    if (remaining <= 0) {
-        refreshEverything();
+            updateLastUpdatedDisplay(githubUpdateTime);
+
+            return;
+        }
+
+        // GitHub has a newer leaderboard update
+        if (githubUpdateTime !== lastKnownUpdate) {
+
+            console.log("New leaderboard update detected!");
+
+            lastKnownUpdate = githubUpdateTime;
+
+            updateLastUpdatedDisplay(githubUpdateTime);
+
+            // Reload all leaderboard data
+            loadLeaderboard(currentType, currentStat);
+            loadLifetimeLeaderboard("kills");
+            loadLaika(currentType, currentStat);
+
+        }
+
+    } catch (error) {
+
+        console.error(
+            "Could not check leaderboard update time:",
+            error
+        );
+
     }
 
-}, 1000);
+}
+
+
+function updateLastUpdatedDisplay(timestamp) {
+
+    const date = new Date(timestamp);
+
+    document.getElementById("lastUpdated").textContent =
+        "Last Updated: " +
+        date.toLocaleString();
+
+}
+
+
+/*
+   Check GitHub for a new update every 30 seconds.
+   The page only reloads the leaderboard when
+   last_updated.json actually changes.
+*/
+
+setInterval(checkForLeaderboardUpdate, 30000);
+
+
+/*
+   Check immediately when the page opens.
+*/
+
+checkForLeaderboardUpdate();
 
         /* =========================
            START
