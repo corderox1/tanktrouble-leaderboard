@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2883
+    "kills": 2903
   },
   {
     "playerId": "8590474",
@@ -70,6 +70,11 @@
     "kills": 25
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 16
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 15
@@ -77,11 +82,6 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 14
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 14
   },
   {
@@ -100,6 +100,11 @@
     "kills": 11
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 9
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 9
@@ -110,13 +115,13 @@
     "kills": 8
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 6
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 7
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 6
   },
   {
@@ -232,11 +237,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
