@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2197
+    "kills": 2211
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 104
+    "kills": 108
   },
   {
     "playerId": "14892840",
@@ -17,17 +17,17 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 55
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 51
+    "kills": 60
   },
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 49
+    "kills": 54
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 52
   },
   {
     "playerId": "22472796",
@@ -45,19 +45,19 @@
     "kills": 24
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 13
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 13
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 12
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 8
+    "kills": 11
   },
   {
     "playerId": "20984454",
@@ -80,14 +80,19 @@
     "kills": 2
   },
   {
-    "playerId": "10513943",
-    "username": "GALAXYSNIPER",
-    "kills": 1
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 2
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0
+    "kills": 1
+  },
+  {
+    "playerId": "10513943",
+    "username": "GALAXYSNIPER",
+    "kills": 1
   },
   {
     "playerId": "1145079",
@@ -832,11 +837,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0
   },
   {
