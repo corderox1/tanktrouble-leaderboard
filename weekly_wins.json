@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7157
+    "kills": 7180
   },
   {
     "playerId": "8899024",
@@ -210,6 +210,11 @@
     "kills": 7
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 6
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 4
@@ -245,6 +250,11 @@
     "kills": 2
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 2
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 1
@@ -252,11 +262,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 1
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 1
   },
   {
@@ -382,11 +387,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
     "kills": 0
   },
   {
