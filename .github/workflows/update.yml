@@ -2,7 +2,7 @@ name: Update Leaderboard
 
 on:
   schedule:
-   on:
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Get repository
         uses: actions/checkout@v4
 
@@ -31,7 +32,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daily.json weekly.json monthly.json yearly.json daily_wins.json weekly_wins.json monthly_wins.json yearly_wins.json history.json stats.json last_updated.json
+
+          git add daily.json weekly.json monthly.json yearly.json
+          git add daily_wins.json weekly_wins.json yearly_wins.json
+          git add total_kills.json total_wins.json
+          git add history.json stats.json last_updated.json
+
           git diff --cached --quiet || git commit -m "Update leaderboard"
+
           git pull --rebase origin main
           git push
