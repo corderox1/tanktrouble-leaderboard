@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11570
+    "kills": 11970
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 745
+    "kills": 767
   },
   {
     "playerId": "8899024",
@@ -22,7 +22,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 274
+    "kills": 281
   },
   {
     "playerId": "14892840",
@@ -40,14 +40,14 @@
     "kills": 241
   },
   {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 241
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 224
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 188
   },
   {
     "playerId": "22472796",
@@ -85,6 +85,11 @@
     "kills": 117
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 112
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 107
@@ -97,7 +102,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 96
+    "kills": 101
   },
   {
     "playerId": "20269995",
@@ -117,7 +122,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 83
+    "kills": 84
   },
   {
     "playerId": "6776098",
@@ -132,7 +137,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 71
+    "kills": 73
   },
   {
     "playerId": "3660774",
@@ -143,6 +148,11 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 65
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 56
   },
   {
     "playerId": "19425584",
@@ -195,11 +205,6 @@
     "kills": 33
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 31
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 30
@@ -238,11 +243,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 22
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 21
   },
   {
     "playerId": "16092601",
@@ -977,6 +977,11 @@
   {
     "playerId": "21839393",
     "username": "notnothing",
+    "kills": 0
+  },
+  {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 0
   }
 ]

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 55303
+    "kills": 55703
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2073
+    "kills": 2095
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 956
+    "kills": 958
   },
   {
     "playerId": "10794529",
@@ -65,19 +65,19 @@
     "kills": 852
   },
   {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 839
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 826
   },
   {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 786
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 775
+    "kills": 782
   },
   {
     "playerId": "4381511",
@@ -87,7 +87,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 694
+    "kills": 699
   },
   {
     "playerId": "21516705",
@@ -110,6 +110,11 @@
     "kills": 465
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 452
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 428
@@ -122,12 +127,12 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 412
+    "kills": 413
   },
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 382
+    "kills": 407
   },
   {
     "playerId": "16736853",
@@ -138,11 +143,6 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 368
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 361
   },
   {
     "playerId": "20269995",
@@ -977,6 +977,11 @@
   {
     "playerId": "21839393",
     "username": "notnothing",
+    "kills": 0
+  },
+  {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 0
   }
 ]
