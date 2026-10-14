@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4032,
-    "lastKill": "2026-10-14 16:09:48"
+    "kills": 4317,
+    "lastKill": "2026-10-14 17:08:50"
   },
   {
     "playerId": "20666777",
@@ -14,8 +14,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 266,
-    "lastKill": "2026-10-14 16:09:48"
+    "kills": 298,
+    "lastKill": "2026-10-14 17:08:50"
   },
   {
     "playerId": "1051525",
@@ -26,8 +26,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 191,
-    "lastKill": "2026-10-14 16:09:48"
+    "kills": 214,
+    "lastKill": "2026-10-14 17:08:50"
   },
   {
     "playerId": "22706369",
@@ -44,8 +44,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 149,
-    "lastKill": "2026-10-14 16:09:48"
+    "kills": 156,
+    "lastKill": "2026-10-14 17:08:50"
   },
   {
     "playerId": "22710399",
@@ -58,6 +58,12 @@
     "username": "L_Shy_P",
     "kills": 102,
     "lastKill": "2026-10-14 08:23:58"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 97,
+    "lastKill": "2026-10-14 17:08:50"
   },
   {
     "playerId": "19138057",
@@ -84,6 +90,12 @@
     "lastKill": "2026-10-14 07:59:44"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 74,
+    "lastKill": "2026-10-14 17:08:50"
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 71,
@@ -108,6 +120,12 @@
     "lastKill": "2026-10-14 13:13:28"
   },
   {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 59,
+    "lastKill": "2026-10-14 17:08:50"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 57,
@@ -130,12 +148,6 @@
     "username": "boogiemaster22",
     "kills": 29,
     "lastKill": "2026-10-14 13:13:28"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 27,
-    "lastKill": "2026-10-14 15:12:15"
   },
   {
     "playerId": "3162693",
@@ -234,16 +246,16 @@
     "lastKill": "2026-10-14 16:09:48"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 1,
+    "lastKill": "2026-10-14 17:08:50"
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 1,
     "lastKill": "2026-10-14 16:09:48"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 0,
-    "lastKill": null
   },
   {
     "playerId": "14617724",
@@ -360,12 +372,6 @@
     "lastKill": null
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 0,
@@ -434,12 +440,6 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20644558",
-    "username": "x",
     "kills": 0,
     "lastKill": null
   },
