@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2834
+    "kills": 2897
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 340
+    "kills": 344
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 146
   },
   {
     "playerId": "1051525",
@@ -15,14 +20,14 @@
     "kills": 142
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 128
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 86
+    "kills": 111
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 101
   },
   {
     "playerId": "22706369",
@@ -33,11 +38,6 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 82
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 67
   },
   {
     "playerId": "8590474",
@@ -52,7 +52,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 53
+    "kills": 58
   },
   {
     "playerId": "13173087",
@@ -105,19 +105,24 @@
     "kills": 19
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 19
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 16
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 14
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 13
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 12
   },
   {
     "playerId": "22472796",
@@ -147,6 +152,11 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
+    "kills": 6
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 6
   },
   {
@@ -237,11 +247,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {
@@ -472,11 +477,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {

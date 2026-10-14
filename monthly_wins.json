@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 56232
+    "kills": 56295
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2098
+    "kills": 2102
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1281
+    "kills": 1315
   },
   {
     "playerId": "20297710",
@@ -45,6 +45,11 @@
     "kills": 1039
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 963
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 958
@@ -53,11 +58,6 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 955
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 938
   },
   {
     "playerId": "14617724",
@@ -82,7 +82,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 740
+    "kills": 746
   },
   {
     "playerId": "22710399",
@@ -100,14 +100,14 @@
     "kills": 496
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 493
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 476
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 475
   },
   {
     "playerId": "20984454",
@@ -120,14 +120,14 @@
     "kills": 428
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 424
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 421
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 417
   },
   {
     "playerId": "2574833",
@@ -137,7 +137,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 387
+    "kills": 392
   },
   {
     "playerId": "16736853",
@@ -320,6 +320,11 @@
     "kills": 86
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 80
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 72
@@ -328,11 +333,6 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 69
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 66
   },
   {
     "playerId": "11769746",
