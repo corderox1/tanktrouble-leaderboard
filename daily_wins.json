@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2577
+    "kills": 2834
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 337
+    "kills": 340
   },
   {
     "playerId": "1051525",
@@ -17,7 +17,12 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 112
+    "kills": 128
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 86
   },
   {
     "playerId": "22706369",
@@ -30,6 +35,11 @@
     "kills": 82
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 67
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 64
@@ -38,6 +48,11 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 63
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 53
   },
   {
     "playerId": "13173087",
@@ -67,12 +82,22 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 26
+    "kills": 27
   },
   {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 25
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 25
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 20
   },
   {
     "playerId": "11769746",
@@ -85,11 +110,6 @@
     "kills": 16
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 14
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 13
@@ -97,7 +117,12 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 8
+    "kills": 12
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 9
   },
   {
     "playerId": "21700920",
@@ -105,14 +130,14 @@
     "kills": 8
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 8
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 7
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 6
   },
   {
     "playerId": "19068893",
@@ -128,16 +153,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 5
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 5
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 3
   },
   {
     "playerId": "13773720",
@@ -157,11 +172,6 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 2
   },
   {
@@ -845,11 +855,6 @@
     "kills": 0
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 0
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 0
@@ -937,11 +942,6 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 0
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
     "kills": 0
   },
   {
