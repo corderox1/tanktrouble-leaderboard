@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35238279,
-    "kills": 44343106,
-    "deaths": 41802727,
-    "suicides": 9389123,
+    "victories": 35238458,
+    "kills": 44343308,
+    "deaths": 41802975,
+    "suicides": 9389180,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 25453,
-    "kills": 40482,
-    "deaths": 44171,
-    "suicides": 9455,
+    "victories": 25472,
+    "kills": 40520,
+    "deaths": 44235,
+    "suicides": 9462,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 75809,
-    "kills": 141755,
-    "deaths": 87523,
-    "suicides": 24440,
+    "victories": 75833,
+    "kills": 141808,
+    "deaths": 87582,
+    "suicides": 24455,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2109,10 +2109,10 @@
   {
     "playerId": "20644558",
     "username": "x",
-    "victories": 2886,
-    "kills": 5376,
-    "deaths": 5046,
-    "suicides": 1097,
+    "victories": 2917,
+    "kills": 5427,
+    "deaths": 5098,
+    "suicides": 1106,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2587,11 +2587,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": true,
-    "lastForumPost": 1791819585,
+    "lastForumPost": 1792018559,
     "guest": false,
     "gmLevel": 4,
     "created": 1519511283,
-    "lastLogin": 1791819413,
+    "lastLogin": 1792018453,
     "banned": false,
     "usernameApproved": true,
     "country": "GB"
