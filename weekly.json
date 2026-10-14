@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12804,
-    "lastKill": "2026-10-14 04:27:06"
+    "kills": 12837,
+    "lastKill": "2026-10-14 04:30:50"
   },
   {
     "playerId": "8899024",
@@ -372,6 +372,12 @@
     "lastKill": "2026-10-13 23:56:04"
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 1,
+    "lastKill": "2026-10-14 04:30:50"
+  },
+  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 1,
@@ -620,12 +626,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0,
-    "lastKill": "2026-10-12 00:00:42"
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
     "kills": 0,
     "lastKill": "2026-10-12 00:00:42"
   },
