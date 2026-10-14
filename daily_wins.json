@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2897
+    "kills": 3168
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 344
+    "kills": 355
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 146
+    "kills": 191
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 177
   },
   {
     "playerId": "1051525",
@@ -22,12 +27,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 111
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 101
+    "kills": 113
   },
   {
     "playerId": "22706369",
@@ -125,6 +125,11 @@
     "kills": 13
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 10
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 9
@@ -142,6 +147,11 @@
   {
     "playerId": "3162693",
     "username": "commander",
+    "kills": 7
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 7
   },
   {
@@ -178,11 +188,6 @@
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 3
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 2
   },
   {
     "playerId": "1145079",
@@ -727,11 +732,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {

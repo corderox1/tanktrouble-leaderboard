@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 72660,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 72961,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "8590474",
@@ -14,14 +14,14 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3011,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 3046,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2719,
-    "lastKill": "2026-10-14 12:14:46"
+    "kills": 2726,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "14892840",
@@ -38,8 +38,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2203,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 2278,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "8899024",
@@ -98,8 +98,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1297,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 1301,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "1051525",
@@ -156,6 +156,12 @@
     "lastKill": "2026-10-10 18:17:32"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 664,
+    "lastKill": "2026-10-14 16:09:48"
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 658,
@@ -192,22 +198,16 @@
     "lastKill": "2026-10-14 14:16:52"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 623,
-    "lastKill": "2026-10-14 15:12:15"
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 608,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 604,
     "lastKill": "2026-10-13 19:11:21"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 596,
-    "lastKill": "2026-10-13 18:08:36"
   },
   {
     "playerId": "21452912",
@@ -308,8 +308,8 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 267,
-    "lastKill": "2026-10-11 06:35:15"
+    "kills": 270,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "3923647",
@@ -586,6 +586,12 @@
     "username": "Gentleman",
     "kills": 1,
     "lastKill": "2026-10-09 15:43:56"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 1,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "10132007",
@@ -944,12 +950,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0,
     "lastKill": null
   },

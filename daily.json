@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3731,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 4032,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 444,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 479,
+    "lastKill": "2026-10-14 16:09:48"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 266,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "1051525",
@@ -18,10 +24,10 @@
     "lastKill": "2026-10-14 14:16:52"
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 191,
-    "lastKill": "2026-10-14 15:12:15"
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "22706369",
@@ -36,16 +42,10 @@
     "lastKill": "2026-10-14 11:16:07"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 150,
-    "lastKill": "2026-10-14 15:12:15"
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 145,
-    "lastKill": "2026-10-14 15:12:15"
+    "kills": 149,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "22710399",
@@ -186,6 +186,12 @@
     "lastKill": "2026-10-14 08:27:43"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 12,
+    "lastKill": "2026-10-14 16:09:48"
+  },
+  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 11,
@@ -196,6 +202,12 @@
     "username": "frogcatchflies",
     "kills": 10,
     "lastKill": "2026-10-14 05:19:41"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 10,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "21614515",
@@ -216,10 +228,16 @@
     "lastKill": "2026-10-14 08:12:28"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 3,
-    "lastKill": "2026-10-14 12:14:46"
+    "lastKill": "2026-10-14 16:09:48"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 1,
+    "lastKill": "2026-10-14 16:09:48"
   },
   {
     "playerId": "1145079",
@@ -570,12 +588,6 @@
     "lastKill": null
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1609300",
     "username": "Turbo-Rambo",
     "kills": 0,
@@ -840,12 +852,6 @@
     "lastKill": null
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1720586",
     "username": "draculous",
     "kills": 0,
@@ -872,12 +878,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },
