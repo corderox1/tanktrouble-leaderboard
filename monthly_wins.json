@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 54301
+    "kills": 54307
   },
   {
     "playerId": "8590474",
@@ -455,6 +455,11 @@
     "kills": 3
   },
   {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 3
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 2
@@ -467,11 +472,6 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 2
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
     "kills": 2
   },
   {
