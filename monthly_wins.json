@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 54276
+    "kills": 54296
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1854
+    "kills": 1855
   },
   {
     "playerId": "14892840",
@@ -187,7 +187,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 293
+    "kills": 294
   },
   {
     "playerId": "21098942",
@@ -477,6 +477,11 @@
   {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
+    "kills": 1
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
     "kills": 1
   },
   {
@@ -967,11 +972,6 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 0
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
     "kills": 0
   },
   {

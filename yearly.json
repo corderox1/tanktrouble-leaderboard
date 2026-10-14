@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 144297,
-    "lastKill": "2026-10-14 05:16:05"
+    "kills": 144312,
+    "lastKill": "2026-10-14 05:19:41"
   },
   {
     "playerId": "8590474",
@@ -56,8 +56,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2973,
-    "lastKill": "2026-10-14 05:04:49"
+    "kills": 2976,
+    "lastKill": "2026-10-14 05:19:41"
   },
   {
     "playerId": "22706369",
@@ -212,8 +212,8 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 1407,
-    "lastKill": "2026-10-14 05:16:05"
+    "kills": 1410,
+    "lastKill": "2026-10-14 05:19:41"
   },
   {
     "playerId": "19932455",
@@ -646,6 +646,12 @@
     "username": "Reverend",
     "kills": 3,
     "lastKill": "2026-10-13 20:49:32"
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 3,
+    "lastKill": "2026-10-14 05:19:41"
   },
   {
     "playerId": "19168800",
@@ -1184,12 +1190,6 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 0,
-    "lastKill": "2026-10-13 09:48:01"
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
     "kills": 0,
     "lastKill": "2026-10-13 09:48:01"
   },
