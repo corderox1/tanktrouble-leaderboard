@@ -1,15 +1,16 @@
 import requests
 import json
 import os
-from concurrent.futures import ThreadPoolExecutor
+import time
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
+
 # Store player information for profiles
 ALL_PLAYERS = []
+
 API_URL = "https://tanktrouble.com/ajax/"
 
 # Tank Trouble players to track
-# Load Tank Trouble players from players.txt
 with open("players.txt", "r") as f:
     PLAYER_IDS = [
         line.strip()
@@ -33,13 +34,21 @@ def get_player(player_id):
         "params": params
     }
 
-    response = requests.post(API_URL, json=payload, timeout=30)
+    response = requests.post(
+        API_URL,
+        json=payload,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
     data = response.json()
 
-    if data.get("result", {}).get("data"):
-        player_data = data["result"]["data"]
+    player_data = data.get("result", {}).get("data")
+
+    if player_data:
         ALL_PLAYERS.append(player_data)
-    return player_data
+        return player_data
 
     return None
 
@@ -56,8 +65,11 @@ def save_json(filename, data):
     with open(filename, "w") as f:
         json.dump(data, f, indent=2)
 
+
 def compact_history(history):
-    today = datetime.now(ZoneInfo("America/Chicago")).strftime("%Y-%m-%d")
+    today = datetime.now(
+        ZoneInfo("America/Chicago")
+    ).strftime("%Y-%m-%d")
 
     grouped = {}
 
@@ -67,7 +79,11 @@ def compact_history(history):
 
         # Keep every snapshot from today
         if date == today:
-            grouped.setdefault(("today", player_id), []).append(snapshot)
+            grouped.setdefault(
+                ("today", player_id),
+                []
+            ).append(snapshot)
+
             continue
 
         key = (date, player_id)
@@ -78,6 +94,7 @@ def compact_history(history):
                 "max_kills": snapshot,
                 "max_victories": snapshot
             }
+
         else:
             data = grouped[key]
 
@@ -96,6 +113,7 @@ def compact_history(history):
 
         if key[0] == "today":
             compacted.extend(data)
+
         else:
             snapshots = [
                 data["first"],
@@ -103,21 +121,26 @@ def compact_history(history):
                 data["max_victories"]
             ]
 
-            # Remove duplicates
+            # Remove duplicate snapshots
             unique = {}
+
             for snapshot in snapshots:
                 unique[snapshot["date"]] = snapshot
 
             compacted.extend(unique.values())
 
-    compacted.sort(key=lambda x: x["date"])
+    compacted.sort(
+        key=lambda x: x["date"]
+    )
 
     return compacted
+
 
 def make_leaderboard(history, start_date, stat):
     players = {}
 
     for snapshot in history:
+
         if snapshot["date"] < start_date:
             continue
 
@@ -131,13 +154,21 @@ def make_leaderboard(history, start_date, stat):
     leaderboard = []
 
     for player_id, snapshots in players.items():
-        snapshots.sort(key=lambda x: x["date"])
+
+        snapshots.sort(
+            key=lambda x: x["date"]
+        )
 
         if len(snapshots) < 2:
             continue
 
         first = snapshots[0]
-        latest = max(snapshots, key=lambda x: x[stat])
+
+        latest = max(
+            snapshots,
+            key=lambda x: x[stat]
+        )
+
         amount = latest[stat] - first[stat]
 
         player_entry = {
@@ -146,108 +177,283 @@ def make_leaderboard(history, start_date, stat):
             "kills": amount
         }
 
-        # Only record last kill time for kill leaderboards
+        # For kill leaderboards, find the most recent
+        # snapshot where the player's kill count actually increased.
         if stat == "kills":
-            player_entry["lastKill"] = latest["date"]
+
+            last_kill = None
+
+            previous = snapshots[0]
+
+            for current in snapshots[1:]:
+
+                if current["kills"] > previous["kills"]:
+                    last_kill = current["date"]
+
+                previous = current
+
+            player_entry["lastKill"] = last_kill
 
         leaderboard.append(player_entry)
 
-    leaderboard.sort(key=lambda x: x["kills"], reverse=True)
+    leaderboard.sort(
+        key=lambda x: x["kills"],
+        reverse=True
+    )
 
     return leaderboard
 
-# Get current time/date
-now = datetime.now(ZoneInfo("America/Chicago"))
-today = now.strftime("%Y-%m-%d")
 
-# Load previous history
+# --------------------------------------------------
+# GET CURRENT TIME
+# --------------------------------------------------
+
+now = datetime.now(
+    ZoneInfo("America/Chicago")
+)
+
+# --------------------------------------------------
+# LOAD PREVIOUS HISTORY
+# --------------------------------------------------
+
 history = load_history()
+
 history = compact_history(history)
 
 print("Checking players...")
+print(
+    f"Checking {len(PLAYER_IDS)} players "
+    "with a 1-second delay between requests..."
+)
 
-def check_player(player_id):
+
+# --------------------------------------------------
+# CHECK PLAYERS SEQUENTIALLY
+# --------------------------------------------------
+
+players = []
+
+for index, player_id in enumerate(PLAYER_IDS):
+
     try:
-        return get_player(player_id)
+
+        print(
+            f"[{index + 1}/{len(PLAYER_IDS)}] "
+            f"Checking {player_id}..."
+        )
+
+        player = get_player(player_id)
+
+        players.append(player)
+
+        if player:
+            print(
+                f"  {player['username']} - "
+                f"Kills: {player['kills']} - "
+                f"Wins: {player['victories']}"
+            )
+        else:
+            print(
+                f"  No data returned for {player_id}"
+            )
+
     except Exception as e:
-        print(f"Error checking {player_id}: {e}")
-        return None
+
+        print(
+            f"  Error checking {player_id}: {e}"
+        )
+
+        players.append(None)
+
+    # Wait one full second before the next request.
+    # Do not wait after the final player.
+    if index < len(PLAYER_IDS) - 1:
+        time.sleep(1)
 
 
-with ThreadPoolExecutor(max_workers=5) as executor:
-
-    players = list(
-        executor.map(check_player, PLAYER_IDS)
-    )
-
+# --------------------------------------------------
+# ADD SNAPSHOTS TO HISTORY
+# --------------------------------------------------
 
 for player in players:
 
-    if player:
+    if not player:
+        continue
 
-        snapshot = {
-            "date": today + " " + now.strftime("%H:%M:%S"),
-            "playerId": player["playerId"],
-            "username": player["username"],
-            "kills": player["kills"],
-            "deaths": player["deaths"],
-            "victories": player["victories"],
-            "suicides": player["suicides"],
-            "xp": player["xp"]
-        }
+    # Record the actual time this player was observed.
+    observed_at = datetime.now(
+        ZoneInfo("America/Chicago")
+    )
 
-        history.append(snapshot)
+    snapshot = {
+        "date": observed_at.strftime(
+            "%Y-%m-%d %H:%M:%S"
+        ),
+        "playerId": player["playerId"],
+        "username": player["username"],
+        "kills": player["kills"],
+        "deaths": player["deaths"],
+        "victories": player["victories"],
+        "suicides": player["suicides"],
+        "xp": player["xp"]
+    }
 
-        print(
-            player["username"],
-            "- Kills:",
-            player["kills"]
-        )
+    history.append(snapshot)
 
 
-# Compact and save history
+# --------------------------------------------------
+# COMPACT AND SAVE HISTORY
+# --------------------------------------------------
+
 history = compact_history(history)
-save_json("history.json", history)
 
+save_json(
+    "history.json",
+    history
+)
+
+
+# --------------------------------------------------
+# GET CURRENT DATE/TIME
+# --------------------------------------------------
+
+now = datetime.now(
+    ZoneInfo("America/Chicago")
+)
 
 # Beginning of today
-day_start = now.strftime("%Y-%m-%d")
+day_start = now.strftime(
+    "%Y-%m-%d"
+)
 
-# Find the beginning of the current week (Monday)
-week_start = (now - timedelta(days=now.weekday())).strftime("%Y-%m-%d")
+# Beginning of current week (Monday)
+week_start = (
+    now - timedelta(days=now.weekday())
+).strftime("%Y-%m-%d")
 
 # Beginning of current month
-month_start = now.strftime("%Y-%m-01")
+month_start = now.strftime(
+    "%Y-%m-01"
+)
 
 # Beginning of current year
-year_start = now.strftime("%Y-01-01")
+year_start = now.strftime(
+    "%Y-01-01"
+)
 
 
-# Create kill leaderboards
-daily = make_leaderboard(history, day_start, "kills")
-weekly = make_leaderboard(history, week_start, "kills")
-monthly = make_leaderboard(history, month_start, "kills")
-yearly = make_leaderboard(history, year_start, "kills")
+# --------------------------------------------------
+# CREATE KILL LEADERBOARDS
+# --------------------------------------------------
 
-# Create win leaderboards
-daily_wins = make_leaderboard(history, day_start, "victories")
-weekly_wins = make_leaderboard(history, week_start, "victories")
-monthly_wins = make_leaderboard(history, month_start, "victories")
-yearly_wins = make_leaderboard(history, year_start, "victories")
+daily = make_leaderboard(
+    history,
+    day_start,
+    "kills"
+)
 
-# Save kill leaderboards
-save_json("daily.json", daily)
-save_json("weekly.json", weekly)
-save_json("monthly.json", monthly)
-save_json("yearly.json", yearly)
+weekly = make_leaderboard(
+    history,
+    week_start,
+    "kills"
+)
 
-# Save win leaderboards
-save_json("daily_wins.json", daily_wins)
-save_json("weekly_wins.json", weekly_wins)
-save_json("monthly_wins.json", monthly_wins)
-save_json("yearly_wins.json", yearly_wins)
+monthly = make_leaderboard(
+    history,
+    month_start,
+    "kills"
+)
 
-# Create lifetime kill leaderboard
+yearly = make_leaderboard(
+    history,
+    year_start,
+    "kills"
+)
+
+
+# --------------------------------------------------
+# CREATE WIN LEADERBOARDS
+# --------------------------------------------------
+
+daily_wins = make_leaderboard(
+    history,
+    day_start,
+    "victories"
+)
+
+weekly_wins = make_leaderboard(
+    history,
+    week_start,
+    "victories"
+)
+
+monthly_wins = make_leaderboard(
+    history,
+    month_start,
+    "victories"
+)
+
+yearly_wins = make_leaderboard(
+    history,
+    year_start,
+    "victories"
+)
+
+
+# --------------------------------------------------
+# SAVE KILL LEADERBOARDS
+# --------------------------------------------------
+
+save_json(
+    "daily.json",
+    daily
+)
+
+save_json(
+    "weekly.json",
+    weekly
+)
+
+save_json(
+    "monthly.json",
+    monthly
+)
+
+save_json(
+    "yearly.json",
+    yearly
+)
+
+
+# --------------------------------------------------
+# SAVE WIN LEADERBOARDS
+# --------------------------------------------------
+
+save_json(
+    "daily_wins.json",
+    daily_wins
+)
+
+save_json(
+    "weekly_wins.json",
+    weekly_wins
+)
+
+save_json(
+    "monthly_wins.json",
+    monthly_wins
+)
+
+save_json(
+    "yearly_wins.json",
+    yearly_wins
+)
+
+
+# --------------------------------------------------
+# CREATE LIFETIME KILL LEADERBOARD
+# --------------------------------------------------
+
 total_kills = []
 
 for player in ALL_PLAYERS:
@@ -260,19 +466,22 @@ for player in ALL_PLAYERS:
         if snapshot["playerId"] == player_id
     ]
 
+    player_history.sort(
+        key=lambda x: x["date"]
+    )
+
     last_kill = None
 
-    if len(player_history) >= 2:
+    previous = None
 
-        player_history.sort(key=lambda x: x["date"])
+    for snapshot in player_history:
 
-        for i in range(1, len(player_history)):
+        if previous is not None:
 
-            previous = player_history[i - 1]
-            current = player_history[i]
+            if snapshot["kills"] > previous["kills"]:
+                last_kill = snapshot["date"]
 
-            if current["kills"] > previous["kills"]:
-                last_kill = current["date"]
+        previous = snapshot
 
     total_kills.append({
         "playerId": player["playerId"],
@@ -281,41 +490,82 @@ for player in ALL_PLAYERS:
         "lastKill": last_kill
     })
 
+
 total_kills.sort(
     key=lambda x: x["kills"],
     reverse=True
 )
 
-# Create lifetime win leaderboard
+
+# --------------------------------------------------
+# CREATE LIFETIME WIN LEADERBOARD
+# --------------------------------------------------
+
 total_wins = []
 
 for player in ALL_PLAYERS:
+
     total_wins.append({
         "playerId": player["playerId"],
         "username": player["username"],
         "kills": player["victories"]
     })
 
-total_wins.sort(key=lambda x: x["kills"], reverse=True)
+
+total_wins.sort(
+    key=lambda x: x["kills"],
+    reverse=True
+)
 
 
-# Save lifetime leaderboards
-save_json("total_kills.json", total_kills)
-save_json("total_wins.json", total_wins)
+# --------------------------------------------------
+# SAVE LIFETIME LEADERBOARDS
+# --------------------------------------------------
+
+save_json(
+    "total_kills.json",
+    total_kills
+)
+
+save_json(
+    "total_wins.json",
+    total_wins
+)
 
 
-print("--------------------")
-print("Leaderboards updated!")
+# --------------------------------------------------
+# SAVE PLAYER PROFILES
+# --------------------------------------------------
+
+save_json(
+    "stats.json",
+    ALL_PLAYERS
+)
 
 
-# Save player profiles
-save_json("stats.json", ALL_PLAYERS)
+# --------------------------------------------------
+# SAVE EXACT UPDATE COMPLETION TIME
+# --------------------------------------------------
 
-# Save the exact time this leaderboard update completed
 last_updated = {
     "lastUpdated": datetime.now(
         ZoneInfo("America/Chicago")
     ).isoformat()
 }
 
-save_json("last_updated.json", last_updated)
+save_json(
+    "last_updated.json",
+    last_updated
+)
+
+
+# --------------------------------------------------
+# FINISHED
+# --------------------------------------------------
+
+print("--------------------")
+print("Leaderboards updated!")
+print(
+    "Update completed at:",
+    last_updated["lastUpdated"]
+)
