@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1253
+    "kills": 1259
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 164
+    "kills": 166
   },
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 62
+    "kills": 63
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 51
   },
   {
     "playerId": "19138057",
@@ -20,14 +25,9 @@
     "kills": 46
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 42
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 30
+    "kills": 34
   },
   {
     "playerId": "21012136",
@@ -45,6 +45,11 @@
     "kills": 16
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 8
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 6
@@ -55,11 +60,6 @@
     "kills": 6
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 3
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 3
@@ -68,6 +68,11 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 2
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 1
   },
   {
     "playerId": "13173087",
@@ -337,11 +342,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {
