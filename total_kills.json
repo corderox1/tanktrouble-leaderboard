@@ -1,5 +1,11 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 44338665,
+    "lastKill": "2026-10-13 23:13:47"
+  },
+  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 2000955,
@@ -342,12 +348,6 @@
     "lastKill": "2026-10-13 14:47:51"
   },
   {
-    "playerId": "3024729",
-    "username": "Masqurade",
-    "kills": 51963,
-    "lastKill": null
-  },
-  {
     "playerId": "4067875",
     "username": "NelFusion",
     "kills": 50301,
@@ -414,9 +414,21 @@
     "lastKill": "2026-10-13 19:07:44"
   },
   {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 40064,
+    "lastKill": "2026-09-21 13:32:14"
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 40004,
+    "lastKill": null
+  },
+  {
+    "playerId": "10132007",
+    "username": "scientistt",
+    "kills": 38874,
     "lastKill": null
   },
   {
@@ -430,6 +442,12 @@
     "username": "Dangel",
     "kills": 37990,
     "lastKill": "2026-10-13 19:52:40"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 36899,
+    "lastKill": "2026-10-11 04:02:15"
   },
   {
     "playerId": "4501113",
@@ -534,12 +552,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 28421,
-    "lastKill": "2026-10-13 13:30:48"
-  },
-  {
     "playerId": "21497819",
     "username": "ninja2000",
     "kills": 27252,
@@ -582,10 +594,10 @@
     "lastKill": "2026-10-08 23:49:37"
   },
   {
-    "playerId": "10251396",
-    "username": "vinus",
+    "playerId": "15164705",
+    "username": "Glitter56371",
     "kills": 25648,
-    "lastKill": null
+    "lastKill": "2026-10-09 08:40:44"
   },
   {
     "playerId": "20666777",
@@ -634,12 +646,6 @@
     "username": "NoonooKJ",
     "kills": 21528,
     "lastKill": "2026-10-12 18:10:38"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 21158,
-    "lastKill": "2026-10-12 09:26:46"
   },
   {
     "playerId": "499659",
@@ -712,12 +718,6 @@
     "username": "Quser",
     "kills": 15377,
     "lastKill": null
-  },
-  {
-    "playerId": "9881740",
-    "username": "lichens",
-    "kills": 15267,
-    "lastKill": "2026-10-10 12:08:08"
   },
   {
     "playerId": "21012136",
@@ -834,12 +834,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 8793,
-    "lastKill": "2026-10-12 13:40:09"
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 7832,
@@ -870,16 +864,16 @@
     "lastKill": null
   },
   {
+    "playerId": "13783887",
+    "username": "EPIC_GIRL",
+    "kills": 7413,
+    "lastKill": "2026-09-28 10:04:08"
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 7392,
     "lastKill": "2026-10-13 15:58:47"
-  },
-  {
-    "playerId": "8427337",
-    "username": "Iichen",
-    "kills": 6883,
-    "lastKill": null
   },
   {
     "playerId": "21708970",
@@ -1120,12 +1114,6 @@
     "username": "Corderos",
     "kills": 14,
     "lastKill": "2026-10-04 21:22:02"
-  },
-  {
-    "playerId": "21077567",
-    "username": "Runner",
-    "kills": 1,
-    "lastKill": null
   },
   {
     "playerId": "20642402",
