@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44340843,
-    "lastKill": "2026-10-14 10:11:56"
+    "kills": 44341251,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "878689",
@@ -248,8 +248,8 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 70884,
-    "lastKill": "2026-10-13 16:10:01"
+    "kills": 70904,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "4449039",
@@ -278,8 +278,8 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 63368,
-    "lastKill": "2026-10-09 12:28:45"
+    "kills": 63391,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "13825931",
@@ -386,8 +386,8 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 43483,
-    "lastKill": "2026-10-14 02:15:48"
+    "kills": 43486,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "10523030",
@@ -404,8 +404,8 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 41192,
-    "lastKill": "2026-10-13 10:21:06"
+    "kills": 41224,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "18985660",
@@ -606,6 +606,12 @@
     "lastKill": "2026-10-08 23:49:37"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 25680,
+    "lastKill": "2026-10-14 11:16:07"
+  },
+  {
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 25648,
@@ -616,12 +622,6 @@
     "username": "vinus",
     "kills": 25648,
     "lastKill": null
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 25636,
-    "lastKill": "2026-10-14 10:11:56"
   },
   {
     "playerId": "12107881",
@@ -638,8 +638,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 24109,
-    "lastKill": "2026-10-14 10:11:56"
+    "kills": 24168,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "19726920",
@@ -668,8 +668,8 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 21615,
-    "lastKill": "2026-10-14 10:11:56"
+    "kills": 21632,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "21103294",
@@ -830,8 +830,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 11036,
-    "lastKill": "2026-10-12 14:07:41"
+    "kills": 11047,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "6919151",
@@ -848,8 +848,8 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 10132,
-    "lastKill": "2026-10-14 09:08:25"
+    "kills": 10217,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "21614515",
@@ -878,14 +878,14 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 7861,
-    "lastKill": "2026-10-14 10:11:56"
+    "kills": 7903,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 7701,
-    "lastKill": "2026-10-14 10:11:56"
+    "kills": 7702,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "22694251",
@@ -906,16 +906,16 @@
     "lastKill": null
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 7440,
+    "lastKill": "2026-10-14 11:16:07"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 7413,
     "lastKill": "2026-09-28 10:04:08"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 7407,
-    "lastKill": "2026-10-14 10:11:56"
   },
   {
     "playerId": "8427337",
@@ -1058,8 +1058,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 3222,
-    "lastKill": "2026-10-13 13:34:30"
+    "kills": 3231,
+    "lastKill": "2026-10-14 11:16:07"
   },
   {
     "playerId": "22479485",
@@ -1090,6 +1090,12 @@
     "username": "fester",
     "kills": 2218,
     "lastKill": "2026-09-26 05:28:59"
+  },
+  {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 2040,
+    "lastKill": null
   },
   {
     "playerId": "21739597",
