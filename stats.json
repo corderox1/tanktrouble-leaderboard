@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35238458,
-    "kills": 44343308,
-    "deaths": 41802975,
-    "suicides": 9389180,
+    "victories": 35238528,
+    "kills": 44343498,
+    "deaths": 41803251,
+    "suicides": 9389231,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 37,
+    "rank": 13,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -8961,7 +8961,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778445247,
-    "lastLogin": 1792002005,
+    "lastLogin": 1792021595,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 4358,
-    "kills": 7702,
-    "deaths": 4891,
-    "suicides": 1772,
+    "victories": 4368,
+    "kills": 7745,
+    "deaths": 4937,
+    "suicides": 1800,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
