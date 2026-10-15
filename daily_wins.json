@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2573
+    "kills": 2685
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 226
+    "kills": 228
   },
   {
     "playerId": "10794529",
@@ -30,6 +30,11 @@
     "kills": 110
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 84
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 76
@@ -40,24 +45,24 @@
     "kills": 74
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 73
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 68
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 61
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 61
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 43
+    "kills": 53
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 48
   },
   {
     "playerId": "22710399",
@@ -80,6 +85,11 @@
     "kills": 27
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 22
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 21
@@ -93,6 +103,11 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 18
   },
   {
     "playerId": "1051525",
@@ -120,6 +135,11 @@
     "kills": 11
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 8
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 8
@@ -145,19 +165,9 @@
     "kills": 4
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 4
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 4
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 2
   },
   {
     "playerId": "21956820",
@@ -167,11 +177,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 1
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 1
   },
   {
@@ -257,11 +262,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
