@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 157,
-    "lastKill": "2026-10-15 01:09:26"
+    "kills": 460,
+    "lastKill": "2026-10-15 02:23:28"
   },
   {
     "playerId": "21956820",
@@ -1172,6 +1172,12 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
     "kills": 0,
     "lastKill": null
   }
