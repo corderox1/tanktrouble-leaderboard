@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15139
+    "kills": 15227
   },
   {
     "playerId": "20666777",
@@ -62,7 +62,12 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 223
+    "kills": 227
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 216
   },
   {
     "playerId": "22472796",
@@ -75,11 +80,6 @@
     "kills": 188
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 187
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 157
@@ -87,7 +87,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 119
+    "kills": 133
   },
   {
     "playerId": "20270104",
@@ -245,6 +245,11 @@
     "kills": 25
   },
   {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 23
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 23
@@ -252,7 +257,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 20
+    "kills": 21
   },
   {
     "playerId": "22042037",
@@ -335,6 +340,11 @@
     "kills": 2
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 1
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 1
@@ -395,11 +405,6 @@
     "kills": 0
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 0
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 0
@@ -457,11 +462,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 0
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 0
   },
   {
