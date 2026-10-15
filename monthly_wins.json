@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 59412
+    "kills": 59651
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2559
+    "kills": 2611
   },
   {
     "playerId": "20666777",
@@ -72,7 +72,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 848
+    "kills": 854
   },
   {
     "playerId": "22472796",
@@ -87,7 +87,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 724
+    "kills": 729
   },
   {
     "playerId": "21516705",
@@ -170,13 +170,13 @@
     "kills": 345
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 324
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 330
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 324
   },
   {
@@ -205,14 +205,14 @@
     "kills": 244
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 236
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 235
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 229
   },
   {
     "playerId": "21508277",
@@ -275,6 +275,11 @@
     "kills": 122
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 120
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 119
@@ -287,11 +292,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 110
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 110
   },
   {

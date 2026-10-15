@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1968,
-    "lastKill": "2026-10-15 09:18:59"
+    "kills": 2231,
+    "lastKill": "2026-10-15 10:15:09"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 150,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 149,
     "lastKill": "2026-10-15 09:18:59"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 142,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
     "playerId": "13173087",
@@ -20,14 +32,14 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 130,
-    "lastKill": "2026-10-15 09:18:59"
+    "kills": 137,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 116,
-    "lastKill": "2026-10-15 04:13:29"
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 83,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
     "playerId": "20111777",
@@ -42,22 +54,16 @@
     "lastKill": "2026-10-15 08:23:51"
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 71,
-    "lastKill": "2026-10-15 06:10:34"
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 64,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 57,
     "lastKill": "2026-10-15 04:13:29"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 56,
-    "lastKill": "2026-10-15 09:18:59"
   },
   {
     "playerId": "20666777",
@@ -75,12 +81,6 @@
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 45,
-    "lastKill": "2026-10-15 09:18:59"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 36,
     "lastKill": "2026-10-15 09:18:59"
   },
   {
@@ -106,6 +106,12 @@
     "username": "frogcatchflies",
     "kills": 16,
     "lastKill": "2026-10-15 05:12:18"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 15,
+    "lastKill": "2026-10-15 10:15:09"
   },
   {
     "playerId": "12222122",
@@ -836,12 +842,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },

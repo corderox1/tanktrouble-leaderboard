@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1460
+    "kills": 1699
   },
   {
     "playerId": "13173087",
@@ -10,19 +10,34 @@
     "kills": 123
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 80
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 74
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 65
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 64
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 52
+    "kills": 58
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 32
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 30
   },
   {
     "playerId": "21614515",
@@ -30,28 +45,13 @@
     "kills": 30
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 28
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 27
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 25
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 25
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
     "kills": 25
   },
   {
@@ -87,6 +87,11 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
+    "kills": 6
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 6
   },
   {
@@ -692,11 +697,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {
