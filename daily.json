@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 981,
-    "lastKill": "2026-10-15 05:12:18"
+    "kills": 1181,
+    "lastKill": "2026-10-15 06:10:34"
   },
   {
     "playerId": "22706369",
@@ -12,10 +12,22 @@
     "lastKill": "2026-10-15 04:13:29"
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 71,
+    "lastKill": "2026-10-15 06:10:34"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 57,
     "lastKill": "2026-10-15 04:13:29"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 48,
+    "lastKill": "2026-10-15 06:10:34"
   },
   {
     "playerId": "1051525",
@@ -30,15 +42,15 @@
     "lastKill": "2026-10-15 04:13:29"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 18,
+    "lastKill": "2026-10-15 06:10:34"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16,
-    "lastKill": "2026-10-15 05:12:18"
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 9,
     "lastKill": "2026-10-15 05:12:18"
   },
   {
@@ -48,10 +60,10 @@
     "lastKill": "2026-10-15 01:09:26"
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 1,
-    "lastKill": "2026-10-15 05:12:18"
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 3,
+    "lastKill": "2026-10-15 06:10:34"
   },
   {
     "playerId": "22710399",
@@ -378,12 +390,6 @@
     "lastKill": null
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 0,
@@ -392,12 +398,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": null
   },
