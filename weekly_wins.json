@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15918
+    "kills": 16008
   },
   {
     "playerId": "20666777",
@@ -10,28 +10,28 @@
     "kills": 810
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 586
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 516
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 509
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 480
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 353
+    "kills": 481
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 358
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
     "kills": 353
   },
   {
@@ -43,6 +43,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 272
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 245
   },
   {
     "playerId": "4142755",
@@ -60,11 +65,6 @@
     "kills": 241
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 234
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 227
@@ -72,7 +72,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 194
+    "kills": 195
   },
   {
     "playerId": "10794529",
@@ -140,14 +140,19 @@
     "kills": 90
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 82
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 82
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 81
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 73
   },
   {
     "playerId": "3660774",
@@ -165,11 +170,6 @@
     "kills": 65
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 65
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 64
@@ -182,7 +182,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 59
+    "kills": 60
   },
   {
     "playerId": "20644558",
@@ -207,7 +207,7 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 42
+    "kills": 44
   },
   {
     "playerId": "21700920",
@@ -315,14 +315,14 @@
     "kills": 5
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "1145079",
+    "username": "purup",
     "kills": 4
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 3
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 4
   },
   {
     "playerId": "21103294",
@@ -348,6 +348,11 @@
     "playerId": "16202507",
     "username": "DaveMadeByDave",
     "kills": 2
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 1
   },
   {
     "playerId": "21797119",
@@ -492,11 +497,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 0
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
     "kills": 0
   },
   {
