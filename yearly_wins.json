@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 115206
+    "kills": 115456
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2306
+    "kills": 2321
   },
   {
     "playerId": "22716354",
@@ -65,6 +65,11 @@
     "kills": 1689
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 1587
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 1575
@@ -80,11 +85,6 @@
     "kills": 1537
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 1500
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 1493
@@ -92,7 +92,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 1457
+    "kills": 1480
   },
   {
     "playerId": "21508277",
@@ -157,7 +157,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 929
+    "kills": 930
   },
   {
     "playerId": "2574833",
@@ -290,14 +290,14 @@
     "kills": 301
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 293
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 292
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 291
   },
   {
     "playerId": "1185396",
@@ -355,14 +355,14 @@
     "kills": 135
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 135
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 131
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 130
   },
   {
     "playerId": "22081323",
@@ -480,6 +480,11 @@
     "kills": 20
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 19
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 17
@@ -578,11 +583,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 2
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 1
   },
   {
     "playerId": "9881740",

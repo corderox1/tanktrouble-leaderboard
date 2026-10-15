@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1789
+    "kills": 2039
   },
   {
     "playerId": "8590474",
@@ -13,6 +13,11 @@
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 124
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 103
   },
   {
     "playerId": "20984454",
@@ -32,12 +37,17 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 38
+    "kills": 43
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 40
   },
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 33
+    "kills": 34
   },
   {
     "playerId": "22710399",
@@ -50,9 +60,9 @@
     "kills": 27
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 25
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 23
   },
   {
     "playerId": "15931599",
@@ -60,14 +70,14 @@
     "kills": 21
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 19
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 17
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 16
   },
   {
     "playerId": "19068893",
@@ -110,13 +120,13 @@
     "kills": 2
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 1
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 2
   },
   {
-    "playerId": "3147484",
-    "username": "Lichen",
+    "playerId": "1145079",
+    "username": "purup",
     "kills": 1
   },
   {
@@ -242,11 +252,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
@@ -432,11 +437,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
