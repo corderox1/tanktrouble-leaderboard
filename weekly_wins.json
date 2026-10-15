@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16258
+    "kills": 16498
   },
   {
     "playerId": "20666777",
@@ -42,7 +42,12 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 314
+    "kills": 321
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 297
   },
   {
     "playerId": "14892840",
@@ -70,14 +75,14 @@
     "kills": 241
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 211
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 195
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 172
   },
   {
     "playerId": "14617724",
@@ -120,14 +125,14 @@
     "kills": 102
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 101
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 95
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 94
   },
   {
     "playerId": "21508277",
@@ -140,14 +145,14 @@
     "kills": 90
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 82
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 82
+    "kills": 89
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 84
   },
   {
     "playerId": "21614515",
@@ -175,13 +180,13 @@
     "kills": 64
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 61
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 63
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
     "kills": 61
   },
   {
@@ -193,11 +198,6 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 58
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 56
   },
   {
     "playerId": "3923647",
@@ -298,6 +298,11 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 8
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 7
   },
   {
     "playerId": "21231891",
@@ -752,11 +757,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0
   },
   {

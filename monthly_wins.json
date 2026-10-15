@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 59991
+    "kills": 60231
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 1048
+    "kills": 1134
   },
   {
     "playerId": "21601349",
@@ -57,7 +57,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 967
+    "kills": 986
   },
   {
     "playerId": "1051525",
@@ -92,7 +92,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 654
+    "kills": 661
   },
   {
     "playerId": "21516705",
@@ -115,29 +115,29 @@
     "kills": 476
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 470
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 443
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 424
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 435
   },
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 421
+    "kills": 428
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 407
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 392
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 424
   },
   {
     "playerId": "16736853",
@@ -172,7 +172,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 330
+    "kills": 332
   },
   {
     "playerId": "20011985",
@@ -448,6 +448,11 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 8
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 7
   },
   {
     "playerId": "16202507",
@@ -792,11 +797,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0
   },
   {
