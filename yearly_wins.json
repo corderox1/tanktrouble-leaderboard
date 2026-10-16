@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 120766
+    "kills": 120869
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2579
+    "kills": 2593
   },
   {
     "playerId": "22710399",
@@ -40,14 +40,14 @@
     "kills": 2121
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 2097
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 2061
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 2048
   },
   {
     "playerId": "14617724",
@@ -67,7 +67,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 1722
+    "kills": 1727
   },
   {
     "playerId": "21465536",
@@ -82,7 +82,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 1625
+    "kills": 1626
   },
   {
     "playerId": "8899024",
@@ -322,7 +322,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 244
+    "kills": 247
   },
   {
     "playerId": "15931599",
@@ -435,6 +435,11 @@
     "kills": 49
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 48
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 43
@@ -443,11 +448,6 @@
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 43
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 42
   },
   {
     "playerId": "15164705",
