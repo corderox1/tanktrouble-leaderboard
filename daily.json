@@ -2,20 +2,38 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1028,
-    "lastKill": "2026-10-16 05:12:31"
+    "kills": 1245,
+    "lastKill": "2026-10-16 06:10:18"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 134,
-    "lastKill": "2026-10-16 05:12:31"
+    "kills": 190,
+    "lastKill": "2026-10-16 06:10:18"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 77,
-    "lastKill": "2026-10-16 05:12:31"
+    "kills": 152,
+    "lastKill": "2026-10-16 06:10:18"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 100,
+    "lastKill": "2026-10-16 06:10:18"
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 57,
+    "lastKill": "2026-10-16 06:10:18"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 48,
+    "lastKill": "2026-10-16 06:10:18"
   },
   {
     "playerId": "22706369",
@@ -24,34 +42,34 @@
     "lastKill": "2026-10-16 05:12:31"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 33,
+    "lastKill": "2026-10-16 06:10:18"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 33,
     "lastKill": "2026-10-16 04:12:59"
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 19,
-    "lastKill": "2026-10-16 05:12:31"
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 33,
+    "lastKill": "2026-10-16 06:10:18"
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 23,
+    "lastKill": "2026-10-16 06:10:18"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 15,
     "lastKill": "2026-10-16 04:12:59"
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 15,
-    "lastKill": "2026-10-16 05:12:31"
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 7,
-    "lastKill": "2026-10-16 05:12:31"
   },
   {
     "playerId": "16092601",
@@ -64,12 +82,6 @@
     "username": "AriX",
     "kills": 6,
     "lastKill": "2026-10-16 01:09:41"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 1,
-    "lastKill": "2026-10-16 05:12:31"
   },
   {
     "playerId": "22710399",
@@ -270,12 +282,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -404,12 +410,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": null
   },
