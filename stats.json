@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35242790,
-    "kills": 44348910,
-    "deaths": 41809536,
-    "suicides": 9390504,
+    "victories": 35243017,
+    "kills": 44349159,
+    "deaths": 41809839,
+    "suicides": 9390566,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1792089701,
+    "lastLogin": 1792110707,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68045,
-    "kills": 112423,
-    "deaths": 117082,
-    "suicides": 25763,
+    "victories": 68049,
+    "kills": 112446,
+    "deaths": 117101,
+    "suicides": 25769,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1792103502,
+    "lastLogin": 1792111669,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2062,7 +2062,7 @@
     "username": "k",
     "victories": 9235,
     "kills": 15801,
-    "deaths": 17209,
+    "deaths": 17215,
     "suicides": 3849,
     "experience": 0,
     "surrenders": 0,
@@ -2101,7 +2101,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765340933,
-    "lastLogin": 1792099619,
+    "lastLogin": 1792113100,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 17255,
-    "kills": 24658,
-    "deaths": 20989,
-    "suicides": 5637,
+    "victories": 17268,
+    "kills": 24677,
+    "deaths": 21005,
+    "suicides": 5638,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1792105022,
+    "lastLogin": 1792111066,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6568,9 +6568,9 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "victories": 60497,
-    "kills": 112444,
-    "deaths": 109383,
+    "victories": 60498,
+    "kills": 112447,
+    "deaths": 109384,
     "suicides": 26986,
     "experience": 0,
     "surrenders": 0,
