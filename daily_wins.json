@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2503
+    "kills": 2827
   },
   {
     "playerId": "20666777",
@@ -12,7 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 162
+    "kills": 213
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 99
   },
   {
     "playerId": "14892840",
@@ -20,14 +25,14 @@
     "kills": 97
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 93
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 91
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 62
   },
   {
     "playerId": "20984454",
@@ -45,19 +50,19 @@
     "kills": 41
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 40
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 35
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 35
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 30
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 28
   },
   {
     "playerId": "21940268",
@@ -78,6 +83,11 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 21
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 20
   },
   {
     "playerId": "20111777",
@@ -105,19 +115,29 @@
     "kills": 13
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 11
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 10
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 9
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 7
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 6
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 4
   },
   {
     "playerId": "21956820",
@@ -133,11 +153,6 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 2
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 1
   },
   {
     "playerId": "21700920",
@@ -255,11 +270,6 @@
     "kills": 0
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 0
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 0
@@ -345,18 +355,8 @@
     "kills": 0
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 0
-  },
-  {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0
   },
   {
