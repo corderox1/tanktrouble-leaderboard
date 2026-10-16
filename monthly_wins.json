@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 63939
+    "kills": 64170
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2390
+    "kills": 2409
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1521
+    "kills": 1547
   },
   {
     "playerId": "17629928",
@@ -92,12 +92,12 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 692
+    "kills": 724
   },
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 683
+    "kills": 708
   },
   {
     "playerId": "20984454",
@@ -122,7 +122,7 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 501
+    "kills": 519
   },
   {
     "playerId": "2574833",
@@ -222,7 +222,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 236
+    "kills": 237
   },
   {
     "playerId": "21508277",
@@ -267,17 +267,17 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 149
+    "kills": 150
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 133
   },
   {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 128
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 127
   },
   {
     "playerId": "22081323",
@@ -380,6 +380,11 @@
     "kills": 46
   },
   {
+    "playerId": "4128764",
+    "username": "Bulletio",
+    "kills": 41
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 39
@@ -392,11 +397,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 29
-  },
-  {
-    "playerId": "4128764",
-    "username": "Bulletio",
     "kills": 29
   },
   {
@@ -470,13 +470,13 @@
     "kills": 5
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 4
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
+    "kills": 5
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 4
   },
   {
