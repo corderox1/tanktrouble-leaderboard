@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35243420,
-    "kills": 44349658,
-    "deaths": 41810431,
-    "suicides": 9390652,
+    "victories": 35243607,
+    "kills": 44349832,
+    "deaths": 41810720,
+    "suicides": 9390692,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 10,
+    "rank": 5,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 139225,
-    "kills": 191745,
-    "deaths": 190009,
-    "suicides": 48546,
+    "victories": 139227,
+    "kills": 191746,
+    "deaths": 190014,
+    "suicides": 48547,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -173,8 +173,8 @@
       "numericValue": "0x010243",
       "imageValue": ""
     },
-    "turretAccessory": "74",
-    "barrelAccessory": "102",
+    "turretAccessory": "166",
+    "barrelAccessory": "0",
     "frontAccessory": "162",
     "backAccessory": "22",
     "treadAccessory": "0",
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1792122816,
+    "lastLogin": 1792124336,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8283,17 +8283,17 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 7623,
-    "kills": 11993,
-    "deaths": 9927,
-    "suicides": 2905,
+    "victories": 7644,
+    "kills": 12016,
+    "deaths": 9937,
+    "suicides": 2907,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "type": "numeric",
+      "rawValue": "0x8000ff",
+      "numericValue": "0x8000ff",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
@@ -8307,7 +8307,7 @@
       "numericValue": "0x010243",
       "imageValue": ""
     },
-    "turretAccessory": "74",
+    "turretAccessory": "0",
     "barrelAccessory": "1",
     "frontAccessory": "19",
     "backAccessory": "0",
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1791978838,
+    "lastLogin": 1792124630,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8332,10 +8332,10 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "victories": 47236,
-    "kills": 82893,
-    "deaths": 87223,
-    "suicides": 22794,
+    "victories": 47275,
+    "kills": 82938,
+    "deaths": 87285,
+    "suicides": 22807,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8373,7 +8373,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1590515111,
-    "lastLogin": 1791772212,
+    "lastLogin": 1792125875,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3583,
-    "kills": 7510,
-    "deaths": 9785,
-    "suicides": 2914,
+    "victories": 3589,
+    "kills": 7521,
+    "deaths": 9790,
+    "suicides": 2918,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
