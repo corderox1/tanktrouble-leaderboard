@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4643,
-    "lastKill": "2026-10-15 20:15:14"
+    "kills": 4812,
+    "lastKill": "2026-10-15 21:10:32"
   },
   {
     "playerId": "8590474",
@@ -72,6 +72,12 @@
     "lastKill": "2026-10-15 15:07:45"
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 109,
+    "lastKill": "2026-10-15 21:10:32"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 104,
@@ -100,6 +106,12 @@
     "username": "Trizz",
     "kills": 79,
     "lastKill": "2026-10-15 08:23:51"
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 79,
+    "lastKill": "2026-10-15 21:10:32"
   },
   {
     "playerId": "22716354",
@@ -168,12 +180,6 @@
     "lastKill": "2026-10-15 15:07:45"
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 23,
-    "lastKill": "2026-10-15 20:15:14"
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 21,
@@ -186,16 +192,16 @@
     "lastKill": "2026-10-15 09:18:59"
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 17,
+    "lastKill": "2026-10-15 21:10:32"
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 17,
     "lastKill": "2026-10-15 14:17:57"
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 16,
-    "lastKill": "2026-10-15 05:12:18"
   },
   {
     "playerId": "12222122",
@@ -434,12 +440,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
     "kills": 0,
     "lastKill": null
   },
