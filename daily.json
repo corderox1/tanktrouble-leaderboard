@@ -2,14 +2,38 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 141,
-    "lastKill": "2026-10-17 01:04:51"
+    "kills": 1221,
+    "lastKill": "2026-10-17 06:12:45"
   },
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 97,
-    "lastKill": "2026-10-17 01:04:51"
+    "kills": 140,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 111,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 65,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 51,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 49,
+    "lastKill": "2026-10-17 06:12:45"
   },
   {
     "playerId": "3923647",
@@ -36,16 +60,52 @@
     "lastKill": "2026-10-17 01:04:51"
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 13,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 7,
-    "lastKill": "2026-10-17 01:04:51"
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 6,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 3,
+    "lastKill": "2026-10-17 06:12:45"
   },
   {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 2,
     "lastKill": "2026-10-17 01:04:51"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 2,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 2,
+    "lastKill": "2026-10-17 06:12:45"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 1,
+    "lastKill": "2026-10-17 06:12:45"
   },
   {
     "playerId": "22710399",
@@ -162,20 +222,8 @@
     "lastKill": null
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0,
     "lastKill": null
   },
@@ -240,12 +288,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -290,12 +332,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": null
   },
@@ -384,12 +420,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -462,12 +492,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 0,
@@ -480,26 +504,8 @@
     "lastKill": null
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
@@ -1028,12 +1034,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },

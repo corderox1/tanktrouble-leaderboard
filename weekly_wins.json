@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23221
+    "kills": 24214
   },
   {
     "playerId": "20666777",
@@ -67,7 +67,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 330
+    "kills": 354
   },
   {
     "playerId": "20984454",
@@ -92,17 +92,22 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 222
+    "kills": 227
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 227
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 214
   },
   {
     "playerId": "21452912",
     "username": "k",
     "kills": 213
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 211
   },
   {
     "playerId": "19138057",
@@ -120,19 +125,14 @@
     "kills": 184
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 159
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 165
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 151
-  },
-  {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 140
   },
   {
     "playerId": "22694251",
@@ -172,7 +172,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 106
+    "kills": 108
   },
   {
     "playerId": "21700920",
@@ -207,7 +207,12 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 82
+    "kills": 83
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 75
   },
   {
     "playerId": "706234",
@@ -228,11 +233,6 @@
     "playerId": "4686507",
     "username": "playboi",
     "kills": 65
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 62
   },
   {
     "playerId": "20644558",
@@ -283,6 +283,11 @@
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 33
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 29
   },
   {
     "playerId": "9184666",
@@ -350,11 +355,6 @@
     "kills": 10
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 8
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 8
@@ -387,6 +387,11 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 3
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 3
   },
   {
@@ -567,11 +572,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 0
   },
   {
