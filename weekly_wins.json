@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22187
+    "kills": 22403
   },
   {
     "playerId": "20666777",
@@ -12,12 +12,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 885
+    "kills": 973
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 762
+    "kills": 811
   },
   {
     "playerId": "8899024",
@@ -72,7 +72,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 276
+    "kills": 291
   },
   {
     "playerId": "20297710",
@@ -137,7 +137,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 126
+    "kills": 128
   },
   {
     "playerId": "21614515",
@@ -255,6 +255,11 @@
     "kills": 43
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 37
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 35
@@ -270,6 +275,11 @@
     "kills": 33
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 25
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 25
@@ -280,18 +290,13 @@
     "kills": 23
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 22
   },
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "kills": 21
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 21
   },
   {
@@ -365,6 +370,11 @@
     "kills": 5
   },
   {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 5
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 4
@@ -432,11 +442,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0
   },
   {
@@ -977,11 +982,6 @@
   {
     "playerId": "21839393",
     "username": "notnothing",
-    "kills": 0
-  },
-  {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 0
   }
 ]
