@@ -2,7 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1146
+    "kills": 1919
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 194
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 184
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 94
   },
   {
     "playerId": "22754085",
@@ -10,14 +25,49 @@
     "kills": 89
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 85
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 68
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 64
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 50
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 46
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 39
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
+    "kills": 34
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
     "kills": 29
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 26
   },
   {
     "playerId": "21956820",
@@ -25,14 +75,24 @@
     "kills": 21
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 20
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 18
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 16
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 13
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 12
   },
   {
     "playerId": "21452912",
@@ -50,13 +110,13 @@
     "kills": 5
   },
   {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 3
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 4
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 3
   },
   {
@@ -72,7 +132,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 1
+    "kills": 2
   },
   {
     "playerId": "22710399",
@@ -165,11 +225,6 @@
     "kills": 0
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 0
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0
@@ -187,11 +242,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
@@ -235,23 +285,8 @@
     "kills": 0
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 0
-  },
-  {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 0
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
     "kills": 0
   },
   {
@@ -350,11 +385,6 @@
     "kills": 0
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 0
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 0
@@ -382,16 +412,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0
   },
   {
@@ -725,11 +745,6 @@
     "kills": 0
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0
@@ -830,11 +845,6 @@
     "kills": 0
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0
@@ -920,11 +930,6 @@
     "kills": 0
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 0
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0
@@ -967,11 +972,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
