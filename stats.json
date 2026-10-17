@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35248090,
-    "kills": 44355415,
-    "deaths": 41817324,
-    "suicides": 9391965,
+    "victories": 35248265,
+    "kills": 44355595,
+    "deaths": 41817543,
+    "suicides": 9392004,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 21,
+    "rank": 17,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -982,10 +982,10 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "victories": 21081,
-    "kills": 36054,
-    "deaths": 66432,
-    "suicides": 15588,
+    "victories": 21082,
+    "kills": 36068,
+    "deaths": 66475,
+    "suicides": 15598,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 41989,
-    "kills": 62166,
-    "deaths": 71595,
-    "suicides": 17003,
+    "victories": 41991,
+    "kills": 62193,
+    "deaths": 71637,
+    "suicides": 17013,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1325,10 +1325,10 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "victories": 15977,
-    "kills": 34017,
-    "deaths": 28500,
-    "suicides": 5750,
+    "victories": 15983,
+    "kills": 34062,
+    "deaths": 28536,
+    "suicides": 5764,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1366,7 +1366,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1670460598,
-    "lastLogin": 1792204954,
+    "lastLogin": 1792213281,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1472,16 +1472,16 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68407,
-    "kills": 112932,
-    "deaths": 117584,
-    "suicides": 25850,
+    "victories": 68410,
+    "kills": 112954,
+    "deaths": 117608,
+    "suicides": 25853,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0x4a67fe",
-      "numericValue": "0x4a67fe",
+      "rawValue": "0x017e7e",
+      "numericValue": "0x017e7e",
       "imageValue": ""
     },
     "treadColour": {
@@ -1660,7 +1660,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1528068735,
-    "lastLogin": 1790120214,
+    "lastLogin": 1792213050,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 9329,
-    "kills": 15951,
-    "deaths": 17415,
-    "suicides": 3876,
+    "victories": 9333,
+    "kills": 15981,
+    "deaths": 17453,
+    "suicides": 3880,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2207,10 +2207,10 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "victories": 61138,
-    "kills": 110350,
-    "deaths": 75170,
-    "suicides": 16781,
+    "victories": 61152,
+    "kills": 110402,
+    "deaths": 75200,
+    "suicides": 16786,
     "experience": 2452,
     "surrenders": 0,
     "turretColour": {
@@ -8283,29 +8283,29 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 7693,
-    "kills": 12081,
-    "deaths": 9986,
-    "suicides": 2928,
+    "victories": 7705,
+    "kills": 12095,
+    "deaths": 9990,
+    "suicides": 2931,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0x010243",
-      "numericValue": "0x010243",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x6743a2 153",
+      "numericValue": "0x6743a2",
+      "imageValue": "153"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x010243",
-      "numericValue": "0x010243",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x6743a2 153",
+      "numericValue": "0x6743a2",
+      "imageValue": "153"
     },
     "turretAccessory": "0",
     "barrelAccessory": "1",
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1792155944,
+    "lastLogin": 1792211858,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9606,10 +9606,10 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "victories": 1020,
-    "kills": 2156,
-    "deaths": 1808,
-    "suicides": 500,
+    "victories": 1055,
+    "kills": 2194,
+    "deaths": 1839,
+    "suicides": 509,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9639,7 +9639,7 @@
     "badge": "0",
     "premium": false,
     "rank": 36,
-    "xp": 78160,
+    "xp": 80290,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
@@ -9647,7 +9647,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790387106,
-    "lastLogin": 1792209148,
+    "lastLogin": 1792211883,
     "banned": false,
     "usernameApproved": true,
     "country": null
