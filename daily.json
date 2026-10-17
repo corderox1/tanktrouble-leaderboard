@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5438,
-    "lastKill": "2026-10-16 22:07:59"
+    "kills": 5583,
+    "lastKill": "2026-10-16 23:08:48"
   },
   {
     "playerId": "8590474",
@@ -12,22 +12,22 @@
     "lastKill": "2026-10-16 22:07:59"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 525,
+    "lastKill": "2026-10-16 23:08:48"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 458,
     "lastKill": "2026-10-16 16:09:12"
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 448,
-    "lastKill": "2026-10-16 22:07:59"
-  },
-  {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 345,
-    "lastKill": "2026-10-16 22:07:59"
+    "kills": 378,
+    "lastKill": "2026-10-16 23:08:48"
   },
   {
     "playerId": "706234",
@@ -90,10 +90,28 @@
     "lastKill": "2026-10-16 09:16:32"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 132,
+    "lastKill": "2026-10-16 23:08:48"
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 129,
     "lastKill": "2026-10-16 14:12:51"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 127,
+    "lastKill": "2026-10-16 23:08:48"
+  },
+  {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 115,
+    "lastKill": "2026-10-16 23:08:48"
   },
   {
     "playerId": "3990108",
@@ -130,12 +148,6 @@
     "username": "3w0n",
     "kills": 86,
     "lastKill": "2026-10-16 14:12:51"
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 85,
-    "lastKill": "2026-10-16 22:07:59"
   },
   {
     "playerId": "21012136",
@@ -180,6 +192,12 @@
     "lastKill": "2026-10-16 10:11:33"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 61,
+    "lastKill": "2026-10-16 23:08:48"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 54,
@@ -216,10 +234,10 @@
     "lastKill": "2026-10-16 14:12:51"
   },
   {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "playerId": "21452912",
+    "username": "k",
     "kills": 38,
-    "lastKill": "2026-10-16 22:07:59"
+    "lastKill": "2026-10-16 23:08:48"
   },
   {
     "playerId": "22472796",
@@ -238,12 +256,6 @@
     "username": "N-A",
     "kills": 32,
     "lastKill": "2026-10-16 15:03:53"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 28,
-    "lastKill": "2026-10-16 22:07:59"
   },
   {
     "playerId": "21956820",
@@ -310,12 +322,6 @@
     "username": "NotInvincible",
     "kills": 1,
     "lastKill": "2026-10-16 10:11:33"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 0,
-    "lastKill": null
   },
   {
     "playerId": "10132007",
@@ -452,12 +458,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
     "kills": 0,
     "lastKill": null
   },
