@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 66325
+    "kills": 66554
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 3162
+    "kills": 3179
   },
   {
     "playerId": "20666777",
@@ -22,7 +22,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1823
+    "kills": 1867
   },
   {
     "playerId": "17629928",
@@ -32,7 +32,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1362
+    "kills": 1371
   },
   {
     "playerId": "10794529",
@@ -45,14 +45,14 @@
     "kills": 1270
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 1186
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 1111
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 1102
   },
   {
     "playerId": "22694251",
@@ -125,6 +125,11 @@
     "kills": 531
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 497
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 468
@@ -142,12 +147,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 426
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 409
+    "kills": 428
   },
   {
     "playerId": "16736853",
@@ -195,6 +195,11 @@
     "kills": 322
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 310
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 275
@@ -213,11 +218,6 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 259
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 258
   },
   {
     "playerId": "19068893",
@@ -245,6 +245,11 @@
     "kills": 211
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 206
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 206
@@ -253,11 +258,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 191
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 185
   },
   {
     "playerId": "21956820",
@@ -390,6 +390,11 @@
     "kills": 48
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 43
+  },
+  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 43
@@ -398,11 +403,6 @@
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 39
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 34
   },
   {
     "playerId": "21957440",
@@ -435,6 +435,16 @@
     "kills": 16
   },
   {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 16
+  },
+  {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 16
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 15
@@ -458,11 +468,6 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 8
-  },
-  {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 7
   },
   {
     "playerId": "16202507",
@@ -532,11 +537,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
     "kills": 0
   },
   {

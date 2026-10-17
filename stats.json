@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35247789,
-    "kills": 44355032,
-    "deaths": 41816730,
-    "suicides": 9391879,
+    "victories": 35248018,
+    "kills": 44355270,
+    "deaths": 41817008,
+    "suicides": 9391917,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 7,
+    "rank": 28,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -492,10 +492,10 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "victories": 22211,
-    "kills": 40064,
-    "deaths": 83897,
-    "suicides": 19535,
+    "victories": 22227,
+    "kills": 40099,
+    "deaths": 83967,
+    "suicides": 19554,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -533,7 +533,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707802021,
-    "lastLogin": 1791834226,
+    "lastLogin": 1792203399,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -590,10 +590,10 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "victories": 17724,
-    "kills": 25261,
-    "deaths": 28518,
-    "suicides": 5942,
+    "victories": 17776,
+    "kills": 25332,
+    "deaths": 28636,
+    "suicides": 5957,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1229,7 +1229,7 @@
     "username": "Invader",
     "victories": 81610,
     "kills": 122306,
-    "deaths": 141009,
+    "deaths": 141010,
     "suicides": 30189,
     "experience": 1222,
     "surrenders": 0,
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1792198525,
+    "lastLogin": 1792204358,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 41905,
-    "kills": 62049,
-    "deaths": 71493,
-    "suicides": 16984,
+    "victories": 41989,
+    "kills": 62166,
+    "deaths": 71594,
+    "suicides": 17002,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1792198256,
+    "lastLogin": 1792202959,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1327,8 +1327,8 @@
     "username": "Slatt",
     "victories": 15977,
     "kills": 34017,
-    "deaths": 28496,
-    "suicides": 5747,
+    "deaths": 28497,
+    "suicides": 5748,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1366,7 +1366,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1670460598,
-    "lastLogin": 1792186468,
+    "lastLogin": 1792204954,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68307,
-    "kills": 112805,
-    "deaths": 117445,
-    "suicides": 25828,
+    "victories": 68395,
+    "kills": 112899,
+    "deaths": 117534,
+    "suicides": 25840,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 9316,
+    "victories": 9318,
     "kills": 15913,
-    "deaths": 17365,
-    "suicides": 3866,
+    "deaths": 17369,
+    "suicides": 3868,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2207,10 +2207,10 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "victories": 61096,
-    "kills": 110273,
-    "deaths": 75094,
-    "suicides": 16763,
+    "victories": 61117,
+    "kills": 110308,
+    "deaths": 75130,
+    "suicides": 16771,
     "experience": 2452,
     "surrenders": 0,
     "turretColour": {
@@ -2248,7 +2248,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1529802256,
-    "lastLogin": 1792170148,
+    "lastLogin": 1792204132,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 17627,
-    "kills": 25244,
-    "deaths": 21513,
-    "suicides": 5751,
+    "victories": 17644,
+    "kills": 25260,
+    "deaths": 21526,
+    "suicides": 5753,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6078,10 +6078,10 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "victories": 63634,
-    "kills": 40623,
-    "deaths": 50669,
-    "suicides": 15417,
+    "victories": 63643,
+    "kills": 40635,
+    "deaths": 50696,
+    "suicides": 15424,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1792111066,
+    "lastLogin": 1792205206,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8332,10 +8332,10 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "victories": 47289,
-    "kills": 82956,
-    "deaths": 87351,
-    "suicides": 22821,
+    "victories": 47298,
+    "kills": 82966,
+    "deaths": 87365,
+    "suicides": 22825,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 4945,
-    "kills": 8709,
-    "deaths": 5428,
-    "suicides": 1999,
+    "victories": 4989,
+    "kills": 8761,
+    "deaths": 5456,
+    "suicides": 2005,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9010,7 +9010,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1625330278,
-    "lastLogin": 1792184971,
+    "lastLogin": 1792205130,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9606,10 +9606,10 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "victories": 986,
-    "kills": 2058,
-    "deaths": 1699,
-    "suicides": 476,
+    "victories": 995,
+    "kills": 2079,
+    "deaths": 1731,
+    "suicides": 478,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9639,7 +9639,7 @@
     "badge": "0",
     "premium": false,
     "rank": 36,
-    "xp": 75380,
+    "xp": 76040,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
@@ -9647,7 +9647,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790387106,
-    "lastLogin": 1792198787,
+    "lastLogin": 1792204485,
     "banned": false,
     "usernameApproved": true,
     "country": null
