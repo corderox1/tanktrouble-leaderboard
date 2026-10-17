@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2522
+    "kills": 2858
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 298
+    "kills": 350
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 262
   },
   {
     "playerId": "13173087",
@@ -15,14 +20,14 @@
     "kills": 240
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 193
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 153
+    "kills": 161
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 151
   },
   {
     "playerId": "8590474",
@@ -32,12 +37,17 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 96
+    "kills": 118
   },
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 89
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 80
   },
   {
     "playerId": "19138057",
@@ -55,11 +65,6 @@
     "kills": 64
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 64
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 61
@@ -70,9 +75,14 @@
     "kills": 60
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 58
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 50
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 40
   },
   {
     "playerId": "21516705",
@@ -85,14 +95,19 @@
     "kills": 33
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 32
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 26
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 27
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 25
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 23
   },
   {
     "playerId": "21956820",
@@ -105,9 +120,14 @@
     "kills": 20
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 20
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 19
   },
   {
     "playerId": "22077521",
@@ -125,14 +145,29 @@
     "kills": 12
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 11
   },
   {
     "playerId": "21452912",
     "username": "k",
     "kills": 9
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 9
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 8
+  },
+  {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 8
   },
   {
     "playerId": "17136803",
@@ -150,23 +185,33 @@
     "kills": 5
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 5
-  },
-  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 5
   },
   {
-    "playerId": "7559374",
-    "username": "Catalyst",
-    "kills": 1
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 3
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "19768925",
+    "username": "Lil_May",
+    "kills": 3
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 3
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 2
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
     "kills": 1
   },
   {
@@ -255,11 +300,6 @@
     "kills": 0
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0
@@ -285,11 +325,6 @@
     "kills": 0
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0
@@ -312,11 +347,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
     "kills": 0
   },
   {
@@ -405,18 +435,8 @@
     "kills": 0
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 0
-  },
-  {
     "playerId": "29695",
     "username": "77777",
-    "kills": 0
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
     "kills": 0
   },
   {
@@ -450,11 +470,6 @@
     "kills": 0
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 0
@@ -462,11 +477,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -637,11 +647,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
@@ -972,11 +977,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
     "kills": 0
   },
   {
