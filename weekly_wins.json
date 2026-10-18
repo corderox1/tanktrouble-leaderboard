@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 27930
+    "kills": 28380
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 1423
   },
   {
     "playerId": "8590474",
@@ -10,19 +15,19 @@
     "kills": 1393
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 1286
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1248
+    "kills": 1301
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 808
+    "kills": 838
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 674
   },
   {
     "playerId": "8899024",
@@ -30,9 +35,9 @@
     "kills": 642
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 631
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 498
   },
   {
     "playerId": "3660774",
@@ -40,24 +45,24 @@
     "kills": 491
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 480
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 463
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 458
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 442
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 439
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 431
   },
   {
     "playerId": "22706369",
@@ -78,11 +83,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 340
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 324
   },
   {
     "playerId": "22694251",
@@ -122,7 +122,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 227
+    "kills": 229
   },
   {
     "playerId": "22716354",
@@ -135,6 +135,11 @@
     "kills": 223
   },
   {
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 209
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 191
@@ -145,14 +150,19 @@
     "kills": 170
   },
   {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 167
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 143
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 140
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 139
   },
   {
     "playerId": "22710399",
@@ -173,11 +183,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 128
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 123
   },
   {
     "playerId": "19173281",
@@ -295,6 +300,11 @@
     "kills": 36
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 34
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 33
@@ -303,11 +313,6 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 28
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 25
   },
   {
     "playerId": "9184666",
@@ -977,11 +982,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0
   }
 ]
