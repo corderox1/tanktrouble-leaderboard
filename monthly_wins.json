@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 70914
+    "kills": 71663
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2562
+    "kills": 2576
   },
   {
     "playerId": "13173087",
@@ -87,7 +87,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 792
+    "kills": 853
   },
   {
     "playerId": "21465536",
@@ -200,14 +200,14 @@
     "kills": 334
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 324
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 317
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 280
   },
   {
     "playerId": "19068893",
@@ -267,7 +267,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 192
+    "kills": 193
   },
   {
     "playerId": "21614515",
@@ -277,7 +277,12 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 165
+    "kills": 167
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 151
   },
   {
     "playerId": "17136803",
@@ -295,14 +300,14 @@
     "kills": 127
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 124
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 124
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 123
   },
   {
     "playerId": "12331664",
@@ -333,11 +338,6 @@
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 90
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 87
   },
   {
     "playerId": "17953682",
@@ -425,6 +425,11 @@
     "kills": 34
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 25
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 25
@@ -465,6 +470,16 @@
     "kills": 11
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 10
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 10
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 9
@@ -473,11 +488,6 @@
     "playerId": "22752688",
     "username": "Corderos",
     "kills": 8
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 7
   },
   {
     "playerId": "16202507",
@@ -495,6 +505,11 @@
     "kills": 4
   },
   {
+    "playerId": "7559374",
+    "username": "Catalyst",
+    "kills": 4
+  },
+  {
     "playerId": "3617624",
     "username": "Envy",
     "kills": 3
@@ -502,11 +517,6 @@
   {
     "playerId": "944643",
     "username": "meemee",
-    "kills": 3
-  },
-  {
-    "playerId": "7559374",
-    "username": "Catalyst",
     "kills": 3
   },
   {
@@ -960,11 +970,6 @@
     "kills": 0
   },
   {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 0
-  },
-  {
     "playerId": "9297194",
     "username": "sleeep",
     "kills": 0
@@ -972,11 +977,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0
   },
   {
