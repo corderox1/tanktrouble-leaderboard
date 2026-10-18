@@ -2,7 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1942
+    "kills": 2289
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 237
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 228
   },
   {
     "playerId": "19138057",
@@ -10,14 +20,9 @@
     "kills": 200
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 163
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 151
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 161
   },
   {
     "playerId": "21839393",
@@ -27,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 103
+    "kills": 109
   },
   {
     "playerId": "21516705",
@@ -45,9 +50,24 @@
     "kills": 55
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 50
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 52
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 47
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 46
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 46
   },
   {
     "playerId": "22754085",
@@ -65,11 +85,6 @@
     "kills": 41
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 39
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 36
@@ -80,34 +95,39 @@
     "kills": 34
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 31
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 27
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 26
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 24
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 23
+    "kills": 24
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 21
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 22
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 20
+    "kills": 21
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 20
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 13
   },
   {
     "playerId": "1051525",
@@ -125,9 +145,19 @@
     "kills": 6
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 5
+  },
+  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 3
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1
   },
   {
     "playerId": "15931599",
@@ -225,11 +255,6 @@
     "kills": 0
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 0
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 0
@@ -292,11 +317,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
     "kills": 0
   },
   {
@@ -377,11 +397,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
@@ -477,11 +492,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -775,11 +785,6 @@
     "kills": 0
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0
@@ -787,11 +792,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0
   },
   {
@@ -982,6 +982,26 @@
   {
     "playerId": "9184666",
     "username": "-I-",
+    "kills": 0
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 0
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 0
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 0
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
     "kills": 0
   }
 ]
