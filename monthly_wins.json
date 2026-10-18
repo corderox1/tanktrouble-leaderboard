@@ -2,22 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 72113
+    "kills": 72856
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 3495
+    "kills": 3658
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2629
+    "kills": 2665
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 2435
+    "kills": 2449
   },
   {
     "playerId": "14892840",
@@ -27,7 +27,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 1675
+    "kills": 1695
   },
   {
     "playerId": "17629928",
@@ -35,14 +35,14 @@
     "kills": 1465
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 1439
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 1435
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 1419
   },
   {
     "playerId": "20297710",
@@ -70,14 +70,14 @@
     "kills": 1009
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 953
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 935
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 930
   },
   {
     "playerId": "22706369",
@@ -102,7 +102,12 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 636
+    "kills": 662
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 607
   },
   {
     "playerId": "3990108",
@@ -112,17 +117,12 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 588
+    "kills": 592
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 571
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 568
   },
   {
     "playerId": "22716354",
@@ -180,6 +180,16 @@
     "kills": 375
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 372
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 354
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 352
@@ -190,11 +200,6 @@
     "kills": 352
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 351
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 337
@@ -203,11 +208,6 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 335
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 317
   },
   {
     "playerId": "19068893",
@@ -230,6 +230,11 @@
     "kills": 263
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 258
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 257
@@ -240,14 +245,14 @@
     "kills": 253
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 247
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 229
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 226
   },
   {
     "playerId": "21508277",
@@ -258,11 +263,6 @@
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 219
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 217
   },
   {
     "playerId": "22754085",
@@ -337,6 +337,11 @@
   {
     "playerId": "4686507",
     "username": "playboi",
+    "kills": 95
+  },
+  {
+    "playerId": "21932847",
+    "username": "qoq",
     "kills": 95
   },
   {
@@ -430,8 +435,8 @@
     "kills": 34
   },
   {
-    "playerId": "21932847",
-    "username": "qoq",
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
     "kills": 34
   },
   {
@@ -447,6 +452,11 @@
   {
     "playerId": "20621274",
     "username": "ttw",
+    "kills": 18
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
     "kills": 18
   },
   {
@@ -473,16 +483,6 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 11
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 10
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 10
   },
   {
     "playerId": "22056849",
@@ -525,13 +525,18 @@
     "kills": 3
   },
   {
-    "playerId": "13327781",
-    "username": "rickgrimes",
-    "kills": 2
+    "playerId": "499659",
+    "username": "foxter",
+    "kills": 3
   },
   {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 3
+  },
+  {
+    "playerId": "13327781",
+    "username": "rickgrimes",
     "kills": 2
   },
   {
@@ -877,11 +882,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "499659",
-    "username": "foxter",
     "kills": 0
   },
   {
