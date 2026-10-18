@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26565
+    "kills": 27181
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1265
+    "kills": 1393
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1238
+    "kills": 1286
   },
   {
     "playerId": "20666777",
@@ -37,7 +37,12 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 454
+    "kills": 491
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 463
   },
   {
     "playerId": "21465536",
@@ -50,6 +55,11 @@
     "kills": 431
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 397
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 395
@@ -60,24 +70,14 @@
     "kills": 388
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 366
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 359
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 380
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 340
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 300
   },
   {
     "playerId": "22694251",
@@ -105,6 +105,11 @@
     "kills": 271
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 253
+  },
+  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 241
@@ -112,7 +117,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 233
+    "kills": 234
   },
   {
     "playerId": "20270104",
@@ -127,17 +132,17 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 213
+    "kills": 223
   },
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 184
+    "kills": 191
   },
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 169
+    "kills": 170
   },
   {
     "playerId": "22754085",
@@ -158,6 +163,11 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 132
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 131
   },
   {
     "playerId": "3923647",
@@ -185,11 +195,6 @@
     "kills": 113
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 110
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 108
@@ -205,11 +210,6 @@
     "kills": 95
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 92
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 92
@@ -218,6 +218,11 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 90
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 87
   },
   {
     "playerId": "19068893",
@@ -230,6 +235,11 @@
     "kills": 75
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 73
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 68
@@ -238,6 +248,11 @@
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 66
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 65
   },
   {
     "playerId": "4686507",
@@ -255,9 +270,9 @@
     "kills": 58
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 52
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 58
   },
   {
     "playerId": "20111777",
@@ -285,11 +300,6 @@
     "kills": 33
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 29
-  },
-  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 28
@@ -312,7 +322,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 22
+    "kills": 23
   },
   {
     "playerId": "16092601",
@@ -328,11 +338,6 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 16
   },
   {
     "playerId": "4128764",
@@ -972,11 +977,6 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 0
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0
   },
   {
