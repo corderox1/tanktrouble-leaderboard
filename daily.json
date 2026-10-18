@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3055,
-    "lastKill": "2026-10-18 14:43:16"
+    "kills": 3639,
+    "lastKill": "2026-10-18 16:57:15"
   },
   {
     "playerId": "19138057",
@@ -36,6 +36,12 @@
     "lastKill": "2026-10-18 09:12:49"
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 178,
+    "lastKill": "2026-10-18 16:57:15"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 162,
@@ -54,6 +60,24 @@
     "lastKill": "2026-10-18 12:35:45"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 126,
+    "lastKill": "2026-10-18 16:57:15"
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 117,
+    "lastKill": "2026-10-18 16:57:15"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 98,
+    "lastKill": "2026-10-18 16:57:15"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 97,
@@ -66,10 +90,10 @@
     "lastKill": "2026-10-18 14:43:16"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 91,
-    "lastKill": "2026-10-18 14:43:16"
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 74,
+    "lastKill": "2026-10-18 16:57:15"
   },
   {
     "playerId": "21940268",
@@ -78,33 +102,15 @@
     "lastKill": "2026-10-18 12:35:45"
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 71,
-    "lastKill": "2026-10-18 14:43:16"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 67,
-    "lastKill": "2026-10-18 14:43:16"
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 70,
+    "lastKill": "2026-10-18 16:57:15"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 65,
-    "lastKill": "2026-10-18 14:43:16"
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 57,
-    "lastKill": "2026-10-18 12:35:45"
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 55,
     "lastKill": "2026-10-18 14:43:16"
   },
   {
@@ -138,16 +144,16 @@
     "lastKill": "2026-10-18 14:43:16"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 39,
+    "lastKill": "2026-10-18 16:57:15"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 37,
     "lastKill": "2026-10-18 12:35:45"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 31,
-    "lastKill": "2026-10-18 14:43:16"
   },
   {
     "playerId": "22801100",
@@ -176,8 +182,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 11,
-    "lastKill": "2026-10-18 14:43:16"
+    "kills": 12,
+    "lastKill": "2026-10-18 16:57:15"
   },
   {
     "playerId": "499659",
@@ -198,16 +204,16 @@
     "lastKill": "2026-10-18 04:55:58"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 2,
-    "lastKill": "2026-10-18 14:43:16"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 2,
     "lastKill": "2026-10-18 09:12:49"
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 1,
+    "lastKill": "2026-10-18 16:57:15"
   },
   {
     "playerId": "8779272",
@@ -464,12 +470,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0,
     "lastKill": null
   },
