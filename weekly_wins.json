@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2566
+    "kills": 2729
   },
   {
     "playerId": "13173087",
@@ -20,6 +20,11 @@
     "kills": 144
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 134
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 99
@@ -30,14 +35,19 @@
     "kills": 94
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 91
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 89
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 88
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 70
   },
   {
     "playerId": "19138057",
@@ -45,24 +55,19 @@
     "kills": 70
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 62
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 59
+    "kills": 60
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 58
   },
   {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 57
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 56
   },
   {
     "playerId": "21516705",
@@ -80,6 +85,11 @@
     "kills": 46
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 44
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 43
@@ -95,14 +105,19 @@
     "kills": 36
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 32
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 30
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 29
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 28
   },
   {
     "playerId": "21614515",
@@ -135,11 +150,6 @@
     "kills": 4
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 4
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 3
@@ -148,6 +158,11 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 2
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 1
   },
   {
     "playerId": "19068893",
@@ -385,18 +400,8 @@
     "kills": 0
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 0
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 0
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 0
   },
   {
@@ -772,11 +777,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   },
   {
