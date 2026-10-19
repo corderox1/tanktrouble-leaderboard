@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 98876,
-    "lastKill": "2026-10-19 12:36:17"
+    "kills": 98986,
+    "lastKill": "2026-10-19 12:49:25"
   },
   {
     "playerId": "8590474",
@@ -44,8 +44,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2377,
-    "lastKill": "2026-10-16 18:05:22"
+    "kills": 2387,
+    "lastKill": "2026-10-19 12:49:25"
   },
   {
     "playerId": "8899024",
@@ -80,8 +80,8 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 1928,
-    "lastKill": "2026-10-19 10:53:10"
+    "kills": 1949,
+    "lastKill": "2026-10-19 12:49:25"
   },
   {
     "playerId": "14617724",
@@ -120,16 +120,16 @@
     "lastKill": "2026-10-19 06:17:51"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 1372,
+    "lastKill": "2026-10-19 12:49:25"
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 1356,
     "lastKill": "2026-10-19 10:53:10"
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 1345,
-    "lastKill": "2026-10-19 12:36:17"
   },
   {
     "playerId": "22716354",
@@ -152,8 +152,8 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 1016,
-    "lastKill": "2026-10-19 10:53:10"
+    "kills": 1025,
+    "lastKill": "2026-10-19 12:49:25"
   },
   {
     "playerId": "2574833",
@@ -1202,6 +1202,24 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "1177269",
+    "username": "Redwind",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   }

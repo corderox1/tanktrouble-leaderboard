@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 77362
+    "kills": 77455
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1465
+    "kills": 1469
   },
   {
     "playerId": "21601349",
@@ -92,7 +92,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 816
+    "kills": 824
   },
   {
     "playerId": "21465536",
@@ -112,7 +112,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 643
+    "kills": 662
   },
   {
     "playerId": "20270104",
@@ -155,13 +155,13 @@
     "kills": 462
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 458
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 461
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 458
   },
   {
@@ -1002,6 +1002,21 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
+    "kills": 0
+  },
+  {
+    "playerId": "1177269",
+    "username": "Redwind",
+    "kills": 0
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 0
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 0
   }
 ]
