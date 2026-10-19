@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 74889
+    "kills": 75984
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2673
+    "kills": 2724
   },
   {
     "playerId": "13173087",
@@ -70,6 +70,11 @@
     "kills": 1043
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 968
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 964
@@ -80,14 +85,9 @@
     "kills": 954
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 950
-  },
-  {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 893
+    "kills": 948
   },
   {
     "playerId": "21465536",
@@ -162,7 +162,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 429
+    "kills": 434
   },
   {
     "playerId": "20269995",
@@ -177,7 +177,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 381
+    "kills": 383
   },
   {
     "playerId": "13773720",
@@ -200,9 +200,19 @@
     "kills": 352
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 338
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 337
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 335
   },
   {
     "playerId": "20011985",
@@ -215,19 +225,9 @@
     "kills": 307
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 306
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 275
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 273
   },
   {
     "playerId": "21098942",
@@ -440,6 +440,11 @@
     "kills": 34
   },
   {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 28
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 25
@@ -457,6 +462,11 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
+    "kills": 18
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
     "kills": 18
   },
   {
@@ -547,11 +557,6 @@
   {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
-    "kills": 1
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 1
   },
   {
@@ -997,11 +1002,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
     "kills": 0
   }
 ]
