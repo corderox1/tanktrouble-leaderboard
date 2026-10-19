@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 169232,
-    "lastKill": "2026-10-18 19:31:49"
+    "kills": 170021,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 9246,
-    "lastKill": "2026-10-18 19:31:49"
+    "kills": 9337,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "20297710",
@@ -50,8 +50,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 4002,
-    "lastKill": "2026-10-18 19:31:49"
+    "kills": 4098,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "10794529",
@@ -68,8 +68,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 3281,
-    "lastKill": "2026-10-18 04:55:58"
+    "kills": 3320,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "22716354",
@@ -86,8 +86,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3017,
-    "lastKill": "2026-10-18 19:31:49"
+    "kills": 3021,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "4381511",
@@ -212,8 +212,8 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 1546,
-    "lastKill": "2026-10-18 16:57:15"
+    "kills": 1559,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "16736853",
@@ -356,8 +356,8 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 585,
-    "lastKill": "2026-10-18 19:31:49"
+    "kills": 590,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "16092601",
@@ -480,6 +480,12 @@
     "lastKill": "2026-09-28 16:50:57"
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 189,
+    "lastKill": "2026-10-19 00:20:42"
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 188,
@@ -502,12 +508,6 @@
     "username": "notnothing",
     "kills": 144,
     "lastKill": "2026-10-18 09:12:49"
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 138,
-    "lastKill": "2026-10-18 12:35:45"
   },
   {
     "playerId": "22047175",
@@ -688,6 +688,12 @@
     "username": "foxter",
     "kills": 11,
     "lastKill": "2026-10-18 12:35:45"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 11,
+    "lastKill": "2026-10-19 00:20:42"
   },
   {
     "playerId": "10513943",
@@ -1214,12 +1220,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0,
     "lastKill": null
   },
