@@ -2,12 +2,9 @@ name: Update Leaderboard
 
 on:
   schedule:
-    - cron: '40 * * * *'
+    - cron: '*/5 * * * *'
+      timezone: "America/Chicago"
   workflow_dispatch:
-
-concurrency:
-  group: leaderboard-updater
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -16,9 +13,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
+    concurrency:
+      group: leaderboard-updater
+      cancel-in-progress: false
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,10 +31,74 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Check whether an update is due
+        id: check
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          # Manual runs always update immediately.
+          if os.environ["EVENT_NAME"] == "workflow_dispatch":
+              print("Manual run - update required.")
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write("should_update=true\n")
+              raise SystemExit
+
+          try:
+              with open("last_updated.json", "r") as f:
+                  data = json.load(f)
+
+              last_updated = datetime.fromisoformat(
+                  data["lastUpdated"]
+              )
+
+              now = datetime.now(timezone.utc)
+
+              if last_updated.tzinfo is None:
+                  last_updated = last_updated.replace(
+                      tzinfo=timezone.utc
+                  )
+
+              minutes_since_update = (
+                  now - last_updated.astimezone(timezone.utc)
+              ).total_seconds() / 60
+
+              print(
+                  f"Minutes since last update: "
+                  f"{minutes_since_update:.1f}"
+              )
+
+              # Allow another update after 50 minutes.
+              if minutes_since_update >= 50:
+                  print("Update is due.")
+                  should_update = "true"
+              else:
+                  print("Update is not due yet.")
+                  should_update = "false"
+
+          except (FileNotFoundError, KeyError, ValueError) as e:
+              print(
+                  f"Could not read last_updated.json: {e}"
+              )
+              print("No reliable update time found.")
+              should_update = "true"
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(
+                  f"should_update={should_update}\n"
+              )
+          PY
+
       - name: Update leaderboard
+        if: steps.check.outputs.should_update == 'true'
         run: python update_online.py
 
       - name: Commit and push changes
+        if: steps.check.outputs.should_update == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,7 +119,17 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update leaderboard"
-            git push
+
+            # Make sure we have the latest main before pushing.
+            git pull --rebase origin main
+
+            git push origin HEAD:main
           else
             echo "No changes to commit."
           fi
+
+      - name: Update not due
+        if: steps.check.outputs.should_update != 'true'
+        run: |
+          echo "Leaderboard update is not due yet."
+          echo "GitHub will check again within 5 minutes."
