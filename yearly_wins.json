@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 134123
+    "kills": 135046
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2893
+    "kills": 2903
   },
   {
     "playerId": "13173087",
@@ -37,7 +37,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 2630
+    "kills": 2632
   },
   {
     "playerId": "10794529",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 2189
+    "kills": 2282
   },
   {
     "playerId": "14617724",
@@ -152,7 +152,7 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 1017
+    "kills": 1024
   },
   {
     "playerId": "21103294",
@@ -180,14 +180,14 @@
     "kills": 931
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 908
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 893
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 889
   },
   {
     "playerId": "19932455",
@@ -212,12 +212,17 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 700
+    "kills": 704
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 698
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 693
   },
   {
     "playerId": "4686507",
@@ -243,11 +248,6 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 580
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 550
   },
   {
     "playerId": "21178768",
@@ -292,7 +292,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 354
+    "kills": 366
   },
   {
     "playerId": "20011985",
@@ -327,7 +327,7 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "kills": 276
+    "kills": 279
   },
   {
     "playerId": "4653977",
@@ -382,6 +382,11 @@
   {
     "playerId": "20644558",
     "username": "x",
+    "kills": 135
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
     "kills": 135
   },
   {
@@ -452,7 +457,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 67
+    "kills": 68
   },
   {
     "playerId": "22047175",
@@ -475,6 +480,11 @@
     "kills": 49
   },
   {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 49
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 43
@@ -487,11 +497,6 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 40
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 40
   },
   {
@@ -528,11 +533,6 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 18
   },
   {
     "playerId": "21528366",
@@ -637,6 +637,11 @@
   {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
+    "kills": 1
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 1
   },
   {
@@ -1032,11 +1037,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0
   }
 ]

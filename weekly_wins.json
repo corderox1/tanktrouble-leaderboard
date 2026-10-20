@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3769
+    "kills": 4692
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 235
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 213
   },
   {
     "playerId": "21700920",
@@ -27,7 +32,12 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 137
+    "kills": 139
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 134
   },
   {
     "playerId": "22077521",
@@ -55,6 +65,11 @@
     "kills": 94
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 93
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 91
@@ -65,9 +80,9 @@
     "kills": 89
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 70
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 62
   },
   {
     "playerId": "22472796",
@@ -85,14 +100,14 @@
     "kills": 56
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
+    "playerId": "21452912",
+    "username": "k",
     "kills": 55
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 52
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 55
   },
   {
     "playerId": "2574833",
@@ -115,11 +130,6 @@
     "kills": 42
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 39
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 37
@@ -130,9 +140,9 @@
     "kills": 36
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 36
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 31
   },
   {
     "playerId": "17629928",
@@ -170,9 +180,24 @@
     "kills": 13
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 12
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 11
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 7
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 6
   },
   {
     "playerId": "8408190",
@@ -185,9 +210,14 @@
     "kills": 3
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 2
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 3
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 1
   },
   {
     "playerId": "21103294",
@@ -202,6 +232,11 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 1
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 1
   },
   {
@@ -237,11 +272,6 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 0
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
     "kills": 0
   },
   {
@@ -380,11 +410,6 @@
     "kills": 0
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 0
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 0
@@ -425,11 +450,6 @@
     "kills": 0
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 0
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 0
@@ -467,11 +487,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -692,11 +707,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0
   },
   {
@@ -980,11 +990,6 @@
     "kills": 0
   },
   {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 0
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 0
@@ -1012,11 +1017,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0
   }
 ]
