@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2342
+    "kills": 2926
   },
   {
     "playerId": "20984454",
@@ -12,17 +12,22 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 139
+    "kills": 145
   },
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 99
+    "kills": 100
   },
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 86
+    "kills": 90
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 88
   },
   {
     "playerId": "8590474",
@@ -40,24 +45,34 @@
     "kills": 63
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 62
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 61
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 58
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 53
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 56
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 53
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 55
   },
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 50
+    "kills": 51
   },
   {
     "playerId": "22710399",
@@ -70,19 +85,9 @@
     "kills": 46
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 43
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 43
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 42
   },
   {
     "playerId": "22735235",
@@ -93,6 +98,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 35
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 33
   },
   {
     "playerId": "8084329",
@@ -120,6 +130,11 @@
     "kills": 26
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 24
+  },
+  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 24
@@ -127,6 +142,11 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
+    "kills": 23
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
     "kills": 23
   },
   {
@@ -140,14 +160,14 @@
     "kills": 18
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
+    "playerId": "3990108",
+    "username": "Mandilindors",
     "kills": 17
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 15
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 17
   },
   {
     "playerId": "21231891",
@@ -180,6 +200,11 @@
     "kills": 3
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 2
+  },
+  {
     "playerId": "29695",
     "username": "77777",
     "kills": 2
@@ -195,13 +220,13 @@
     "kills": 2
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 1
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 1
   },
   {
@@ -267,11 +292,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
@@ -390,11 +410,6 @@
     "kills": 0
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 0
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 0
@@ -427,16 +442,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
     "kills": 0
   },
   {
@@ -832,11 +837,6 @@
   {
     "playerId": "4422058",
     "username": "YuriDior",
-    "kills": 0
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 0
   },
   {
