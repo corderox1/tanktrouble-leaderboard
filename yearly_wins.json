@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 135977
+    "kills": 136423
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 6457
+    "kills": 6493
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 2632
+    "kills": 2633
   },
   {
     "playerId": "10794529",
@@ -162,7 +162,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 981
+    "kills": 989
   },
   {
     "playerId": "21012136",
@@ -195,6 +195,11 @@
     "kills": 788
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 742
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 733
@@ -205,19 +210,14 @@
     "kills": 732
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 725
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 728
   },
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 706
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 703
   },
   {
     "playerId": "21708970",
@@ -292,7 +292,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 366
+    "kills": 367
   },
   {
     "playerId": "20011985",
@@ -307,7 +307,7 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 306
+    "kills": 316
   },
   {
     "playerId": "21098942",
@@ -365,6 +365,11 @@
     "kills": 191
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 177
+  },
+  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 160
@@ -385,14 +390,14 @@
     "kills": 135
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 135
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 132
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 131
   },
   {
     "playerId": "22081323",
@@ -403,11 +408,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 123
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
-    "kills": 120
   },
   {
     "playerId": "16874545",
@@ -435,14 +435,14 @@
     "kills": 100
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 100
+  },
+  {
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 88
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 85
   },
   {
     "playerId": "21967085",
@@ -465,6 +465,11 @@
     "kills": 68
   },
   {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 64
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 63
@@ -473,11 +478,6 @@
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 62
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
-    "kills": 53
   },
   {
     "playerId": "22105718",
