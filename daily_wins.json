@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1724
+    "kills": 1916
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 130
   },
   {
     "playerId": "13173087",
@@ -25,29 +30,24 @@
     "kills": 89
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 78
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 68
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 66
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 60
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 40
   },
   {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 39
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 36
   },
   {
     "playerId": "20270104",
@@ -58,6 +58,11 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 31
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 25
   },
   {
     "playerId": "22472796",
@@ -80,14 +85,14 @@
     "kills": 16
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 11
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 8
+    "kills": 9
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 9
   },
   {
     "playerId": "21109495",
@@ -115,13 +120,13 @@
     "kills": 2
   },
   {
-    "playerId": "1178991",
-    "username": "rehman",
-    "kills": 1
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 2
+  },
+  {
+    "playerId": "1178991",
+    "username": "rehman",
     "kills": 1
   },
   {
@@ -1007,11 +1012,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0
   },
   {

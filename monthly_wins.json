@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 85959
+    "kills": 86151
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 4070
+    "kills": 4134
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1614
+    "kills": 1618
   },
   {
     "playerId": "8899024",
@@ -102,7 +102,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 908
+    "kills": 922
   },
   {
     "playerId": "20270104",
@@ -185,6 +185,11 @@
     "kills": 453
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 412
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 405
@@ -198,11 +203,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 404
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 394
   },
   {
     "playerId": "13773720",
@@ -232,7 +232,7 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 301
+    "kills": 302
   },
   {
     "playerId": "21098942",
@@ -285,14 +285,14 @@
     "kills": 198
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 187
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 184
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 178
   },
   {
     "playerId": "22735235",
@@ -535,13 +535,13 @@
     "kills": 5
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 4
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 5
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 4
   },
   {
