@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11395
+    "kills": 11713
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 331
+    "kills": 388
   },
   {
     "playerId": "21700920",
@@ -33,6 +33,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 248
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 239
   },
   {
     "playerId": "10794529",
@@ -58,11 +63,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 182
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 180
   },
   {
     "playerId": "22735235",
@@ -115,14 +115,14 @@
     "kills": 125
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 120
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 108
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 100
   },
   {
     "playerId": "21673346",
@@ -187,7 +187,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 53
+    "kills": 55
   },
   {
     "playerId": "4381511",
@@ -315,13 +315,13 @@
     "kills": 3
   },
   {
-    "playerId": "29695",
-    "username": "77777",
-    "kills": 2
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 3
+  },
+  {
+    "playerId": "29695",
+    "username": "77777",
     "kills": 2
   },
   {

@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2049
+    "kills": 2367
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 141
+    "kills": 198
   },
   {
     "playerId": "13173087",
@@ -30,6 +30,11 @@
     "kills": 96
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 94
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 89
@@ -50,11 +55,6 @@
     "kills": 39
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 35
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 31
@@ -68,6 +68,11 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 22
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 20
   },
   {
     "playerId": "19726920",
@@ -85,6 +90,11 @@
     "kills": 16
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 10
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 9
@@ -93,11 +103,6 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 9
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 8
   },
   {
     "playerId": "21109495",
@@ -120,13 +125,13 @@
     "kills": 3
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 2
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 3
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
     "kills": 2
   },
   {
@@ -397,11 +402,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
