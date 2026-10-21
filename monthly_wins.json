@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 83575
+    "kills": 84235
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2765
+    "kills": 2787
   },
   {
     "playerId": "14892840",
@@ -72,7 +72,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1077
+    "kills": 1092
   },
   {
     "playerId": "1051525",
@@ -280,6 +280,11 @@
     "kills": 198
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 184
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 178
@@ -288,11 +293,6 @@
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 170
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 165
   },
   {
     "playerId": "21932847",
@@ -315,13 +315,13 @@
     "kills": 139
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 131
-  },
-  {
     "playerId": "22735235",
     "username": "wo0",
+    "kills": 133
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
     "kills": 131
   },
   {
@@ -375,6 +375,11 @@
     "kills": 97
   },
   {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 97
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 95
@@ -383,11 +388,6 @@
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 90
-  },
-  {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 73
   },
   {
     "playerId": "19768925",
