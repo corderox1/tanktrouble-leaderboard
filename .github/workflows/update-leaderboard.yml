@@ -1,9 +1,6 @@
 name: Update Leaderboard
 
 on:
-  schedule:
-  - cron: '4,14,24,34,44,54 * * * *'
-    timezone: "America/Chicago"
   workflow_dispatch:
 
 permissions:
@@ -33,20 +30,10 @@ jobs:
 
       - name: Check whether an update is due
         id: check
-        env:
-          EVENT_NAME: ${{ github.event_name }}
         run: |
           python - <<'PY'
           import json
-          import os
           from datetime import datetime, timezone
-
-          # Manual runs always update immediately.
-          if os.environ["EVENT_NAME"] == "workflow_dispatch":
-              print("Manual run - update required.")
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("should_update=true\n")
-              raise SystemExit
 
           try:
               with open("last_updated.json", "r") as f:
@@ -56,12 +43,12 @@ jobs:
                   data["lastUpdated"]
               )
 
-              now = datetime.now(timezone.utc)
-
               if last_updated.tzinfo is None:
                   last_updated = last_updated.replace(
                       tzinfo=timezone.utc
                   )
+
+              now = datetime.now(timezone.utc)
 
               minutes_since_update = (
                   now - last_updated.astimezone(timezone.utc)
@@ -72,7 +59,6 @@ jobs:
                   f"{minutes_since_update:.1f}"
               )
 
-              # Allow another update after 50 minutes.
               if minutes_since_update >= 50:
                   print("Update is due.")
                   should_update = "true"
@@ -81,16 +67,14 @@ jobs:
                   should_update = "false"
 
           except (FileNotFoundError, KeyError, ValueError) as e:
-              print(
-                  f"Could not read last_updated.json: {e}"
-              )
-              print("No reliable update time found.")
+              print(f"Could not read last_updated.json: {e}")
+              print("Running update.")
               should_update = "true"
 
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write(
-                  f"should_update={should_update}\n"
-              )
+          with open(
+              __import__("os").environ["GITHUB_OUTPUT"], "a"
+          ) as f:
+              f.write(f"should_update={should_update}\n")
           PY
 
       - name: Update leaderboard
@@ -119,10 +103,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update leaderboard"
-
-            # Make sure we have the latest main before pushing.
             git pull --rebase origin main
-
             git push origin HEAD:main
           else
             echo "No changes to commit."
@@ -132,4 +113,4 @@ jobs:
         if: steps.check.outputs.should_update != 'true'
         run: |
           echo "Leaderboard update is not due yet."
-          echo "GitHub will check again within 5 minutes."
+          echo "Cloudflare will trigger another check soon."
