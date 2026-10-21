@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2389,
-    "lastKill": "2026-10-21 11:38:51"
+    "kills": 2543,
+    "lastKill": "2026-10-21 12:32:59"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 210,
-    "lastKill": "2026-10-21 10:41:41"
+    "kills": 218,
+    "lastKill": "2026-10-21 12:32:59"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 163,
-    "lastKill": "2026-10-21 11:38:51"
+    "kills": 185,
+    "lastKill": "2026-10-21 12:32:59"
   },
   {
     "playerId": "21673346",
@@ -36,15 +36,15 @@
     "lastKill": "2026-10-21 09:46:54"
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 107,
+    "lastKill": "2026-10-21 12:32:59"
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 105,
-    "lastKill": "2026-10-21 11:38:51"
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 92,
     "lastKill": "2026-10-21 11:38:51"
   },
   {
@@ -132,10 +132,22 @@
     "lastKill": "2026-10-21 09:46:54"
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 11,
+    "lastKill": "2026-10-21 12:32:59"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 6,
     "lastKill": "2026-10-21 09:46:54"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 3,
+    "lastKill": "2026-10-21 12:32:59"
   },
   {
     "playerId": "15931599",
@@ -786,12 +798,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0,
@@ -1130,12 +1136,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 0,
     "lastKill": null
   },
