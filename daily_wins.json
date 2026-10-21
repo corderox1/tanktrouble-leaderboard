@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3056
+    "kills": 3364
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 196
+    "kills": 239
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 131
   },
   {
     "playerId": "20270104",
@@ -20,14 +25,14 @@
     "kills": 122
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 111
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 108
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 107
   },
   {
     "playerId": "21673346",
@@ -55,14 +60,14 @@
     "kills": 68
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 67
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 66
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 65
   },
   {
     "playerId": "22077521",
@@ -100,11 +105,6 @@
     "kills": 33
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 24
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 22
@@ -132,7 +132,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 12
+    "kills": 16
   },
   {
     "playerId": "21614515",
@@ -155,6 +155,16 @@
     "kills": 9
   },
   {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 6
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 5
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 5
@@ -175,6 +185,11 @@
     "kills": 3
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 2
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 2
@@ -183,6 +198,11 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 2
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 1
   },
   {
     "playerId": "1178991",
@@ -230,11 +250,6 @@
     "kills": 0
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 0
-  },
-  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 0
@@ -265,11 +280,6 @@
     "kills": 0
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0
@@ -287,11 +297,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
@@ -407,11 +412,6 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 0
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0
   },
   {

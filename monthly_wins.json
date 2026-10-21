@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 87291
+    "kills": 87599
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 3301
+    "kills": 3344
   },
   {
     "playerId": "20666777",
@@ -27,12 +27,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2029
+    "kills": 2030
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1645
+    "kills": 1685
   },
   {
     "playerId": "21601349",
@@ -42,7 +42,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1574
+    "kills": 1594
   },
   {
     "playerId": "8899024",
@@ -62,7 +62,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1147
+    "kills": 1151
   },
   {
     "playerId": "22472796",
@@ -325,6 +325,11 @@
     "kills": 131
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 127
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 127
@@ -370,14 +375,14 @@
     "kills": 105
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
+    "playerId": "17953682",
+    "username": "hohi",
     "kills": 99
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 97
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 99
   },
   {
     "playerId": "22801100",
@@ -395,11 +400,6 @@
     "kills": 90
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 86
-  },
-  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 72
@@ -412,7 +412,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 66
+    "kills": 71
   },
   {
     "playerId": "21231891",
@@ -445,14 +445,14 @@
     "kills": 49
   },
   {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 45
+  },
+  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 43
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
-    "kills": 39
   },
   {
     "playerId": "21957440",
