@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5165,
-    "lastKill": "2026-10-21 21:51:39"
+    "kills": 5353,
+    "lastKill": "2026-10-21 22:47:56"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 531,
-    "lastKill": "2026-10-21 20:56:31"
+    "kills": 602,
+    "lastKill": "2026-10-21 22:47:56"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 521,
-    "lastKill": "2026-10-21 21:51:39"
+    "kills": 594,
+    "lastKill": "2026-10-21 22:47:56"
   },
   {
     "playerId": "17629928",
@@ -90,6 +90,12 @@
     "lastKill": "2026-10-21 09:46:54"
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 87,
+    "lastKill": "2026-10-21 22:47:56"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 84,
@@ -112,6 +118,12 @@
     "username": "x",
     "kills": 74,
     "lastKill": "2026-10-21 20:01:43"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 73,
+    "lastKill": "2026-10-21 22:47:56"
   },
   {
     "playerId": "16874545",
@@ -226,12 +238,6 @@
     "username": "L_Shy_P",
     "kills": 12,
     "lastKill": "2026-10-21 09:46:54"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 10,
-    "lastKill": "2026-10-21 21:51:39"
   },
   {
     "playerId": "6776098",
@@ -1184,12 +1190,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },
