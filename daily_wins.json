@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 862
+    "kills": 1245
+  },
+  {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 64
   },
   {
     "playerId": "22694251",
@@ -15,14 +20,14 @@
     "kills": 37
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 35
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 33
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 19
   },
   {
     "playerId": "22809750",
@@ -30,8 +35,18 @@
     "kills": 11
   },
   {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 5
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
+    "kills": 4
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 4
   },
   {
@@ -372,11 +387,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0
   },
   {
@@ -975,11 +985,6 @@
     "kills": 0
   },
   {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 0
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 0
@@ -997,11 +1002,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
     "kills": 0
   },
   {
