@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16464
+    "kills": 16832
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 319
+    "kills": 320
   },
   {
     "playerId": "4142755",
@@ -52,7 +52,12 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 293
+    "kills": 299
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 294
   },
   {
     "playerId": "20984454",
@@ -65,14 +70,9 @@
     "kills": 281
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 275
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 229
+    "kills": 252
   },
   {
     "playerId": "22077521",
@@ -100,14 +100,14 @@
     "kills": 198
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 183
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 182
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 169
   },
   {
     "playerId": "8899024",
@@ -285,6 +285,11 @@
     "kills": 18
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 17
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 17
@@ -308,11 +313,6 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 7
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 6
   },
   {
     "playerId": "15931599",
@@ -352,6 +352,11 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
+    "kills": 1
+  },
+  {
+    "playerId": "20101050",
+    "username": "Brainrot",
     "kills": 1
   },
   {
@@ -837,11 +842,6 @@
   {
     "playerId": "13327781",
     "username": "rickgrimes",
-    "kills": 0
-  },
-  {
-    "playerId": "20101050",
-    "username": "Brainrot",
     "kills": 0
   },
   {

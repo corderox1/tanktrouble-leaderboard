@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2733
+    "kills": 3101
   },
   {
     "playerId": "22809750",
@@ -12,7 +12,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 112
+    "kills": 118
   },
   {
     "playerId": "19068893",
@@ -25,19 +25,24 @@
     "kills": 85
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 81
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 77
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 58
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 44
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 40
   },
   {
     "playerId": "20270104",
@@ -85,11 +90,6 @@
     "kills": 25
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 21
-  },
-  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 19
@@ -97,12 +97,22 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 18
+    "kills": 19
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 18
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 15
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 11
   },
   {
     "playerId": "17953682",
@@ -135,13 +145,13 @@
     "kills": 1
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
+    "playerId": "20101050",
+    "username": "Brainrot",
     "kills": 1
   },
   {
@@ -232,11 +242,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
@@ -752,11 +757,6 @@
   {
     "playerId": "8084329",
     "username": "Cicada3301",
-    "kills": 0
-  },
-  {
-    "playerId": "20101050",
-    "username": "Brainrot",
     "kills": 0
   },
   {
