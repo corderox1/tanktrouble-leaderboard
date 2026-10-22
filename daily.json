@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1817,
-    "lastKill": "2026-10-22 07:07:43"
+    "kills": 2040,
+    "lastKill": "2026-10-22 08:03:09"
   },
   {
     "playerId": "22694251",
@@ -48,6 +48,24 @@
     "lastKill": "2026-10-22 04:22:26"
   },
   {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 33,
+    "lastKill": "2026-10-22 08:03:09"
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 25,
+    "lastKill": "2026-10-22 08:03:09"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 20,
+    "lastKill": "2026-10-22 08:03:09"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 6,
@@ -56,12 +74,6 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 6,
-    "lastKill": "2026-10-22 05:16:59"
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
     "kills": 6,
     "lastKill": "2026-10-22 05:16:59"
   },
@@ -76,12 +88,6 @@
     "username": "Rapid",
     "kills": 5,
     "lastKill": "2026-10-22 03:27:46"
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 2,
-    "lastKill": "2026-10-22 07:07:43"
   },
   {
     "playerId": "15931599",
@@ -284,12 +290,6 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
     "kills": 0,
     "lastKill": null
   },
