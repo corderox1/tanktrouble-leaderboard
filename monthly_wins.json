@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 92607
+    "kills": 92844
   },
   {
     "playerId": "8590474",
@@ -27,22 +27,22 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2086
+    "kills": 2096
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 1806
+    "kills": 1813
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1677
+    "kills": 1684
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1622
+    "kills": 1627
   },
   {
     "playerId": "8899024",
@@ -57,12 +57,12 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 1272
+    "kills": 1300
   },
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1163
+    "kills": 1170
   },
   {
     "playerId": "22472796",
@@ -205,13 +205,13 @@
     "kills": 408
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 405
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 406
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
     "kills": 405
   },
   {
@@ -332,7 +332,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 133
+    "kills": 136
   },
   {
     "playerId": "17136803",
@@ -463,6 +463,11 @@
     "playerId": "8084329",
     "username": "Cicada3301",
     "kills": 31
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 28
   },
   {
     "playerId": "9184666",
@@ -947,11 +952,6 @@
   {
     "playerId": "7936247",
     "username": "98Flow",
-    "kills": 0
-  },
-  {
-    "playerId": "8478955",
-    "username": "Boagrius",
     "kills": 0
   },
   {

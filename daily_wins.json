@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3987
+    "kills": 4224
   },
   {
     "playerId": "22809750",
@@ -27,7 +27,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 87
+    "kills": 94
   },
   {
     "playerId": "22801100",
@@ -40,14 +40,14 @@
     "kills": 77
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 57
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 56
+    "kills": 66
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 64
   },
   {
     "playerId": "22472796",
@@ -85,6 +85,16 @@
     "kills": 32
   },
   {
+    "playerId": "20297710",
+    "username": "KD419",
+    "kills": 30
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 28
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 26
@@ -120,9 +130,19 @@
     "kills": 19
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 19
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 18
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 17
   },
   {
     "playerId": "8408190",
@@ -140,19 +160,9 @@
     "kills": 13
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 12
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 12
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 6
+    "kills": 9
   },
   {
     "playerId": "19932455",
@@ -180,11 +190,6 @@
     "kills": 2
   },
   {
-    "playerId": "20297710",
-    "username": "KD419",
-    "kills": 2
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 2
@@ -207,6 +212,11 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
+    "kills": 1
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 1
   },
   {
@@ -835,11 +845,6 @@
     "kills": 0
   },
   {
-    "playerId": "8478955",
-    "username": "Boagrius",
-    "kills": 0
-  },
-  {
     "playerId": "972806",
     "username": "missile123",
     "kills": 0
@@ -927,11 +932,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0
   },
   {
