@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17405
+    "kills": 17566
   },
   {
     "playerId": "13173087",
@@ -25,6 +25,11 @@
     "kills": 347
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 331
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 327
@@ -35,14 +40,9 @@
     "kills": 324
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 324
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 307
+    "kills": 309
   },
   {
     "playerId": "20270104",
@@ -72,17 +72,22 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 276
+    "kills": 281
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 238
+    "kills": 274
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 229
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 225
   },
   {
     "playerId": "3990108",
@@ -100,14 +105,9 @@
     "kills": 198
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 193
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 182
+    "kills": 185
   },
   {
     "playerId": "8899024",
@@ -305,6 +305,11 @@
     "kills": 12
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 12
+  },
+  {
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 12
@@ -338,6 +343,11 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 3
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 2
   },
   {
     "playerId": "29695",
@@ -517,11 +527,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0
   },
   {
@@ -862,11 +867,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 0
   },
   {

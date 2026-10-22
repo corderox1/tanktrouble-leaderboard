@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3674
+    "kills": 3835
   },
   {
     "playerId": "22809750",
@@ -17,7 +17,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 105
+    "kills": 110
   },
   {
     "playerId": "19068893",
@@ -37,7 +37,17 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 70
+    "kills": 77
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 57
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 50
   },
   {
     "playerId": "22472796",
@@ -90,11 +100,6 @@
     "kills": 26
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 25
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 23
@@ -120,14 +125,14 @@
     "kills": 16
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 14
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 13
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 12
   },
   {
     "playerId": "14892840",
@@ -145,8 +150,23 @@
     "kills": 3
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 3
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
+    "kills": 2
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 2
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 2
   },
   {
@@ -237,11 +257,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
@@ -370,11 +385,6 @@
     "kills": 0
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 0
-  },
-  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 0
@@ -437,11 +447,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -782,11 +787,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 0
   },
   {
