@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 231,
-    "lastKill": "2026-10-22 01:33:58"
+    "kills": 380,
+    "lastKill": "2026-10-22 02:32:48"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 108,
+    "lastKill": "2026-10-22 02:32:48"
   },
   {
     "playerId": "22809750",
@@ -12,10 +18,22 @@
     "lastKill": "2026-10-22 01:33:58"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 12,
+    "lastKill": "2026-10-22 02:32:48"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 6,
     "lastKill": "2026-10-22 01:33:58"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 2,
+    "lastKill": "2026-10-22 02:32:48"
   },
   {
     "playerId": "22710399",
@@ -134,12 +152,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -428,12 +440,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0,
     "lastKill": null
   },
@@ -854,12 +860,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },
