@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35269372,
-    "kills": 44382041,
-    "deaths": 41850059,
-    "suicides": 9398451,
+    "victories": 35269600,
+    "kills": 44382281,
+    "deaths": 41850269,
+    "suicides": 9398498,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -492,10 +492,10 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "victories": 22301,
-    "kills": 40280,
-    "deaths": 84330,
-    "suicides": 19616,
+    "victories": 22304,
+    "kills": 40283,
+    "deaths": 84342,
+    "suicides": 19617,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -884,10 +884,10 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "victories": 20919,
-    "kills": 31631,
-    "deaths": 35409,
-    "suicides": 8332,
+    "victories": 20962,
+    "kills": 31677,
+    "deaths": 35460,
+    "suicides": 8346,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 6505,
-    "kills": 10940,
-    "deaths": 6415,
-    "suicides": 2403,
+    "victories": 6508,
+    "kills": 10956,
+    "deaths": 6420,
+    "suicides": 2405,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9010,7 +9010,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1625330278,
-    "lastLogin": 1792629054,
+    "lastLogin": 1792631136,
     "banned": false,
     "usernameApproved": true,
     "country": null
