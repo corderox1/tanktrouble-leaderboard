@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3101
+    "kills": 3498
   },
   {
     "playerId": "22809750",
@@ -35,14 +35,14 @@
     "kills": 77
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 44
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 40
+    "kills": 60
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 46
   },
   {
     "playerId": "20270104",
@@ -90,13 +90,13 @@
     "kills": 25
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 19
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
+    "kills": 23
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
     "kills": 19
   },
   {
@@ -105,19 +105,24 @@
     "kills": 18
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 16
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 15
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 11
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 9
+    "kills": 13
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 11
   },
   {
     "playerId": "14892840",
@@ -372,11 +377,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
