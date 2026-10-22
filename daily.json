@@ -2,26 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2764,
-    "lastKill": "2026-10-22 10:00:13"
+    "kills": 3078,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 218,
-    "lastKill": "2026-10-22 10:00:13"
+    "kills": 297,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 161,
-    "lastKill": "2026-10-22 10:00:13"
+    "kills": 189,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 110,
-    "lastKill": "2026-10-22 10:00:13"
+    "kills": 133,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "22801100",
@@ -30,16 +30,28 @@
     "lastKill": "2026-10-22 06:12:49"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 87,
+    "lastKill": "2026-10-22 10:58:19"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 86,
     "lastKill": "2026-10-22 05:16:59"
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
+    "playerId": "3990108",
+    "username": "Mandilindors",
     "kills": 74,
-    "lastKill": "2026-10-22 10:00:13"
+    "lastKill": "2026-10-22 10:58:19"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 72,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "8590474",
@@ -52,12 +64,6 @@
     "username": "-_zenin_-",
     "kills": 57,
     "lastKill": "2026-10-22 10:00:13"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 43,
-    "lastKill": "2026-10-22 07:07:43"
   },
   {
     "playerId": "21109495",
@@ -78,22 +84,40 @@
     "lastKill": "2026-10-22 04:22:26"
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 34,
-    "lastKill": "2026-10-22 10:00:13"
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 31,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 23,
-    "lastKill": "2026-10-22 09:03:54"
+    "kills": 25,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 9,
-    "lastKill": "2026-10-22 10:00:13"
+    "kills": 20,
+    "lastKill": "2026-10-22 10:58:19"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 14,
+    "lastKill": "2026-10-22 10:58:19"
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 11,
+    "lastKill": "2026-10-22 10:58:19"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 6,
+    "lastKill": "2026-10-22 10:58:19"
   },
   {
     "playerId": "6776098",
@@ -114,21 +138,9 @@
     "lastKill": "2026-10-22 03:27:46"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 4,
-    "lastKill": "2026-10-22 10:00:13"
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 4,
-    "lastKill": "2026-10-22 10:00:13"
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 2,
     "lastKill": "2026-10-22 10:00:13"
   },
   {
@@ -136,12 +148,6 @@
     "username": "SoftMagmaDriver",
     "kills": 1,
     "lastKill": "2026-10-22 06:12:49"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0,
-    "lastKill": null
   },
   {
     "playerId": "1145079",
@@ -1106,12 +1112,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 0,
     "lastKill": null
   },
