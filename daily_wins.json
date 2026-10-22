@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3498
+    "kills": 3674
   },
   {
     "playerId": "22809750",
@@ -15,6 +15,11 @@
     "kills": 118
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 105
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 101
@@ -25,11 +30,6 @@
     "kills": 85
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 81
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 77
@@ -37,12 +37,17 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 60
+    "kills": 70
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 46
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 45
   },
   {
     "playerId": "20270104",
@@ -62,7 +67,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 34
+    "kills": 35
   },
   {
     "playerId": "22710399",
@@ -85,8 +90,8 @@
     "kills": 26
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
+    "playerId": "21601349",
+    "username": "Lokirss",
     "kills": 25
   },
   {
@@ -110,19 +115,19 @@
     "kills": 16
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 15
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 16
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 14
   },
   {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 13
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 11
   },
   {
     "playerId": "14892840",
@@ -252,11 +257,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
