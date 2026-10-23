@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35274365,
-    "kills": 44388298,
-    "deaths": 41857731,
-    "suicides": 9399933,
+    "victories": 35274422,
+    "kills": 44388449,
+    "deaths": 41857933,
+    "suicides": 9399974,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -492,10 +492,10 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "victories": 22304,
-    "kills": 40283,
-    "deaths": 84342,
-    "suicides": 19617,
+    "victories": 22326,
+    "kills": 40318,
+    "deaths": 84403,
+    "suicides": 19626,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -533,7 +533,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707802021,
-    "lastLogin": 1792544866,
+    "lastLogin": 1792713099,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -837,7 +837,7 @@
     "username": "-Trippy-",
     "victories": 26121,
     "kills": 41323,
-    "deaths": 45324,
+    "deaths": 45329,
     "suicides": 9662,
     "experience": 907,
     "surrenders": 0,
@@ -2697,10 +2697,10 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 11850,
-    "kills": 23099,
-    "deaths": 22912,
-    "suicides": 4857,
+    "victories": 11888,
+    "kills": 23153,
+    "deaths": 22957,
+    "suicides": 4873,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66354,
-    "kills": 140015,
-    "deaths": 99322,
-    "suicides": 30843,
+    "victories": 66357,
+    "kills": 140020,
+    "deaths": 99329,
+    "suicides": 30845,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 6558,
-    "kills": 11121,
-    "deaths": 6535,
-    "suicides": 2438,
+    "victories": 6565,
+    "kills": 11149,
+    "deaths": 6554,
+    "suicides": 2447,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9010,7 +9010,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1625330278,
-    "lastLogin": 1792682085,
+    "lastLogin": 1792713382,
     "banned": false,
     "usernameApproved": true,
     "country": null
