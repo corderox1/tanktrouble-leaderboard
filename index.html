@@ -254,6 +254,13 @@
     box-shadow: 0 0 12px rgba(255, 212, 59, 0.25);
 }
 
+.reset-countdown {
+    margin-top: 5px;
+    color: #888;
+    font-size: 11px;
+    font-weight: normal;
+    line-height: 1;
+}        
         /* =========================
            LAIKA
         ========================= */
@@ -1456,6 +1463,7 @@
 
         <div class="card-title">
             ⚔️ Daily
+            <div class="reset-countdown" id="dailyReset">Resets in: --</div>
         </div>
 
         <div class="card-header">
@@ -1478,6 +1486,7 @@
 
         <div class="card-title">
             ⚔️ Weekly
+            <div class="reset-countdown" id="weeklyReset">Resets in: --</div>
         </div>
 
         <div class="card-header">
@@ -1500,6 +1509,7 @@
 
         <div class="card-title">
             ⚔️ Monthly
+            <div class="reset-countdown" id="monthlyReset">Resets in: --</div> 
         </div>
 
         <div class="card-header">
@@ -1522,6 +1532,7 @@
 
         <div class="card-title">
             🏆 Yearly
+            <div class="reset-countdown" id="yearlyReset">Resets in: --</div> 
         </div>
 
         <div class="card-header">
@@ -2144,6 +2155,230 @@ setInterval(checkForLeaderboardUpdate, 30000);
 */
 
 checkForLeaderboardUpdate();
+
+const LEADERBOARD_TIME_ZONE = "America/Chicago";
+
+function getChicagoParts(date) {
+    const formatter = new Intl.DateTimeFormat("en-US", {
+        timeZone: LEADERBOARD_TIME_ZONE,
+        year: "numeric",
+        month: "numeric",
+        day: "numeric"
+    });
+
+    const parts = formatter.formatToParts(date);
+    const values = {};
+
+    parts.forEach(part => {
+        if (part.type !== "literal") {
+            values[part.type] = Number(part.value);
+        }
+    });
+
+    return values;
+}
+
+function getChicagoOffsetMinutes(date) {
+    const formatter = new Intl.DateTimeFormat("en-US", {
+        timeZone: LEADERBOARD_TIME_ZONE,
+        timeZoneName: "shortOffset"
+    });
+
+    const parts = formatter.formatToParts(date);
+
+    const zone = parts.find(
+        part => part.type === "timeZoneName"
+    );
+
+    if (!zone) return 0;
+
+    const match = zone.value.match(
+        /GMT([+-])(\d{1,2})(?::(\d{2}))?/
+    );
+
+    if (!match) return 0;
+
+    const sign = match[1] === "-" ? -1 : 1;
+    const hours = Number(match[2]);
+    const minutes = Number(match[3] || 0);
+
+    return sign * (hours * 60 + minutes);
+}
+
+function chicagoMidnight(year, month, day) {
+    const utcGuess = Date.UTC(
+        year,
+        month - 1,
+        day,
+        0,
+        0,
+        0
+    );
+
+    let offset = getChicagoOffsetMinutes(
+        new Date(utcGuess)
+    );
+
+    let timestamp =
+        utcGuess -
+        offset * 60 * 1000;
+
+    offset = getChicagoOffsetMinutes(
+        new Date(timestamp)
+    );
+
+    timestamp =
+        utcGuess -
+        offset * 60 * 1000;
+
+    return new Date(timestamp);
+}
+
+function getNextLeaderboardReset(period) {
+    const now = new Date();
+    const chicago = getChicagoParts(now);
+
+    const year = chicago.year;
+    const month = chicago.month;
+    const day = chicago.day;
+
+    if (period === "daily") {
+        const tomorrow = new Date(
+            Date.UTC(
+                year,
+                month - 1,
+                day
+            )
+        );
+
+        tomorrow.setUTCDate(
+            tomorrow.getUTCDate() + 1
+        );
+
+        return chicagoMidnight(
+            tomorrow.getUTCFullYear(),
+            tomorrow.getUTCMonth() + 1,
+            tomorrow.getUTCDate()
+        );
+    }
+
+    if (period === "weekly") {
+        const currentDate = new Date(
+            Date.UTC(
+                year,
+                month - 1,
+                day
+            )
+        );
+
+        const dayOfWeek =
+            currentDate.getUTCDay();
+
+        let daysUntilMonday =
+            (8 - dayOfWeek) % 7;
+
+        if (daysUntilMonday === 0) {
+            daysUntilMonday = 7;
+        }
+
+        currentDate.setUTCDate(
+            currentDate.getUTCDate() +
+            daysUntilMonday
+        );
+
+        return chicagoMidnight(
+            currentDate.getUTCFullYear(),
+            currentDate.getUTCMonth() + 1,
+            currentDate.getUTCDate()
+        );
+    }
+
+    if (period === "monthly") {
+        let nextYear = year;
+        let nextMonth = month + 1;
+
+        if (nextMonth > 12) {
+            nextMonth = 1;
+            nextYear++;
+        }
+
+        return chicagoMidnight(
+            nextYear,
+            nextMonth,
+            1
+        );
+    }
+
+    if (period === "yearly") {
+        return chicagoMidnight(
+            year + 1,
+            1,
+            1
+        );
+    }
+}
+
+function formatResetCountdown(milliseconds) {
+    if (milliseconds <= 0) {
+        return "Resetting...";
+    }
+
+    let hours = Math.floor(
+        milliseconds / (1000 * 60 * 60)
+    );
+
+    const days = Math.floor(hours / 24);
+
+    hours %= 24;
+
+    if (days > 0) {
+        return days + "d " + hours + "h";
+    }
+
+    return hours + "h";
+}
+
+function updateLeaderboardResetCountdowns() {
+    const now = new Date();
+
+    const periods = [
+        "daily",
+        "weekly",
+        "monthly",
+        "yearly"
+    ];
+
+    periods.forEach(period => {
+        const resetTime =
+            getNextLeaderboardReset(period);
+
+        const remaining =
+            resetTime.getTime() -
+            now.getTime();
+
+        const element =
+            document.getElementById(
+                period + "Reset"
+            );
+
+        if (!element) {
+            return;
+        }
+
+        element.textContent =
+            "Resets in: " +
+            formatResetCountdown(
+                remaining
+            );
+    });
+}
+
+updateLeaderboardResetCountdowns();
+
+setInterval(
+    updateLeaderboardResetCountdowns,
+    1000
+);
 
         /* =========================
            START
