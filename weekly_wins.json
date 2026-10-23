@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22176
+    "kills": 22336
   },
   {
     "playerId": "13173087",
@@ -12,12 +12,17 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 826
+    "kills": 831
   },
   {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 523
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 451
   },
   {
     "playerId": "20666777",
@@ -30,11 +35,6 @@
     "kills": 385
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 381
-  },
-  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 372
@@ -42,17 +42,17 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 361
+    "kills": 367
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 342
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 335
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 330
   },
   {
     "playerId": "21700920",
@@ -90,14 +90,14 @@
     "kills": 273
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 271
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 261
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 252
   },
   {
     "playerId": "21601349",
@@ -112,7 +112,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 211
+    "kills": 212
   },
   {
     "playerId": "21012136",
@@ -220,19 +220,19 @@
     "kills": 72
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 69
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 68
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 66
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 62
+    "kills": 65
   },
   {
     "playerId": "20111777",
@@ -355,13 +355,13 @@
     "kills": 6
   },
   {
-    "playerId": "7559374",
-    "username": "Catalyst",
-    "kills": 4
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 5
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
     "kills": 4
   },
   {

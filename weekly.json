@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 27888,
-    "lastKill": "2026-10-23 14:25:44"
+    "kills": 28172,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "13173087",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1463,
-    "lastKill": "2026-10-23 13:28:56"
+    "kills": 1482,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "21700920",
@@ -32,20 +32,20 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 883,
-    "lastKill": "2026-10-23 14:25:44"
+    "kills": 897,
+    "lastKill": "2026-10-23 15:23:17"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 843,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 795,
     "lastKill": "2026-10-23 13:28:56"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 752,
-    "lastKill": "2026-10-23 14:25:44"
   },
   {
     "playerId": "20666777",
@@ -78,34 +78,34 @@
     "lastKill": "2026-10-22 09:03:54"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 488,
+    "lastKill": "2026-10-23 15:23:17"
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 482,
+    "lastKill": "2026-10-23 15:23:17"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 480,
     "lastKill": "2026-10-23 11:27:28"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 474,
-    "lastKill": "2026-10-23 14:25:44"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 428,
-    "lastKill": "2026-10-23 14:25:44"
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 416,
-    "lastKill": "2026-10-22 18:26:50"
+    "kills": 418,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 385,
-    "lastKill": "2026-10-22 10:58:19"
+    "kills": 391,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "21465536",
@@ -222,10 +222,22 @@
     "lastKill": "2026-10-21 20:01:43"
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 131,
+    "lastKill": "2026-10-23 15:23:17"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 128,
     "lastKill": "2026-10-23 13:28:56"
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 125,
+    "lastKill": "2026-10-23 15:23:17"
   },
   {
     "playerId": "3923647",
@@ -236,12 +248,6 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 117,
-    "lastKill": "2026-10-23 14:25:44"
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 117,
     "lastKill": "2026-10-23 14:25:44"
   },
@@ -274,12 +280,6 @@
     "username": "Trizz",
     "kills": 109,
     "lastKill": "2026-10-20 10:32:07"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 108,
-    "lastKill": "2026-10-22 16:37:29"
   },
   {
     "playerId": "21452912",
@@ -432,6 +432,12 @@
     "lastKill": "2026-10-20 13:41:52"
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 6,
+    "lastKill": "2026-10-23 15:23:17"
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 6,
@@ -442,12 +448,6 @@
     "username": "NoonooKJ",
     "kills": 5,
     "lastKill": "2026-10-23 14:25:44"
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 5,
-    "lastKill": "2026-10-21 14:23:10"
   },
   {
     "playerId": "793356",

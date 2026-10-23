@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3313
+    "kills": 3473
   },
   {
     "playerId": "13173087",
@@ -20,6 +20,11 @@
     "kills": 111
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 103
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 102
@@ -32,16 +37,16 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 80
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 62
+    "kills": 85
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 68
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
     "kills": 62
   },
   {
@@ -57,7 +62,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 40
+    "kills": 52
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 42
   },
   {
     "playerId": "21178768",
@@ -70,11 +80,6 @@
     "kills": 38
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 33
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 29
@@ -83,11 +88,6 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 25
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 23
   },
   {
     "playerId": "19425584",
@@ -100,6 +100,11 @@
     "kills": 19
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 15
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 14
@@ -108,11 +113,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 13
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 12
   },
   {
     "playerId": "12222122",
@@ -145,6 +145,11 @@
     "kills": 3
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 3
+  },
+  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 3
@@ -170,8 +175,18 @@
     "kills": 1
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 1
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
+    "kills": 1
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 1
   },
   {
@@ -357,11 +372,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0
   },
   {
@@ -655,11 +665,6 @@
     "kills": 0
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 0
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0
@@ -877,11 +882,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {

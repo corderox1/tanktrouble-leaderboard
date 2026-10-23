@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 152530
+    "kills": 152690
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 7194
+    "kills": 7199
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2568
+    "kills": 2580
   },
   {
     "playerId": "22716354",
@@ -57,12 +57,12 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2317
+    "kills": 2387
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2159
+    "kills": 2165
   },
   {
     "playerId": "14617724",
@@ -102,7 +102,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 1523
+    "kills": 1524
   },
   {
     "playerId": "20984454",
@@ -110,14 +110,14 @@
     "kills": 1407
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1395
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 1390
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1376
   },
   {
     "playerId": "22472796",
@@ -202,7 +202,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 850
+    "kills": 853
   },
   {
     "playerId": "20269995",
@@ -275,6 +275,11 @@
     "kills": 422
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 420
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 418
@@ -283,11 +288,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 418
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 417
   },
   {
     "playerId": "21797119",
@@ -590,14 +590,14 @@
     "kills": 8
   },
   {
-    "playerId": "22752688",
-    "username": "Corderos",
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 8
   },
   {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 7
+    "playerId": "22752688",
+    "username": "Corderos",
+    "kills": 8
   },
   {
     "playerId": "16202507",
