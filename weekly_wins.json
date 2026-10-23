@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18669
+    "kills": 18863
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 407
+    "kills": 412
   },
   {
     "playerId": "17629928",
@@ -82,7 +82,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 235
+    "kills": 272
   },
   {
     "playerId": "21601349",
@@ -145,6 +145,16 @@
     "kills": 123
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 111
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 105
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 99
@@ -183,16 +193,6 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 78
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 78
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 75
   },
   {
     "playerId": "17953682",
@@ -292,12 +292,17 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 22
+    "kills": 25
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 20
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 18
   },
   {
     "playerId": "19726920",
@@ -320,9 +325,19 @@
     "kills": 17
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 17
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 14
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 12
   },
   {
     "playerId": "21797119",
@@ -333,16 +348,6 @@
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 12
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 7
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 7
   },
   {
     "playerId": "15931599",
@@ -358,11 +363,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 4
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 3
   },
   {
     "playerId": "29695",
