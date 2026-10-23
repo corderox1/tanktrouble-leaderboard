@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18582
+    "kills": 18669
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 734
+    "kills": 746
   },
   {
     "playerId": "22809750",
@@ -80,6 +80,11 @@
     "kills": 281
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 235
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 232
@@ -108,11 +113,6 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 198
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 175
   },
   {
     "playerId": "14617724",
@@ -185,6 +185,16 @@
     "kills": 78
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 78
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 75
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 73
@@ -220,11 +230,6 @@
     "kills": 57
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 55
-  },
-  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 50
@@ -238,11 +243,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 43
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 42
   },
   {
     "playerId": "6776098",
@@ -340,14 +340,14 @@
     "kills": 7
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 7
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 6
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 5
   },
   {
     "playerId": "7559374",

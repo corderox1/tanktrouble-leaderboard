@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23535,
-    "lastKill": "2026-10-22 22:12:52"
+    "kills": 23710,
+    "lastKill": "2026-10-22 23:12:51"
   },
   {
     "playerId": "13173087",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1283,
-    "lastKill": "2026-10-22 22:12:52"
+    "kills": 1299,
+    "lastKill": "2026-10-22 23:12:51"
   },
   {
     "playerId": "21700920",
@@ -48,6 +48,12 @@
     "lastKill": "2026-10-22 17:32:26"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 520,
+    "lastKill": "2026-10-22 23:12:51"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 518,
@@ -76,12 +82,6 @@
     "username": "-Trippy-",
     "kills": 416,
     "lastKill": "2026-10-22 18:26:50"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 389,
-    "lastKill": "2026-10-22 22:12:52"
   },
   {
     "playerId": "3990108",
@@ -276,6 +276,12 @@
     "lastKill": "2026-10-20 10:32:07"
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 88,
+    "lastKill": "2026-10-22 23:12:51"
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 88,
@@ -304,6 +310,12 @@
     "username": "frogcatchflies",
     "kills": 81,
     "lastKill": "2026-10-22 22:12:52"
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 80,
+    "lastKill": "2026-10-22 23:12:51"
   },
   {
     "playerId": "706234",
@@ -342,22 +354,10 @@
     "lastKill": "2026-10-21 09:46:54"
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 57,
-    "lastKill": "2026-10-20 01:38:06"
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 54,
     "lastKill": "2026-10-21 19:06:58"
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 42,
-    "lastKill": "2026-10-19 20:13:13"
   },
   {
     "playerId": "16736853",
@@ -432,6 +432,12 @@
     "lastKill": "2026-10-21 14:23:10"
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 3,
+    "lastKill": "2026-10-22 23:12:51"
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 2,
@@ -454,12 +460,6 @@
     "username": "Brainrot",
     "kills": 2,
     "lastKill": "2026-10-22 12:48:55"
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
-    "kills": 2,
-    "lastKill": "2026-10-21 09:46:54"
   },
   {
     "playerId": "12331664",
