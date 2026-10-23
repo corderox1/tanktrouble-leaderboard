@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4554,
-    "lastKill": "2026-10-23 17:13:00"
+    "kills": 4708,
+    "lastKill": "2026-10-23 18:08:31"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 277,
+    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 261,
     "lastKill": "2026-10-23 16:17:50"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 253,
-    "lastKill": "2026-10-23 17:13:00"
   },
   {
     "playerId": "22077521",
@@ -30,16 +30,22 @@
     "lastKill": "2026-10-23 16:17:50"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 214,
+    "lastKill": "2026-10-23 18:08:31"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 188,
     "lastKill": "2026-10-23 13:28:56"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 144,
-    "lastKill": "2026-10-23 17:13:00"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 170,
+    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "13173087",
@@ -76,12 +82,6 @@
     "username": "Mandilindors",
     "kills": 104,
     "lastKill": "2026-10-23 16:17:50"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 94,
-    "lastKill": "2026-10-23 17:13:00"
   },
   {
     "playerId": "14892840",
@@ -128,8 +128,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 45,
-    "lastKill": "2026-10-23 16:17:50"
+    "kills": 46,
+    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "19425584",
@@ -142,6 +142,12 @@
     "username": "MACHOSOLTERO",
     "kills": 39,
     "lastKill": "2026-10-23 15:23:17"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 37,
+    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "12222122",
@@ -220,6 +226,12 @@
     "username": "Rlyc4n",
     "kills": 2,
     "lastKill": "2026-10-23 12:23:15"
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 1,
+    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "8779272",
@@ -414,12 +426,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "20644558",
     "username": "x",
     "kills": 0,
@@ -578,12 +584,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },

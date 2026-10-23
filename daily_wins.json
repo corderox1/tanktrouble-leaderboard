@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3809
+    "kills": 3952
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 167
+    "kills": 184
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 143
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 142
   },
   {
     "playerId": "22716354",
@@ -45,9 +50,9 @@
     "kills": 102
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 86
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 97
   },
   {
     "playerId": "22694251",
@@ -90,14 +95,9 @@
     "kills": 38
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 30
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 29
+    "kills": 30
   },
   {
     "playerId": "21614515",
@@ -117,6 +117,11 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
+    "kills": 20
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 20
   },
   {
@@ -482,11 +487,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
