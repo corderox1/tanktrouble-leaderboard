@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19499
+    "kills": 19695
   },
   {
     "playerId": "13173087",
@@ -18,6 +18,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 501
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 378
   },
   {
     "playerId": "17629928",
@@ -38,11 +43,6 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 335
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 327
   },
   {
     "playerId": "21700920",
@@ -95,6 +95,11 @@
     "kills": 229
   },
   {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 214
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 211
@@ -108,11 +113,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 201
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
-    "kills": 198
   },
   {
     "playerId": "14617724",
@@ -250,14 +250,14 @@
     "kills": 50
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 45
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 43
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 39
   },
   {
     "playerId": "21940268",
