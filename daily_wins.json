@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4496
+    "kills": 4672
   },
   {
     "playerId": "22809750",
@@ -80,6 +80,11 @@
     "kills": 37
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 37
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 35
@@ -112,11 +117,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 26
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 26
   },
   {
@@ -185,8 +185,18 @@
     "kills": 4
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 4
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 3
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 3
   },
   {
@@ -217,11 +227,6 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
-    "kills": 1
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 1
   },
   {
@@ -372,11 +377,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0
   },
   {

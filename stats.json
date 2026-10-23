@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35274580,
-    "kills": 44388598,
-    "deaths": 41858080,
-    "suicides": 9400008,
+    "victories": 35274756,
+    "kills": 44388791,
+    "deaths": 41858366,
+    "suicides": 9400062,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 1,
+    "rank": 23,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1792711332,
+    "lastLogin": 1792719948,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1792717688,
+    "lastLogin": 1792718933,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4511,
-    "kills": 9474,
-    "deaths": 8610,
-    "suicides": 1881,
+    "victories": 4514,
+    "kills": 9490,
+    "deaths": 8624,
+    "suicides": 1886,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2346,7 +2346,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778931494,
-    "lastLogin": 1791671384,
+    "lastLogin": 1792721217,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 18939,
-    "kills": 27294,
-    "deaths": 22926,
-    "suicides": 6076,
+    "victories": 18950,
+    "kills": 27314,
+    "deaths": 22959,
+    "suicides": 6082,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1792692980,
+    "lastLogin": 1792720250,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1792644038,
+    "lastLogin": 1792718582,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3779,
-    "kills": 7997,
-    "deaths": 10373,
-    "suicides": 3087,
+    "victories": 3782,
+    "kills": 8014,
+    "deaths": 10387,
+    "suicides": 3091,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {

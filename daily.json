@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5628,
-    "lastKill": "2026-10-22 20:18:18"
+    "kills": 5821,
+    "lastKill": "2026-10-22 21:17:49"
   },
   {
     "playerId": "22809750",
@@ -84,6 +84,12 @@
     "lastKill": "2026-10-22 20:18:18"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 79,
+    "lastKill": "2026-10-22 21:17:49"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 74,
@@ -106,12 +112,6 @@
     "username": "-Trippy-",
     "kills": 61,
     "lastKill": "2026-10-22 18:26:50"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 59,
-    "lastKill": "2026-10-22 10:00:13"
   },
   {
     "playerId": "2574833",
@@ -216,6 +216,18 @@
     "lastKill": "2026-10-22 10:58:19"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 20,
+    "lastKill": "2026-10-22 21:17:49"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 16,
+    "lastKill": "2026-10-22 21:17:49"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 15,
@@ -244,12 +256,6 @@
     "username": "small-li",
     "kills": 5,
     "lastKill": "2026-10-22 12:48:55"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 3,
-    "lastKill": "2026-10-22 17:32:26"
   },
   {
     "playerId": "15931599",
@@ -452,12 +458,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": null
   },
