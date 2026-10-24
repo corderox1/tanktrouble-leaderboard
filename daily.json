@@ -2,20 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 987,
-    "lastKill": "2026-10-24 04:28:14"
+    "kills": 1266,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 86,
-    "lastKill": "2026-10-24 04:28:14"
+    "kills": 89,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 66,
     "lastKill": "2026-10-24 04:28:14"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 65,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "22077521",
@@ -26,14 +32,26 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 46,
-    "lastKill": "2026-10-24 04:28:14"
+    "kills": 49,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 38,
-    "lastKill": "2026-10-24 04:28:14"
+    "kills": 41,
+    "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 37,
+    "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 32,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "14892840",
@@ -42,10 +60,22 @@
     "lastKill": "2026-10-24 01:38:04"
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 8,
-    "lastKill": "2026-10-24 04:28:14"
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 9,
+    "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 1,
+    "lastKill": "2026-10-24 05:26:43"
   },
   {
     "playerId": "22710399",
@@ -348,12 +378,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 0,
@@ -494,12 +518,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
@@ -864,12 +882,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0,
@@ -1022,12 +1034,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },
@@ -1214,12 +1220,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   },
