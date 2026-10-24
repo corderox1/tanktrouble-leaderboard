@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26165
+    "kills": 26366
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 907
+    "kills": 935
   },
   {
     "playerId": "22809750",
@@ -25,14 +25,14 @@
     "kills": 532
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 502
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 498
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 479
   },
   {
     "playerId": "22077521",
@@ -45,9 +45,19 @@
     "kills": 433
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 415
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 412
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 409
   },
   {
     "playerId": "19138057",
@@ -60,11 +70,6 @@
     "kills": 388
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 387
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 378
@@ -75,19 +80,14 @@
     "kills": 372
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 366
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 362
   },
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 348
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 336
   },
   {
     "playerId": "19068893",
@@ -130,14 +130,19 @@
     "kills": 191
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 185
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 178
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 175
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 165
   },
   {
     "playerId": "14617724",
@@ -163,11 +168,6 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 141
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 130
   },
   {
     "playerId": "21614515",

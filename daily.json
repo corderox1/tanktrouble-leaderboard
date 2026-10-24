@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2927,
-    "lastKill": "2026-10-24 12:58:02"
+    "kills": 3140,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "22472796",
@@ -16,6 +16,18 @@
     "username": "BillyTheKid",
     "kills": 190,
     "lastKill": "2026-10-24 12:02:44"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 184,
+    "lastKill": "2026-10-24 13:54:01"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 182,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "20984454",
@@ -36,16 +48,10 @@
     "lastKill": "2026-10-24 10:12:24"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 121,
-    "lastKill": "2026-10-24 12:58:02"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 107,
-    "lastKill": "2026-10-24 12:58:02"
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 142,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "21178768",
@@ -54,16 +60,28 @@
     "lastKill": "2026-10-24 11:07:51"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 89,
-    "lastKill": "2026-10-24 12:58:02"
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 98,
+    "lastKill": "2026-10-24 13:54:01"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 96,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 89,
     "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 81,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "20269995",
@@ -84,28 +102,16 @@
     "lastKill": "2026-10-24 11:07:51"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 62,
-    "lastKill": "2026-10-24 12:58:02"
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 61,
-    "lastKill": "2026-10-24 12:58:02"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 53,
-    "lastKill": "2026-10-24 12:58:02"
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 38,
     "lastKill": "2026-10-24 12:02:44"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 33,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "21797119",
@@ -190,6 +196,12 @@
     "username": "MoodyBlastGargoyle",
     "kills": 1,
     "lastKill": "2026-10-24 12:02:44"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1,
+    "lastKill": "2026-10-24 13:54:01"
   },
   {
     "playerId": "21940268",
@@ -494,12 +506,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0,
     "lastKill": null
   },
@@ -1040,12 +1046,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0,
     "lastKill": null
   },
