@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35283344,
-    "kills": 44399577,
-    "deaths": 41871224,
-    "suicides": 9402768,
+    "victories": 35283426,
+    "kills": 44399697,
+    "deaths": 41871417,
+    "suicides": 9402802,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 1,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -492,10 +492,10 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "victories": 22348,
-    "kills": 40342,
-    "deaths": 84486,
-    "suicides": 19640,
+    "victories": 22422,
+    "kills": 40437,
+    "deaths": 84627,
+    "suicides": 19680,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -533,7 +533,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707802021,
-    "lastLogin": 1792879419,
+    "lastLogin": 1792883099,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 42724,
-    "kills": 63366,
-    "deaths": 72905,
-    "suicides": 17270,
+    "victories": 42819,
+    "kills": 63467,
+    "deaths": 73026,
+    "suicides": 17296,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 77223,
-    "kills": 143719,
-    "deaths": 88635,
-    "suicides": 24746,
+    "victories": 77224,
+    "kills": 143721,
+    "deaths": 88638,
+    "suicides": 24747,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68638,
-    "kills": 113348,
-    "deaths": 118141,
-    "suicides": 25978,
+    "victories": 68647,
+    "kills": 113359,
+    "deaths": 118155,
+    "suicides": 25980,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1792812882,
+    "lastLogin": 1792884268,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2993,7 +2993,7 @@
     "username": "Alternator",
     "victories": 9671,
     "kills": 12075,
-    "deaths": 21112,
+    "deaths": 21113,
     "suicides": 4489,
     "experience": 0,
     "surrenders": 0,
@@ -3277,7 +3277,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1354345150,
-    "lastLogin": 1792873569,
+    "lastLogin": 1792884869,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4020,10 +4020,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 59787,
-    "kills": 102411,
-    "deaths": 104563,
-    "suicides": 27240,
+    "victories": 59832,
+    "kills": 102473,
+    "deaths": 104598,
+    "suicides": 27252,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4061,7 +4061,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1538257271,
-    "lastLogin": 1792869878,
+    "lastLogin": 1792882729,
     "banned": false,
     "usernameApproved": true,
     "country": null

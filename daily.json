@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3914,
-    "lastKill": "2026-10-24 17:43:00"
+    "kills": 4034,
+    "lastKill": "2026-10-24 18:38:00"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 335,
-    "lastKill": "2026-10-24 17:43:00"
+    "kills": 337,
+    "lastKill": "2026-10-24 18:38:00"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 248,
+    "lastKill": "2026-10-24 18:38:00"
   },
   {
     "playerId": "22716354",
@@ -60,10 +66,16 @@
     "lastKill": "2026-10-24 08:13:03"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 147,
-    "lastKill": "2026-10-24 17:43:00"
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 119,
+    "lastKill": "2026-10-24 18:38:00"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 118,
+    "lastKill": "2026-10-24 18:38:00"
   },
   {
     "playerId": "21178768",
@@ -120,12 +132,6 @@
     "lastKill": "2026-10-24 11:07:51"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 56,
-    "lastKill": "2026-10-24 15:50:32"
-  },
-  {
     "playerId": "21452912",
     "username": "k",
     "kills": 53,
@@ -154,12 +160,6 @@
     "username": "small-li",
     "kills": 26,
     "lastKill": "2026-10-24 08:13:03"
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 24,
-    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "22047175",
@@ -196,6 +196,12 @@
     "username": "Hafiz-Muhammad",
     "kills": 15,
     "lastKill": "2026-10-24 12:58:02"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 11,
+    "lastKill": "2026-10-24 18:38:00"
   },
   {
     "playerId": "6776098",
@@ -380,12 +386,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0,
     "lastKill": null
   },
