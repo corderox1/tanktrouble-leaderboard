@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 198680,
-    "lastKill": "2026-10-23 18:08:31"
+    "kills": 198858,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "8590474",
@@ -32,8 +32,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 5800,
-    "lastKill": "2026-10-23 18:08:31"
+    "kills": 5836,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "13173087",
@@ -80,8 +80,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3489,
-    "lastKill": "2026-10-23 16:17:50"
+    "kills": 3495,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "22706369",
@@ -96,6 +96,12 @@
     "lastKill": "2026-10-23 00:07:51"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 3230,
+    "lastKill": "2026-10-23 19:02:54"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 3216,
@@ -106,12 +112,6 @@
     "username": "Rlyc4n",
     "kills": 3150,
     "lastKill": "2026-10-23 12:23:15"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 3142,
-    "lastKill": "2026-10-23 18:08:31"
   },
   {
     "playerId": "1051525",
@@ -126,16 +126,16 @@
     "lastKill": "2026-10-23 10:29:00"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 2545,
+    "lastKill": "2026-10-23 19:02:54"
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 2528,
     "lastKill": "2026-10-23 10:29:00"
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 2480,
-    "lastKill": "2026-10-23 03:03:59"
   },
   {
     "playerId": "22472796",
@@ -176,8 +176,8 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 2000,
-    "lastKill": "2026-10-22 16:37:29"
+    "kills": 2021,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "2574833",
@@ -254,8 +254,8 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 1439,
-    "lastKill": "2026-10-23 18:08:31"
+    "kills": 1481,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "19138057",
@@ -272,8 +272,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1273,
-    "lastKill": "2026-10-23 18:08:31"
+    "kills": 1274,
+    "lastKill": "2026-10-23 19:02:54"
   },
   {
     "playerId": "20269995",
@@ -792,6 +792,12 @@
     "lastKill": "2026-09-29 09:15:40"
   },
   {
+    "playerId": "10251396",
+    "username": "vinus",
+    "kills": 1,
+    "lastKill": "2026-10-23 19:02:54"
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 0,
@@ -1130,12 +1136,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10251396",
-    "username": "vinus",
     "kills": 0,
     "lastKill": null
   },
