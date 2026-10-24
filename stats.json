@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35282966,
-    "kills": 44399197,
-    "deaths": 41870825,
-    "suicides": 9402683,
+    "victories": 35283207,
+    "kills": 44399420,
+    "deaths": 41871036,
+    "suicides": 9402732,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 40,
+    "rank": 43,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1792869579,
+    "lastLogin": 1792876055,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 77142,
-    "kills": 143593,
-    "deaths": 88576,
-    "suicides": 24732,
+    "victories": 77169,
+    "kills": 143643,
+    "deaths": 88606,
+    "suicides": 24740,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1415,7 +1415,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1610558160,
-    "lastLogin": 1792873026,
+    "lastLogin": 1792876750,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 9493,
-    "kills": 16248,
-    "deaths": 17844,
-    "suicides": 3972,
+    "victories": 9496,
+    "kills": 16254,
+    "deaths": 17847,
+    "suicides": 3973,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2991,10 +2991,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 9622,
-    "kills": 12023,
-    "deaths": 21013,
-    "suicides": 4469,
+    "victories": 9627,
+    "kills": 12035,
+    "deaths": 21037,
+    "suicides": 4474,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3032,7 +3032,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1792861889,
+    "lastLogin": 1792877256,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 19219,
-    "kills": 27729,
-    "deaths": 23274,
-    "suicides": 6166,
+    "victories": 19230,
+    "kills": 27774,
+    "deaths": 23342,
+    "suicides": 6179,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3244,8 +3244,8 @@
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0xa2c4ff",
-      "numericValue": "0xa2c4ff",
+      "rawValue": "0xbe0000",
+      "numericValue": "0xbe0000",
       "imageValue": ""
     },
     "treadColour": {
@@ -3972,9 +3972,9 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "victories": 18108,
-    "kills": 31691,
-    "deaths": 29342,
-    "suicides": 11282,
+    "kills": 31693,
+    "deaths": 29344,
+    "suicides": 11283,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -5874,7 +5874,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1663956181,
-    "lastLogin": 1788826047,
+    "lastLogin": 1792877363,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "victories": 48988,
-    "kills": 96885,
-    "deaths": 102320,
-    "suicides": 23798,
+    "victories": 49024,
+    "kills": 96957,
+    "deaths": 102387,
+    "suicides": 23812,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8906,13 +8906,13 @@
     "rank": 338,
     "xp": 190000,
     "beta": false,
-    "verified": false,
+    "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": null,
+    "lastForumPost": 1792877774,
     "guest": false,
     "gmLevel": null,
     "created": 1769621620,
-    "lastLogin": 1792608235,
+    "lastLogin": 1792877642,
     "banned": false,
     "usernameApproved": true,
     "country": null
