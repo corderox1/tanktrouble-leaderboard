@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1869
+    "kills": 2045
   },
   {
     "playerId": "19068893",
@@ -17,22 +17,22 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 96
+    "kills": 126
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 71
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
     "kills": 67
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 66
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 49
   },
   {
     "playerId": "21178768",
@@ -50,6 +50,11 @@
     "kills": 35
   },
   {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 35
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 34
@@ -60,9 +65,9 @@
     "kills": 33
   },
   {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 28
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 27
   },
   {
     "playerId": "22716354",
@@ -73,6 +78,11 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 22
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 18
   },
   {
     "playerId": "10794529",
@@ -110,9 +120,9 @@
     "kills": 10
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 7
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 6
   },
   {
     "playerId": "6776098",
@@ -120,8 +130,18 @@
     "kills": 5
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 4
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
+    "kills": 2
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
     "kills": 2
   },
   {
@@ -232,11 +252,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -370,11 +385,6 @@
     "kills": 0
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 0
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 0
@@ -392,11 +402,6 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 0
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0
   },
   {
@@ -892,11 +897,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0
   },
   {
