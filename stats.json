@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35280652,
-    "kills": 44396093,
-    "deaths": 41866981,
-    "suicides": 9401911,
+    "victories": 35280786,
+    "kills": 44396289,
+    "deaths": 41867256,
+    "suicides": 9401959,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 41,
+    "rank": 52,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1792790262,
+    "lastLogin": 1792827210,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4662,
-    "kills": 9899,
-    "deaths": 8950,
-    "suicides": 1961,
+    "victories": 4665,
+    "kills": 9918,
+    "deaths": 8970,
+    "suicides": 1963,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2337,7 +2337,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 67,
+    "rank": 75,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2346,7 +2346,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778931494,
-    "lastLogin": 1792721217,
+    "lastLogin": 1792829727,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3522,7 +3522,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1745175868,
-    "lastLogin": 1792824406,
+    "lastLogin": 1792830330,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4012,7 +4012,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1649974122,
-    "lastLogin": 1792613895,
+    "lastLogin": 1792830356,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7989,10 +7989,10 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "victories": 9922,
-    "kills": 16316,
-    "deaths": 19283,
-    "suicides": 5663,
+    "victories": 9923,
+    "kills": 16325,
+    "deaths": 19287,
+    "suicides": 5665,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8030,7 +8030,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1758805968,
-    "lastLogin": 1792764020,
+    "lastLogin": 1792830145,
     "banned": false,
     "usernameApproved": true,
     "country": null
