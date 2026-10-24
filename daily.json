@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5269,
-    "lastKill": "2026-10-23 20:52:35"
+    "kills": 5495,
+    "lastKill": "2026-10-23 21:53:07"
   },
   {
     "playerId": "22809750",
@@ -30,6 +30,12 @@
     "lastKill": "2026-10-23 16:17:50"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 244,
+    "lastKill": "2026-10-23 21:53:07"
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 237,
@@ -48,12 +54,6 @@
     "lastKill": "2026-10-23 18:08:31"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 205,
-    "lastKill": "2026-10-23 19:02:54"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 188,
@@ -68,8 +68,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 157,
-    "lastKill": "2026-10-23 20:52:35"
+    "kills": 165,
+    "lastKill": "2026-10-23 21:53:07"
   },
   {
     "playerId": "22694251",
@@ -128,8 +128,8 @@
   {
     "playerId": "22735235",
     "username": "wo0",
-    "kills": 61,
-    "lastKill": "2026-10-23 20:52:35"
+    "kills": 63,
+    "lastKill": "2026-10-23 21:53:07"
   },
   {
     "playerId": "21178768",
@@ -186,16 +186,16 @@
     "lastKill": "2026-10-23 13:28:56"
   },
   {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 22,
+    "lastKill": "2026-10-23 21:53:07"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 21,
     "lastKill": "2026-10-23 14:25:44"
-  },
-  {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 21,
-    "lastKill": "2026-10-23 20:52:35"
   },
   {
     "playerId": "6776098",
@@ -256,6 +256,12 @@
     "username": "Rlyc4n",
     "kills": 2,
     "lastKill": "2026-10-23 12:23:15"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 1,
+    "lastKill": "2026-10-23 21:53:07"
   },
   {
     "playerId": "8779272",
@@ -584,12 +590,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },
