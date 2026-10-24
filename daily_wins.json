@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 975
+    "kills": 1155
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 66
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 58
   },
   {
     "playerId": "19068893",
@@ -25,9 +30,19 @@
     "kills": 33
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 24
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 17
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 14
   },
   {
     "playerId": "14892840",
@@ -40,13 +55,13 @@
     "kills": 13
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 13
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 12
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
+    "playerId": "10132007",
+    "username": "scientistt",
     "kills": 11
   },
   {
@@ -57,7 +72,12 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 4
+    "kills": 8
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 5
   },
   {
     "playerId": "20843843",
@@ -77,11 +97,6 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 0
-  },
-  {
-    "playerId": "10132007",
-    "username": "scientistt",
     "kills": 0
   },
   {
@@ -345,11 +360,6 @@
     "kills": 0
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0
@@ -390,11 +400,6 @@
     "kills": 0
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 0
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 0
@@ -417,11 +422,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
     "kills": 0
   },
   {

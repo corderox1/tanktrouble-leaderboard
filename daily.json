@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1266,
-    "lastKill": "2026-10-24 05:26:43"
+    "kills": 1489,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 89,
     "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 75,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
     "playerId": "21956820",
@@ -32,8 +38,14 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 49,
-    "lastKill": "2026-10-24 05:26:43"
+    "kills": 53,
+    "lastKill": "2026-10-24 06:21:35"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 52,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
     "playerId": "20270104",
@@ -42,16 +54,16 @@
     "lastKill": "2026-10-24 05:26:43"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 37,
-    "lastKill": "2026-10-24 05:26:43"
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 24,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 32,
-    "lastKill": "2026-10-24 05:26:43"
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 21,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
     "playerId": "14892840",
@@ -60,10 +72,28 @@
     "lastKill": "2026-10-24 01:38:04"
   },
   {
+    "playerId": "10132007",
+    "username": "scientistt",
+    "kills": 17,
+    "lastKill": "2026-10-24 06:21:35"
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 11,
+    "lastKill": "2026-10-24 06:21:35"
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 9,
     "lastKill": "2026-10-24 05:26:43"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 3,
+    "lastKill": "2026-10-24 06:21:35"
   },
   {
     "playerId": "15931599",
@@ -92,12 +122,6 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10132007",
-    "username": "scientistt",
     "kills": 0,
     "lastKill": null
   },
@@ -414,12 +438,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -468,12 +486,6 @@
     "lastKill": null
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 0,
@@ -500,12 +512,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
     "kills": 0,
     "lastKill": null
   },
@@ -1214,12 +1220,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 0,
     "lastKill": null
   },

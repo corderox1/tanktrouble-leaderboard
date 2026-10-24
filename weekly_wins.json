@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24947
+    "kills": 25127
   },
   {
     "playerId": "13173087",
@@ -65,6 +65,11 @@
     "kills": 361
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 347
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 337
@@ -85,14 +90,9 @@
     "kills": 318
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 313
-  },
-  {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 293
+    "kills": 317
   },
   {
     "playerId": "21109495",
@@ -102,7 +102,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 274
+    "kills": 278
   },
   {
     "playerId": "3990108",
@@ -127,7 +127,7 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 165
+    "kills": 177
   },
   {
     "playerId": "14617724",
@@ -157,7 +157,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 130
+    "kills": 133
   },
   {
     "playerId": "20269995",
@@ -182,7 +182,7 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 103
+    "kills": 107
   },
   {
     "playerId": "20644558",
@@ -250,14 +250,14 @@
     "kills": 57
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 52
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 51
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 47
   },
   {
     "playerId": "22706369",
@@ -350,6 +350,11 @@
     "kills": 12
   },
   {
+    "playerId": "10132007",
+    "username": "scientistt",
+    "kills": 11
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 7
@@ -412,11 +417,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0
-  },
-  {
-    "playerId": "10132007",
-    "username": "scientistt",
     "kills": 0
   },
   {
