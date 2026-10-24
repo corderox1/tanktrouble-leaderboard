@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3757,
-    "lastKill": "2026-10-24 16:47:52"
+    "kills": 3914,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 259,
-    "lastKill": "2026-10-24 16:47:52"
+    "kills": 335,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "22716354",
@@ -24,10 +24,22 @@
     "lastKill": "2026-10-24 12:02:44"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 193,
+    "lastKill": "2026-10-24 17:43:00"
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 190,
     "lastKill": "2026-10-24 12:02:44"
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 189,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "20270104",
@@ -48,16 +60,10 @@
     "lastKill": "2026-10-24 08:13:03"
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 159,
-    "lastKill": "2026-10-24 10:12:24"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 153,
-    "lastKill": "2026-10-24 16:47:52"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 147,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "21178768",
@@ -72,16 +78,10 @@
     "lastKill": "2026-10-24 13:54:01"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 91,
-    "lastKill": "2026-10-24 14:49:57"
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 90,
-    "lastKill": "2026-10-24 16:47:52"
+    "kills": 92,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "20666777",
@@ -90,16 +90,16 @@
     "lastKill": "2026-10-24 05:26:43"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 88,
+    "lastKill": "2026-10-24 17:43:00"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 81,
     "lastKill": "2026-10-24 13:54:01"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 72,
-    "lastKill": "2026-10-24 16:47:52"
   },
   {
     "playerId": "20269995",
@@ -126,6 +126,12 @@
     "lastKill": "2026-10-24 15:50:32"
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 53,
+    "lastKill": "2026-10-24 17:43:00"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 33,
@@ -148,6 +154,12 @@
     "username": "small-li",
     "kills": 26,
     "lastKill": "2026-10-24 08:13:03"
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 24,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "22047175",
@@ -174,6 +186,12 @@
     "lastKill": "2026-10-24 06:21:35"
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 16,
+    "lastKill": "2026-10-24 17:43:00"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 15,
@@ -192,12 +210,6 @@
     "lastKill": "2026-10-24 09:14:07"
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 6,
-    "lastKill": "2026-10-24 16:47:52"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 5,
@@ -208,6 +220,12 @@
     "username": "KaneKalon",
     "kills": 5,
     "lastKill": "2026-10-24 07:17:50"
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 3,
+    "lastKill": "2026-10-24 17:43:00"
   },
   {
     "playerId": "29695",
@@ -288,12 +306,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 0,
@@ -314,12 +326,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0,
     "lastKill": null
   },
@@ -1160,12 +1166,6 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2882
+    "kills": 3019
   },
   {
     "playerId": "19068893",
@@ -10,9 +10,19 @@
     "kills": 183
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 177
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 144
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 139
   },
   {
     "playerId": "22077521",
@@ -20,9 +30,9 @@
     "kills": 126
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 123
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 108
   },
   {
     "playerId": "20270104",
@@ -33,11 +43,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 98
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 95
   },
   {
     "playerId": "20011985",
@@ -60,24 +65,24 @@
     "kills": 66
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 46
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 64
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 48
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 44
+    "kills": 45
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 40
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 39
   },
   {
     "playerId": "2574833",
@@ -87,11 +92,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 36
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 36
   },
   {
@@ -105,9 +105,19 @@
     "kills": 35
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 28
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 22
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 21
   },
   {
     "playerId": "21797119",
@@ -165,9 +175,9 @@
     "kills": 4
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 3
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 4
   },
   {
     "playerId": "29695",
@@ -187,6 +197,11 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
+    "kills": 1
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
     "kills": 1
   },
   {
@@ -230,11 +245,6 @@
     "kills": 0
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 0
-  },
-  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 0
@@ -247,11 +257,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 0
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0
   },
   {
@@ -967,11 +972,6 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 0
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0
   },
   {
