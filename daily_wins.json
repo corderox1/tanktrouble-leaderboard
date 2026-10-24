@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4041
+    "kills": 4205
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 184
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 157
   },
   {
     "playerId": "13173087",
@@ -30,14 +35,14 @@
     "kills": 128
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 119
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 113
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 111
   },
   {
     "playerId": "8590474",
@@ -45,19 +50,14 @@
     "kills": 110
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 110
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 109
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 105
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 71
   },
   {
     "playerId": "22694251",
@@ -70,6 +70,11 @@
     "kills": 62
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 59
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 58
@@ -78,11 +83,6 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 55
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 51
   },
   {
     "playerId": "3990108",
@@ -100,14 +100,14 @@
     "kills": 38
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 36
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 31
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 29
   },
   {
     "playerId": "21614515",
@@ -170,8 +170,18 @@
     "kills": 6
   },
   {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 4
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 3
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
     "kills": 3
   },
   {
@@ -190,6 +200,11 @@
     "kills": 2
   },
   {
+    "playerId": "10251396",
+    "username": "vinus",
+    "kills": 2
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 1
@@ -202,6 +217,11 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
+    "kills": 1
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
@@ -315,11 +335,6 @@
     "kills": 0
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0
@@ -357,11 +372,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0
-  },
-  {
-    "playerId": "20644558",
-    "username": "x",
     "kills": 0
   },
   {
@@ -487,11 +497,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   },
   {
@@ -807,11 +812,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "10251396",
-    "username": "vinus",
     "kills": 0
   },
   {

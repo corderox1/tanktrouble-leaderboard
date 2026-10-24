@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 153258
+    "kills": 153422
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 4011
+    "kills": 4025
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 2689
+    "kills": 2697
   },
   {
     "playerId": "10794529",
@@ -85,14 +85,14 @@
     "kills": 1937
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 1800
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 1782
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 1761
   },
   {
     "playerId": "22706369",
@@ -127,7 +127,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 1296
+    "kills": 1299
   },
   {
     "playerId": "20270104",
@@ -182,7 +182,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 987
+    "kills": 994
   },
   {
     "playerId": "8408190",
@@ -262,7 +262,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 524
+    "kills": 570
   },
   {
     "playerId": "8502796",
@@ -347,7 +347,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 240
+    "kills": 241
   },
   {
     "playerId": "22735235",
@@ -357,7 +357,7 @@
   {
     "playerId": "20644558",
     "username": "x",
-    "kills": 230
+    "kills": 234
   },
   {
     "playerId": "22479485",
@@ -655,6 +655,11 @@
     "kills": 2
   },
   {
+    "playerId": "10251396",
+    "username": "vinus",
+    "kills": 2
+  },
+  {
     "playerId": "9881740",
     "username": "lichens",
     "kills": 1
@@ -947,11 +952,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "10251396",
-    "username": "vinus",
     "kills": 0
   },
   {
