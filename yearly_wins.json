@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 156145
+    "kills": 156195
   },
   {
     "playerId": "8590474",
@@ -62,7 +62,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2173
+    "kills": 2176
   },
   {
     "playerId": "14617724",
@@ -77,7 +77,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2032
+    "kills": 2039
   },
   {
     "playerId": "8899024",
@@ -105,14 +105,14 @@
     "kills": 1565
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 1546
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 1534
+    "kills": 1558
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 1551
   },
   {
     "playerId": "21508277",
@@ -122,7 +122,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1353
+    "kills": 1367
   },
   {
     "playerId": "3660774",
@@ -215,6 +215,11 @@
     "kills": 782
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 767
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 761
@@ -223,11 +228,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 750
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 748
   },
   {
     "playerId": "21956820",
@@ -528,6 +528,11 @@
     "playerId": "4501113",
     "username": "feed",
     "kills": 29
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 28
   },
   {
     "playerId": "9184666",
@@ -1032,11 +1037,6 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 0
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
     "kills": 0
   },
   {
