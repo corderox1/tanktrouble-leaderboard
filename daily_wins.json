@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4773
+    "kills": 4900
   },
   {
     "playerId": "22809750",
@@ -18,6 +18,11 @@
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 166
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 161
   },
   {
     "playerId": "10794529",
@@ -45,11 +50,6 @@
     "kills": 121
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 110
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 110
@@ -70,14 +70,14 @@
     "kills": 68
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 65
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 62
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 58
   },
   {
     "playerId": "22472796",
@@ -160,6 +160,11 @@
     "kills": 9
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 9
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 8
@@ -215,6 +220,11 @@
     "kills": 2
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 2
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 1
@@ -227,16 +237,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 1
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 1
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 1
   },
   {
