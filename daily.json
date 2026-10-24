@@ -2,8 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3140,
-    "lastKill": "2026-10-24 13:54:01"
+    "kills": 3352,
+    "lastKill": "2026-10-24 14:49:57"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 231,
+    "lastKill": "2026-10-24 14:49:57"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 209,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "22472796",
@@ -18,16 +30,10 @@
     "lastKill": "2026-10-24 12:02:44"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 184,
-    "lastKill": "2026-10-24 13:54:01"
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 182,
-    "lastKill": "2026-10-24 13:54:01"
+    "kills": 187,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "20984454",
@@ -48,10 +54,10 @@
     "lastKill": "2026-10-24 10:12:24"
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 142,
-    "lastKill": "2026-10-24 13:54:01"
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 141,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "21178768",
@@ -60,16 +66,16 @@
     "lastKill": "2026-10-24 11:07:51"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 98,
-    "lastKill": "2026-10-24 13:54:01"
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 96,
     "lastKill": "2026-10-24 13:54:01"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 91,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "20666777",
@@ -102,16 +108,10 @@
     "lastKill": "2026-10-24 11:07:51"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 38,
-    "lastKill": "2026-10-24 12:02:44"
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 33,
-    "lastKill": "2026-10-24 13:54:01"
+    "kills": 45,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "21797119",
@@ -190,6 +190,12 @@
     "username": "SoftMagmaDriver",
     "kills": 3,
     "lastKill": "2026-10-24 08:13:03"
+  },
+  {
+    "playerId": "29695",
+    "username": "77777",
+    "kills": 2,
+    "lastKill": "2026-10-24 14:49:57"
   },
   {
     "playerId": "21098942",
@@ -506,12 +512,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "29695",
-    "username": "77777",
     "kills": 0,
     "lastKill": null
   },

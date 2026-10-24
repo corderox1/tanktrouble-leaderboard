@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 101255
+    "kills": 101356
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 4749
+    "kills": 4754
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2308
+    "kills": 2334
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1840
+    "kills": 1859
   },
   {
     "playerId": "8899024",
@@ -67,12 +67,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1280
+    "kills": 1281
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 1141
+    "kills": 1162
   },
   {
     "playerId": "14617724",
@@ -105,14 +105,14 @@
     "kills": 993
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 966
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 965
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 951
   },
   {
     "playerId": "19138057",
@@ -555,6 +555,11 @@
     "kills": 5
   },
   {
+    "playerId": "29695",
+    "username": "77777",
+    "kills": 5
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 4
@@ -578,11 +583,6 @@
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 3
-  },
-  {
-    "playerId": "29695",
-    "username": "77777",
-    "kills": 2
   },
   {
     "playerId": "13327781",
