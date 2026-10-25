@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 608
+    "kills": 874
   },
   {
     "playerId": "8590474",
@@ -10,14 +10,24 @@
     "kills": 173
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 47
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 44
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 21
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 22
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 20
   },
   {
     "playerId": "1185396",
@@ -28,6 +38,16 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 3
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 1
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -252,11 +272,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0
   },
   {
@@ -865,11 +880,6 @@
     "kills": 0
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0
@@ -1007,16 +1017,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0
   },
   {

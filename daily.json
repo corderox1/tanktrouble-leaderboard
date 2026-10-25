@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 922,
-    "lastKill": "2026-10-25 03:58:06"
+    "kills": 1189,
+    "lastKill": "2026-10-25 04:53:00"
   },
   {
     "playerId": "8590474",
@@ -20,14 +20,32 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 40,
-    "lastKill": "2026-10-25 03:01:43"
+    "kills": 103,
+    "lastKill": "2026-10-25 04:53:00"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 39,
+    "lastKill": "2026-10-25 04:53:00"
   },
   {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 30,
     "lastKill": "2026-10-25 01:57:58"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 11,
+    "lastKill": "2026-10-25 04:53:00"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 7,
+    "lastKill": "2026-10-25 04:53:00"
   },
   {
     "playerId": "9184666",
@@ -302,12 +320,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": null
   },
@@ -1208,18 +1220,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   },
