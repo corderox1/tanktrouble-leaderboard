@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 35284359
+    "kills": 35284523
   },
   {
     "playerId": "878689",
@@ -22,7 +22,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 142520
+    "kills": 142535
   },
   {
     "playerId": "14617724",
@@ -440,6 +440,11 @@
     "kills": 19741
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 19428
+  },
+  {
     "playerId": "1265805",
     "username": "sheep",
     "kills": 19370
@@ -448,11 +453,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 19273
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 19265
   },
   {
     "playerId": "11769746",
@@ -965,14 +965,14 @@
     "kills": 964
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 871
+  },
+  {
     "playerId": "2364697",
     "username": "Rediey",
     "kills": 864
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 839
   },
   {
     "playerId": "22114709",
