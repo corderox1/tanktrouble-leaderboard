@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3533
+    "kills": 3653
   },
   {
     "playerId": "21601349",
@@ -85,6 +85,11 @@
     "kills": 66
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 65
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 48
@@ -95,9 +100,9 @@
     "kills": 48
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 45
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 40
   },
   {
     "playerId": "21178768",
@@ -135,11 +140,6 @@
     "kills": 18
   },
   {
-    "playerId": "1341685",
-    "username": "supervolcano",
-    "kills": 15
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 13
@@ -152,12 +152,17 @@
   {
     "playerId": "10132007",
     "username": "scientistt",
-    "kills": 11
+    "kills": 12
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 11
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 10
   },
   {
     "playerId": "21673346",
@@ -882,11 +887,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   },
   {
