@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 130217,
-    "lastKill": "2026-10-24 20:27:57"
+    "kills": 130367,
+    "lastKill": "2026-10-24 21:22:57"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 7377,
-    "lastKill": "2026-10-24 17:43:00"
+    "kills": 7378,
+    "lastKill": "2026-10-24 21:22:57"
   },
   {
     "playerId": "13173087",
@@ -570,6 +570,12 @@
     "lastKill": "2026-10-17 06:12:45"
   },
   {
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 39,
+    "lastKill": "2026-10-24 21:22:57"
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 38,
@@ -1088,12 +1094,6 @@
   {
     "playerId": "504460",
     "username": "FreeCandy-Tank",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1341685",
-    "username": "supervolcano",
     "kills": 0,
     "lastKill": null
   },
