@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 104061
+    "kills": 104340
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 3816
+    "kills": 3891
   },
   {
     "playerId": "20666777",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2431
+    "kills": 2523
   },
   {
     "playerId": "14892840",
@@ -67,7 +67,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1283
+    "kills": 1287
   },
   {
     "playerId": "21465536",
@@ -100,6 +100,11 @@
     "kills": 1001
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 1000
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 993
@@ -113,11 +118,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 965
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 938
   },
   {
     "playerId": "3990108",
@@ -135,14 +135,14 @@
     "kills": 845
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 704
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 692
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 675
   },
   {
     "playerId": "21452912",
@@ -177,7 +177,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 588
+    "kills": 591
   },
   {
     "playerId": "21109495",
@@ -305,6 +305,11 @@
     "kills": 200
   },
   {
+    "playerId": "22801100",
+    "username": "NotInvincible",
+    "kills": 200
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 199
@@ -320,19 +325,14 @@
     "kills": 192
   },
   {
-    "playerId": "22801100",
-    "username": "NotInvincible",
-    "kills": 192
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 178
   },
   {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 177
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 165
   },
   {
     "playerId": "17953682",
