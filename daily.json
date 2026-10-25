@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2642,
-    "lastKill": "2026-10-25 10:22:46"
+    "kills": 2754,
+    "lastKill": "2026-10-25 11:22:48"
   },
   {
     "playerId": "8590474",
@@ -24,10 +24,22 @@
     "lastKill": "2026-10-25 09:27:46"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 152,
+    "lastKill": "2026-10-25 11:22:48"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 113,
-    "lastKill": "2026-10-25 08:32:48"
+    "kills": 114,
+    "lastKill": "2026-10-25 11:22:48"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 111,
+    "lastKill": "2026-10-25 11:22:48"
   },
   {
     "playerId": "14892840",
@@ -42,12 +54,6 @@
     "lastKill": "2026-10-25 08:32:48"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 95,
-    "lastKill": "2026-10-25 10:22:46"
-  },
-  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 74,
@@ -60,10 +66,16 @@
     "lastKill": "2026-10-25 09:27:46"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 60,
-    "lastKill": "2026-10-25 09:27:46"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 49,
+    "lastKill": "2026-10-25 11:22:48"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 48,
+    "lastKill": "2026-10-25 11:22:48"
   },
   {
     "playerId": "22801100",
@@ -84,28 +96,22 @@
     "lastKill": "2026-10-25 10:22:46"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 25,
+    "lastKill": "2026-10-25 11:22:48"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 17,
     "lastKill": "2026-10-25 07:37:52"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 13,
-    "lastKill": "2026-10-25 08:32:48"
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 7,
     "lastKill": "2026-10-25 04:53:00"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 7,
-    "lastKill": "2026-10-25 09:27:46"
   },
   {
     "playerId": "20101050",
@@ -272,12 +278,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
