@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 37845,
-    "lastKill": "2026-10-25 11:22:48"
+    "kills": 38050,
+    "lastKill": "2026-10-25 12:23:00"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 2087,
-    "lastKill": "2026-10-25 11:22:48"
+    "kills": 2100,
+    "lastKill": "2026-10-25 12:23:00"
   },
   {
     "playerId": "8590474",
@@ -24,16 +24,16 @@
     "lastKill": "2026-10-25 09:27:46"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 1158,
+    "lastKill": "2026-10-25 12:23:00"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1148,
     "lastKill": "2026-10-25 09:27:46"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 1127,
-    "lastKill": "2026-10-25 11:22:48"
   },
   {
     "playerId": "17629928",
@@ -44,8 +44,14 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 968,
-    "lastKill": "2026-10-25 11:22:48"
+    "kills": 977,
+    "lastKill": "2026-10-25 12:23:00"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 929,
+    "lastKill": "2026-10-25 12:23:00"
   },
   {
     "playerId": "21601349",
@@ -58,12 +64,6 @@
     "username": "Invincible",
     "kills": 840,
     "lastKill": "2026-10-25 10:22:46"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 828,
-    "lastKill": "2026-10-25 11:22:48"
   },
   {
     "playerId": "22710399",
@@ -98,8 +98,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 571,
-    "lastKill": "2026-10-25 07:37:52"
+    "kills": 600,
+    "lastKill": "2026-10-25 12:23:00"
   },
   {
     "playerId": "4381511",
@@ -192,16 +192,16 @@
     "lastKill": "2026-10-25 08:32:48"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 256,
+    "lastKill": "2026-10-25 12:23:00"
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 252,
     "lastKill": "2026-10-25 00:07:50"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 251,
-    "lastKill": "2026-10-25 04:53:00"
   },
   {
     "playerId": "14617724",
@@ -472,6 +472,12 @@
     "username": "Reverend",
     "kills": 8,
     "lastKill": "2026-10-24 13:54:01"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 7,
+    "lastKill": "2026-10-25 12:23:00"
   },
   {
     "playerId": "21932847",
@@ -1010,12 +1016,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": null
   },

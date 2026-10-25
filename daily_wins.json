@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2195
+    "kills": 2419
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,22 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 107
+    "kills": 118
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 101
   },
   {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 94
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 73
   },
   {
     "playerId": "21673346",
@@ -40,24 +50,19 @@
     "kills": 62
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 48
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 47
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 44
+    "kills": 51
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 41
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 28
   },
   {
     "playerId": "20666777",
@@ -77,7 +82,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 11
+    "kills": 12
   },
   {
     "playerId": "21178768",
@@ -90,9 +95,9 @@
     "kills": 5
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 4
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 3
   },
   {
     "playerId": "20101050",
@@ -112,6 +117,11 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
+    "kills": 1
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
     "kills": 1
   },
   {
@@ -357,11 +367,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
     "kills": 0
   },
   {
@@ -722,11 +727,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
