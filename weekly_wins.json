@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30207
+    "kills": 30324
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1273
+    "kills": 1285
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 668
+    "kills": 706
   },
   {
     "playerId": "17629928",
@@ -57,7 +57,17 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 434
+    "kills": 444
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 438
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 435
   },
   {
     "playerId": "22716354",
@@ -65,14 +75,9 @@
     "kills": 430
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 429
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 421
+    "kills": 424
   },
   {
     "playerId": "4142755",
@@ -80,19 +85,14 @@
     "kills": 412
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 409
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 394
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 392
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 390
   },
   {
     "playerId": "22710399",
@@ -117,7 +117,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 253
+    "kills": 278
   },
   {
     "playerId": "22735235",
@@ -142,7 +142,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 185
+    "kills": 190
   },
   {
     "playerId": "22801100",
@@ -340,6 +340,11 @@
     "kills": 23
   },
   {
+    "playerId": "17794648",
+    "username": "Quser",
+    "kills": 20
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 18
@@ -405,14 +410,14 @@
     "kills": 4
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
+    "playerId": "22105718",
+    "username": "Escape",
     "kills": 4
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 3
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 4
   },
   {
     "playerId": "793356",
@@ -782,11 +787,6 @@
   {
     "playerId": "673237",
     "username": "Dare",
-    "kills": 0
-  },
-  {
-    "playerId": "17794648",
-    "username": "Quser",
     "kills": 0
   },
   {
