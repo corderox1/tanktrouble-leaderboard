@@ -2,22 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2833
+    "kills": 2966
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 186
+    "kills": 204
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 157
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 146
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 144
   },
   {
     "playerId": "20843843",
@@ -45,6 +45,11 @@
     "kills": 76
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 70
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 69
@@ -60,9 +65,19 @@
     "kills": 62
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 61
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 51
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 49
   },
   {
     "playerId": "3990108",
@@ -70,24 +85,14 @@
     "kills": 42
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 36
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 34
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 38
   },
   {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 34
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 28
   },
   {
     "playerId": "2574833",
@@ -98,6 +103,11 @@
     "playerId": "17794648",
     "username": "Quser",
     "kills": 23
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 20
   },
   {
     "playerId": "20666777",
@@ -125,24 +135,19 @@
     "kills": 16
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 15
-  },
-  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 11
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
+    "playerId": "17629928",
+    "username": "_zenin_",
     "kills": 10
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 5
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 10
   },
   {
     "playerId": "19726920",
@@ -852,11 +857,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0
   },
   {
