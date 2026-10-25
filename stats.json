@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35283426,
-    "kills": 44399697,
-    "deaths": 41871417,
-    "suicides": 9402802,
+    "victories": 35283469,
+    "kills": 44399766,
+    "deaths": 41871501,
+    "suicides": 9402820,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -492,10 +492,10 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "victories": 22422,
-    "kills": 40437,
-    "deaths": 84627,
-    "suicides": 19680,
+    "victories": 22482,
+    "kills": 40507,
+    "deaths": 84713,
+    "suicides": 19702,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 42819,
-    "kills": 63467,
-    "deaths": 73026,
-    "suicides": 17296,
+    "victories": 42882,
+    "kills": 63530,
+    "deaths": 73107,
+    "suicides": 17308,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1792880236,
+    "lastLogin": 1792887821,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68647,
-    "kills": 113359,
-    "deaths": 118155,
-    "suicides": 25980,
+    "victories": 68722,
+    "kills": 113440,
+    "deaths": 118275,
+    "suicides": 25992,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -3236,9 +3236,9 @@
   {
     "playerId": "29695",
     "username": "77777",
-    "victories": 6390,
+    "victories": 6392,
     "kills": 9281,
-    "deaths": 10140,
+    "deaths": 10142,
     "suicides": 2617,
     "experience": 3613,
     "surrenders": 0,
@@ -3947,7 +3947,7 @@
       "imageValue": "163"
     },
     "turretAccessory": "75",
-    "barrelAccessory": "2",
+    "barrelAccessory": "44",
     "frontAccessory": "9",
     "backAccessory": "1",
     "treadAccessory": "0",
@@ -4020,10 +4020,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 59832,
-    "kills": 102473,
-    "deaths": 104598,
-    "suicides": 27252,
+    "victories": 59870,
+    "kills": 102550,
+    "deaths": 104672,
+    "suicides": 27271,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {

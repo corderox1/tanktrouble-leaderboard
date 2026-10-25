@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3101
+    "kills": 3144
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 203
+    "kills": 266
   },
   {
     "playerId": "19068893",
@@ -18,6 +18,11 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 178
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 155
   },
   {
     "playerId": "20984454",
@@ -35,6 +40,11 @@
     "kills": 126
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 119
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 105
@@ -45,14 +55,9 @@
     "kills": 98
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 95
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 81
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 84
   },
   {
     "playerId": "20011985",
@@ -155,11 +160,6 @@
     "kills": 10
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 9
-  },
-  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 9
@@ -167,6 +167,11 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
+    "kills": 5
+  },
+  {
+    "playerId": "29695",
+    "username": "77777",
     "kills": 5
   },
   {
@@ -183,11 +188,6 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 4
-  },
-  {
-    "playerId": "29695",
-    "username": "77777",
-    "kills": 3
   },
   {
     "playerId": "12222122",
