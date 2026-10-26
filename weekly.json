@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3772,
-    "lastKill": "2026-10-26 17:23:15"
+    "kills": 4023,
+    "lastKill": "2026-10-26 18:18:07"
   },
   {
     "playerId": "22710399",
@@ -66,6 +66,12 @@
     "lastKill": "2026-10-26 08:03:34"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 77,
+    "lastKill": "2026-10-26 18:18:07"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 67,
@@ -88,6 +94,12 @@
     "username": "seyi-vibez-jr",
     "kills": 52,
     "lastKill": "2026-10-26 13:42:23"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 50,
+    "lastKill": "2026-10-26 18:18:07"
   },
   {
     "playerId": "20269995",
@@ -114,16 +126,22 @@
     "lastKill": "2026-10-26 14:36:47"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 36,
+    "lastKill": "2026-10-26 18:18:07"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 33,
+    "lastKill": "2026-10-26 18:18:07"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 29,
-    "lastKill": "2026-10-26 17:23:15"
   },
   {
     "playerId": "8899024",
@@ -138,12 +156,6 @@
     "lastKill": "2026-10-26 12:48:03"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 17,
-    "lastKill": "2026-10-26 01:26:41"
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 15,
@@ -154,6 +166,12 @@
     "username": "kai-cj7",
     "kills": 14,
     "lastKill": "2026-10-26 10:52:22"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 12,
+    "lastKill": "2026-10-26 18:18:07"
   },
   {
     "playerId": "1185396",
@@ -222,12 +240,6 @@
     "lastKill": "2026-10-26 14:36:47"
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21443824",
     "username": "FLICK",
     "kills": 0,
@@ -290,12 +302,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": null
   },
@@ -560,12 +566,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
