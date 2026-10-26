@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35288348,
-    "kills": 44405731,
-    "deaths": 41878760,
-    "suicides": 9404287,
+    "victories": 35288417,
+    "kills": 44405801,
+    "deaths": 41878814,
+    "suicides": 9404296,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 46,
+    "rank": 79,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1792903622,
+    "lastLogin": 1792993235,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2305,17 +2305,17 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4706,
-    "kills": 9986,
-    "deaths": 9027,
-    "suicides": 1968,
+    "victories": 4723,
+    "kills": 10003,
+    "deaths": 9035,
+    "suicides": 1969,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0xff6600",
-      "numericValue": "0xff6600",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0xff8600 13",
+      "numericValue": "0xff8600",
+      "imageValue": "13"
     },
     "treadColour": {
       "type": "image",
@@ -2346,7 +2346,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778931494,
-    "lastLogin": 1792829727,
+    "lastLogin": 1792993500,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9753,10 +9753,10 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "victories": 999,
-    "kills": 1831,
-    "deaths": 1599,
-    "suicides": 501,
+    "victories": 1032,
+    "kills": 1874,
+    "deaths": 1648,
+    "suicides": 511,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9785,8 +9785,8 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 245,
-    "xp": 73560,
+    "rank": 224,
+    "xp": 75640,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
