@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35288468,
-    "kills": 44405858,
-    "deaths": 41878897,
-    "suicides": 9404310,
+    "victories": 35288554,
+    "kills": 44406008,
+    "deaths": 41879028,
+    "suicides": 9404342,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 79,
+    "rank": 74,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 19546,
-    "kills": 28330,
-    "deaths": 23747,
-    "suicides": 6280,
+    "victories": 19598,
+    "kills": 28415,
+    "deaths": 23810,
+    "suicides": 6294,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8185,8 +8185,8 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "victories": 19274,
-    "kills": 36421,
+    "victories": 19276,
+    "kills": 36424,
     "deaths": 40671,
     "suicides": 12080,
     "experience": 0,
@@ -8226,7 +8226,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1589476617,
-    "lastLogin": 1792998402,
+    "lastLogin": 1793001255,
     "banned": false,
     "usernameApproved": true,
     "country": null
