@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35288417,
-    "kills": 44405801,
-    "deaths": 41878814,
-    "suicides": 9404296,
+    "victories": 35288468,
+    "kills": 44405858,
+    "deaths": 41878897,
+    "suicides": 9404310,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 19522,
-    "kills": 28305,
-    "deaths": 23733,
-    "suicides": 6274,
+    "victories": 19546,
+    "kills": 28330,
+    "deaths": 23747,
+    "suicides": 6280,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1792980178,
+    "lastLogin": 1792998388,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4008,7 +4008,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1792947356,
+    "lastForumPost": 1792998760,
     "guest": false,
     "gmLevel": null,
     "created": 1649974122,
@@ -6952,7 +6952,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1732758759,
-    "lastLogin": 1792936901,
+    "lastLogin": 1792997677,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8185,8 +8185,8 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "victories": 19273,
-    "kills": 36420,
+    "victories": 19274,
+    "kills": 36421,
     "deaths": 40671,
     "suicides": 12080,
     "experience": 0,
@@ -8226,7 +8226,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1589476617,
-    "lastLogin": 1792897425,
+    "lastLogin": 1792998402,
     "banned": false,
     "usernameApproved": true,
     "country": null

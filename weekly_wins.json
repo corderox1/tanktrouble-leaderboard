@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 69
+    "kills": 120
   },
   {
     "playerId": "22809750",
@@ -10,9 +10,19 @@
     "kills": 33
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 24
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 17
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -322,11 +332,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0
   },
   {
@@ -837,11 +842,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {
