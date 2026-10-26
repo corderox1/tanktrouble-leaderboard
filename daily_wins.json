@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1776
+    "kills": 2001
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 439
+    "kills": 494
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,12 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 61
+    "kills": 82
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 52
   },
   {
     "playerId": "20666777",
@@ -30,14 +35,14 @@
     "kills": 48
   },
   {
-    "playerId": "21932847",
-    "username": "qoq",
+    "playerId": "21012136",
+    "username": "small-li",
     "kills": 42
   },
   {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 40
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 42
   },
   {
     "playerId": "20269995",
@@ -45,9 +50,9 @@
     "kills": 34
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 33
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 29
   },
   {
     "playerId": "21700920",
@@ -70,6 +75,11 @@
     "kills": 15
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 14
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 12
@@ -85,11 +95,6 @@
     "kills": 10
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 10
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 6
@@ -102,6 +107,11 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 1
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 1
   },
   {
@@ -365,11 +375,6 @@
     "kills": 0
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 0
@@ -377,11 +382,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0
   },
   {
