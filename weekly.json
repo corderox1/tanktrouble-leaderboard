@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3213,
-    "lastKill": "2026-10-26 15:32:55"
+    "kills": 3523,
+    "lastKill": "2026-10-26 16:28:15"
   },
   {
     "playerId": "22710399",
@@ -28,6 +28,12 @@
     "username": "L_Shy_P",
     "kills": 187,
     "lastKill": "2026-10-26 10:52:22"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 106,
+    "lastKill": "2026-10-26 16:28:15"
   },
   {
     "playerId": "2574833",
@@ -84,16 +90,16 @@
     "lastKill": "2026-10-26 13:42:23"
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 46,
-    "lastKill": "2026-10-26 15:32:55"
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 40,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 40,
+    "lastKill": "2026-10-26 16:28:15"
   },
   {
     "playerId": "19138057",
@@ -112,6 +118,12 @@
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 23,
+    "lastKill": "2026-10-26 16:28:15"
   },
   {
     "playerId": "20270104",
@@ -302,12 +314,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0,
     "lastKill": null
   },
@@ -1064,12 +1070,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0,
     "lastKill": null
   },

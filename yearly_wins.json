@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 165132
+    "kills": 165419
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 3005
+    "kills": 3044
   },
   {
     "playerId": "4142755",
@@ -75,14 +75,14 @@
     "kills": 2150
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 2062
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 2061
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 2056
   },
   {
     "playerId": "4381511",
@@ -520,6 +520,11 @@
     "kills": 40
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 37
+  },
+  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 35
@@ -582,11 +587,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 13
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 13
   },
   {
