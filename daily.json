@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 556,
-    "lastKill": "2026-10-26 05:12:49"
+    "kills": 746,
+    "lastKill": "2026-10-26 06:09:15"
   },
   {
     "playerId": "8590474",
@@ -12,22 +12,40 @@
     "lastKill": "2026-10-26 03:18:52"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 44,
+    "lastKill": "2026-10-26 06:09:15"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 43,
     "lastKill": "2026-10-26 01:26:41"
   },
   {
+    "playerId": "21932847",
+    "username": "qoq",
+    "kills": 37,
+    "lastKill": "2026-10-26 06:09:15"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 35,
+    "lastKill": "2026-10-26 06:09:15"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 28,
+    "lastKill": "2026-10-26 06:09:15"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 17,
     "lastKill": "2026-10-26 01:26:41"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 11,
-    "lastKill": "2026-10-26 05:12:49"
   },
   {
     "playerId": "8779272",
@@ -476,12 +494,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0,
     "lastKill": null
   },
@@ -996,12 +1008,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0,
@@ -1124,12 +1130,6 @@
   {
     "playerId": "22042037",
     "username": "N-A",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21932847",
-    "username": "qoq",
     "kills": 0,
     "lastKill": null
   },
