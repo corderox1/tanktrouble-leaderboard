@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 108885
+    "kills": 109085
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5157
+    "kills": 5183
   },
   {
     "playerId": "13173087",
@@ -52,7 +52,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 1602
+    "kills": 1642
   },
   {
     "playerId": "22694251",
@@ -92,7 +92,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1073
+    "kills": 1075
   },
   {
     "playerId": "1051525",
@@ -523,6 +523,11 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 15
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 13
   },
   {
     "playerId": "10132007",
@@ -1022,6 +1027,16 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
+    "kills": 0
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 0
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
     "kills": 0
   }
 ]
