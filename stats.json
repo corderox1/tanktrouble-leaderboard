@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35291418,
-    "kills": 44409254,
-    "deaths": 41882934,
-    "suicides": 9405180,
+    "victories": 35291703,
+    "kills": 44409503,
+    "deaths": 41883171,
+    "suicides": 9405250,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 22,
+    "rank": 17,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1793038431,
+    "lastLogin": 1793051904,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2403,10 +2403,10 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "victories": 45705,
-    "kills": 71899,
-    "deaths": 55543,
-    "suicides": 12961,
+    "victories": 45725,
+    "kills": 71928,
+    "deaths": 55571,
+    "suicides": 12965,
     "experience": 2287,
     "surrenders": 0,
     "turretColour": {
@@ -2444,7 +2444,7 @@
     "guest": false,
     "gmLevel": 2,
     "created": 1530892307,
-    "lastLogin": 1793048131,
+    "lastLogin": 1793051391,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3028,11 +3028,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1793037949,
+    "lastForumPost": 1793052547,
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1793044546,
+    "lastLogin": 1793052426,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4020,10 +4020,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 59908,
+    "victories": 59909,
     "kills": 102618,
-    "deaths": 104747,
-    "suicides": 27296,
+    "deaths": 104748,
+    "suicides": 27297,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4061,7 +4061,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1538257271,
-    "lastLogin": 1792957943,
+    "lastLogin": 1793053073,
     "banned": false,
     "usernameApproved": true,
     "country": null

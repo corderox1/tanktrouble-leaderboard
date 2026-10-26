@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3523,
-    "lastKill": "2026-10-26 16:28:15"
+    "kills": 3772,
+    "lastKill": "2026-10-26 17:23:15"
   },
   {
     "playerId": "22710399",
@@ -118,6 +118,12 @@
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 29,
+    "lastKill": "2026-10-26 17:23:15"
   },
   {
     "playerId": "8899024",
@@ -416,12 +422,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },
