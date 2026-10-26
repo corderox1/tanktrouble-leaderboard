@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 108142
+    "kills": 108449
   },
   {
     "playerId": "8590474",
@@ -12,12 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 3957
+    "kills": 3968
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3214
+    "kills": 3224
   },
   {
     "playerId": "10794529",
@@ -27,7 +27,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 2439
+    "kills": 2481
   },
   {
     "playerId": "21601349",
@@ -65,6 +65,11 @@
     "kills": 1437
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 1328
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 1310
@@ -83,11 +88,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 1111
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 1108
   },
   {
     "playerId": "20270104",
@@ -152,7 +152,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 658
+    "kills": 691
   },
   {
     "playerId": "21452912",
@@ -200,14 +200,14 @@
     "kills": 464
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 460
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 453
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 450
   },
   {
     "playerId": "21956820",
@@ -520,6 +520,11 @@
     "kills": 16
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 14
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 12
@@ -527,11 +532,6 @@
   {
     "playerId": "673237",
     "username": "Dare",
-    "kills": 12
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 12
   },
   {
