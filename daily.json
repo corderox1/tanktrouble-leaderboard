@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 277,
-    "lastKill": "2026-10-26 03:18:52"
+    "kills": 399,
+    "lastKill": "2026-10-26 04:17:56"
   },
   {
     "playerId": "8590474",
@@ -28,6 +28,12 @@
     "username": "Reverend",
     "kills": 4,
     "lastKill": "2026-10-26 03:18:52"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 1,
+    "lastKill": "2026-10-26 04:17:56"
   },
   {
     "playerId": "22710399",
@@ -134,12 +140,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
