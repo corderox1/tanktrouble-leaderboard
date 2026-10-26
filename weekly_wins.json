@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 947
+    "kills": 1258
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 92
   },
   {
     "playerId": "8590474",
@@ -25,14 +30,14 @@
     "kills": 33
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 27
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 24
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 23
   },
   {
     "playerId": "21956820",
@@ -40,9 +45,24 @@
     "kills": 17
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 15
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 14
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 10
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 10
   },
   {
     "playerId": "13773720",
@@ -55,14 +75,14 @@
     "kills": 6
   },
   {
+    "playerId": "21012136",
+    "username": "small-li",
+    "kills": 5
+  },
+  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 3
-  },
-  {
-    "playerId": "21012136",
-    "username": "small-li",
-    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -130,11 +150,6 @@
     "kills": 0
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 0
-  },
-  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 0
@@ -167,11 +182,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -392,11 +402,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0
   },
   {
@@ -972,11 +977,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
