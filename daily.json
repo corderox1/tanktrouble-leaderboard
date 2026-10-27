@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 183,
-    "lastKill": "2026-10-27 02:38:08"
+    "kills": 351,
+    "lastKill": "2026-10-27 03:32:50"
   },
   {
     "playerId": "22809750",
@@ -18,10 +18,22 @@
     "lastKill": "2026-10-27 01:43:00"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 13,
+    "lastKill": "2026-10-27 03:32:50"
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 4,
     "lastKill": "2026-10-27 01:43:00"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 3,
+    "lastKill": "2026-10-27 03:32:50"
   },
   {
     "playerId": "22710399",
@@ -296,18 +308,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": null
   },
