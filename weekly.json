@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5893,
-    "lastKill": "2026-10-27 04:28:06"
+    "kills": 6145,
+    "lastKill": "2026-10-27 05:23:03"
   },
   {
     "playerId": "22710399",
@@ -56,8 +56,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 120,
-    "lastKill": "2026-10-27 01:43:00"
+    "kills": 160,
+    "lastKill": "2026-10-27 05:23:03"
   },
   {
     "playerId": "4201869",
@@ -178,6 +178,12 @@
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 20,
+    "lastKill": "2026-10-27 05:23:03"
   },
   {
     "playerId": "20270104",
@@ -566,12 +572,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
