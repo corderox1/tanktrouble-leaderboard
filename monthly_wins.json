@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 113767
+    "kills": 113996
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5318
+    "kills": 5432
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2631
+    "kills": 2715
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2236
+    "kills": 2262
   },
   {
     "playerId": "4142755",
@@ -47,7 +47,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1887
+    "kills": 1889
   },
   {
     "playerId": "22710399",
@@ -92,7 +92,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1093
+    "kills": 1115
   },
   {
     "playerId": "22809750",
@@ -107,7 +107,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1027
+    "kills": 1043
   },
   {
     "playerId": "19138057",
@@ -142,7 +142,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 766
+    "kills": 787
   },
   {
     "playerId": "21700920",
@@ -155,14 +155,14 @@
     "kills": 696
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 638
+  },
+  {
     "playerId": "21452912",
     "username": "k",
     "kills": 631
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 629
   },
   {
     "playerId": "21178768",
@@ -252,7 +252,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 305
+    "kills": 306
   },
   {
     "playerId": "20644558",
@@ -315,6 +315,11 @@
     "kills": 209
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 202
+  },
+  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
@@ -322,17 +327,12 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 196
+    "kills": 198
   },
   {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 193
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 192
   },
   {
     "playerId": "21673346",
@@ -392,7 +392,7 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 111
+    "kills": 112
   },
   {
     "playerId": "20869330",
@@ -450,6 +450,11 @@
     "kills": 63
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 63
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 57
@@ -458,11 +463,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 53
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 52
   },
   {
     "playerId": "8478955",

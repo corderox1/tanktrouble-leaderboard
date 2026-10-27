@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2292
+    "kills": 2521
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 233
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 162
   },
   {
     "playerId": "22472796",
@@ -20,9 +25,19 @@
     "kills": 103
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 103
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 78
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 75
   },
   {
     "playerId": "13173087",
@@ -40,14 +55,9 @@
     "kills": 52
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 49
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 48
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 50
   },
   {
     "playerId": "21956820",
@@ -60,9 +70,9 @@
     "kills": 40
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 34
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 40
   },
   {
     "playerId": "22757188",
@@ -70,9 +80,19 @@
     "kills": 33
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 26
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 22
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 21
   },
   {
     "playerId": "22042037",
@@ -80,29 +100,19 @@
     "kills": 20
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 19
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 19
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 18
   },
   {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 16
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 15
   },
   {
     "playerId": "21012136",
@@ -115,19 +125,24 @@
     "kills": 11
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 10
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 10
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 9
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 9
+    "kills": 10
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 6
   },
   {
     "playerId": "20269995",
@@ -135,9 +150,9 @@
     "kills": 4
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 4
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 3
   },
   {
     "playerId": "19932455",
@@ -150,14 +165,9 @@
     "kills": 2
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 1
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0
+    "kills": 1
   },
   {
     "playerId": "14617724",
@@ -222,11 +232,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {
@@ -372,11 +377,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
