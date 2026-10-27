@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 113996
+    "kills": 114175
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2715
+    "kills": 2728
   },
   {
     "playerId": "14892840",
@@ -37,17 +37,17 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2262
+    "kills": 2272
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 1956
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 1944
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 1889
   },
   {
     "playerId": "22710399",
@@ -57,12 +57,12 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1611
+    "kills": 1618
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 1584
+    "kills": 1587
   },
   {
     "playerId": "4381511",
@@ -92,7 +92,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1115
+    "kills": 1125
   },
   {
     "playerId": "22809750",
@@ -142,7 +142,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 787
+    "kills": 794
   },
   {
     "playerId": "21700920",
@@ -245,13 +245,13 @@
     "kills": 337
   },
   {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 306
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
+    "kills": 311
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
     "kills": 306
   },
   {
@@ -305,6 +305,11 @@
     "kills": 219
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 213
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 213
@@ -313,11 +318,6 @@
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 209
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 202
   },
   {
     "playerId": "22801100",
@@ -405,6 +405,11 @@
     "kills": 95
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 94
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 91
@@ -447,11 +452,6 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 63
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 63
   },
   {
@@ -505,6 +505,11 @@
     "kills": 27
   },
   {
+    "playerId": "20621274",
+    "username": "ttw",
+    "kills": 25
+  },
+  {
     "playerId": "17794648",
     "username": "Quser",
     "kills": 23
@@ -513,11 +518,6 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
-    "kills": 18
   },
   {
     "playerId": "8779272",
@@ -587,6 +587,11 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
+    "kills": 4
+  },
+  {
+    "playerId": "10689052",
+    "username": "TankDestroyah52",
     "kills": 4
   },
   {
@@ -1007,11 +1012,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "10689052",
-    "username": "TankDestroyah52",
     "kills": 0
   },
   {
