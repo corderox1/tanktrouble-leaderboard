@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4339,
-    "lastKill": "2026-10-26 20:07:41"
+    "kills": 4589,
+    "lastKill": "2026-10-26 21:03:16"
   },
   {
     "playerId": "22710399",
@@ -30,6 +30,18 @@
     "lastKill": "2026-10-26 10:52:22"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 141,
+    "lastKill": "2026-10-26 21:03:16"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 127,
+    "lastKill": "2026-10-26 21:03:16"
+  },
+  {
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 106,
@@ -54,12 +66,6 @@
     "lastKill": "2026-10-26 14:36:47"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 93,
-    "lastKill": "2026-10-26 20:07:41"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 87,
@@ -70,12 +76,6 @@
     "username": "qoq",
     "kills": 84,
     "lastKill": "2026-10-26 08:03:34"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 80,
-    "lastKill": "2026-10-26 20:07:41"
   },
   {
     "playerId": "3990108",
@@ -162,6 +162,12 @@
     "lastKill": "2026-10-26 16:28:15"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 21,
+    "lastKill": "2026-10-26 21:03:16"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 18,
@@ -172,12 +178,6 @@
     "username": "MoodyBlastGargoyle",
     "kills": 15,
     "lastKill": "2026-10-26 11:47:32"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 12,
-    "lastKill": "2026-10-26 20:07:41"
   },
   {
     "playerId": "1185396",
@@ -214,6 +214,12 @@
     "username": "notnothing",
     "kills": 6,
     "lastKill": "2026-10-26 08:03:34"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 4,
+    "lastKill": "2026-10-26 21:03:16"
   },
   {
     "playerId": "21940268",
@@ -332,12 +338,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0,
     "lastKill": null
   },
