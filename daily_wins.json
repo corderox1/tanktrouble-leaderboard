@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2700
+    "kills": 2888
   },
   {
     "playerId": "20666777",
@@ -17,7 +17,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 116
+    "kills": 154
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 115
   },
   {
     "playerId": "22472796",
@@ -30,6 +35,11 @@
     "kills": 103
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 88
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 85
@@ -38,11 +48,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 78
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 73
   },
   {
     "playerId": "13173087",
@@ -65,14 +70,14 @@
     "kills": 52
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 50
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 50
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 49
   },
   {
     "playerId": "21956820",
@@ -100,11 +105,6 @@
     "kills": 22
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 21
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 20
@@ -123,6 +123,11 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 16
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 15
   },
   {
     "playerId": "21614515",
@@ -145,13 +150,28 @@
     "kills": 10
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 10
+  },
+  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 7
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 5
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 4
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
     "kills": 4
   },
   {
@@ -165,14 +185,19 @@
     "kills": 3
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "21452912",
+    "username": "k",
     "kills": 3
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 2
   },
   {
     "playerId": "21178768",
@@ -335,11 +360,6 @@
     "kills": 0
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 0
-  },
-  {
     "playerId": "20644558",
     "username": "x",
     "kills": 0
@@ -402,11 +422,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
@@ -482,11 +497,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -830,11 +840,6 @@
     "kills": 0
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0
@@ -932,11 +937,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {

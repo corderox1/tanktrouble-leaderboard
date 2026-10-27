@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 114175
+    "kills": 114363
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2728
+    "kills": 2766
   },
   {
     "playerId": "14892840",
@@ -42,7 +42,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1956
+    "kills": 1998
   },
   {
     "playerId": "4142755",
@@ -67,12 +67,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1458
+    "kills": 1460
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 1311
+    "kills": 1316
   },
   {
     "playerId": "20297710",
@@ -85,14 +85,14 @@
     "kills": 1189
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 1163
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 1151
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 1125
   },
   {
     "playerId": "22809750",
@@ -137,7 +137,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 850
+    "kills": 854
   },
   {
     "playerId": "2574833",
@@ -162,7 +162,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 631
+    "kills": 634
   },
   {
     "playerId": "21178768",
@@ -185,6 +185,11 @@
     "kills": 587
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 525
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 522
@@ -198,11 +203,6 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 516
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 513
   },
   {
     "playerId": "21012136",
@@ -280,6 +280,11 @@
     "kills": 244
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 241
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 233
@@ -303,11 +308,6 @@
     "playerId": "21932847",
     "username": "qoq",
     "kills": 219
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 213
   },
   {
     "playerId": "21839393",
@@ -385,6 +385,11 @@
     "kills": 119
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 117
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 114
@@ -393,11 +398,6 @@
     "playerId": "1145079",
     "username": "purup",
     "kills": 112
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 107
   },
   {
     "playerId": "4686507",
