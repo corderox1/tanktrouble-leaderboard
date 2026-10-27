@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4212
+    "kills": 4318
   },
   {
     "playerId": "22710399",
@@ -12,12 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 243
+    "kills": 265
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 157
+    "kills": 213
   },
   {
     "playerId": "14892840",
@@ -25,14 +25,14 @@
     "kills": 136
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 120
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 113
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 77
   },
   {
     "playerId": "21012136",
@@ -43,6 +43,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 52
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 51
   },
   {
     "playerId": "2574833",
@@ -80,11 +85,6 @@
     "kills": 37
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 35
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 34
@@ -100,6 +100,11 @@
     "kills": 24
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 24
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 23
@@ -110,9 +115,9 @@
     "kills": 21
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 18
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 15
   },
   {
     "playerId": "21178768",
@@ -145,14 +150,14 @@
     "kills": 10
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 10
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 8
+    "kills": 9
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 7
   },
   {
     "playerId": "8899024",
@@ -217,11 +222,6 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 0
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
     "kills": 0
   },
   {
