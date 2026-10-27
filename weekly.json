@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9629,
-    "lastKill": "2026-10-27 17:38:01"
+    "kills": 9858,
+    "lastKill": "2026-10-27 18:32:54"
   },
   {
     "playerId": "22710399",
@@ -24,16 +24,16 @@
     "lastKill": "2026-10-27 13:49:05"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 435,
+    "lastKill": "2026-10-27 18:32:54"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 426,
     "lastKill": "2026-10-27 12:53:24"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 410,
-    "lastKill": "2026-10-27 10:03:41"
   },
   {
     "playerId": "14892840",
@@ -72,16 +72,16 @@
     "lastKill": "2026-10-27 16:43:06"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 250,
+    "lastKill": "2026-10-27 18:32:54"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 239,
     "lastKill": "2026-10-27 16:43:06"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 216,
-    "lastKill": "2026-10-27 17:38:01"
   },
   {
     "playerId": "20270104",
@@ -126,16 +126,16 @@
     "lastKill": "2026-10-27 10:58:20"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 120,
+    "lastKill": "2026-10-27 18:32:54"
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 109,
     "lastKill": "2026-10-27 16:43:06"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 109,
-    "lastKill": "2026-10-27 17:38:01"
   },
   {
     "playerId": "13773720",
@@ -178,6 +178,12 @@
     "username": "seyi-vibez-jr",
     "kills": 56,
     "lastKill": "2026-10-27 10:58:20"
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 55,
+    "lastKill": "2026-10-27 18:32:54"
   },
   {
     "playerId": "19138057",
@@ -566,12 +572,6 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
     "kills": 0,
     "lastKill": null
   },
