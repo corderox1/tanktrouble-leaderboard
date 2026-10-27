@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4921,
-    "lastKill": "2026-10-26 22:54:55"
+    "kills": 5192,
+    "lastKill": "2026-10-26 23:53:02"
   },
   {
     "playerId": "22710399",
@@ -24,15 +24,15 @@
     "lastKill": "2026-10-26 14:36:47"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 213,
+    "lastKill": "2026-10-26 23:53:02"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 208,
-    "lastKill": "2026-10-26 22:54:55"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 202,
     "lastKill": "2026-10-26 22:54:55"
   },
   {
@@ -40,6 +40,12 @@
     "username": "L_Shy_P",
     "kills": 187,
     "lastKill": "2026-10-26 10:52:22"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 126,
+    "lastKill": "2026-10-26 23:53:02"
   },
   {
     "playerId": "4201869",
@@ -78,10 +84,22 @@
     "lastKill": "2026-10-26 08:03:34"
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 81,
+    "lastKill": "2026-10-26 23:53:02"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 77,
     "lastKill": "2026-10-26 18:18:07"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 74,
+    "lastKill": "2026-10-26 23:53:02"
   },
   {
     "playerId": "21178768",
@@ -96,12 +114,6 @@
     "lastKill": "2026-10-26 22:54:55"
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 64,
-    "lastKill": "2026-10-26 11:47:32"
-  },
-  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 56,
@@ -112,12 +124,6 @@
     "username": "Supernova-135",
     "kills": 54,
     "lastKill": "2026-10-26 22:54:55"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 53,
-    "lastKill": "2026-10-26 10:52:22"
   },
   {
     "playerId": "21700920",
@@ -192,12 +198,6 @@
     "lastKill": "2026-10-26 15:32:55"
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 10,
-    "lastKill": "2026-10-26 14:36:47"
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 10,
@@ -250,6 +250,12 @@
     "username": "_-YourDestruction-_",
     "kills": 1,
     "lastKill": "2026-10-26 14:36:47"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 1,
+    "lastKill": "2026-10-26 23:53:02"
   },
   {
     "playerId": "21443824",
@@ -812,12 +818,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": null
   },

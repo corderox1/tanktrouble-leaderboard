@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4318
+    "kills": 4491
   },
   {
     "playerId": "22710399",
@@ -25,9 +25,14 @@
     "kills": 136
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 136
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 120
+    "kills": 131
   },
   {
     "playerId": "22472796",
@@ -35,14 +40,14 @@
     "kills": 113
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 69
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 55
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 52
   },
   {
     "playerId": "21956820",
@@ -52,11 +57,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 48
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 48
   },
   {
@@ -87,6 +87,11 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 34
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 34
   },
   {
@@ -175,11 +180,6 @@
     "kills": 5
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 2
-  },
-  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 1
@@ -192,6 +192,11 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
+    "kills": 1
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
     "kills": 1
   },
   {
@@ -672,11 +677,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0
   },
   {
