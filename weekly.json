@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6329,
-    "lastKill": "2026-10-27 06:17:32"
+    "kills": 6562,
+    "lastKill": "2026-10-27 07:13:05"
   },
   {
     "playerId": "22710399",
@@ -14,8 +14,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 341,
-    "lastKill": "2026-10-27 06:17:32"
+    "kills": 515,
+    "lastKill": "2026-10-27 07:13:05"
   },
   {
     "playerId": "8590474",
@@ -24,22 +24,22 @@
     "lastKill": "2026-10-26 22:54:55"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 275,
+    "lastKill": "2026-10-27 07:13:05"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 273,
     "lastKill": "2026-10-27 01:43:00"
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 269,
-    "lastKill": "2026-10-27 06:17:32"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 224,
-    "lastKill": "2026-10-27 06:17:32"
+    "kills": 249,
+    "lastKill": "2026-10-27 07:13:05"
   },
   {
     "playerId": "4142755",
@@ -190,6 +190,12 @@
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 25,
+    "lastKill": "2026-10-27 07:13:05"
   },
   {
     "playerId": "15931599",
@@ -554,12 +560,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
