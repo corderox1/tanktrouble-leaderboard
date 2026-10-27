@@ -2,8 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 814,
-    "lastKill": "2026-10-27 05:23:03"
+    "kills": 998,
+    "lastKill": "2026-10-27 06:17:32"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 123,
+    "lastKill": "2026-10-27 06:17:32"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 82,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "22809750",
@@ -12,16 +24,34 @@
     "lastKill": "2026-10-27 01:43:00"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 59,
-    "lastKill": "2026-10-27 05:23:03"
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 54,
+    "lastKill": "2026-10-27 06:17:32"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 35,
+    "lastKill": "2026-10-27 06:17:32"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 20,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 20,
     "lastKill": "2026-10-27 05:23:03"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 18,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "21956820",
@@ -150,12 +180,6 @@
     "lastKill": null
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0,
@@ -170,12 +194,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0,
     "lastKill": null
   },
@@ -344,12 +362,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
     "kills": 0,
     "lastKill": null
   },
@@ -1032,12 +1044,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1232,12 +1238,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5267
+    "kills": 5410
   },
   {
     "playerId": "22710399",
@@ -25,14 +25,14 @@
     "kills": 213
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 146
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 136
+    "kills": 201
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 198
   },
   {
     "playerId": "4142755",
@@ -42,7 +42,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 114
+    "kills": 130
   },
   {
     "playerId": "21956820",
@@ -100,6 +100,16 @@
     "kills": 34
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 31
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 30
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 29
@@ -130,6 +140,11 @@
     "kills": 21
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 19
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 15
@@ -153,11 +168,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 14
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 12
   },
   {
     "playerId": "21601349",
@@ -382,11 +392,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
     "kills": 0
   },
   {
@@ -1027,11 +1032,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0
   },
   {

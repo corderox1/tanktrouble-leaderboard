@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 142016,
-    "lastKill": "2026-10-27 05:23:03"
+    "kills": 142200,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "8590474",
@@ -20,8 +20,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 5045,
-    "lastKill": "2026-10-27 05:23:03"
+    "kills": 5109,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "22694251",
@@ -38,8 +38,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 3680,
-    "lastKill": "2026-10-26 10:52:22"
+    "kills": 3762,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "17629928",
@@ -68,8 +68,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 3024,
-    "lastKill": "2026-10-26 14:36:47"
+    "kills": 3078,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "4381511",
@@ -98,8 +98,8 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 2146,
-    "lastKill": "2026-10-26 08:58:15"
+    "kills": 2181,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "14617724",
@@ -170,8 +170,8 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1455,
-    "lastKill": "2026-10-26 12:48:03"
+    "kills": 1475,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "22077521",
@@ -658,6 +658,12 @@
     "username": "vinus",
     "kills": 18,
     "lastKill": "2026-10-23 19:58:08"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 18,
+    "lastKill": "2026-10-27 06:17:32"
   },
   {
     "playerId": "673237",
@@ -1232,12 +1238,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },
