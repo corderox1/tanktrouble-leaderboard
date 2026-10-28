@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 220287,
-    "lastKill": "2026-10-27 19:28:06"
+    "kills": 220455,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "8590474",
@@ -38,8 +38,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 6477,
-    "lastKill": "2026-10-27 19:28:06"
+    "kills": 6542,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "22694251",
@@ -74,8 +74,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 4024,
-    "lastKill": "2026-10-27 19:28:06"
+    "kills": 4051,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "8899024",
@@ -224,8 +224,8 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 1749,
-    "lastKill": "2026-10-27 16:43:06"
+    "kills": 1764,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "6776098",
@@ -278,8 +278,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1437,
-    "lastKill": "2026-10-27 19:28:06"
+    "kills": 1475,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "20269995",
@@ -366,22 +366,28 @@
     "lastKill": "2026-09-30 09:37:26"
   },
   {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 617,
+    "lastKill": "2026-10-27 20:22:49"
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 615,
     "lastKill": "2026-10-24 17:43:00"
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 604,
-    "lastKill": "2026-10-25 20:47:58"
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 602,
     "lastKill": "2026-10-27 14:51:43"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 586,
+    "lastKill": "2026-10-27 20:22:49"
   },
   {
     "playerId": "19425584",
@@ -418,12 +424,6 @@
     "username": "MAGATRON",
     "kills": 500,
     "lastKill": "2026-10-08 23:49:37"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 487,
-    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "1145079",
@@ -768,6 +768,12 @@
     "lastKill": "2026-10-12 19:24:09"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 11,
+    "lastKill": "2026-10-27 20:22:49"
+  },
+  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 11,
@@ -920,12 +926,6 @@
   {
     "playerId": "10523030",
     "username": "DIMIG0D",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8079
+    "kills": 8274
   },
   {
     "playerId": "22710399",
@@ -45,14 +45,14 @@
     "kills": 226
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 181
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 174
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 170
   },
   {
     "playerId": "17629928",
@@ -62,7 +62,7 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 119
+    "kills": 122
   },
   {
     "playerId": "4201869",
@@ -80,6 +80,11 @@
     "kills": 98
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 95
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 90
@@ -88,11 +93,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 78
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 77
   },
   {
     "playerId": "2574833",
@@ -115,6 +115,11 @@
     "kills": 64
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 57
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 53
@@ -123,6 +128,11 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 52
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 51
   },
   {
     "playerId": "22706369",
@@ -160,11 +170,6 @@
     "kills": 25
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 24
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 24
@@ -198,11 +203,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 17
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 16
   },
   {
     "playerId": "20011985",
@@ -273,6 +273,16 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 6
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 5
+  },
+  {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 4
   },
   {
     "playerId": "12222122",
@@ -420,11 +430,6 @@
     "kills": 0
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 0
-  },
-  {
     "playerId": "5134622",
     "username": "kaag",
     "kills": 0
@@ -557,11 +562,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0
   },
   {
