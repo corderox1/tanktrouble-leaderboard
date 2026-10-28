@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3286,
-    "lastKill": "2026-10-28 14:11:52"
+    "kills": 3377,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 430,
-    "lastKill": "2026-10-28 14:11:52"
+    "kills": 505,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "19138057",
@@ -60,6 +60,12 @@
     "lastKill": "2026-10-28 14:11:52"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 88,
+    "lastKill": "2026-10-28 15:06:48"
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 80,
@@ -96,22 +102,22 @@
     "lastKill": "2026-10-28 10:23:23"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 44,
-    "lastKill": "2026-10-28 14:11:52"
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 46,
+    "lastKill": "2026-10-28 15:06:48"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 43,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 37,
-    "lastKill": "2026-10-28 14:11:52"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 30,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 38,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "21103294",
@@ -124,6 +130,18 @@
     "username": "frogcatchflies",
     "kills": 26,
     "lastKill": "2026-10-28 07:28:21"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 21,
+    "lastKill": "2026-10-28 15:06:48"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 20,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "20869330",
@@ -144,6 +162,12 @@
     "lastKill": "2026-10-28 12:18:23"
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 14,
+    "lastKill": "2026-10-28 15:06:48"
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 12,
@@ -162,10 +186,10 @@
     "lastKill": "2026-10-28 14:11:52"
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 8,
-    "lastKill": "2026-10-28 12:18:23"
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 7,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "20984454",
@@ -178,12 +202,6 @@
     "username": "vincible",
     "kills": 7,
     "lastKill": "2026-10-28 13:16:24"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 4,
-    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "1145079",
@@ -208,6 +226,12 @@
     "username": "Reverend",
     "kills": 3,
     "lastKill": "2026-10-28 13:16:24"
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 2,
+    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "21700920",
@@ -330,12 +354,6 @@
     "lastKill": null
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 0,
@@ -386,12 +404,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 0,
     "lastKill": null
   },
@@ -498,12 +510,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 0,
@@ -572,12 +578,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },

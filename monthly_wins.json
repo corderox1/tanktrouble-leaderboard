@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 118245
+    "kills": 118280
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5702
+    "kills": 5731
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2813
+    "kills": 2814
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2380
+    "kills": 2422
   },
   {
     "playerId": "17629928",
@@ -57,7 +57,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 1682
+    "kills": 1683
   },
   {
     "playerId": "22694251",
@@ -67,12 +67,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1490
+    "kills": 1523
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 1335
+    "kills": 1357
   },
   {
     "playerId": "20297710",
@@ -330,6 +330,11 @@
     "kills": 209
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 207
+  },
+  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
@@ -340,14 +345,9 @@
     "kills": 198
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 198
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 179
+    "kills": 185
   },
   {
     "playerId": "21673346",
@@ -550,6 +550,11 @@
     "kills": 13
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 12
+  },
+  {
     "playerId": "673237",
     "username": "Dare",
     "kills": 12
@@ -563,11 +568,6 @@
     "playerId": "22056849",
     "username": "Preww",
     "kills": 11
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 9
   },
   {
     "playerId": "7559374",
