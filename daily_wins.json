@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1723
+    "kills": 1804
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 149
+    "kills": 151
   },
   {
     "playerId": "19138057",
@@ -30,6 +30,11 @@
     "kills": 57
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 50
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 44
@@ -40,11 +45,6 @@
     "kills": 43
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 43
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 41
@@ -52,7 +52,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 28
+    "kills": 29
   },
   {
     "playerId": "13773720",
@@ -60,19 +60,29 @@
     "kills": 21
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 21
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 18
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 14
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 12
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 11
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 10
   },
   {
     "playerId": "6776098",
@@ -85,14 +95,29 @@
     "kills": 10
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 7
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 5
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 3
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 2
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 2
   },
   {
     "playerId": "1145079",
@@ -105,11 +130,6 @@
     "kills": 1
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 1
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 1
@@ -117,11 +137,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
     "kills": 0
   },
   {
@@ -207,11 +222,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -362,11 +372,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {
@@ -997,11 +1002,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0
   },
   {
