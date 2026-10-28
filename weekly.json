@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13468,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 13699,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "22710399",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 955,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 979,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "22472796",
@@ -26,8 +26,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 624,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 645,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "13173087",
@@ -38,8 +38,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 402,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 412,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "14892840",
@@ -96,6 +96,12 @@
     "lastKill": "2026-10-28 10:23:23"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 227,
+    "lastKill": "2026-10-28 13:16:24"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 216,
@@ -126,12 +132,6 @@
     "lastKill": "2026-10-27 14:51:43"
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 165,
-    "lastKill": "2026-10-28 09:26:36"
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 159,
@@ -144,16 +144,16 @@
     "lastKill": "2026-10-27 17:38:01"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 152,
+    "lastKill": "2026-10-28 13:16:24"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 139,
     "lastKill": "2026-10-28 06:33:10"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 134,
-    "lastKill": "2026-10-28 12:18:23"
   },
   {
     "playerId": "22757188",
@@ -270,16 +270,16 @@
     "lastKill": "2026-10-27 16:43:06"
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 34,
+    "lastKill": "2026-10-28 13:16:24"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 33,
     "lastKill": "2026-10-28 07:28:21"
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 33,
-    "lastKill": "2026-10-28 12:18:23"
   },
   {
     "playerId": "21940268",
@@ -292,6 +292,12 @@
     "username": "Trizz",
     "kills": 30,
     "lastKill": "2026-10-26 09:57:13"
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 30,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "10689052",
@@ -350,8 +356,8 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 14,
-    "lastKill": "2026-10-28 06:33:10"
+    "kills": 15,
+    "lastKill": "2026-10-28 13:16:24"
   },
   {
     "playerId": "16092601",
@@ -384,6 +390,12 @@
     "lastKill": "2026-10-28 12:18:23"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 7,
+    "lastKill": "2026-10-28 13:16:24"
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 5,
@@ -406,12 +418,6 @@
     "username": "scientistt",
     "kills": 1,
     "lastKill": "2026-10-26 13:42:23"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 1,
-    "lastKill": "2026-10-27 10:58:20"
   },
   {
     "playerId": "18985660",
@@ -1238,12 +1244,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0,
     "lastKill": null
   }

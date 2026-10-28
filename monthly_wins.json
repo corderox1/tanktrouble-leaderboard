@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 117768
+    "kills": 118003
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5651
+    "kills": 5664
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3638
+    "kills": 3647
   },
   {
     "playerId": "10794529",
@@ -32,12 +32,12 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2354
+    "kills": 2375
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2318
+    "kills": 2319
   },
   {
     "playerId": "4142755",
@@ -190,6 +190,11 @@
     "kills": 539
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 525
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 522
@@ -208,11 +213,6 @@
     "playerId": "21012136",
     "username": "small-li",
     "kills": 512
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 504
   },
   {
     "playerId": "16736853",
@@ -320,6 +320,11 @@
     "kills": 219
   },
   {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 213
+  },
+  {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 209
@@ -340,11 +345,6 @@
     "kills": 198
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 193
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 179
@@ -352,7 +352,7 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 178
+    "kills": 179
   },
   {
     "playerId": "20843843",
@@ -360,13 +360,13 @@
     "kills": 141
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 134
-  },
-  {
     "playerId": "20869330",
     "username": "-Blackjack-",
+    "kills": 136
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
     "kills": 134
   },
   {
@@ -517,7 +517,7 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 21
+    "kills": 22
   },
   {
     "playerId": "12517909",
@@ -627,6 +627,11 @@
   {
     "playerId": "10251396",
     "username": "vinus",
+    "kills": 2
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
     "kills": 2
   },
   {
@@ -1032,11 +1037,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0
   }
 ]

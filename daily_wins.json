@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2102
+    "kills": 2337
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 171
+    "kills": 184
   },
   {
     "playerId": "19138057",
@@ -25,6 +25,11 @@
     "kills": 66
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 58
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 57
@@ -40,11 +45,6 @@
     "kills": 50
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 49
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 44
@@ -55,19 +55,24 @@
     "kills": 43
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 42
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 41
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 30
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 35
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 21
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 31
   },
   {
     "playerId": "13173087",
@@ -75,23 +80,23 @@
     "kills": 21
   },
   {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 20
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 19
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 19
   },
   {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 17
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 14
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 14
   },
   {
@@ -135,6 +140,16 @@
     "kills": 2
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 2
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 2
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 1
@@ -145,8 +160,8 @@
     "kills": 1
   },
   {
-    "playerId": "8779272",
-    "username": "Reverend",
+    "playerId": "21673346",
+    "username": "KaneKalon",
     "kills": 1
   },
   {
@@ -382,11 +397,6 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 0
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 0
   },
   {
@@ -1015,11 +1025,6 @@
     "kills": 0
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 0
@@ -1032,11 +1037,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0
   }
 ]
