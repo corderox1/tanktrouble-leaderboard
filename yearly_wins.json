@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 174316
+    "kills": 174406
   },
   {
     "playerId": "8590474",
@@ -15,14 +15,14 @@
     "kills": 4721
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 4353
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 4342
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 4339
   },
   {
     "playerId": "20666777",
@@ -47,12 +47,12 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3085
+    "kills": 3129
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2790
+    "kills": 2860
   },
   {
     "playerId": "22716354",
@@ -240,6 +240,11 @@
     "kills": 761
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 699
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 698
@@ -255,11 +260,6 @@
     "kills": 670
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 662
-  },
-  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 616
@@ -270,14 +270,14 @@
     "kills": 532
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 506
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 491
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 506
   },
   {
     "playerId": "19425584",
@@ -355,6 +355,11 @@
     "kills": 292
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 267
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 263
@@ -400,11 +405,6 @@
     "kills": 209
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 208
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
@@ -415,14 +415,14 @@
     "kills": 194
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 182
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 179
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 173
   },
   {
     "playerId": "16874545",

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11967
+    "kills": 12057
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 382
+    "kills": 396
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 316
   },
   {
     "playerId": "22472796",
@@ -35,14 +40,14 @@
     "kills": 278
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 272
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 272
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 244
   },
   {
     "playerId": "14892840",
@@ -55,9 +60,9 @@
     "kills": 210
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 174
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 182
   },
   {
     "playerId": "8899024",
@@ -65,14 +70,14 @@
     "kills": 174
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 173
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 169
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 146
   },
   {
     "playerId": "19932455",
@@ -130,9 +135,9 @@
     "kills": 90
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 87
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 88
   },
   {
     "playerId": "1185396",
@@ -163,11 +168,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 76
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 73
   },
   {
     "playerId": "16736853",
@@ -213,6 +213,11 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 41
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 39
   },
   {
     "playerId": "21614515",
@@ -353,11 +358,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 2
   },
   {
     "playerId": "22845692",
