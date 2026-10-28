@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4527,
-    "lastKill": "2026-10-27 18:32:54"
+    "kills": 4674,
+    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "22472796",
@@ -42,16 +42,16 @@
     "lastKill": "2026-10-27 18:32:54"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 191,
+    "lastKill": "2026-10-27 19:28:06"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 179,
     "lastKill": "2026-10-27 10:58:20"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 174,
-    "lastKill": "2026-10-27 14:51:43"
   },
   {
     "playerId": "20270104",
@@ -96,6 +96,18 @@
     "lastKill": "2026-10-27 10:58:20"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 87,
+    "lastKill": "2026-10-27 19:28:06"
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 83,
+    "lastKill": "2026-10-27 19:28:06"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 82,
@@ -106,6 +118,12 @@
     "username": "Mandilindors",
     "kills": 77,
     "lastKill": "2026-10-27 17:38:01"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 75,
+    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "2574833",
@@ -126,10 +144,10 @@
     "lastKill": "2026-10-27 16:43:06"
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
+    "playerId": "3162693",
+    "username": "commander",
     "kills": 55,
-    "lastKill": "2026-10-27 18:32:54"
+    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "22757188",
@@ -150,22 +168,10 @@
     "lastKill": "2026-10-27 17:38:01"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 41,
-    "lastKill": "2026-10-27 13:49:05"
-  },
-  {
     "playerId": "21452912",
     "username": "k",
     "kills": 38,
     "lastKill": "2026-10-27 16:43:06"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 37,
-    "lastKill": "2026-10-27 18:32:54"
   },
   {
     "playerId": "21614515",
@@ -184,6 +190,12 @@
     "username": "small-li",
     "kills": 26,
     "lastKill": "2026-10-27 10:03:41"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 26,
+    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "8502796",
@@ -208,6 +220,12 @@
     "username": "BroUrDed",
     "kills": 17,
     "lastKill": "2026-10-27 12:53:24"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 16,
+    "lastKill": "2026-10-27 19:28:06"
   },
   {
     "playerId": "21465536",
@@ -378,12 +396,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 0,
@@ -512,12 +524,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": null
   },
@@ -1130,12 +1136,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0,
     "lastKill": null
   },

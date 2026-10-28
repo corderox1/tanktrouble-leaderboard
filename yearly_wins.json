@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 170363
+    "kills": 170428
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 4522
+    "kills": 4527
   },
   {
     "playerId": "14892840",
@@ -47,12 +47,12 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 2969
+    "kills": 2983
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2743
+    "kills": 2759
   },
   {
     "playerId": "22716354",
@@ -167,7 +167,12 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 1096
+    "kills": 1119
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1078
   },
   {
     "playerId": "21103294",
@@ -188,11 +193,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 1048
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 1033
   },
   {
     "playerId": "19138057",
@@ -307,7 +307,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 413
+    "kills": 416
   },
   {
     "playerId": "20375730",
@@ -415,6 +415,11 @@
     "kills": 147
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 145
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 141
@@ -453,11 +458,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 123
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 121
   },
   {
     "playerId": "20869330",

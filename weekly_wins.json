@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8014
+    "kills": 8079
   },
   {
     "playerId": "22710399",
@@ -52,12 +52,12 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 156
+    "kills": 170
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 127
+    "kills": 143
   },
   {
     "playerId": "19932455",
@@ -90,9 +90,19 @@
     "kills": 78
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 77
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 76
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 72
   },
   {
     "playerId": "21012136",
@@ -120,11 +130,6 @@
     "kills": 50
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 49
-  },
-  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 42
@@ -145,11 +150,6 @@
     "kills": 33
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 32
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 29
@@ -158,6 +158,11 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 25
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 24
   },
   {
     "playerId": "21700920",
@@ -193,6 +198,11 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 17
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 16
   },
   {
     "playerId": "20011985",
@@ -235,11 +245,6 @@
     "kills": 11
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 11
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 10
@@ -277,6 +282,11 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
+    "kills": 3
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 3
   },
   {
@@ -452,11 +462,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {
@@ -952,11 +957,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0
   },
   {
