@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1804
+    "kills": 2102
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 151
+    "kills": 171
   },
   {
     "playerId": "19138057",
@@ -30,9 +30,19 @@
     "kills": 57
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 52
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 50
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 49
   },
   {
     "playerId": "20269995",
@@ -52,7 +62,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 29
+    "kills": 30
   },
   {
     "playerId": "13773720",
@@ -67,22 +77,32 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 18
+    "kills": 19
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 17
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
     "kills": 14
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 14
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 13
   },
   {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 11
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 10
   },
   {
     "playerId": "6776098",
@@ -97,7 +117,7 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 7
+    "kills": 8
   },
   {
     "playerId": "15878197",
@@ -112,11 +132,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 2
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 2
   },
   {
@@ -232,11 +247,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -815,11 +825,6 @@
     "kills": 0
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0
@@ -927,11 +932,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {
