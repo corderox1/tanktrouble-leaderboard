@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 173745
+    "kills": 173852
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 8285
+    "kills": 8386
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 4644
+    "kills": 4684
   },
   {
     "playerId": "14892840",
@@ -42,7 +42,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 3246
+    "kills": 3277
   },
   {
     "playerId": "4142755",
@@ -62,7 +62,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2290
+    "kills": 2350
   },
   {
     "playerId": "8899024",
@@ -87,7 +87,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 2043
+    "kills": 2058
   },
   {
     "playerId": "22472796",
@@ -270,6 +270,11 @@
     "kills": 532
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 498
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 482
@@ -280,14 +285,9 @@
     "kills": 480
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 479
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 442
+    "kills": 443
   },
   {
     "playerId": "21797119",
@@ -325,6 +325,11 @@
     "kills": 392
   },
   {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 342
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 334
@@ -333,11 +338,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 322
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 309
   },
   {
     "playerId": "18985660",
@@ -572,7 +572,7 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 22
+    "kills": 23
   },
   {
     "playerId": "12517909",
@@ -623,6 +623,11 @@
     "playerId": "22056849",
     "username": "Preww",
     "kills": 11
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 10
   },
   {
     "playerId": "1899675",
@@ -747,11 +752,6 @@
   {
     "playerId": "3808011",
     "username": "gg",
-    "kills": 0
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
     "kills": 0
   },
   {
@@ -1057,6 +1057,11 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
+    "kills": 0
+  },
+  {
+    "playerId": "9156179",
+    "username": "EHS",
     "kills": 0
   }
 ]
