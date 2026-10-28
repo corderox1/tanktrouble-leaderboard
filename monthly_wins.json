@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 118624
+    "kills": 118851
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 2046
+    "kills": 2085
   },
   {
     "playerId": "8899024",
@@ -85,13 +85,13 @@
     "kills": 1192
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 1165
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
+    "kills": 1184
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
     "kills": 1165
   },
   {
@@ -132,7 +132,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 927
+    "kills": 929
   },
   {
     "playerId": "3660774",
@@ -215,6 +215,11 @@
     "kills": 512
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 491
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 477
@@ -222,17 +227,12 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 453
+    "kills": 455
   },
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 449
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 420
   },
   {
     "playerId": "21940268",
@@ -325,14 +325,14 @@
     "kills": 213
   },
   {
-    "playerId": "22754085",
-    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 209
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 208
+    "playerId": "22754085",
+    "username": "Tuan_AZ_Tank_Gaming_VN",
+    "kills": 209
   },
   {
     "playerId": "3162693",
@@ -353,6 +353,11 @@
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 179
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 173
   },
   {
     "playerId": "20843843",
@@ -420,9 +425,9 @@
     "kills": 91
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 89
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 74
   },
   {
     "playerId": "1341685",
@@ -437,11 +442,6 @@
   {
     "playerId": "19768925",
     "username": "Lil_May",
-    "kills": 72
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 72
   },
   {
@@ -547,7 +547,7 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 15
+    "kills": 16
   },
   {
     "playerId": "10132007",

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 174089
+    "kills": 174316
   },
   {
     "playerId": "8590474",
@@ -47,7 +47,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3046
+    "kills": 3085
   },
   {
     "playerId": "17629928",
@@ -112,7 +112,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 1665
+    "kills": 1667
   },
   {
     "playerId": "20984454",
@@ -122,7 +122,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1466
+    "kills": 1485
   },
   {
     "playerId": "3660774",
@@ -257,7 +257,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 660
+    "kills": 662
   },
   {
     "playerId": "11769746",
@@ -275,6 +275,11 @@
     "kills": 506
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 491
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 482
@@ -287,7 +292,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 443
+    "kills": 444
   },
   {
     "playerId": "21797119",
@@ -298,11 +303,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 422
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 420
   },
   {
     "playerId": "21940268",
@@ -342,7 +342,7 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "kills": 295
+    "kills": 297
   },
   {
     "playerId": "21462355",
@@ -420,6 +420,11 @@
     "kills": 179
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 173
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 147
@@ -473,11 +478,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 99
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 89
   },
   {
     "playerId": "21967085",
@@ -597,7 +597,7 @@
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
-    "kills": 15
+    "kills": 16
   },
   {
     "playerId": "10132007",

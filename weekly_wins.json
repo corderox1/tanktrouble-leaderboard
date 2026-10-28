@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11740
+    "kills": 11967
   },
   {
     "playerId": "8590474",
@@ -35,6 +35,11 @@
     "kills": 278
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 272
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 272
@@ -43,11 +48,6 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 239
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 233
   },
   {
     "playerId": "21601349",
@@ -65,6 +65,11 @@
     "kills": 174
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 173
+  },
+  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 169
@@ -80,6 +85,11 @@
     "kills": 129
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 121
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 118
@@ -88,11 +98,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 115
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 102
   },
   {
     "playerId": "4381511",
@@ -125,11 +130,6 @@
     "kills": 90
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 89
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 87
@@ -152,7 +152,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 77
+    "kills": 79
   },
   {
     "playerId": "2574833",
@@ -163,6 +163,11 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 76
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 73
   },
   {
     "playerId": "16736853",
@@ -280,14 +285,19 @@
     "kills": 16
   },
   {
+    "playerId": "10689052",
+    "username": "TankDestroyah52",
+    "kills": 16
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 15
   },
   {
-    "playerId": "10689052",
-    "username": "TankDestroyah52",
-    "kills": 15
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 14
   },
   {
     "playerId": "21098942",
@@ -298,11 +308,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 14
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 13
   },
   {
     "playerId": "8502796",
@@ -340,13 +345,18 @@
     "kills": 3
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 3
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 2
   },
   {
@@ -357,11 +367,6 @@
   {
     "playerId": "10132007",
     "username": "scientistt",
-    "kills": 1
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 1
   },
   {
@@ -397,11 +402,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0
   },
   {
