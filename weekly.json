@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10696,
-    "lastKill": "2026-10-28 00:03:15"
+    "kills": 10717,
+    "lastKill": "2026-10-28 00:58:10"
   },
   {
     "playerId": "22710399",
@@ -26,8 +26,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 556,
-    "lastKill": "2026-10-28 00:03:15"
+    "kills": 560,
+    "lastKill": "2026-10-28 00:58:10"
   },
   {
     "playerId": "13173087",
@@ -330,6 +330,12 @@
     "lastKill": "2026-10-27 15:48:00"
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 12,
+    "lastKill": "2026-10-28 00:58:10"
+  },
+  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 12,
@@ -620,12 +626,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 0,
     "lastKill": null
   },
