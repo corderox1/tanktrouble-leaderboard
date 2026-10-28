@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 115158
+    "kills": 115360
   },
   {
     "playerId": "8590474",
@@ -17,12 +17,12 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3504
+    "kills": 3506
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2811
+    "kills": 2812
   },
   {
     "playerId": "14892840",
@@ -40,14 +40,14 @@
     "kills": 2288
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 2006
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 2001
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1994
   },
   {
     "playerId": "22710399",
@@ -237,12 +237,17 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 416
+    "kills": 417
   },
   {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 337
+  },
+  {
+    "playerId": "20644558",
+    "username": "x",
+    "kills": 332
   },
   {
     "playerId": "21614515",
@@ -252,12 +257,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 306
-  },
-  {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 302
+    "kills": 307
   },
   {
     "playerId": "21797119",
@@ -515,6 +515,11 @@
     "kills": 23
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 20
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
@@ -582,11 +587,6 @@
   {
     "playerId": "160470",
     "username": "bbc",
-    "kills": 5
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 5
   },
   {

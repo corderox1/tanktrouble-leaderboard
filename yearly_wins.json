@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 170623
+    "kills": 170825
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3672
+    "kills": 3674
   },
   {
     "playerId": "22710399",
@@ -42,12 +42,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 3243
+    "kills": 3244
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 2994
+    "kills": 3006
   },
   {
     "playerId": "17629928",
@@ -307,7 +307,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 416
+    "kills": 417
   },
   {
     "playerId": "20375730",
@@ -315,14 +315,14 @@
     "kills": 404
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
+    "playerId": "20644558",
+    "username": "x",
     "kills": 392
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 362
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 392
   },
   {
     "playerId": "21098942",
@@ -337,7 +337,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 308
+    "kills": 309
   },
   {
     "playerId": "18985660",
@@ -570,6 +570,11 @@
     "kills": 23
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 20
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
@@ -647,11 +652,6 @@
   {
     "playerId": "160470",
     "username": "bbc",
-    "kills": 5
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 5
   },
   {
