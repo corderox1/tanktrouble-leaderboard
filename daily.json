@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3003,
-    "lastKill": "2026-10-28 13:16:24"
+    "kills": 3286,
+    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 345,
-    "lastKill": "2026-10-28 13:16:24"
+    "kills": 430,
+    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "19138057",
@@ -56,8 +56,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 89,
-    "lastKill": "2026-10-28 13:16:24"
+    "kills": 96,
+    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "22077521",
@@ -72,6 +72,12 @@
     "lastKill": "2026-10-28 10:23:23"
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 72,
+    "lastKill": "2026-10-28 14:11:52"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 68,
@@ -84,12 +90,6 @@
     "lastKill": "2026-10-28 10:23:23"
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 54,
-    "lastKill": "2026-10-28 12:18:23"
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 48,
@@ -98,8 +98,14 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 32,
-    "lastKill": "2026-10-28 13:16:24"
+    "kills": 44,
+    "lastKill": "2026-10-28 14:11:52"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 37,
+    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "3162693",
@@ -150,6 +156,12 @@
     "lastKill": "2026-10-28 08:27:50"
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 10,
+    "lastKill": "2026-10-28 14:11:52"
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 8,
@@ -166,6 +178,12 @@
     "username": "vincible",
     "kills": 7,
     "lastKill": "2026-10-28 13:16:24"
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 4,
+    "lastKill": "2026-10-28 14:11:52"
   },
   {
     "playerId": "1145079",
@@ -196,12 +214,6 @@
     "username": "seyi-vibez-jr",
     "kills": 2,
     "lastKill": "2026-10-28 10:23:23"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0,
-    "lastKill": null
   },
   {
     "playerId": "10132007",
@@ -308,12 +320,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": null
   },
@@ -1142,12 +1148,6 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
     "kills": 0,
     "lastKill": null
   },
