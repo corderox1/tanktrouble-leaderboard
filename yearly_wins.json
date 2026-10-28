@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 171777
+    "kills": 172023
   },
   {
     "playerId": "8590474",
@@ -97,12 +97,12 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1721
+    "kills": 1738
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1721
+    "kills": 1725
   },
   {
     "playerId": "3990108",
@@ -112,7 +112,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 1640
+    "kills": 1643
   },
   {
     "playerId": "22077521",
@@ -197,7 +197,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1024
+    "kills": 1043
   },
   {
     "playerId": "20269995",
@@ -520,6 +520,11 @@
     "kills": 43
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 43
+  },
+  {
     "playerId": "15164705",
     "username": "Glitter56371",
     "kills": 40
@@ -528,11 +533,6 @@
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 35
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 33
   },
   {
     "playerId": "151476",
@@ -570,13 +570,13 @@
     "kills": 23
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 20
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 21
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
     "kills": 20
   },
   {
