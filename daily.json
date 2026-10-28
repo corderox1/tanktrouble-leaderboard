@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5030,
-    "lastKill": "2026-10-27 21:17:52"
+    "kills": 5226,
+    "lastKill": "2026-10-27 22:12:57"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 392,
+    "lastKill": "2026-10-27 22:12:57"
   },
   {
     "playerId": "22472796",
@@ -12,16 +18,10 @@
     "lastKill": "2026-10-27 14:51:43"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 330,
-    "lastKill": "2026-10-27 21:17:52"
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 298,
-    "lastKill": "2026-10-27 21:17:52"
+    "kills": 299,
+    "lastKill": "2026-10-27 22:12:57"
   },
   {
     "playerId": "8899024",
@@ -178,6 +178,12 @@
     "username": "x",
     "kills": 42,
     "lastKill": "2026-10-27 21:17:52"
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 39,
+    "lastKill": "2026-10-27 22:12:57"
   },
   {
     "playerId": "21452912",
@@ -1172,12 +1178,6 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0,
     "lastKill": null
   },

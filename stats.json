@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35296824,
-    "kills": 44416092,
-    "deaths": 41891593,
-    "suicides": 9407027,
+    "victories": 35297024,
+    "kills": 44416288,
+    "deaths": 41891751,
+    "suicides": 9407067,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 9,
+    "rank": 11,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1793142717,
+    "lastLogin": 1793154726,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1375,9 +1375,9 @@
     "playerId": "10794529",
     "username": "interstellar",
     "victories": 77620,
-    "kills": 144278,
-    "deaths": 89002,
-    "suicides": 24856,
+    "kills": 144279,
+    "deaths": 89007,
+    "suicides": 24858,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1793064254,
+    "lastLogin": 1793153771,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 15222,
-    "kills": 28016,
-    "deaths": 46196,
-    "suicides": 12402,
+    "victories": 15290,
+    "kills": 28078,
+    "deaths": 46260,
+    "suicides": 12416,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1793109994,
+    "lastLogin": 1793156888,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9410,10 +9410,10 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "victories": 33555,
-    "kills": 54584,
-    "deaths": 33307,
-    "suicides": 8093,
+    "victories": 33624,
+    "kills": 54623,
+    "deaths": 33330,
+    "suicides": 8096,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9451,7 +9451,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707906163,
-    "lastLogin": 1792291142,
+    "lastLogin": 1793154964,
     "banned": false,
     "usernameApproved": true,
     "country": null
