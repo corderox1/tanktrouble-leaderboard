@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 115560
+    "kills": 115593
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5432
+    "kills": 5463
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3574
+    "kills": 3582
   },
   {
     "playerId": "10794529",
@@ -275,6 +275,11 @@
     "kills": 263
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 260
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 256
@@ -333,11 +338,6 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 193
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 192
   },
   {
     "playerId": "21673346",
@@ -520,14 +520,14 @@
     "kills": 20
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 20
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 19
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 18
   },
   {
     "playerId": "21528366",
