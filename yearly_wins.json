@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 173852
+    "kills": 174089
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 4684
+    "kills": 4721
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3006
+    "kills": 3046
   },
   {
     "playerId": "17629928",
@@ -62,7 +62,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2350
+    "kills": 2358
   },
   {
     "playerId": "8899024",
@@ -112,7 +112,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 1655
+    "kills": 1665
   },
   {
     "playerId": "20984454",
@@ -207,12 +207,12 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 975
+    "kills": 985
   },
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 879
+    "kills": 912
   },
   {
     "playerId": "21956820",
@@ -272,7 +272,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 498
+    "kills": 506
   },
   {
     "playerId": "19425584",
@@ -302,7 +302,7 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 418
+    "kills": 420
   },
   {
     "playerId": "21940268",
@@ -327,7 +327,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 342
+    "kills": 348
   },
   {
     "playerId": "21614515",
@@ -400,6 +400,11 @@
     "kills": 209
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 208
+  },
+  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
@@ -407,12 +412,7 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 193
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 192
+    "kills": 194
   },
   {
     "playerId": "21673346",
@@ -473,6 +473,11 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 99
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 89
   },
   {
     "playerId": "21967085",
@@ -590,24 +595,24 @@
     "kills": 17
   },
   {
+    "playerId": "10689052",
+    "username": "TankDestroyah52",
+    "kills": 15
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
+    "kills": 13
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 13
   },
   {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 13
-  },
-  {
-    "playerId": "10689052",
-    "username": "TankDestroyah52",
-    "kills": 13
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 12
   },
   {
     "playerId": "673237",
@@ -623,11 +628,6 @@
     "playerId": "22056849",
     "username": "Preww",
     "kills": 11
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 10
   },
   {
     "playerId": "1899675",

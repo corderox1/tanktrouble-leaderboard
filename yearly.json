@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 224476,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 224713,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "8590474",
@@ -38,8 +38,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 6688,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 6723,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "20666777",
@@ -74,8 +74,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 4066,
-    "lastKill": "2026-10-27 21:17:52"
+    "kills": 4106,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "8899024",
@@ -122,8 +122,8 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 3025,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 3029,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "21956820",
@@ -146,8 +146,8 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 2518,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 2544,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "21796745",
@@ -206,8 +206,8 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 1965,
-    "lastKill": "2026-10-22 09:03:54"
+    "kills": 2030,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "22725175",
@@ -222,16 +222,16 @@
     "lastKill": "2026-10-28 10:23:23"
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 1801,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 1786,
     "lastKill": "2026-09-26 05:28:59"
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 1766,
-    "lastKill": "2026-10-28 16:02:05"
   },
   {
     "playerId": "6776098",
@@ -312,16 +312,16 @@
     "lastKill": "2026-10-12 06:58:31"
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 989,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 982,
     "lastKill": "2026-10-14 13:13:28"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 970,
-    "lastKill": "2026-10-28 16:02:05"
   },
   {
     "playerId": "8502796",
@@ -366,6 +366,12 @@
     "lastKill": "2026-10-28 14:11:52"
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 661,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 651,
@@ -376,12 +382,6 @@
     "username": "x",
     "kills": 646,
     "lastKill": "2026-10-27 21:17:52"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 632,
-    "lastKill": "2026-10-28 15:06:48"
   },
   {
     "playerId": "20375730",
@@ -396,22 +396,22 @@
     "lastKill": "2026-10-28 00:58:10"
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 558,
-    "lastKill": "2026-10-27 16:43:06"
-  },
-  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 554,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 561,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 559,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 540,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 547,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "22479485",
@@ -428,8 +428,8 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 472,
-    "lastKill": "2026-10-28 03:43:06"
+    "kills": 473,
+    "lastKill": "2026-10-28 16:57:02"
   },
   {
     "playerId": "15931599",
@@ -648,6 +648,12 @@
     "lastKill": "2026-10-20 13:41:52"
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 79,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 75,
@@ -714,6 +720,12 @@
     "lastKill": "2026-10-28 16:02:05"
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 27,
+    "lastKill": "2026-10-28 16:57:02"
+  },
+  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 27,
@@ -744,12 +756,6 @@
     "lastKill": "2026-10-26 13:42:23"
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 18,
-    "lastKill": "2026-10-28 15:06:48"
-  },
-  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 18,
@@ -778,12 +784,6 @@
     "username": "DaveMadeByDave",
     "kills": 13,
     "lastKill": "2026-10-12 19:24:09"
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 11,
-    "lastKill": "2026-10-28 16:02:05"
   },
   {
     "playerId": "499659",

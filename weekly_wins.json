@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11503
+    "kills": 11740
   },
   {
     "playerId": "8590474",
@@ -47,7 +47,12 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 193
+    "kills": 233
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 210
   },
   {
     "playerId": "17629928",
@@ -60,24 +65,19 @@
     "kills": 174
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 173
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 169
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 132
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 129
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 122
   },
   {
     "playerId": "19138057",
@@ -87,7 +87,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 107
+    "kills": 115
   },
   {
     "playerId": "20270104",
@@ -125,6 +125,21 @@
     "kills": 90
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 89
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 87
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 85
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 82
@@ -135,8 +150,8 @@
     "kills": 81
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
+    "playerId": "22077521",
+    "username": "BillyTheKid",
     "kills": 77
   },
   {
@@ -160,18 +175,8 @@
     "kills": 71
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 71
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 67
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 67
   },
   {
@@ -185,14 +190,14 @@
     "kills": 52
   },
   {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 47
+  },
+  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 42
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 41
   },
   {
     "playerId": "17953682",
@@ -218,6 +223,11 @@
     "playerId": "20644558",
     "username": "x",
     "kills": 34
+  },
+  {
+    "playerId": "21109495",
+    "username": "Yaghoubi",
+    "kills": 33
   },
   {
     "playerId": "20869330",
@@ -275,6 +285,11 @@
     "kills": 15
   },
   {
+    "playerId": "10689052",
+    "username": "TankDestroyah52",
+    "kills": 15
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 14
@@ -290,11 +305,6 @@
     "kills": 13
   },
   {
-    "playerId": "10689052",
-    "username": "TankDestroyah52",
-    "kills": 13
-  },
-  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 11
@@ -305,11 +315,6 @@
     "kills": 10
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 10
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 10
@@ -317,7 +322,7 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 8
+    "kills": 9
   },
   {
     "playerId": "20621274",
@@ -330,13 +335,18 @@
     "kills": 4
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 3
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 2
   },
   {
@@ -440,11 +450,6 @@
     "kills": 0
   },
   {
-    "playerId": "21109495",
-    "username": "Yaghoubi",
-    "kills": 0
-  },
-  {
     "playerId": "20297710",
     "username": "KD419",
     "kills": 0
@@ -462,11 +467,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
