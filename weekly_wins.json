@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9769
+    "kills": 10088
   },
   {
     "playerId": "22710399",
@@ -30,6 +30,11 @@
     "kills": 265
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 244
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 239
@@ -38,11 +43,6 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 239
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 236
   },
   {
     "playerId": "4142755",
@@ -100,24 +100,24 @@
     "kills": 81
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 78
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 76
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 74
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 72
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 69
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 68
   },
   {
     "playerId": "21012136",
@@ -225,6 +225,11 @@
     "kills": 17
   },
   {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 17
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16
@@ -290,11 +295,6 @@
     "kills": 8
   },
   {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 8
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 7
@@ -327,6 +327,11 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 1
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 1
   },
   {
@@ -522,11 +527,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0
   },
   {
