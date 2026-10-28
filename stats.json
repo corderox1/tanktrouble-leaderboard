@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35297057,
-    "kills": 44416363,
-    "deaths": 41891847,
-    "suicides": 9407093,
+    "victories": 35297130,
+    "kills": 44416427,
+    "deaths": 41891954,
+    "suicides": 9407109,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 19928,
-    "kills": 28919,
-    "deaths": 24142,
-    "suicides": 6373,
+    "victories": 19945,
+    "kills": 28939,
+    "deaths": 24161,
+    "suicides": 6376,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 15298,
-    "kills": 28120,
-    "deaths": 46314,
-    "suicides": 12431,
+    "victories": 15305,
+    "kills": 28141,
+    "deaths": 46347,
+    "suicides": 12436,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3522,7 +3522,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1745175868,
-    "lastLogin": 1793158908,
+    "lastLogin": 1793162114,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66374,
-    "kills": 140058,
-    "deaths": 99359,
-    "suicides": 30851,
+    "victories": 66380,
+    "kills": 140065,
+    "deaths": 99363,
+    "suicides": 30852,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9410,10 +9410,10 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "victories": 33692,
-    "kills": 54739,
-    "deaths": 33399,
-    "suicides": 8105,
+    "victories": 33724,
+    "kills": 54793,
+    "deaths": 33430,
+    "suicides": 8109,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9447,7 +9447,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1792292088,
+    "lastForumPost": 1793162597,
     "guest": false,
     "gmLevel": null,
     "created": 1707906163,
@@ -9888,11 +9888,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": true,
-    "lastForumPost": 1792435517,
+    "lastForumPost": 1793161958,
     "guest": false,
     "gmLevel": 4,
     "created": 1449573355,
-    "lastLogin": 1793121313,
+    "lastLogin": 1793161637,
     "banned": false,
     "usernameApproved": true,
     "country": "IN"
@@ -10153,14 +10153,14 @@
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
+      "rawValue": "0xff8000",
+      "numericValue": "0xff8000",
       "imageValue": ""
     },
     "treadColour": {
       "type": "numeric",
-      "rawValue": "0xcccccc",
-      "numericValue": "0xcccccc",
+      "rawValue": "0x0080ff",
+      "numericValue": "0x0080ff",
       "imageValue": ""
     },
     "baseColour": {
@@ -10186,7 +10186,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1792940535,
-    "lastLogin": 1793112061,
+    "lastLogin": 1793160846,
     "banned": false,
     "usernameApproved": true,
     "country": null
