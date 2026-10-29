@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 689,
-    "lastKill": "2026-10-29 04:58:11"
+    "kills": 892,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 177,
+    "lastKill": "2026-10-29 05:59:02"
   },
   {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 153,
     "lastKill": "2026-10-29 04:02:57"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 150,
-    "lastKill": "2026-10-29 04:58:11"
   },
   {
     "playerId": "14892840",
@@ -38,8 +38,14 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 18,
-    "lastKill": "2026-10-29 04:58:11"
+    "kills": 22,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 21,
+    "lastKill": "2026-10-29 05:59:02"
   },
   {
     "playerId": "8590474",
@@ -48,16 +54,46 @@
     "lastKill": "2026-10-29 01:13:25"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 13,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 9,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 9,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 6,
     "lastKill": "2026-10-29 01:13:25"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 4,
+    "lastKill": "2026-10-29 05:59:02"
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 3,
     "lastKill": "2026-10-29 02:08:00"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 2,
+    "lastKill": "2026-10-29 05:59:02"
   },
   {
     "playerId": "19726920",
@@ -264,12 +300,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -414,12 +444,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -458,12 +482,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0,
     "lastKill": null
   },
@@ -900,12 +918,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1194,12 +1206,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 0,
@@ -1238,12 +1244,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },
