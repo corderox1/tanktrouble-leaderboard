@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 177230
+    "kills": 177588
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3865
+    "kills": 3913
   },
   {
     "playerId": "22710399",
@@ -52,7 +52,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2910
+    "kills": 2948
   },
   {
     "playerId": "22716354",
@@ -62,7 +62,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2358
+    "kills": 2370
   },
   {
     "playerId": "8899024",
@@ -92,12 +92,12 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1802
+    "kills": 1807
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1789
+    "kills": 1801
   },
   {
     "playerId": "1051525",
@@ -105,14 +105,14 @@
     "kills": 1786
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1736
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 1707
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1667
   },
   {
     "playerId": "20984454",
@@ -220,14 +220,14 @@
     "kills": 912
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 900
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 877
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 876
   },
   {
     "playerId": "21178768",
@@ -270,13 +270,13 @@
     "kills": 532
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 506
-  },
-  {
     "playerId": "1185396",
     "username": "rhak",
+    "kills": 508
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 506
   },
   {
@@ -292,7 +292,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 451
+    "kills": 453
   },
   {
     "playerId": "21797119",
@@ -430,6 +430,11 @@
     "kills": 147
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 145
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 141
@@ -472,11 +477,6 @@
   {
     "playerId": "22081323",
     "username": "WifiSciFi",
-    "kills": 127
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 127
   },
   {

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1973
+    "kills": 2331
   },
   {
     "playerId": "21178768",
@@ -12,7 +12,12 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 94
+    "kills": 112
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 97
   },
   {
     "playerId": "14892840",
@@ -20,9 +25,19 @@
     "kills": 88
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 69
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 56
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 54
   },
   {
     "playerId": "20269995",
@@ -35,14 +50,14 @@
     "kills": 50
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 49
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 39
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 36
   },
   {
     "playerId": "13173087",
@@ -55,19 +70,24 @@
     "kills": 34
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 33
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 32
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 31
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 12
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 16
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 12
   },
   {
     "playerId": "21614515",
@@ -80,14 +100,9 @@
     "kills": 10
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 9
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 7
+    "kills": 9
   },
   {
     "playerId": "6776098",
@@ -123,6 +138,11 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 3
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 2
   },
   {
     "playerId": "19068893",
@@ -340,11 +360,6 @@
     "kills": 0
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 0
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 0
@@ -397,11 +412,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
@@ -830,11 +840,6 @@
     "kills": 0
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0
@@ -902,11 +907,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0
   },
   {
