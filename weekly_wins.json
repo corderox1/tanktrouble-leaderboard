@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13718
+    "kills": 13958
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 476
+    "kills": 498
   },
   {
     "playerId": "4142755",
@@ -33,6 +33,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 362
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 309
   },
   {
     "playerId": "21601349",
@@ -48,11 +53,6 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 294
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 285
   },
   {
     "playerId": "17629928",
@@ -110,13 +110,13 @@
     "kills": 118
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 115
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 117
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 115
   },
   {
@@ -127,7 +127,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 108
+    "kills": 109
   },
   {
     "playerId": "21956820",
@@ -155,14 +155,14 @@
     "kills": 88
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 85
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 82
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 85
   },
   {
     "playerId": "20984454",
