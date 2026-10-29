@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 95,
-    "lastKill": "2026-10-29 01:13:25"
+    "kills": 204,
+    "lastKill": "2026-10-29 02:08:00"
   },
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 47,
-    "lastKill": "2026-10-29 01:13:25"
+    "kills": 102,
+    "lastKill": "2026-10-29 02:08:00"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 79,
+    "lastKill": "2026-10-29 02:08:00"
   },
   {
     "playerId": "8590474",
@@ -18,10 +24,22 @@
     "lastKill": "2026-10-29 01:13:25"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 6,
+    "lastKill": "2026-10-29 02:08:00"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 6,
     "lastKill": "2026-10-29 01:13:25"
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 3,
+    "lastKill": "2026-10-29 02:08:00"
   },
   {
     "playerId": "19726920",
@@ -134,12 +152,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
@@ -440,12 +452,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0,
     "lastKill": null
   },
@@ -1178,12 +1184,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0,
     "lastKill": null
   },
