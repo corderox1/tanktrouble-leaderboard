@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3415
+    "kills": 3647
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,17 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 193
+    "kills": 250
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 206
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 183
   },
   {
     "playerId": "10502780",
@@ -20,9 +30,9 @@
     "kills": 182
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 177
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 146
   },
   {
     "playerId": "17629928",
@@ -30,19 +40,9 @@
     "kills": 135
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 107
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 104
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 103
   },
   {
     "playerId": "19138057",
@@ -155,6 +155,11 @@
     "kills": 19
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 18
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 14
@@ -175,13 +180,13 @@
     "kills": 11
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 10
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 11
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 10
   },
   {
@@ -227,11 +232,6 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 2
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 2
   },
   {
