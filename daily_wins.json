@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3647
+    "kills": 3796
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 352
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 254
   },
   {
     "playerId": "21601349",
@@ -17,12 +22,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 206
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 183
+    "kills": 212
   },
   {
     "playerId": "10502780",
@@ -32,7 +32,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 146
+    "kills": 151
   },
   {
     "playerId": "17629928",
@@ -145,6 +145,11 @@
     "kills": 21
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 20
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 20
@@ -170,6 +175,11 @@
     "kills": 13
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 12
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 11
@@ -180,16 +190,6 @@
     "kills": 11
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 11
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 10
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 10
@@ -198,6 +198,11 @@
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 9
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 7
   },
   {
     "playerId": "22042037",
@@ -917,11 +922,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   },
   {
