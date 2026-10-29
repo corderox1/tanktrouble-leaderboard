@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2651
+    "kills": 2873
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 142
+    "kills": 177
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 132
+    "kills": 168
   },
   {
     "playerId": "21178768",
@@ -40,9 +40,19 @@
     "kills": 56
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 54
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 51
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 50
   },
   {
     "playerId": "22716354",
@@ -50,14 +60,19 @@
     "kills": 50
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 40
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 45
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 39
+    "kills": 40
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 37
   },
   {
     "playerId": "22706369",
@@ -65,24 +80,9 @@
     "kills": 36
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 36
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 35
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 34
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 33
   },
   {
     "playerId": "21700920",
@@ -95,14 +95,19 @@
     "kills": 32
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 19
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 18
+    "kills": 25
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 22
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 13
   },
   {
     "playerId": "21614515",
@@ -118,6 +123,16 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 7
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 5
+  },
+  {
+    "playerId": "499659",
+    "username": "foxter",
+    "kills": 5
   },
   {
     "playerId": "21609912",
@@ -143,11 +158,6 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 3
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 2
   },
   {
     "playerId": "19068893",
@@ -387,11 +397,6 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 0
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0
   },
   {
@@ -797,11 +802,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "499659",
-    "username": "foxter",
     "kills": 0
   },
   {
