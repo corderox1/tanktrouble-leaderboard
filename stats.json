@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35301073,
-    "kills": 44421145,
-    "deaths": 41897871,
-    "suicides": 9408316,
+    "victories": 35301193,
+    "kills": 44421430,
+    "deaths": 41898210,
+    "suicides": 9408411,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 10,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3579,10 +3579,10 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "victories": 14803,
-    "kills": 23134,
-    "deaths": 19087,
-    "suicides": 4592,
+    "victories": 14806,
+    "kills": 23135,
+    "deaths": 19090,
+    "suicides": 4593,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1793242744,
+    "lastLogin": 1793246392,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8332,10 +8332,10 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "victories": 48045,
-    "kills": 84270,
-    "deaths": 88500,
-    "suicides": 23087,
+    "victories": 48049,
+    "kills": 84276,
+    "deaths": 88504,
+    "suicides": 23089,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9010,7 +9010,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1625330278,
-    "lastLogin": 1793241321,
+    "lastLogin": 1793246567,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10096,10 +10096,10 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "victories": 1714,
-    "kills": 2390,
-    "deaths": 2243,
-    "suicides": 610,
+    "victories": 1715,
+    "kills": 2394,
+    "deaths": 2246,
+    "suicides": 611,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10128,8 +10128,8 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 163,
-    "xp": 113400,
+    "rank": 167,
+    "xp": 113590,
     "beta": false,
     "verified": false,
     "newsSubscriber": false,
@@ -10137,7 +10137,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790519714,
-    "lastLogin": 1793243936,
+    "lastLogin": 1793245844,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10153,8 +10153,8 @@
     "surrenders": 0,
     "turretColour": {
       "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
+      "rawValue": "0xa5ff03",
+      "numericValue": "0xa5ff03",
       "imageValue": ""
     },
     "treadColour": {
@@ -10165,8 +10165,8 @@
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
+      "rawValue": "0xa5ff03",
+      "numericValue": "0xa5ff03",
       "imageValue": ""
     },
     "turretAccessory": "0",
@@ -10180,13 +10180,13 @@
     "rank": 0,
     "xp": 14550,
     "beta": false,
-    "verified": false,
+    "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": null,
+    "lastForumPost": 1793247732,
     "guest": false,
     "gmLevel": null,
     "created": 1792940535,
-    "lastLogin": 1793209031,
+    "lastLogin": 1793246812,
     "banned": false,
     "usernameApproved": true,
     "country": null
