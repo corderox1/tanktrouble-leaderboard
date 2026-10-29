@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12908
+    "kills": 13007
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 812
+    "kills": 827
   },
   {
     "playerId": "13173087",
@@ -45,13 +45,13 @@
     "kills": 294
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 278
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
+    "kills": 285
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
     "kills": 278
   },
   {
@@ -185,6 +185,11 @@
     "kills": 71
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 69
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 67
@@ -237,11 +242,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 33
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 33
   },
   {
@@ -367,6 +367,11 @@
   {
     "playerId": "10132007",
     "username": "scientistt",
+    "kills": 1
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
     "kills": 1
   },
   {
@@ -987,11 +992,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0
   },
   {

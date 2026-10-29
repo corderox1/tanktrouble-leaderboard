@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15755,
-    "lastKill": "2026-10-29 00:18:26"
+    "kills": 15850,
+    "lastKill": "2026-10-29 01:13:25"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1277,
-    "lastKill": "2026-10-29 00:18:26"
+    "kills": 1291,
+    "lastKill": "2026-10-29 01:13:25"
   },
   {
     "playerId": "22710399",
@@ -98,8 +98,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 293,
-    "lastKill": "2026-10-28 12:18:23"
+    "kills": 299,
+    "lastKill": "2026-10-29 01:13:25"
   },
   {
     "playerId": "4201869",
@@ -222,6 +222,12 @@
     "lastKill": "2026-10-28 14:11:52"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 101,
+    "lastKill": "2026-10-29 01:13:25"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 94,
@@ -292,12 +298,6 @@
     "username": "frogcatchflies",
     "kills": 55,
     "lastKill": "2026-10-28 20:38:16"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 54,
-    "lastKill": "2026-10-29 00:18:26"
   },
   {
     "playerId": "14617724",
@@ -448,6 +448,12 @@
     "username": "scientistt",
     "kills": 1,
     "lastKill": "2026-10-26 13:42:23"
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 1,
+    "lastKill": "2026-10-29 01:13:25"
   },
   {
     "playerId": "21443824",
@@ -1184,12 +1190,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0,
     "lastKill": null
   },
