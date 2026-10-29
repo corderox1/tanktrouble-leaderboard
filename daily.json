@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2391,
-    "lastKill": "2026-10-29 10:49:42"
+    "kills": 2747,
+    "lastKill": "2026-10-29 11:48:55"
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 220,
-    "lastKill": "2026-10-29 10:49:42"
+    "kills": 264,
+    "lastKill": "2026-10-29 11:48:55"
   },
   {
     "playerId": "22845692",
@@ -66,6 +66,12 @@
     "lastKill": "2026-10-29 10:49:42"
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 53,
+    "lastKill": "2026-10-29 11:48:55"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 53,
@@ -84,6 +90,12 @@
     "lastKill": "2026-10-29 04:02:57"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 36,
+    "lastKill": "2026-10-29 11:48:55"
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 31,
@@ -96,22 +108,16 @@
     "lastKill": "2026-10-29 08:53:30"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 19,
-    "lastKill": "2026-10-29 10:49:42"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 13,
     "lastKill": "2026-10-29 05:59:02"
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
+    "playerId": "21673346",
+    "username": "KaneKalon",
     "kills": 10,
-    "lastKill": "2026-10-29 10:49:42"
+    "lastKill": "2026-10-29 11:48:55"
   },
   {
     "playerId": "6776098",
@@ -124,6 +130,12 @@
     "username": "-BarnFindAlly-",
     "kills": 9,
     "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 6,
+    "lastKill": "2026-10-29 11:48:55"
   },
   {
     "playerId": "22710399",
@@ -1152,12 +1164,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 0,
@@ -1220,12 +1226,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 0,
     "lastKill": null
   },

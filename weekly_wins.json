@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14719
+    "kills": 14881
   },
   {
     "playerId": "8590474",
@@ -115,6 +115,11 @@
     "kills": 129
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 129
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 127
@@ -138,11 +143,6 @@
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 114
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 110
   },
   {
     "playerId": "21956820",
@@ -210,14 +210,14 @@
     "kills": 52
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 50
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 47
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 42
   },
   {
     "playerId": "21932847",
@@ -250,14 +250,14 @@
     "kills": 33
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 33
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 31
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 30
   },
   {
     "playerId": "20869330",
@@ -267,7 +267,7 @@
   {
     "playerId": "22042037",
     "username": "N-A",
-    "kills": 25
+    "kills": 28
   },
   {
     "playerId": "15931599",
@@ -355,6 +355,11 @@
     "kills": 5
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 5
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 3
@@ -382,11 +387,6 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 1
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 1
   },
   {
