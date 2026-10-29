@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 123034
+    "kills": 123290
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 5913
+    "kills": 5956
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 2861
+    "kills": 2917
   },
   {
     "playerId": "14892840",
@@ -32,12 +32,12 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2650
+    "kills": 2662
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2610
+    "kills": 2620
   },
   {
     "playerId": "4142755",
@@ -97,7 +97,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 1130
+    "kills": 1140
   },
   {
     "playerId": "22706369",
@@ -172,7 +172,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 672
+    "kills": 718
   },
   {
     "playerId": "19932455",
@@ -282,7 +282,7 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 275
+    "kills": 284
   },
   {
     "playerId": "4653977",
@@ -297,7 +297,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 245
+    "kills": 248
   },
   {
     "playerId": "22735235",
@@ -512,7 +512,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 27
+    "kills": 28
   },
   {
     "playerId": "20621274",
@@ -647,6 +647,11 @@
   {
     "playerId": "10251396",
     "username": "vinus",
+    "kills": 2
+  },
+  {
+    "playerId": "9156179",
+    "username": "EHS",
     "kills": 2
   },
   {
@@ -1037,11 +1042,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "9156179",
-    "username": "EHS",
     "kills": 0
   }
 ]
