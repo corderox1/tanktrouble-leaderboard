@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19882,
-    "lastKill": "2026-10-29 15:32:59"
+    "kills": 20118,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "8590474",
@@ -32,8 +32,8 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 768,
-    "lastKill": "2026-10-29 15:32:59"
+    "kills": 779,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "20666777",
@@ -60,16 +60,22 @@
     "lastKill": "2026-10-28 23:23:00"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 491,
+    "lastKill": "2026-10-29 16:27:36"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 466,
-    "lastKill": "2026-10-29 15:32:59"
+    "kills": 480,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 451,
-    "lastKill": "2026-10-29 15:32:59"
+    "kills": 456,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "22706369",
@@ -78,16 +84,10 @@
     "lastKill": "2026-10-29 12:43:18"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 420,
-    "lastKill": "2026-10-29 15:32:59"
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 394,
-    "lastKill": "2026-10-28 16:02:05"
+    "kills": 410,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "22809750",
@@ -138,6 +138,12 @@
     "lastKill": "2026-10-29 14:38:35"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 258,
+    "lastKill": "2026-10-29 16:27:36"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 252,
@@ -154,12 +160,6 @@
     "username": "Hafiz-Muhammad",
     "kills": 240,
     "lastKill": "2026-10-29 05:59:02"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 233,
-    "lastKill": "2026-10-29 15:32:59"
   },
   {
     "playerId": "22845692",
@@ -252,6 +252,12 @@
     "lastKill": "2026-10-28 16:57:02"
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 88,
+    "lastKill": "2026-10-29 16:27:36"
+  },
+  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 84,
@@ -262,12 +268,6 @@
     "username": "Saucy",
     "kills": 83,
     "lastKill": "2026-10-27 19:28:06"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 81,
-    "lastKill": "2026-10-29 15:32:59"
   },
   {
     "playerId": "3923647",
@@ -334,6 +334,12 @@
     "username": "k",
     "kills": 38,
     "lastKill": "2026-10-27 16:43:06"
+  },
+  {
+    "playerId": "21462355",
+    "username": "PrehistoricPyroGhost",
+    "kills": 34,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "20869330",
@@ -414,6 +420,12 @@
     "lastKill": "2026-10-28 23:23:00"
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 14,
+    "lastKill": "2026-10-29 16:27:36"
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 13,
@@ -466,6 +478,12 @@
     "username": "scientistt",
     "kills": 1,
     "lastKill": "2026-10-26 13:42:23"
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 1,
+    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "19726920",
@@ -576,12 +594,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21462355",
-    "username": "PrehistoricPyroGhost",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "5134622",
     "username": "kaag",
     "kills": 0,
@@ -614,12 +626,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0,
     "lastKill": null
   },
@@ -668,12 +674,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },
