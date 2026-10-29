@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12578
+    "kills": 12725
   },
   {
     "playerId": "8590474",
@@ -10,14 +10,14 @@
     "kills": 775
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 598
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 575
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 512
   },
   {
     "playerId": "20666777",
@@ -27,7 +27,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 405
+    "kills": 417
   },
   {
     "playerId": "21601349",
@@ -38,6 +38,11 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 294
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 291
   },
   {
     "playerId": "17629928",
@@ -57,7 +62,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 254
+    "kills": 271
   },
   {
     "playerId": "14892840",
@@ -65,14 +70,14 @@
     "kills": 239
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 198
+  },
+  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 182
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 181
   },
   {
     "playerId": "19173281",
@@ -83,11 +88,6 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 161
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 142
   },
   {
     "playerId": "8408190",
@@ -112,7 +112,7 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 113
+    "kills": 114
   },
   {
     "playerId": "4381511",
@@ -320,13 +320,13 @@
     "kills": 11
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 10
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
+    "kills": 11
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 10
   },
   {
