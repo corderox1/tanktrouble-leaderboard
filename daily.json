@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 547,
-    "lastKill": "2026-10-29 04:02:57"
+    "kills": 689,
+    "lastKill": "2026-10-29 04:58:11"
   },
   {
     "playerId": "22845692",
@@ -14,8 +14,8 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 115,
-    "lastKill": "2026-10-29 04:02:57"
+    "kills": 150,
+    "lastKill": "2026-10-29 04:58:11"
   },
   {
     "playerId": "14892840",
@@ -30,16 +30,22 @@
     "lastKill": "2026-10-29 04:02:57"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 14,
-    "lastKill": "2026-10-29 01:13:25"
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 24,
+    "lastKill": "2026-10-29 04:58:11"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 6,
-    "lastKill": "2026-10-29 02:08:00"
+    "kills": 18,
+    "lastKill": "2026-10-29 04:58:11"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 14,
+    "lastKill": "2026-10-29 01:13:25"
   },
   {
     "playerId": "22809750",
@@ -182,12 +188,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0,
     "lastKill": null
   },
