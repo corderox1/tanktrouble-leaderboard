@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1649
+    "kills": 1811
   },
   {
     "playerId": "22845692",
@@ -12,12 +12,17 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 90
+    "kills": 93
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 88
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 56
   },
   {
     "playerId": "20269995",
@@ -35,9 +40,9 @@
     "kills": 49
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 36
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 39
   },
   {
     "playerId": "13173087",
@@ -50,6 +55,11 @@
     "kills": 34
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 32
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 31
@@ -58,16 +68,6 @@
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 16
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 15
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 15
   },
   {
     "playerId": "3990108",
@@ -85,6 +85,11 @@
     "kills": 7
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 6
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 5
@@ -97,6 +102,11 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
+    "kills": 4
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
     "kills": 4
   },
   {
@@ -432,11 +442,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
@@ -937,11 +942,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 0
   },
   {
