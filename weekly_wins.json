@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17462
+    "kills": 17573
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 556
+    "kills": 566
   },
   {
     "playerId": "17629928",
@@ -52,7 +52,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 340
+    "kills": 343
   },
   {
     "playerId": "22472796",
@@ -295,6 +295,11 @@
     "kills": 21
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 21
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 20
@@ -317,11 +322,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 14
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 14
   },
   {
@@ -350,6 +350,11 @@
     "kills": 9
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 9
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 8
@@ -367,11 +372,6 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 6
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 6
   },
   {
