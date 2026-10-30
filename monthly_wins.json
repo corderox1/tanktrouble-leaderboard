@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 127289
+    "kills": 127403
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 5134
+    "kills": 5142
   },
   {
     "playerId": "20666777",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2796
+    "kills": 2804
   },
   {
     "playerId": "17629928",
@@ -90,6 +90,11 @@
     "kills": 1213
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1204
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 1192
@@ -98,11 +103,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 1169
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1140
   },
   {
     "playerId": "22809750",
@@ -302,7 +302,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 249
+    "kills": 252
   },
   {
     "playerId": "22735235",
@@ -367,7 +367,7 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 165
+    "kills": 175
   },
   {
     "playerId": "22042037",
@@ -383,6 +383,11 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 145
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 142
   },
   {
     "playerId": "20843843",
@@ -403,11 +408,6 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 127
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 126
   },
   {
     "playerId": "12331664",
@@ -520,6 +520,11 @@
     "kills": 25
   },
   {
+    "playerId": "21462355",
+    "username": "PrehistoricPyroGhost",
+    "kills": 23
+  },
+  {
     "playerId": "17794648",
     "username": "Quser",
     "kills": 23
@@ -540,8 +545,8 @@
     "kills": 19
   },
   {
-    "playerId": "21462355",
-    "username": "PrehistoricPyroGhost",
+    "playerId": "878689",
+    "username": "Gentleman",
     "kills": 18
   },
   {
@@ -727,11 +732,6 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 0
-  },
-  {
-    "playerId": "878689",
-    "username": "Gentleman",
     "kills": 0
   },
   {
