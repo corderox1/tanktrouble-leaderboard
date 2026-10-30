@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3128,
-    "lastKill": "2026-10-30 12:53:23"
+    "kills": 3411,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 423,
-    "lastKill": "2026-10-30 12:53:23"
+    "kills": 515,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "14892840",
@@ -18,10 +18,28 @@
     "lastKill": "2026-10-30 12:53:23"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 279,
+    "lastKill": "2026-10-30 13:48:22"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 243,
     "lastKill": "2026-10-30 06:18:11"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 210,
+    "lastKill": "2026-10-30 13:48:22"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 205,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "21178768",
@@ -30,28 +48,16 @@
     "lastKill": "2026-10-30 09:09:11"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 181,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 133,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 104,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 86,
-    "lastKill": "2026-10-30 12:53:23"
+    "kills": 109,
+    "lastKill": "2026-10-30 13:48:22"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 102,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "22716354",
@@ -66,22 +72,16 @@
     "lastKill": "2026-10-30 06:18:11"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 59,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 52,
-    "lastKill": "2026-10-30 09:09:11"
+    "kills": 63,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 46,
-    "lastKill": "2026-10-30 12:53:23"
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 60,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "20111777",
@@ -96,6 +96,18 @@
     "lastKill": "2026-10-30 08:13:19"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 36,
+    "lastKill": "2026-10-30 13:48:22"
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 35,
+    "lastKill": "2026-10-30 13:48:22"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 32,
@@ -106,6 +118,12 @@
     "username": "EHS",
     "kills": 32,
     "lastKill": "2026-10-30 12:53:23"
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 31,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "19726920",
@@ -132,16 +150,16 @@
     "lastKill": "2026-10-30 11:58:15"
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 20,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 17,
     "lastKill": "2026-10-30 09:09:11"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 16,
+    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "6776098",
@@ -183,18 +201,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 8,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 6,
-    "lastKill": "2026-10-30 12:53:23"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 4,
     "lastKill": "2026-10-30 12:53:23"
   },
   {
@@ -314,12 +320,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0,
     "lastKill": null
   },
