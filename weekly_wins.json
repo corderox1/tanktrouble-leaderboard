@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17573
+    "kills": 17637
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 995
+    "kills": 1012
   },
   {
     "playerId": "13173087",
@@ -85,6 +85,11 @@
     "kills": 182
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 182
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 170
@@ -108,11 +113,6 @@
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 153
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 145
   },
   {
     "playerId": "22706369",
@@ -315,6 +315,11 @@
     "kills": 16
   },
   {
+    "playerId": "9156179",
+    "username": "EHS",
+    "kills": 16
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 15
@@ -340,6 +345,11 @@
     "kills": 12
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 12
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 10
@@ -347,11 +357,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 9
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 9
   },
   {
@@ -398,11 +403,6 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3
-  },
-  {
-    "playerId": "9156179",
-    "username": "EHS",
-    "kills": 2
   },
   {
     "playerId": "10132007",

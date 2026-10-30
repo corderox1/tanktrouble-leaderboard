@@ -2,7 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 111
+    "kills": 175
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 37
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 17
+  },
+  {
+    "playerId": "9156179",
+    "username": "EHS",
+    "kills": 14
   },
   {
     "playerId": "20666777",
@@ -17,7 +32,7 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 3
+    "kills": 6
   },
   {
     "playerId": "22809750",
@@ -337,11 +352,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0
   },
   {
@@ -1032,16 +1042,6 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 0
-  },
-  {
-    "playerId": "9156179",
-    "username": "EHS",
     "kills": 0
   }
 ]
