@@ -2,26 +2,44 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 701,
-    "lastKill": "2026-10-30 05:22:33"
+    "kills": 954,
+    "lastKill": "2026-10-30 06:18:11"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 183,
-    "lastKill": "2026-10-30 05:22:33"
+    "kills": 285,
+    "lastKill": "2026-10-30 06:18:11"
   },
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 183,
-    "lastKill": "2026-10-30 05:22:33"
+    "kills": 243,
+    "lastKill": "2026-10-30 06:18:11"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 77,
+    "lastKill": "2026-10-30 06:18:11"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 65,
     "lastKill": "2026-10-30 03:32:55"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 61,
+    "lastKill": "2026-10-30 06:18:11"
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 40,
+    "lastKill": "2026-10-30 06:18:11"
   },
   {
     "playerId": "22757188",
@@ -34,18 +52,6 @@
     "username": "EHS",
     "kills": 30,
     "lastKill": "2026-10-30 02:37:36"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 29,
-    "lastKill": "2026-10-30 05:22:33"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 25,
-    "lastKill": "2026-10-30 03:32:55"
   },
   {
     "playerId": "19726920",
@@ -66,22 +72,22 @@
     "lastKill": "2026-10-30 01:42:56"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 9,
+    "lastKill": "2026-10-30 06:18:11"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 5,
-    "lastKill": "2026-10-30 01:42:56"
+    "kills": 6,
+    "lastKill": "2026-10-30 06:18:11"
   },
   {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 4,
     "lastKill": "2026-10-30 01:42:56"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 1,
-    "lastKill": "2026-10-30 05:22:33"
   },
   {
     "playerId": "22710399",
@@ -158,12 +164,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
     "kills": 0,
     "lastKill": null
   },

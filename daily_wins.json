@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 636
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 135
+    "kills": 833
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 118
+    "kills": 182
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 161
   },
   {
     "playerId": "8590474",
@@ -20,9 +20,24 @@
     "kills": 36
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 23
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 19
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 17
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 15
   },
   {
     "playerId": "9156179",
@@ -30,19 +45,9 @@
     "kills": 14
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 12
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 10
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 7
   },
   {
     "playerId": "16092601",
@@ -55,6 +60,11 @@
     "kills": 6
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 6
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 6
@@ -62,12 +72,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 3
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 2
+    "kills": 4
   },
   {
     "playerId": "22710399",
@@ -132,11 +137,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
     "kills": 0
   },
   {
