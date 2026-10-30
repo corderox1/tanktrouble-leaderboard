@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19168
+    "kills": 19334
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 971
+    "kills": 1028
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 684
   },
   {
     "playerId": "4142755",
@@ -35,24 +40,19 @@
     "kills": 544
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 517
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 500
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 404
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 374
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 373
   },
   {
     "playerId": "22809750",
@@ -100,6 +100,11 @@
     "kills": 170
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 170
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 169
@@ -122,11 +127,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 153
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 153
   },
   {
@@ -200,6 +200,11 @@
     "kills": 72
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 67
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 67
@@ -215,11 +220,6 @@
     "kills": 63
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 57
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 54
@@ -227,16 +227,16 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 50
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
-    "kills": 47
+    "kills": 54
   },
   {
     "playerId": "22042037",
     "username": "N-A",
+    "kills": 49
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
     "kills": 47
   },
   {
