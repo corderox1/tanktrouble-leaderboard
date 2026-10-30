@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1192,
-    "lastKill": "2026-10-30 07:18:09"
+    "kills": 1426,
+    "lastKill": "2026-10-30 08:13:19"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,8 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 96,
-    "lastKill": "2026-10-30 07:18:09"
+    "kills": 152,
+    "lastKill": "2026-10-30 08:13:19"
   },
   {
     "playerId": "13773720",
@@ -36,10 +36,22 @@
     "lastKill": "2026-10-30 03:32:55"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 60,
+    "lastKill": "2026-10-30 08:13:19"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 40,
     "lastKill": "2026-10-30 06:18:11"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 39,
+    "lastKill": "2026-10-30 08:13:19"
   },
   {
     "playerId": "22757188",
@@ -54,6 +66,12 @@
     "lastKill": "2026-10-30 02:37:36"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 23,
+    "lastKill": "2026-10-30 08:13:19"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 17,
@@ -66,10 +84,10 @@
     "lastKill": "2026-10-30 05:22:33"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 15,
-    "lastKill": "2026-10-30 07:18:09"
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 12,
+    "lastKill": "2026-10-30 08:13:19"
   },
   {
     "playerId": "20666777",
@@ -90,6 +108,12 @@
     "lastKill": "2026-10-30 07:18:09"
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 6,
+    "lastKill": "2026-10-30 08:13:19"
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 4,
@@ -99,12 +123,6 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 2,
-    "lastKill": "2026-10-30 07:18:09"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 1,
     "lastKill": "2026-10-30 07:18:09"
   },
   {
@@ -500,12 +518,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
@@ -1062,12 +1074,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1172,12 +1178,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0,
     "lastKill": null
   },
