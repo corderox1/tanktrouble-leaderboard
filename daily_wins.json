@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4253
+    "kills": 4418
   },
   {
     "playerId": "13173087",
@@ -27,7 +27,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 164
+    "kills": 183
   },
   {
     "playerId": "21178768",
@@ -40,6 +40,11 @@
     "kills": 112
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 111
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 101
@@ -47,17 +52,12 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 97
+    "kills": 98
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 88
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 85
   },
   {
     "playerId": "21601349",
@@ -140,6 +140,11 @@
     "kills": 22
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 21
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 21
@@ -180,6 +185,11 @@
     "kills": 9
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 9
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 8
@@ -195,11 +205,6 @@
     "kills": 7
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 5
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 5
@@ -210,8 +215,23 @@
     "kills": 5
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 4
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
+    "kills": 4
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 4
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
     "kills": 4
   },
   {
@@ -245,23 +265,8 @@
     "kills": 1
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 1
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 1
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
     "kills": 0
   },
   {
@@ -407,11 +412,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
