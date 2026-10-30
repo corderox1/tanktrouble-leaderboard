@@ -92,7 +92,7 @@
     "guest": false,
     "gmLevel": 9,
     "created": 1218585588,
-    "lastLogin": 1793288425,
+    "lastLogin": 1793320022,
     "banned": false,
     "usernameApproved": true,
     "country": "DK"
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35305096,
-    "kills": 44426664,
-    "deaths": 41904392,
-    "suicides": 9409695,
+    "victories": 35305173,
+    "kills": 44426738,
+    "deaths": 41904529,
+    "suicides": 9409725,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 13,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 26878,
-    "kills": 42398,
-    "deaths": 46677,
-    "suicides": 9883,
+    "victories": 26935,
+    "kills": 42462,
+    "deaths": 46787,
+    "suicides": 9897,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1793237877,
+    "lastLogin": 1793321457,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1023,7 +1023,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1619733600,
-    "lastLogin": 1793317499,
+    "lastLogin": 1793321623,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -5784,10 +5784,10 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "victories": 2366,
-    "kills": 3695,
-    "deaths": 6557,
-    "suicides": 1427,
+    "victories": 2394,
+    "kills": 3726,
+    "deaths": 6593,
+    "suicides": 1447,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -5817,7 +5817,7 @@
     "badge": "0",
     "premium": true,
     "rank": 304,
-    "xp": 155950,
+    "xp": 157660,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1793312579,
+    "lastLogin": 1793319954,
     "banned": false,
     "usernameApproved": true,
     "country": null
