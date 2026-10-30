@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20264
+    "kills": 20405
   },
   {
     "playerId": "13173087",
@@ -12,12 +12,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1113
+    "kills": 1160
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 806
+    "kills": 826
   },
   {
     "playerId": "4142755",
@@ -42,12 +42,12 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 532
+    "kills": 533
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 462
+    "kills": 507
   },
   {
     "playerId": "22472796",
@@ -100,6 +100,11 @@
     "kills": 182
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 170
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 170
@@ -120,11 +125,6 @@
     "kills": 166
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 164
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 163
@@ -140,14 +140,14 @@
     "kills": 152
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 137
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 130
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 129
   },
   {
     "playerId": "4201869",
@@ -263,6 +263,11 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 37
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 34
   },
   {
     "playerId": "20644558",
@@ -462,11 +467,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0
   },
   {

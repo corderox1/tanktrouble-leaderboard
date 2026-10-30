@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3411,
-    "lastKill": "2026-10-30 13:48:22"
+    "kills": 3615,
+    "lastKill": "2026-10-30 14:48:26"
   },
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 515,
-    "lastKill": "2026-10-30 13:48:22"
+    "kills": 568,
+    "lastKill": "2026-10-30 14:48:26"
   },
   {
     "playerId": "14892840",
@@ -24,16 +24,22 @@
     "lastKill": "2026-10-30 13:48:22"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 274,
+    "lastKill": "2026-10-30 14:48:26"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 244,
+    "lastKill": "2026-10-30 14:48:26"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 243,
     "lastKill": "2026-10-30 06:18:11"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 210,
-    "lastKill": "2026-10-30 13:48:22"
   },
   {
     "playerId": "22706369",
@@ -48,16 +54,16 @@
     "lastKill": "2026-10-30 09:09:11"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 109,
-    "lastKill": "2026-10-30 13:48:22"
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 102,
-    "lastKill": "2026-10-30 13:48:22"
+    "kills": 103,
+    "lastKill": "2026-10-30 14:48:26"
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 88,
+    "lastKill": "2026-10-30 14:48:26"
   },
   {
     "playerId": "22716354",
@@ -84,6 +90,12 @@
     "lastKill": "2026-10-30 13:48:22"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 58,
+    "lastKill": "2026-10-30 14:48:26"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 40,
@@ -96,16 +108,10 @@
     "lastKill": "2026-10-30 08:13:19"
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 36,
-    "lastKill": "2026-10-30 13:48:22"
-  },
-  {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 35,
-    "lastKill": "2026-10-30 13:48:22"
+    "kills": 38,
+    "lastKill": "2026-10-30 14:48:26"
   },
   {
     "playerId": "22757188",
@@ -142,6 +148,12 @@
     "username": "Rapid",
     "kills": 21,
     "lastKill": "2026-10-30 12:53:23"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 21,
+    "lastKill": "2026-10-30 14:48:26"
   },
   {
     "playerId": "21614515",
@@ -320,18 +332,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0,
     "lastKill": null
   },
