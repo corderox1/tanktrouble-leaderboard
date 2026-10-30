@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3917
+    "kills": 4097
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 222
+    "kills": 233
   },
   {
     "playerId": "17629928",
@@ -55,6 +55,11 @@
     "kills": 88
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 85
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 72
@@ -82,11 +87,6 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 51
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 51
   },
   {
@@ -152,6 +152,11 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
+    "kills": 12
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
     "kills": 12
   },
   {
@@ -1037,11 +1042,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0
   }
 ]

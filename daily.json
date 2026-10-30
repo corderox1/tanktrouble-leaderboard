@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5252,
-    "lastKill": "2026-10-29 20:12:59"
+    "kills": 5416,
+    "lastKill": "2026-10-29 21:08:00"
   },
   {
     "playerId": "22077521",
@@ -26,8 +26,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 233,
-    "lastKill": "2026-10-29 20:12:59"
+    "kills": 249,
+    "lastKill": "2026-10-29 21:08:00"
   },
   {
     "playerId": "8590474",
@@ -48,16 +48,16 @@
     "lastKill": "2026-10-29 12:43:18"
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 164,
+    "lastKill": "2026-10-29 21:08:00"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 130,
     "lastKill": "2026-10-29 17:22:58"
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 107,
-    "lastKill": "2026-10-29 16:27:36"
   },
   {
     "playerId": "20666777",
@@ -202,6 +202,12 @@
     "username": "Mandilindors",
     "kills": 26,
     "lastKill": "2026-10-29 08:53:30"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 21,
+    "lastKill": "2026-10-29 21:08:00"
   },
   {
     "playerId": "21797119",
@@ -1244,12 +1250,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0,
     "lastKill": null
   }
