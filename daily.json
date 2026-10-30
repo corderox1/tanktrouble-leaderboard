@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2331,
-    "lastKill": "2026-10-30 11:03:30"
+    "kills": 2699,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "10794529",
@@ -32,14 +32,14 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 111,
-    "lastKill": "2026-10-30 11:03:30"
+    "kills": 146,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 95,
-    "lastKill": "2026-10-30 11:03:30"
+    "kills": 108,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "22716354",
@@ -54,6 +54,12 @@
     "lastKill": "2026-10-30 06:18:11"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 73,
+    "lastKill": "2026-10-30 11:58:15"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 65,
@@ -66,6 +72,12 @@
     "lastKill": "2026-10-30 09:09:11"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 47,
+    "lastKill": "2026-10-30 11:58:15"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 40,
@@ -76,12 +88,6 @@
     "username": "rhak",
     "kills": 39,
     "lastKill": "2026-10-30 08:13:19"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 33,
-    "lastKill": "2026-10-30 11:03:30"
   },
   {
     "playerId": "22757188",
@@ -108,10 +114,10 @@
     "lastKill": "2026-10-30 09:09:11"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 26,
-    "lastKill": "2026-10-30 11:03:30"
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 21,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "9184666",
@@ -132,10 +138,16 @@
     "lastKill": "2026-10-30 10:04:04"
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 12,
-    "lastKill": "2026-10-30 11:03:30"
+    "lastKill": "2026-10-30 11:58:15"
+  },
+  {
+    "playerId": "19168800",
+    "username": "ImmortalSteelPistol",
+    "kills": 10,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "20666777",
@@ -156,16 +168,16 @@
     "lastKill": "2026-10-30 07:18:09"
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 5,
-    "lastKill": "2026-10-30 10:04:04"
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 4,
     "lastKill": "2026-10-30 01:42:56"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 4,
+    "lastKill": "2026-10-30 11:58:15"
   },
   {
     "playerId": "21839393",
@@ -176,12 +188,6 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 1,
-    "lastKill": "2026-10-30 09:09:11"
-  },
-  {
-    "playerId": "19168800",
-    "username": "ImmortalSteelPistol",
     "kills": 1,
     "lastKill": "2026-10-30 09:09:11"
   },
@@ -932,12 +938,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },
