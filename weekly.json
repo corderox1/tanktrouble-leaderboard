@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21312,
-    "lastKill": "2026-10-29 22:03:00"
+    "kills": 21421,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1508,
-    "lastKill": "2026-10-29 22:03:00"
+    "kills": 1584,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "22710399",
@@ -48,6 +48,12 @@
     "lastKill": "2026-10-29 12:43:18"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 549,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 537,
@@ -70,12 +76,6 @@
     "username": "interstellar",
     "kills": 493,
     "lastKill": "2026-10-29 18:19:16"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 493,
-    "lastKill": "2026-10-28 23:23:00"
   },
   {
     "playerId": "22077521",
@@ -216,16 +216,16 @@
     "lastKill": "2026-10-29 11:48:55"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 153,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 139,
     "lastKill": "2026-10-28 06:33:10"
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 138,
-    "lastKill": "2026-10-29 19:18:02"
   },
   {
     "playerId": "21700920",
@@ -300,6 +300,12 @@
     "lastKill": "2026-10-29 05:59:02"
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 62,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 60,
@@ -310,12 +316,6 @@
     "username": "Sc4r",
     "kills": 56,
     "lastKill": "2026-10-26 22:54:55"
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 55,
-    "lastKill": "2026-10-28 10:23:23"
   },
   {
     "playerId": "14617724",
@@ -426,6 +426,12 @@
     "lastKill": "2026-10-28 23:23:00"
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 15,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 14,
@@ -466,12 +472,6 @@
     "username": "purup",
     "kills": 6,
     "lastKill": "2026-10-28 16:57:02"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 6,
-    "lastKill": "2026-10-28 17:52:03"
   },
   {
     "playerId": "9156179",

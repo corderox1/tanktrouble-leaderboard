@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4230
+    "kills": 4253
   },
   {
     "playerId": "13173087",
@@ -27,7 +27,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 130
+    "kills": 164
   },
   {
     "playerId": "21178768",
@@ -145,9 +145,19 @@
     "kills": 21
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 21
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 18
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 12
   },
   {
     "playerId": "21614515",
@@ -170,11 +180,6 @@
     "kills": 9
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 8
-  },
-  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 8
@@ -188,6 +193,11 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 7
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 5
   },
   {
     "playerId": "499659",
@@ -212,6 +222,11 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
+    "kills": 3
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
     "kills": 3
   },
   {
@@ -312,11 +327,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0
   },
   {
@@ -710,11 +720,6 @@
     "kills": 0
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 0
-  },
-  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 0
@@ -912,11 +917,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   },
   {

@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5557,
-    "lastKill": "2026-10-29 22:03:00"
+    "kills": 5666,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 308,
     "lastKill": "2026-10-29 17:22:58"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 307,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "17629928",
@@ -33,12 +39,6 @@
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 246,
-    "lastKill": "2026-10-29 22:03:00"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 231,
     "lastKill": "2026-10-29 22:03:00"
   },
   {
@@ -114,6 +114,12 @@
     "lastKill": "2026-10-29 16:27:36"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 74,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 73,
@@ -144,10 +150,10 @@
     "lastKill": "2026-10-29 15:32:59"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 59,
-    "lastKill": "2026-10-29 19:18:02"
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 56,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "21452912",
@@ -240,10 +246,22 @@
     "lastKill": "2026-10-29 05:59:02"
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 9,
+    "lastKill": "2026-10-29 22:58:12"
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 9,
     "lastKill": "2026-10-29 05:59:02"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 7,
+    "lastKill": "2026-10-29 22:58:12"
   },
   {
     "playerId": "499659",
@@ -380,12 +398,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0,
     "lastKill": null
   },
@@ -852,12 +864,6 @@
     "lastKill": null
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 0,
@@ -1094,12 +1100,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0,
     "lastKill": null
   },
