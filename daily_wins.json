@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 833
+    "kills": 939
   },
   {
     "playerId": "14892840",
@@ -20,14 +20,14 @@
     "kills": 36
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 30
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 23
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 19
   },
   {
     "playerId": "22757188",
@@ -47,6 +47,11 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 10
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
     "kills": 10
   },
   {
@@ -72,7 +77,12 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 4
+    "kills": 5
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -835,11 +845,6 @@
     "kills": 0
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 0
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 0
@@ -992,11 +997,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0
   },
   {

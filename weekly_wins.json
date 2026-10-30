@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18295
+    "kills": 18401
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 490
+    "kills": 500
   },
   {
     "playerId": "21601349",
@@ -52,7 +52,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 344
+    "kills": 345
   },
   {
     "playerId": "22472796",
@@ -110,6 +110,11 @@
     "kills": 163
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 159
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 153
@@ -118,11 +123,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 151
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 148
   },
   {
     "playerId": "22706369",
@@ -280,13 +280,13 @@
     "kills": 29
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 25
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
+    "kills": 26
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 25
   },
   {
