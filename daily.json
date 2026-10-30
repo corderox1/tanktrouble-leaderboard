@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3790,
-    "lastKill": "2026-10-30 15:43:15"
+    "kills": 4073,
+    "lastKill": "2026-10-30 16:38:19"
   },
   {
     "playerId": "10794529",
@@ -14,8 +14,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 307,
-    "lastKill": "2026-10-30 15:43:15"
+    "kills": 312,
+    "lastKill": "2026-10-30 16:38:19"
   },
   {
     "playerId": "14892840",
@@ -54,6 +54,12 @@
     "lastKill": "2026-10-30 09:09:11"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 126,
+    "lastKill": "2026-10-30 16:38:19"
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 116,
@@ -64,12 +70,6 @@
     "username": "_zenin_",
     "kills": 103,
     "lastKill": "2026-10-30 14:48:26"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 102,
-    "lastKill": "2026-10-30 15:43:15"
   },
   {
     "playerId": "22716354",
@@ -88,6 +88,12 @@
     "username": "-_zenin_-",
     "kills": 63,
     "lastKill": "2026-10-30 13:48:22"
+  },
+  {
+    "playerId": "878689",
+    "username": "Gentleman",
+    "kills": 61,
+    "lastKill": "2026-10-30 16:38:19"
   },
   {
     "playerId": "21700920",
@@ -112,12 +118,6 @@
     "username": "rhak",
     "kills": 39,
     "lastKill": "2026-10-30 08:13:19"
-  },
-  {
-    "playerId": "878689",
-    "username": "Gentleman",
-    "kills": 39,
-    "lastKill": "2026-10-30 15:43:15"
   },
   {
     "playerId": "22710399",
@@ -238,6 +238,12 @@
     "username": "CHITO",
     "kills": 8,
     "lastKill": "2026-10-30 12:53:23"
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 5,
+    "lastKill": "2026-10-30 16:38:19"
   },
   {
     "playerId": "16092601",
@@ -488,12 +494,6 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0,
     "lastKill": null
   },
