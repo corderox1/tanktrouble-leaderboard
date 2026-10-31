@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 131655
+    "kills": 131787
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 5561
+    "kills": 5564
   },
   {
     "playerId": "20666777",
@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 3466
+    "kills": 3495
   },
   {
     "playerId": "21601349",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 2856
+    "kills": 2872
   },
   {
     "playerId": "4142755",
@@ -87,7 +87,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1241
+    "kills": 1284
   },
   {
     "playerId": "22706369",
@@ -202,7 +202,7 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 559
+    "kills": 566
   },
   {
     "playerId": "20011985",
@@ -282,7 +282,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 315
+    "kills": 317
   },
   {
     "playerId": "21797119",
@@ -303,6 +303,11 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 284
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 265
   },
   {
     "playerId": "4653977",
@@ -343,11 +348,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 223
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 222
   },
   {
     "playerId": "21932847",
@@ -480,6 +480,11 @@
     "kills": 53
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 49
+  },
+  {
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 44
@@ -543,11 +548,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 23
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 19
   },
   {
     "playerId": "21528366",
