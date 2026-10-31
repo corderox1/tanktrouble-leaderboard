@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 183594
+    "kills": 183806
   },
   {
     "playerId": "8590474",
@@ -12,12 +12,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 5240
+    "kills": 5272
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 5056
+    "kills": 5062
   },
   {
     "playerId": "14892840",
@@ -82,7 +82,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 2158
+    "kills": 2173
   },
   {
     "playerId": "21796745",
@@ -187,7 +187,7 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 1121
+    "kills": 1132
   },
   {
     "playerId": "16736853",
@@ -237,7 +237,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 787
+    "kills": 788
   },
   {
     "playerId": "19068893",
@@ -415,6 +415,11 @@
     "kills": 201
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 198
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 195
@@ -422,17 +427,12 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 190
+    "kills": 191
   },
   {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 183
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 182
   },
   {
     "playerId": "10502780",
@@ -560,6 +560,11 @@
     "kills": 31
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 31
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 31
@@ -588,11 +593,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 23
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 20
   },
   {
     "playerId": "3147484",
