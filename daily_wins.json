@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3389
+    "kills": 3573
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 330
+    "kills": 393
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 173
   },
   {
     "playerId": "22472796",
@@ -20,14 +25,14 @@
     "kills": 148
   },
   {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 133
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 122
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 106
   },
   {
     "playerId": "8590474",
@@ -38,11 +43,6 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 98
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 96
   },
   {
     "playerId": "20270104",
@@ -73,6 +73,11 @@
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 64
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 55
   },
   {
     "playerId": "19425584",
@@ -115,6 +120,11 @@
     "kills": 27
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 25
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 25
@@ -133,11 +143,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 20
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 19
   },
   {
     "playerId": "21956820",
@@ -185,11 +190,6 @@
     "kills": 6
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 5
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 3
@@ -205,18 +205,28 @@
     "kills": 2
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 2
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 1
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 1
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
+    "playerId": "3660774",
+    "username": "Sc4r",
     "kills": 1
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 1
   },
   {
@@ -305,11 +315,6 @@
     "kills": 0
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 0
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 0
@@ -322,11 +327,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0
   },
   {
