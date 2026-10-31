@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22315
+    "kills": 22553
   },
   {
     "playerId": "13173087",
@@ -55,14 +55,14 @@
     "kills": 454
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 410
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 400
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 376
   },
   {
     "playerId": "22845692",
@@ -82,7 +82,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 324
+    "kills": 334
   },
   {
     "playerId": "19173281",
@@ -112,7 +112,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 204
+    "kills": 206
   },
   {
     "playerId": "4201869",
@@ -147,7 +147,7 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 144
+    "kills": 147
   },
   {
     "playerId": "21452912",
@@ -210,6 +210,11 @@
     "kills": 71
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 70
+  },
+  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 67
@@ -223,11 +228,6 @@
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 64
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 63
   },
   {
     "playerId": "21614515",
@@ -400,6 +400,11 @@
     "kills": 7
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 7
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 5
@@ -415,23 +420,18 @@
     "kills": 5
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 5
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 4
   },
   {
-    "playerId": "10132007",
-    "username": "scientistt",
-    "kills": 1
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 2
+  },
+  {
+    "playerId": "10132007",
+    "username": "scientistt",
     "kills": 1
   },
   {
