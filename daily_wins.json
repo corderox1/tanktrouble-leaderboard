@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1938
+    "kills": 2051
   },
   {
     "playerId": "13173087",
@@ -15,14 +15,14 @@
     "kills": 148
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 137
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 122
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 121
   },
   {
     "playerId": "22845692",
@@ -38,6 +38,11 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 59
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 54
   },
   {
     "playerId": "19425584",
@@ -60,8 +65,18 @@
     "kills": 31
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 30
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
+    "kills": 29
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
     "kills": 29
   },
   {
@@ -115,16 +130,6 @@
     "kills": 11
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 10
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 9
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 8
@@ -150,13 +155,13 @@
     "kills": 5
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 2
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 3
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 2
   },
   {
@@ -287,11 +292,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
