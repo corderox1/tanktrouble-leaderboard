@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 975,
-    "lastKill": "2026-10-31 05:47:50"
+    "kills": 1208,
+    "lastKill": "2026-10-31 06:43:02"
   },
   {
     "playerId": "21956820",
@@ -16,6 +16,12 @@
     "username": "citicaca",
     "kills": 99,
     "lastKill": "2026-10-31 02:07:26"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 91,
+    "lastKill": "2026-10-31 06:43:02"
   },
   {
     "playerId": "8590474",
@@ -39,12 +45,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 64,
-    "lastKill": "2026-10-31 05:47:50"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 56,
     "lastKill": "2026-10-31 05:47:50"
   },
   {
@@ -72,6 +72,12 @@
     "lastKill": "2026-10-31 01:12:30"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 18,
+    "lastKill": "2026-10-31 06:43:02"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 16,
@@ -90,14 +96,20 @@
     "lastKill": "2026-10-31 04:52:42"
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 4,
-    "lastKill": "2026-10-31 05:47:50"
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 6,
+    "lastKill": "2026-10-31 06:43:02"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 5,
+    "lastKill": "2026-10-31 06:43:02"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 4,
     "lastKill": "2026-10-31 05:47:50"
   },
@@ -542,12 +554,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },
@@ -1226,12 +1232,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   },
