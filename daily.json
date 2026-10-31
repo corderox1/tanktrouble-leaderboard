@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 322,
-    "lastKill": "2026-10-31 03:02:32"
+    "kills": 464,
+    "lastKill": "2026-10-31 03:57:58"
   },
   {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 99,
     "lastKill": "2026-10-31 02:07:26"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 97,
+    "lastKill": "2026-10-31 03:57:58"
   },
   {
     "playerId": "8590474",
@@ -24,10 +30,10 @@
     "lastKill": "2026-10-31 02:07:26"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 52,
-    "lastKill": "2026-10-31 03:02:32"
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 53,
+    "lastKill": "2026-10-31 03:57:58"
   },
   {
     "playerId": "22809750",
@@ -38,12 +44,6 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "kills": 36,
-    "lastKill": "2026-10-31 02:07:26"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 36,
     "lastKill": "2026-10-31 02:07:26"
   },
@@ -64,6 +64,12 @@
     "username": "SoftMagmaDriver",
     "kills": 2,
     "lastKill": "2026-10-31 01:12:30"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 1,
+    "lastKill": "2026-10-31 03:57:58"
   },
   {
     "playerId": "22710399",
@@ -410,12 +416,6 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
     "kills": 0,
     "lastKill": null
   },
