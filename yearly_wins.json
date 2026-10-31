@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 184118
+    "kills": 184278
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 3925
+    "kills": 3934
   },
   {
     "playerId": "10794529",
@@ -67,7 +67,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 2394
+    "kills": 2405
   },
   {
     "playerId": "22694251",
@@ -330,6 +330,11 @@
     "kills": 358
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 354
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 353
@@ -348,11 +353,6 @@
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 315
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 312
   },
   {
     "playerId": "19173281",
@@ -377,12 +377,17 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 249
+    "kills": 263
   },
   {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 244
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 240
   },
   {
     "playerId": "21839393",
@@ -440,11 +445,6 @@
     "kills": 183
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 182
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 154
@@ -460,6 +460,11 @@
     "kills": 147
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 144
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 141
@@ -468,11 +473,6 @@
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 136
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 132
   },
   {
     "playerId": "8478955",
