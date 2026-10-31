@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 187418
+    "kills": 187667
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 5564
+    "kills": 5625
   },
   {
     "playerId": "21601349",
@@ -37,7 +37,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3491
+    "kills": 3496
   },
   {
     "playerId": "22710399",
@@ -70,6 +70,11 @@
     "kills": 2409
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 2213
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 2203
@@ -78,11 +83,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 2191
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 2173
   },
   {
     "playerId": "22077521",
@@ -160,6 +160,11 @@
     "kills": 1197
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1172
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 1165
@@ -183,11 +188,6 @@
     "playerId": "22725175",
     "username": "ohW",
     "kills": 1158
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 1138
   },
   {
     "playerId": "21103294",
@@ -265,14 +265,14 @@
     "kills": 616
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 560
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 559
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 560
   },
   {
     "playerId": "12222122",
@@ -292,7 +292,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 490
+    "kills": 491
   },
   {
     "playerId": "21797119",
@@ -320,6 +320,11 @@
     "kills": 422
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 418
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 413
@@ -333,11 +338,6 @@
     "playerId": "20644558",
     "username": "x",
     "kills": 392
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 385
   },
   {
     "playerId": "22757188",
@@ -455,6 +455,11 @@
     "kills": 154
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 152
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 148
@@ -483,11 +488,6 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 127
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 105
   },
   {
     "playerId": "19726920",
