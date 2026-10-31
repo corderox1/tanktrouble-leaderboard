@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 185297
+    "kills": 185455
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 5159
+    "kills": 5164
   },
   {
     "playerId": "14892840",
@@ -57,7 +57,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 2788
+    "kills": 2794
   },
   {
     "playerId": "21465536",
@@ -187,7 +187,12 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1134
+    "kills": 1137
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 1129
   },
   {
     "playerId": "16736853",
@@ -200,11 +205,6 @@
     "kills": 1118
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 1096
-  },
-  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 1083
@@ -212,7 +212,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 933
+    "kills": 938
   },
   {
     "playerId": "12107881",
@@ -280,14 +280,14 @@
     "kills": 538
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 504
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 490
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 487
   },
   {
     "playerId": "19425584",
@@ -297,7 +297,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 454
+    "kills": 459
   },
   {
     "playerId": "21940268",
@@ -332,11 +332,16 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 369
+    "kills": 373
   },
   {
     "playerId": "18985660",
     "username": "volodymyr77",
+    "kills": 361
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
     "kills": 361
   },
   {
@@ -352,11 +357,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 334
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 334
   },
   {
