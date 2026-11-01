@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35316953,
-    "kills": 44440870,
-    "deaths": 41922386,
-    "suicides": 9413239,
+    "victories": 35317153,
+    "kills": 44441103,
+    "deaths": 41922727,
+    "suicides": 9413291,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 13,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 27151,
-    "kills": 42749,
-    "deaths": 47127,
-    "suicides": 9977,
+    "victories": 27200,
+    "kills": 42808,
+    "deaths": 47207,
+    "suicides": 9993,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1793564546,
+    "lastLogin": 1793567888,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1219,7 +1219,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1586688568,
-    "lastLogin": 1793555408,
+    "lastLogin": 1793569362,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 43784,
-    "kills": 64767,
-    "deaths": 74097,
-    "suicides": 17562,
+    "victories": 43804,
+    "kills": 64804,
+    "deaths": 74148,
+    "suicides": 17575,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1793562668,
+    "lastLogin": 1793570482,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1913,10 +1913,10 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 29840,
-    "kills": 29415,
-    "deaths": 46144,
-    "suicides": 14084,
+    "victories": 29841,
+    "kills": 29416,
+    "deaths": 46153,
+    "suicides": 14087,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 9681,
-    "kills": 16565,
-    "deaths": 18217,
-    "suicides": 4043,
+    "victories": 9684,
+    "kills": 16567,
+    "deaths": 18221,
+    "suicides": 4044,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2697,10 +2697,10 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 12346,
-    "kills": 23991,
-    "deaths": 24008,
-    "suicides": 5049,
+    "victories": 12348,
+    "kills": 23993,
+    "deaths": 24013,
+    "suicides": 5051,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7548,10 +7548,10 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "victories": 7956,
-    "kills": 13397,
-    "deaths": 15417,
-    "suicides": 3585,
+    "victories": 7957,
+    "kills": 13403,
+    "deaths": 15428,
+    "suicides": 3587,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
