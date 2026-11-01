@@ -2,26 +2,38 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 70,
-    "lastKill": "2026-11-01 01:22:54"
+    "kills": 153,
+    "lastKill": "2026-11-01 01:18:02"
   },
   {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 50,
-    "lastKill": "2026-11-01 01:22:54"
+    "lastKill": "2026-11-01 01:18:02"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 50,
-    "lastKill": "2026-11-01 01:22:54"
+    "lastKill": "2026-11-01 01:18:02"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 26,
-    "lastKill": "2026-11-01 01:22:54"
+    "lastKill": "2026-11-01 01:18:02"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 22,
+    "lastKill": "2026-11-01 01:18:02"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 12,
+    "lastKill": "2026-11-01 01:18:02"
   },
   {
     "playerId": "22710399",
@@ -396,12 +408,6 @@
     "lastKill": null
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 0,
@@ -434,12 +440,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 0,
     "lastKill": null
   },
