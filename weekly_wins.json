@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 25720
+    "kills": 25900
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1805
+    "kills": 1861
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 779
+    "kills": 838
   },
   {
     "playerId": "17629928",
@@ -70,6 +70,11 @@
     "kills": 436
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 387
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 385
@@ -83,11 +88,6 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 356
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 333
   },
   {
     "playerId": "19173281",
@@ -130,6 +130,11 @@
     "kills": 189
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 187
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 184
@@ -138,11 +143,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 178
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 171
   },
   {
     "playerId": "3162693",
@@ -250,8 +250,18 @@
     "kills": 56
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 55
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
+    "kills": 52
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 52
   },
   {
@@ -270,11 +280,6 @@
     "kills": 44
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 44
-  },
-  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 42
@@ -283,11 +288,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 41
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 37
   },
   {
     "playerId": "20644558",
@@ -335,6 +335,11 @@
     "kills": 26
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 26
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 26
@@ -342,11 +347,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 25
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 25
   },
   {

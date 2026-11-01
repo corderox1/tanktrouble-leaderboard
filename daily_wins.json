@@ -2,17 +2,27 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3791
+    "kills": 3971
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 467
+    "kills": 523
   },
   {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 184
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 171
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 160
   },
   {
     "playerId": "22472796",
@@ -33,16 +43,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 122
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 117
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 101
   },
   {
     "playerId": "8590474",
@@ -90,6 +90,11 @@
     "kills": 50
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 50
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 39
@@ -105,9 +110,9 @@
     "kills": 35
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 34
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 30
   },
   {
     "playerId": "22809750",
@@ -165,11 +170,6 @@
     "kills": 13
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 12
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 11
@@ -185,6 +185,11 @@
     "kills": 8
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 8
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 7
@@ -197,7 +202,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 3
+    "kills": 4
   },
   {
     "playerId": "21940268",
@@ -677,11 +682,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
