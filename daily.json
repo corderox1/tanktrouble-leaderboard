@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4629,
-    "lastKill": "2026-10-31 20:38:08"
+    "kills": 4830,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 695,
-    "lastKill": "2026-10-31 20:38:08"
+    "kills": 711,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "10794529",
@@ -20,8 +20,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 216,
-    "lastKill": "2026-10-31 20:38:08"
+    "kills": 233,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "4381511",
@@ -86,14 +86,20 @@
   {
     "playerId": "18985660",
     "username": "volodymyr77",
-    "kills": 99,
-    "lastKill": "2026-10-31 16:57:14"
+    "kills": 101,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 99,
     "lastKill": "2026-10-31 02:07:26"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 97,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "17629928",
@@ -120,10 +126,10 @@
     "lastKill": "2026-10-31 12:23:04"
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 67,
-    "lastKill": "2026-10-31 20:38:08"
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 65,
+    "lastKill": "2026-10-31 21:33:08"
   },
   {
     "playerId": "21673346",
@@ -132,16 +138,16 @@
     "lastKill": "2026-10-31 08:37:56"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 52,
+    "lastKill": "2026-10-31 21:33:08"
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 52,
     "lastKill": "2026-10-31 05:47:50"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 49,
-    "lastKill": "2026-10-31 20:38:08"
   },
   {
     "playerId": "20269995",
@@ -644,12 +650,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0,
     "lastKill": null
   },
