@@ -2,20 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2002,
-    "lastKill": "2026-11-01 11:32:51"
+    "kills": 2191,
+    "lastKill": "2026-11-01 12:27:25"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 254,
-    "lastKill": "2026-11-01 11:32:51"
+    "kills": 260,
+    "lastKill": "2026-11-01 12:27:25"
   },
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 135,
     "lastKill": "2026-11-01 10:37:29"
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 118,
+    "lastKill": "2026-11-01 12:27:25"
   },
   {
     "playerId": "13773720",
@@ -28,12 +34,6 @@
     "username": "Master_T-54",
     "kills": 113,
     "lastKill": "2026-11-01 04:56:26"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 101,
-    "lastKill": "2026-11-01 07:51:52"
   },
   {
     "playerId": "22845692",
@@ -96,10 +96,34 @@
     "lastKill": "2026-11-01 07:51:52"
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 17,
+    "lastKill": "2026-11-01 12:27:25"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 10,
+    "lastKill": "2026-11-01 12:27:25"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 7,
+    "lastKill": "2026-11-01 12:27:25"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 5,
     "lastKill": "2026-11-01 08:47:58"
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 3,
+    "lastKill": "2026-11-01 12:27:25"
   },
   {
     "playerId": "21700920",
@@ -426,12 +450,6 @@
     "lastKill": null
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 0,
@@ -524,12 +542,6 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
     "kills": 0,
     "lastKill": null
   },
@@ -798,12 +810,6 @@
     "lastKill": null
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 0,
@@ -920,12 +926,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
