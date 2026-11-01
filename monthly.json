@@ -2,18 +2,24 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 153,
-    "lastKill": "2026-11-01 01:18:02"
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 50,
-    "lastKill": "2026-11-01 01:18:02"
+    "kills": 292,
+    "lastKill": "2026-11-01 02:12:47"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
+    "kills": 89,
+    "lastKill": "2026-11-01 02:12:47"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 51,
+    "lastKill": "2026-11-01 02:12:47"
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
     "kills": 50,
     "lastKill": "2026-11-01 01:18:02"
   },
@@ -27,13 +33,13 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 22,
-    "lastKill": "2026-11-01 01:18:02"
+    "lastKill": "2026-11-01 02:12:47"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 12,
-    "lastKill": "2026-11-01 01:18:02"
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 2,
+    "lastKill": "2026-11-01 02:12:47"
   },
   {
     "playerId": "22710399",
@@ -1148,12 +1154,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0,
     "lastKill": null
   },
