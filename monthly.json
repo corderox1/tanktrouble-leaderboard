@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 425,
-    "lastKill": "2026-11-01 03:06:51"
+    "kills": 568,
+    "lastKill": "2026-11-01 04:02:11"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 107,
     "lastKill": "2026-11-01 03:06:51"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 69,
+    "lastKill": "2026-11-01 04:02:11"
   },
   {
     "playerId": "20666777",
@@ -24,12 +30,6 @@
     "lastKill": "2026-11-01 01:18:02"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 27,
-    "lastKill": "2026-11-01 03:06:51"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 26,
@@ -40,6 +40,12 @@
     "username": "Novocaine",
     "kills": 22,
     "lastKill": "2026-11-01 02:12:47"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 20,
+    "lastKill": "2026-11-01 04:02:11"
   },
   {
     "playerId": "19726920",
@@ -464,12 +470,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },

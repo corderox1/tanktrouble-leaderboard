@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35314987,
-    "kills": 44438526,
-    "deaths": 41919445,
-    "suicides": 9412687,
+    "victories": 35315129,
+    "kills": 44438669,
+    "deaths": 41919644,
+    "suicides": 9412716,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 21,
+    "rank": 42,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1170,7 +1170,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1736519234,
-    "lastLogin": 1793471286,
+    "lastLogin": 1793526604,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4873,
-    "kills": 10463,
-    "deaths": 9460,
-    "suicides": 2040,
+    "victories": 4878,
+    "kills": 10505,
+    "deaths": 9505,
+    "suicides": 2047,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2337,7 +2337,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 55,
+    "rank": 38,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3081,7 +3081,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1793523824,
+    "lastLogin": 1793524130,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 5823,
-    "kills": 7783,
-    "deaths": 3155,
-    "suicides": 675,
+    "victories": 5842,
+    "kills": 7803,
+    "deaths": 3157,
+    "suicides": 676,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3718,7 +3718,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789068508,
-    "lastLogin": 1793507833,
+    "lastLogin": 1793526691,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10186,7 +10186,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1792940535,
-    "lastLogin": 1793507721,
+    "lastLogin": 1793526485,
     "banned": false,
     "usernameApproved": true,
     "country": null
