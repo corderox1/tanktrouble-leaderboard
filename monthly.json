@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1607,
-    "lastKill": "2026-11-01 09:42:53"
+    "kills": 1747,
+    "lastKill": "2026-11-01 10:37:29"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 168,
-    "lastKill": "2026-11-01 09:42:53"
+    "kills": 199,
+    "lastKill": "2026-11-01 10:37:29"
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 135,
+    "lastKill": "2026-11-01 10:37:29"
   },
   {
     "playerId": "22757188",
@@ -18,28 +24,22 @@
     "lastKill": "2026-11-01 04:56:26"
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 106,
-    "lastKill": "2026-11-01 09:42:53"
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 101,
     "lastKill": "2026-11-01 07:51:52"
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 75,
-    "lastKill": "2026-11-01 09:42:53"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 71,
-    "lastKill": "2026-11-01 09:42:53"
+    "kills": 87,
+    "lastKill": "2026-11-01 10:37:29"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 78,
+    "lastKill": "2026-11-01 10:37:29"
   },
   {
     "playerId": "21956820",
@@ -52,6 +52,12 @@
     "username": "citicaca",
     "kills": 50,
     "lastKill": "2026-11-01 01:18:02"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 34,
+    "lastKill": "2026-11-01 10:37:29"
   },
   {
     "playerId": "20270104",
@@ -326,12 +332,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 0,
     "lastKill": null
   },
