@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1852
+    "kills": 2011
   },
   {
     "playerId": "13173087",
@@ -40,9 +40,24 @@
     "kills": 44
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 40
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 36
+  },
+  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 36
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 27
   },
   {
     "playerId": "22716354",
@@ -52,7 +67,7 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 17
+    "kills": 18
   },
   {
     "playerId": "18985660",
@@ -80,19 +95,14 @@
     "kills": 11
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 10
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 9
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 7
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 6
   },
   {
     "playerId": "22809750",
@@ -113,6 +123,16 @@
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 2
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 1
   },
   {
     "playerId": "15931599",
@@ -220,11 +240,6 @@
     "kills": 0
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 0
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 0
@@ -232,16 +247,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -302,11 +307,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
     "kills": 0
   },
   {
