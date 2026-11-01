@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 985,
-    "lastKill": "2026-11-01 06:52:48"
+    "kills": 1185,
+    "lastKill": "2026-11-01 07:51:52"
   },
   {
     "playerId": "20666777",
@@ -16,6 +16,12 @@
     "username": "Master_T-54",
     "kills": 113,
     "lastKill": "2026-11-01 04:56:26"
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 101,
+    "lastKill": "2026-11-01 07:51:52"
   },
   {
     "playerId": "21956820",
@@ -48,6 +54,12 @@
     "lastKill": "2026-11-01 01:18:02"
   },
   {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 25,
+    "lastKill": "2026-11-01 07:51:52"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 22,
@@ -60,10 +72,16 @@
     "lastKill": "2026-11-01 04:02:11"
   },
   {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 19,
+    "lastKill": "2026-11-01 07:51:52"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 18,
-    "lastKill": "2026-11-01 06:52:48"
+    "kills": 19,
+    "lastKill": "2026-11-01 07:51:52"
   },
   {
     "playerId": "21700920",
@@ -290,12 +308,6 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
     "kills": 0,
     "lastKill": null
   },
@@ -1122,12 +1134,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0,
@@ -1190,12 +1196,6 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
     "kills": 0,
     "lastKill": null
   },
