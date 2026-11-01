@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26530
+    "kills": 26639
   },
   {
     "playerId": "13173087",
@@ -65,14 +65,14 @@
     "kills": 492
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 445
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 436
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 434
   },
   {
     "playerId": "8899024",
@@ -155,6 +155,11 @@
     "kills": 169
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 167
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 166
@@ -163,11 +168,6 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 166
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 161
   },
   {
     "playerId": "3923647",
@@ -330,13 +330,13 @@
     "kills": 29
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 26
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 27
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 26
   },
   {
