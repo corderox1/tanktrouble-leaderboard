@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1409,
-    "lastKill": "2026-11-01 08:47:58"
+    "kills": 1607,
+    "lastKill": "2026-11-01 09:42:53"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 154,
-    "lastKill": "2026-11-01 05:53:28"
+    "kills": 168,
+    "lastKill": "2026-11-01 09:42:53"
   },
   {
     "playerId": "22757188",
@@ -18,10 +18,28 @@
     "lastKill": "2026-11-01 04:56:26"
   },
   {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 106,
+    "lastKill": "2026-11-01 09:42:53"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 101,
     "lastKill": "2026-11-01 07:51:52"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 75,
+    "lastKill": "2026-11-01 09:42:53"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 71,
+    "lastKill": "2026-11-01 09:42:53"
   },
   {
     "playerId": "21956820",
@@ -30,28 +48,10 @@
     "lastKill": "2026-11-01 04:02:11"
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 63,
-    "lastKill": "2026-11-01 08:47:58"
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 50,
     "lastKill": "2026-11-01 01:18:02"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 33,
-    "lastKill": "2026-11-01 08:47:58"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 33,
-    "lastKill": "2026-11-01 08:47:58"
   },
   {
     "playerId": "20270104",
@@ -102,10 +102,22 @@
     "lastKill": "2026-11-01 06:52:48"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 2,
+    "lastKill": "2026-11-01 09:42:53"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 2,
     "lastKill": "2026-11-01 02:12:47"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 2,
+    "lastKill": "2026-11-01 09:42:53"
   },
   {
     "playerId": "22710399",
@@ -1068,12 +1080,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1226,12 +1232,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   },
