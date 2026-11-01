@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2011
+    "kills": 2067
   },
   {
     "playerId": "13173087",
@@ -30,6 +30,11 @@
     "kills": 57
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 55
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 52
@@ -38,11 +43,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 44
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 40
   },
   {
     "playerId": "2574833",
@@ -58,6 +58,11 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 27
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 22
   },
   {
     "playerId": "22716354",
@@ -90,14 +95,14 @@
     "kills": 14
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 13
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 11
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 10
   },
   {
     "playerId": "14617724",
@@ -110,6 +115,16 @@
     "kills": 6
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 4
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 4
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 3
@@ -120,18 +135,18 @@
     "kills": 3
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 2
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 2
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 1
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 1
   },
   {
@@ -217,11 +232,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
@@ -405,11 +415,6 @@
     "kills": 0
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 0
-  },
-  {
     "playerId": "29695",
     "username": "77777",
     "kills": 0
@@ -462,11 +467,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
