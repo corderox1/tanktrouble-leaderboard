@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4974,
-    "lastKill": "2026-10-31 22:28:07"
+    "kills": 5133,
+    "lastKill": "2026-10-31 23:27:52"
   },
   {
     "playerId": "13173087",
@@ -36,6 +36,24 @@
     "lastKill": "2026-10-31 20:38:08"
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 172,
+    "lastKill": "2026-10-31 23:27:52"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 154,
+    "lastKill": "2026-10-31 23:27:52"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 150,
+    "lastKill": "2026-10-31 23:27:52"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 148,
@@ -54,16 +72,16 @@
     "lastKill": "2026-10-31 11:28:10"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 131,
-    "lastKill": "2026-10-31 10:31:40"
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 130,
     "lastKill": "2026-10-31 16:02:52"
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 125,
+    "lastKill": "2026-10-31 23:27:52"
   },
   {
     "playerId": "19932455",
@@ -76,24 +94,6 @@
     "username": "dvi9311",
     "kills": 114,
     "lastKill": "2026-10-31 16:02:52"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 107,
-    "lastKill": "2026-10-31 09:32:26"
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 101,
-    "lastKill": "2026-10-31 21:33:08"
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 99,
-    "lastKill": "2026-10-31 02:07:26"
   },
   {
     "playerId": "3660774",
@@ -130,6 +130,12 @@
     "username": "Invader",
     "kills": 65,
     "lastKill": "2026-10-31 21:33:08"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 64,
+    "lastKill": "2026-10-31 23:27:52"
   },
   {
     "playerId": "21673346",
@@ -184,12 +190,6 @@
     "username": "slayer",
     "kills": 33,
     "lastKill": "2026-10-31 17:51:36"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 31,
-    "lastKill": "2026-10-31 22:28:07"
   },
   {
     "playerId": "14892840",
@@ -264,16 +264,16 @@
     "lastKill": "2026-10-31 04:52:42"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 5,
+    "lastKill": "2026-10-31 23:27:52"
+  },
+  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 4,
     "lastKill": "2026-10-31 22:28:07"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 4,
-    "lastKill": "2026-10-31 05:47:50"
   },
   {
     "playerId": "1145079",

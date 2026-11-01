@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 133110
+    "kills": 133161
   },
   {
     "playerId": "8590474",
@@ -47,7 +47,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 2193
+    "kills": 2224
   },
   {
     "playerId": "22472796",
@@ -235,9 +235,14 @@
     "kills": 477
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 475
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 452
+    "kills": 473
   },
   {
     "playerId": "21940268",
@@ -245,14 +250,9 @@
     "kills": 447
   },
   {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 440
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 385
+    "kills": 394
   },
   {
     "playerId": "21614515",
@@ -355,6 +355,11 @@
     "kills": 219
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 215
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 210
@@ -383,11 +388,6 @@
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 197
   },
   {
     "playerId": "20843843",

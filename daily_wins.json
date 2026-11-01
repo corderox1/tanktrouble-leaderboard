@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4297
+    "kills": 4348
   },
   {
     "playerId": "13173087",
@@ -13,6 +13,11 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 184
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 183
   },
   {
     "playerId": "4142755",
@@ -30,11 +35,6 @@
     "kills": 155
   },
   {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 148
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 133
@@ -42,7 +42,12 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 122
+    "kills": 131
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 119
   },
   {
     "playerId": "8590474",
@@ -50,19 +55,14 @@
     "kills": 101
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 98
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 96
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 82
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 78
   },
   {
     "playerId": "19932455",
@@ -98,6 +98,11 @@
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 50
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 48
   },
   {
     "playerId": "2574833",
@@ -162,11 +167,6 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 17
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 17
   },
   {
