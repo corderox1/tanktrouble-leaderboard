@@ -2,19 +2,19 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 672,
-    "lastKill": "2026-11-01 04:56:26"
+    "kills": 774,
+    "lastKill": "2026-11-01 05:53:28"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 154,
+    "lastKill": "2026-11-01 05:53:28"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 113,
-    "lastKill": "2026-11-01 04:56:26"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 94,
     "lastKill": "2026-11-01 04:56:26"
   },
   {
@@ -28,6 +28,12 @@
     "username": "citicaca",
     "kills": 50,
     "lastKill": "2026-11-01 01:18:02"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 29,
+    "lastKill": "2026-11-01 05:53:28"
   },
   {
     "playerId": "14617724",
@@ -46,6 +52,18 @@
     "username": "Alrighty_",
     "kills": 20,
     "lastKill": "2026-11-01 04:02:11"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 14,
+    "lastKill": "2026-11-01 05:53:28"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 7,
+    "lastKill": "2026-11-01 05:53:28"
   },
   {
     "playerId": "19726920",
@@ -180,12 +198,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 0,
@@ -254,12 +266,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
     "kills": 0,
     "lastKill": null
   },
@@ -1196,12 +1202,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0,
     "lastKill": null
   },
