@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 194732
+    "kills": 195016
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 5398
+    "kills": 5416
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 4080
+    "kills": 4089
   },
   {
     "playerId": "4142755",
@@ -42,7 +42,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 3527
+    "kills": 3557
   },
   {
     "playerId": "22710399",
@@ -72,7 +72,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 2401
+    "kills": 2411
   },
   {
     "playerId": "22472796",
@@ -132,7 +132,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1460
+    "kills": 1472
   },
   {
     "playerId": "2574833",
@@ -152,7 +152,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1235
+    "kills": 1240
   },
   {
     "playerId": "20269995",
@@ -262,12 +262,17 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 633
+    "kills": 643
   },
   {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 633
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 623
   },
   {
     "playerId": "11769746",
@@ -278,11 +283,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 604
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 603
   },
   {
     "playerId": "1185396",
@@ -405,6 +405,11 @@
     "kills": 229
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 226
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 219
@@ -423,11 +428,6 @@
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 210
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 209
   },
   {
     "playerId": "22754085",

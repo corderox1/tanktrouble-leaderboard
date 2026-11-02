@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2419
+    "kills": 2703
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 197
   },
   {
     "playerId": "20666777",
@@ -15,19 +20,19 @@
     "kills": 168
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 167
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 145
+    "kills": 163
   },
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 142
+    "kills": 152
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 125
   },
   {
     "playerId": "13173087",
@@ -35,24 +40,19 @@
     "kills": 118
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 116
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 108
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 82
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 70
   },
   {
     "playerId": "19138057",
@@ -110,6 +110,21 @@
     "kills": 21
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 20
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 19
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 17
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 17
@@ -130,9 +145,9 @@
     "kills": 16
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 14
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 10
   },
   {
     "playerId": "1185396",
@@ -280,11 +295,6 @@
     "kills": 0
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 0
-  },
-  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 0
@@ -327,11 +337,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 0
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 0
   },
   {
@@ -472,11 +477,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
