@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2188,
-    "lastKill": "2026-11-02 10:47:56"
+    "kills": 2532,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "22472796",
@@ -30,6 +30,12 @@
     "lastKill": "2026-11-02 06:12:23"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 145,
+    "lastKill": "2026-11-02 11:43:02"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 142,
@@ -39,12 +45,6 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 130,
-    "lastKill": "2026-11-02 08:57:58"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 129,
     "lastKill": "2026-11-02 08:57:58"
   },
   {
@@ -66,16 +66,22 @@
     "lastKill": "2026-11-02 07:07:54"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 87,
+    "lastKill": "2026-11-02 11:43:02"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 81,
     "lastKill": "2026-11-02 07:07:54"
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 59,
-    "lastKill": "2026-11-02 09:53:33"
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 62,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "22757188",
@@ -108,10 +114,10 @@
     "lastKill": "2026-11-02 08:57:58"
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 17,
-    "lastKill": "2026-11-02 09:53:33"
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 10,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "21103294",
@@ -1112,12 +1118,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 0,
     "lastKill": null
   },

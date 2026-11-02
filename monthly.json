@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6578,
-    "lastKill": "2026-11-02 10:47:56"
+    "kills": 6922,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "20666777",
@@ -36,16 +36,16 @@
     "lastKill": "2026-11-01 20:52:40"
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 203,
+    "lastKill": "2026-11-02 11:43:02"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 192,
     "lastKill": "2026-11-01 20:52:40"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 175,
-    "lastKill": "2026-11-02 09:53:33"
   },
   {
     "playerId": "22757188",
@@ -84,6 +84,12 @@
     "lastKill": "2026-11-02 06:12:23"
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 145,
+    "lastKill": "2026-11-02 11:43:02"
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 135,
@@ -93,12 +99,6 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 130,
-    "lastKill": "2026-11-02 08:57:58"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 129,
     "lastKill": "2026-11-02 08:57:58"
   },
   {
@@ -160,6 +160,12 @@
     "username": "rhak",
     "kills": 78,
     "lastKill": "2026-11-02 01:33:08"
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 74,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "21956820",
@@ -228,12 +234,6 @@
     "lastKill": "2026-11-01 06:52:48"
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 29,
-    "lastKill": "2026-11-02 09:53:33"
-  },
-  {
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 27,
@@ -268,6 +268,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 11,
     "lastKill": "2026-11-01 15:12:57"
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 10,
+    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "21103294",
@@ -1142,12 +1148,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 0,
     "lastKill": null
   },
