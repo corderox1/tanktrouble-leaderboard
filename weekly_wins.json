@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2703
+    "kills": 2875
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 197
+    "kills": 221
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 190
   },
   {
     "playerId": "20666777",
@@ -27,12 +32,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 152
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 125
+    "kills": 158
   },
   {
     "playerId": "13173087",
@@ -60,6 +60,11 @@
     "kills": 70
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 53
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 46
@@ -80,6 +85,11 @@
     "kills": 40
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 39
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 35
@@ -93,6 +103,11 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 31
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 30
   },
   {
     "playerId": "21465536",
@@ -110,14 +125,14 @@
     "kills": 21
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 20
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 18
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 19
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 17
   },
   {
     "playerId": "17136803",
@@ -145,8 +160,8 @@
     "kills": 16
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 10
   },
   {
@@ -185,13 +200,13 @@
     "kills": 2
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 2
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 1
+  },
+  {
+    "playerId": "20297710",
+    "username": "KD419",
     "kills": 1
   },
   {
@@ -255,11 +270,6 @@
     "kills": 0
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 0
-  },
-  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 0
@@ -267,11 +277,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
@@ -332,11 +337,6 @@
   {
     "playerId": "21109495",
     "username": "Yaghoubi",
-    "kills": 0
-  },
-  {
-    "playerId": "20297710",
-    "username": "KD419",
     "kills": 0
   },
   {
