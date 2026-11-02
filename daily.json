@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1914,
-    "lastKill": "2026-11-02 09:53:33"
+    "kills": 2188,
+    "lastKill": "2026-11-02 10:47:56"
   },
   {
     "playerId": "22472796",
@@ -54,6 +54,12 @@
     "lastKill": "2026-11-02 09:53:33"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 108,
+    "lastKill": "2026-11-02 10:47:56"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 106,
@@ -76,12 +82,6 @@
     "username": "Master_T-54",
     "kills": 53,
     "lastKill": "2026-11-02 08:57:58"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 43,
-    "lastKill": "2026-11-02 07:07:54"
   },
   {
     "playerId": "22845692",
@@ -154,6 +154,12 @@
     "username": "purup",
     "kills": 2,
     "lastKill": "2026-11-02 09:53:33"
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 2,
+    "lastKill": "2026-11-02 10:47:56"
   },
   {
     "playerId": "19932455",
@@ -236,12 +242,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
     "kills": 0,
     "lastKill": null
   },

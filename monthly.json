@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6304,
-    "lastKill": "2026-11-02 09:53:33"
+    "kills": 6578,
+    "lastKill": "2026-11-02 10:47:56"
   },
   {
     "playerId": "20666777",
@@ -120,6 +120,12 @@
     "lastKill": "2026-11-01 18:02:25"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 108,
+    "lastKill": "2026-11-02 10:47:56"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 106,
@@ -196,12 +202,6 @@
     "username": "k",
     "kills": 55,
     "lastKill": "2026-11-01 16:07:52"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 43,
-    "lastKill": "2026-11-02 07:07:54"
   },
   {
     "playerId": "15878197",
@@ -312,6 +312,12 @@
     "lastKill": "2026-11-02 09:53:33"
   },
   {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 2,
+    "lastKill": "2026-11-02 10:47:56"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 2,
@@ -392,12 +398,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
     "kills": 0,
     "lastKill": null
   },
