@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29610
+    "kills": 29754
   },
   {
     "playerId": "13173087",
@@ -60,14 +60,14 @@
     "kills": 544
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 510
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 507
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 481
   },
   {
     "playerId": "19932455",
@@ -97,7 +97,7 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 302
+    "kills": 361
   },
   {
     "playerId": "12107881",
@@ -135,14 +135,14 @@
     "kills": 233
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 218
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 216
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 210
   },
   {
     "playerId": "2574833",
@@ -385,6 +385,11 @@
     "kills": 21
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 16
+  },
+  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 16
@@ -393,11 +398,6 @@
     "playerId": "9156179",
     "username": "EHS",
     "kills": 16
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 15
   },
   {
     "playerId": "8779272",
@@ -455,6 +455,11 @@
     "kills": 1
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 1
+  },
+  {
     "playerId": "21443824",
     "username": "FLICK",
     "kills": 0
@@ -507,11 +512,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {

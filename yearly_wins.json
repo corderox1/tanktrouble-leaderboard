@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 191959
+    "kills": 192103
   },
   {
     "playerId": "8590474",
@@ -150,14 +150,14 @@
     "kills": 1295
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 1219
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 1213
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 1211
   },
   {
     "playerId": "21012136",
@@ -260,6 +260,11 @@
     "kills": 670
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 633
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 616
@@ -267,11 +272,6 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 604
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 604
   },
   {
@@ -345,6 +345,11 @@
     "kills": 392
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 361
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 358
@@ -363,11 +368,6 @@
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 315
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 302
   },
   {
     "playerId": "3162693",
@@ -467,7 +467,7 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 147
+    "kills": 148
   },
   {
     "playerId": "16874545",
@@ -725,6 +725,11 @@
     "kills": 2
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 1
+  },
+  {
     "playerId": "9881740",
     "username": "lichens",
     "kills": 1
@@ -762,11 +767,6 @@
   {
     "playerId": "4191643",
     "username": "Etxrnity",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {

@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3833,
-    "lastKill": "2026-11-01 20:52:40"
+    "kills": 4112,
+    "lastKill": "2026-11-01 21:47:29"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 260,
     "lastKill": "2026-11-01 12:27:25"
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 235,
+    "lastKill": "2026-11-01 21:47:29"
   },
   {
     "playerId": "4142755",
@@ -24,10 +30,10 @@
     "lastKill": "2026-11-01 20:52:40"
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 167,
-    "lastKill": "2026-11-01 20:52:40"
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 154,
+    "lastKill": "2026-11-01 21:47:29"
   },
   {
     "playerId": "21609912",
@@ -66,12 +72,6 @@
     "lastKill": "2026-11-01 04:56:26"
   },
   {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 107,
-    "lastKill": "2026-11-01 20:52:40"
-  },
-  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 100,
@@ -86,8 +86,8 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 92,
-    "lastKill": "2026-11-01 20:52:40"
+    "kills": 93,
+    "lastKill": "2026-11-01 21:47:29"
   },
   {
     "playerId": "22845692",
@@ -120,16 +120,16 @@
     "lastKill": "2026-11-01 14:18:15"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 63,
+    "lastKill": "2026-11-01 21:47:29"
+  },
+  {
     "playerId": "21452912",
     "username": "k",
     "kills": 55,
     "lastKill": "2026-11-01 16:07:52"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 45,
-    "lastKill": "2026-11-01 20:52:40"
   },
   {
     "playerId": "1051525",
