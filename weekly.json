@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36565,
-    "lastKill": "2026-11-01 22:46:39"
+    "kills": 36645,
+    "lastKill": "2026-11-01 23:42:51"
   },
   {
     "playerId": "13173087",
@@ -48,16 +48,16 @@
     "lastKill": "2026-10-31 16:02:52"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 1071,
+    "lastKill": "2026-11-01 23:42:51"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 1051,
     "lastKill": "2026-11-01 09:42:53"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 1036,
-    "lastKill": "2026-11-01 12:27:25"
   },
   {
     "playerId": "14892840",
@@ -138,16 +138,16 @@
     "lastKill": "2026-11-01 04:02:11"
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 520,
+    "lastKill": "2026-11-01 23:42:51"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 519,
     "lastKill": "2026-11-01 04:02:11"
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 495,
-    "lastKill": "2026-11-01 07:51:52"
   },
   {
     "playerId": "20270104",
@@ -472,6 +472,12 @@
     "username": "SoftMagmaDriver",
     "kills": 28,
     "lastKill": "2026-10-31 23:27:52"
+  },
+  {
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 27,
+    "lastKill": "2026-11-01 23:42:51"
   },
   {
     "playerId": "10689052",
@@ -1004,12 +1010,6 @@
   {
     "playerId": "504460",
     "username": "FreeCandy-Tank",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1341685",
-    "username": "supervolcano",
     "kills": 0,
     "lastKill": null
   },

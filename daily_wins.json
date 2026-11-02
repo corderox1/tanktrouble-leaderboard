@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3470
+    "kills": 3549
   },
   {
     "playerId": "13173087",
@@ -10,14 +10,14 @@
     "kills": 322
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 196
+  },
+  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 176
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 167
   },
   {
     "playerId": "19173281",
@@ -105,6 +105,11 @@
     "kills": 25
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 25
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 20
@@ -140,6 +145,11 @@
     "kills": 14
   },
   {
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 13
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 13
@@ -158,11 +168,6 @@
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 8
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 6
   },
   {
     "playerId": "21098942",
@@ -752,11 +757,6 @@
   {
     "playerId": "504460",
     "username": "FreeCandy-Tank",
-    "kills": 0
-  },
-  {
-    "playerId": "1341685",
-    "username": "supervolcano",
     "kills": 0
   },
   {

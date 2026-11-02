@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29814
+    "kills": 29893
   },
   {
     "playerId": "13173087",
@@ -25,6 +25,11 @@
     "kills": 959
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 771
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 744
@@ -32,11 +37,6 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 742
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
     "kills": 742
   },
   {
@@ -97,7 +97,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 380
+    "kills": 399
   },
   {
     "playerId": "12107881",
@@ -403,6 +403,11 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 14
+  },
+  {
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 13
   },
   {
     "playerId": "22694251",
@@ -837,11 +842,6 @@
   {
     "playerId": "504460",
     "username": "FreeCandy-Tank",
-    "kills": 0
-  },
-  {
-    "playerId": "1341685",
-    "username": "supervolcano",
     "kills": 0
   },
   {
