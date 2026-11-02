@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3673,
-    "lastKill": "2026-11-02 16:22:25"
+    "kills": 3862,
+    "lastKill": "2026-11-02 17:18:46"
   },
   {
     "playerId": "22472796",
@@ -24,6 +24,12 @@
     "lastKill": "2026-11-02 15:28:07"
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 241,
+    "lastKill": "2026-11-02 17:18:46"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 241,
@@ -34,12 +40,6 @@
     "username": "Invincible",
     "kills": 203,
     "lastKill": "2026-11-02 08:57:58"
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 190,
-    "lastKill": "2026-11-02 16:22:25"
   },
   {
     "playerId": "19583686",
@@ -106,6 +106,12 @@
     "username": "voloding",
     "kills": 75,
     "lastKill": "2026-11-02 13:37:33"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 63,
+    "lastKill": "2026-11-02 17:18:46"
   },
   {
     "playerId": "21098942",
@@ -180,22 +186,22 @@
     "lastKill": "2026-11-02 13:37:33"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 30,
+    "lastKill": "2026-11-02 17:18:46"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 28,
     "lastKill": "2026-11-02 16:22:25"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 28,
-    "lastKill": "2026-11-02 16:22:25"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 20,
-    "lastKill": "2026-11-02 14:32:29"
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 16,
+    "lastKill": "2026-11-02 17:18:46"
   },
   {
     "playerId": "3990108",
@@ -440,12 +446,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0,
     "lastKill": null
   },

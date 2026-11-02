@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2875
+    "kills": 3033
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 221
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 214
   },
   {
     "playerId": "10794529",
@@ -28,11 +33,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 163
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 158
   },
   {
     "playerId": "13173087",
@@ -58,6 +58,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 70
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 59
   },
   {
     "playerId": "8899024",
@@ -90,6 +95,11 @@
     "kills": 39
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 39
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 35
@@ -110,11 +120,6 @@
     "kills": 30
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 24
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 22
@@ -128,11 +133,6 @@
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 18
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 17
   },
   {
     "playerId": "17136803",
@@ -173,6 +173,11 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 7
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 6
   },
   {
     "playerId": "21839393",
@@ -357,11 +362,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
