@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2791
+    "kills": 2966
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 93
+    "kills": 95
   },
   {
     "playerId": "21609912",
@@ -25,9 +25,14 @@
     "kills": 88
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 80
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 72
+    "kills": 75
   },
   {
     "playerId": "18985660",
@@ -55,6 +60,11 @@
     "kills": 55
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 53
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 52
@@ -70,9 +80,9 @@
     "kills": 44
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 42
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 37
   },
   {
     "playerId": "2574833",
@@ -95,11 +105,6 @@
     "kills": 25
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 19
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 19
@@ -118,11 +123,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 15
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 14
   },
   {
     "playerId": "22077521",
@@ -147,7 +147,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 6
+    "kills": 8
   },
   {
     "playerId": "22809750",
@@ -160,13 +160,18 @@
     "kills": 4
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 3
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 3
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 2
   },
   {
@@ -185,11 +190,6 @@
     "kills": 2
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 1
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 1
@@ -197,6 +197,11 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 1
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
     "kills": 1
   },
   {
@@ -1032,11 +1037,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0
   },
   {
