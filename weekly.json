@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2532,
-    "lastKill": "2026-11-02 11:43:02"
+    "kills": 2757,
+    "lastKill": "2026-11-02 12:38:15"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 367,
     "lastKill": "2026-11-02 08:03:20"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 217,
+    "lastKill": "2026-11-02 12:38:15"
   },
   {
     "playerId": "20666777",
@@ -28,12 +34,6 @@
     "username": "L_Shy_P",
     "kills": 149,
     "lastKill": "2026-11-02 06:12:23"
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 145,
-    "lastKill": "2026-11-02 11:43:02"
   },
   {
     "playerId": "22716354",
@@ -72,6 +72,12 @@
     "lastKill": "2026-11-02 11:43:02"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 82,
+    "lastKill": "2026-11-02 12:38:15"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 81,
@@ -84,10 +90,22 @@
     "lastKill": "2026-11-02 11:43:02"
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 60,
+    "lastKill": "2026-11-02 12:38:15"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 53,
     "lastKill": "2026-11-02 08:57:58"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 41,
+    "lastKill": "2026-11-02 12:38:15"
   },
   {
     "playerId": "22845692",
@@ -166,6 +184,12 @@
     "username": "Trizz",
     "kills": 2,
     "lastKill": "2026-11-02 10:47:56"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 1,
+    "lastKill": "2026-11-02 12:38:15"
   },
   {
     "playerId": "19932455",
@@ -294,26 +318,8 @@
     "lastKill": null
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
@@ -458,12 +464,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0,
     "lastKill": null
   },
