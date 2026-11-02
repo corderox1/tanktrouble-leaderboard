@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4733
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 367
+    "kills": 4968
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 340
+    "kills": 430
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 369
   },
   {
     "playerId": "22472796",
@@ -40,6 +40,11 @@
     "kills": 126
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 116
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 108
@@ -50,14 +55,34 @@
     "kills": 103
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 91
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 88
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 87
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 79
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 77
+  },
+  {
+    "playerId": "19583686",
+    "username": "Raxlyr",
+    "kills": 73
   },
   {
     "playerId": "22845692",
@@ -75,18 +100,8 @@
     "kills": 65
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 62
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 57
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 57
   },
   {
@@ -95,18 +110,8 @@
     "kills": 55
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 53
-  },
-  {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 48
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 48
   },
   {
@@ -120,6 +125,11 @@
     "kills": 43
   },
   {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 39
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 38
@@ -128,11 +138,6 @@
     "playerId": "2574833",
     "username": "voloding",
     "kills": 36
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 34
   },
   {
     "playerId": "21178768",
@@ -183,11 +188,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 15
-  },
-  {
-    "playerId": "19583686",
-    "username": "Raxlyr",
-    "kills": 14
   },
   {
     "playerId": "22077521",
