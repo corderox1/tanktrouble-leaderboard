@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5981,
-    "lastKill": "2026-11-02 08:57:58"
+    "kills": 6304,
+    "lastKill": "2026-11-02 09:53:33"
   },
   {
     "playerId": "20666777",
@@ -26,8 +26,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 237,
-    "lastKill": "2026-11-02 08:57:58"
+    "kills": 256,
+    "lastKill": "2026-11-02 09:53:33"
   },
   {
     "playerId": "4142755",
@@ -44,8 +44,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 171,
-    "lastKill": "2026-11-02 08:57:58"
+    "kills": 175,
+    "lastKill": "2026-11-02 09:53:33"
   },
   {
     "playerId": "22757188",
@@ -228,6 +228,12 @@
     "lastKill": "2026-11-01 06:52:48"
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 29,
+    "lastKill": "2026-11-02 09:53:33"
+  },
+  {
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 27,
@@ -255,12 +261,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 21,
-    "lastKill": "2026-11-01 14:18:15"
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 12,
     "lastKill": "2026-11-01 14:18:15"
   },
   {
@@ -306,6 +306,12 @@
     "lastKill": "2026-11-02 02:28:10"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 2,
+    "lastKill": "2026-11-02 09:53:33"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 2,
@@ -326,12 +332,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
     "kills": 0,
     "lastKill": null
   },
