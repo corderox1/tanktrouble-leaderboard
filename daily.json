@@ -2,8 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 612,
-    "lastKill": "2026-11-02 05:18:00"
+    "kills": 865,
+    "lastKill": "2026-11-02 06:12:23"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 225,
+    "lastKill": "2026-11-02 06:12:23"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 149,
+    "lastKill": "2026-11-02 06:12:23"
   },
   {
     "playerId": "22716354",
@@ -12,16 +24,16 @@
     "lastKill": "2026-11-02 02:28:10"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 121,
-    "lastKill": "2026-11-02 05:18:00"
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 95,
+    "lastKill": "2026-11-02 06:12:23"
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 70,
-    "lastKill": "2026-11-02 05:18:00"
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 80,
+    "lastKill": "2026-11-02 06:12:23"
   },
   {
     "playerId": "22845692",
@@ -30,28 +42,28 @@
     "lastKill": "2026-11-02 02:28:10"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 32,
-    "lastKill": "2026-11-02 05:18:00"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 22,
-    "lastKill": "2026-11-02 05:18:00"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 17,
-    "lastKill": "2026-11-02 05:18:00"
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 33,
+    "lastKill": "2026-11-02 06:12:23"
   },
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 17,
-    "lastKill": "2026-11-02 05:18:00"
+    "kills": 32,
+    "lastKill": "2026-11-02 06:12:23"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 28,
+    "lastKill": "2026-11-02 06:12:23"
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 12,
+    "lastKill": "2026-11-02 06:12:23"
   },
   {
     "playerId": "1185396",
@@ -494,12 +506,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0,
     "lastKill": null
   },
@@ -1172,12 +1178,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },
