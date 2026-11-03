@@ -1,15 +1,15 @@
 [
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 235,
-    "lastKill": "2026-11-03 02:37:42"
-  },
-  {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 196,
-    "lastKill": "2026-11-03 02:37:42"
+    "kills": 381,
+    "lastKill": "2026-11-03 03:33:14"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 351,
+    "lastKill": "2026-11-03 03:33:14"
   },
   {
     "playerId": "13773720",
@@ -30,10 +30,16 @@
     "lastKill": "2026-11-03 01:43:09"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 44,
+    "lastKill": "2026-11-03 03:33:14"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 42,
-    "lastKill": "2026-11-03 02:37:42"
+    "kills": 43,
+    "lastKill": "2026-11-03 03:33:14"
   },
   {
     "playerId": "19726920",
@@ -48,6 +54,12 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 3,
+    "lastKill": "2026-11-03 03:33:14"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 3,
@@ -60,10 +72,16 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 2,
+    "lastKill": "2026-11-03 03:33:14"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 1,
-    "lastKill": "2026-11-03 02:37:42"
+    "lastKill": "2026-11-03 03:33:14"
   },
   {
     "playerId": "22710399",
@@ -402,20 +420,8 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0,
     "lastKill": null
   },
@@ -464,12 +470,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0,
     "lastKill": null
   },

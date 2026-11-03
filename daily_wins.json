@@ -1,13 +1,13 @@
 [
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 206
-  },
-  {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 124
+    "kills": 352
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 247
   },
   {
     "playerId": "13773720",
@@ -25,9 +25,14 @@
     "kills": 29
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 24
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 22
+    "kills": 23
   },
   {
     "playerId": "19138057",
@@ -50,8 +55,13 @@
     "kills": 2
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 1
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 1
   },
   {
@@ -345,11 +355,6 @@
     "kills": 0
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 0
-  },
-  {
     "playerId": "29695",
     "username": "77777",
     "kills": 0
@@ -387,11 +392,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0
   },
   {
