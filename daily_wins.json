@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3709
+    "kills": 3862
   },
   {
     "playerId": "20666777",
@@ -15,14 +15,14 @@
     "kills": 221
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 219
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 214
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 197
   },
   {
     "playerId": "10794529",
@@ -67,7 +67,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 53
+    "kills": 55
   },
   {
     "playerId": "22716354",
@@ -113,6 +113,11 @@
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 34
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 32
   },
   {
     "playerId": "21178768",
@@ -175,6 +180,11 @@
     "kills": 16
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 13
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 10
@@ -190,14 +200,14 @@
     "kills": 7
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 5
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 4
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 3
   },
   {
     "playerId": "19068893",
@@ -680,11 +690,6 @@
     "kills": 0
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 0
-  },
-  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 0
@@ -1002,11 +1007,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0
   },
   {
