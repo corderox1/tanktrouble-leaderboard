@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3117
+    "kills": 3410
   },
   {
     "playerId": "13173087",
@@ -13,6 +13,11 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 293
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 220
   },
   {
     "playerId": "10794529",
@@ -33,11 +38,6 @@
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 88
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 85
   },
   {
     "playerId": "22706369",
@@ -125,6 +125,11 @@
     "kills": 40
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 34
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 33
@@ -190,8 +195,18 @@
     "kills": 7
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 6
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 5
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 5
   },
   {
@@ -207,11 +222,6 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 2
   },
   {
@@ -292,11 +302,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
@@ -507,11 +512,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3673,
-    "lastKill": "2026-11-03 16:01:03"
+    "kills": 4055,
+    "lastKill": "2026-11-03 16:57:59"
   },
   {
     "playerId": "8590474",
@@ -16,6 +16,12 @@
     "username": "interstellar",
     "kills": 227,
     "lastKill": "2026-11-03 14:59:03"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 205,
+    "lastKill": "2026-11-03 16:57:59"
   },
   {
     "playerId": "22706369",
@@ -108,12 +114,6 @@
     "lastKill": "2026-11-03 16:01:03"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 81,
-    "lastKill": "2026-11-03 16:01:03"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 75,
@@ -130,6 +130,12 @@
     "username": "Supernova-135",
     "kills": 68,
     "lastKill": "2026-11-03 02:37:42"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 64,
+    "lastKill": "2026-11-03 16:57:59"
   },
   {
     "playerId": "3147484",
@@ -210,6 +216,12 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 20,
+    "lastKill": "2026-11-03 16:57:59"
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 17,
@@ -228,10 +240,10 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 7,
-    "lastKill": "2026-11-03 16:01:03"
+    "lastKill": "2026-11-03 16:57:59"
   },
   {
     "playerId": "19932455",
@@ -350,12 +362,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": null
   },
@@ -602,12 +608,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
