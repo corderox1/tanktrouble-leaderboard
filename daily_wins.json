@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3257
+    "kills": 3462
   },
   {
     "playerId": "17629928",
@@ -15,18 +15,23 @@
     "kills": 214
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 209
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 190
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 172
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 168
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
     "kills": 168
   },
   {
@@ -35,14 +40,9 @@
     "kills": 163
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 118
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 110
+    "kills": 138
   },
   {
     "playerId": "14892840",
@@ -92,6 +92,11 @@
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 39
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 39
   },
   {
@@ -160,13 +165,13 @@
     "kills": 16
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 10
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 13
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 10
   },
   {
@@ -347,11 +352,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
     "kills": 0
   },
   {
