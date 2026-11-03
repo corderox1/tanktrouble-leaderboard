@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1766
+    "kills": 2041
   },
   {
     "playerId": "13173087",
@@ -22,17 +22,32 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 82
+    "kills": 97
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 73
+    "kills": 78
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 71
   },
   {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 69
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 66
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 66
   },
   {
     "playerId": "13773720",
@@ -45,14 +60,9 @@
     "kills": 50
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
+    "playerId": "10794529",
+    "username": "interstellar",
     "kills": 42
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 41
   },
   {
     "playerId": "22757188",
@@ -60,9 +70,9 @@
     "kills": 41
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 37
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 36
   },
   {
     "playerId": "17953682",
@@ -75,14 +85,34 @@
     "kills": 29
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 27
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 16
+    "kills": 26
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 23
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 18
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 16
+  },
+  {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 13
   },
   {
     "playerId": "20111777",
@@ -95,6 +125,16 @@
     "kills": 10
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 8
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 8
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 7
@@ -105,6 +145,11 @@
     "kills": 5
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 3
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 2
@@ -113,11 +158,6 @@
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 2
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 1
   },
   {
     "playerId": "15878197",
@@ -220,11 +260,6 @@
     "kills": 0
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 0
@@ -232,16 +267,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 0
-  },
-  {
-    "playerId": "18969891",
-    "username": "AlmaMater",
     "kills": 0
   },
   {
@@ -347,11 +372,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 0
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
     "kills": 0
   },
   {
@@ -640,11 +660,6 @@
     "kills": 0
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 0
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0
@@ -667,11 +682,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0
   },
   {
@@ -892,16 +902,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 0
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0
   },
   {

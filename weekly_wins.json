@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5776
+    "kills": 6051
   },
   {
     "playerId": "13173087",
@@ -20,6 +20,16 @@
     "kills": 254
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 232
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 232
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 221
@@ -30,19 +40,9 @@
     "kills": 219
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 214
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 190
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 168
+    "kills": 176
   },
   {
     "playerId": "21601349",
@@ -55,14 +55,14 @@
     "kills": 156
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 153
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 129
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 119
   },
   {
     "playerId": "14892840",
@@ -75,29 +75,39 @@
     "kills": 102
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 100
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 97
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 96
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 87
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
     "kills": 82
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 78
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 76
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 75
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 73
   },
   {
     "playerId": "19583686",
@@ -110,14 +120,9 @@
     "kills": 69
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 63
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 55
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 53
   },
   {
     "playerId": "8408190",
@@ -132,12 +137,7 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 41
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 40
+    "kills": 43
   },
   {
     "playerId": "3923647",
@@ -153,6 +153,11 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 38
+  },
+  {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 36
   },
   {
     "playerId": "17953682",
@@ -178,6 +183,16 @@
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 29
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 26
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 23
   },
   {
     "playerId": "20111777",
@@ -215,11 +230,6 @@
     "kills": 17
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 16
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 16
@@ -228,6 +238,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 15
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 8
   },
   {
     "playerId": "1185396",
@@ -370,11 +385,6 @@
     "kills": 0
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 0
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0
@@ -437,11 +447,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 0
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
     "kills": 0
   },
   {
@@ -682,11 +687,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
