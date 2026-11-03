@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2500
+    "kills": 3117
   },
   {
     "playerId": "13173087",
@@ -35,6 +35,11 @@
     "kills": 88
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 85
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 84
@@ -42,7 +47,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 79
+    "kills": 83
   },
   {
     "playerId": "21508277",
@@ -95,9 +100,19 @@
     "kills": 50
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 44
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 44
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 41
   },
   {
     "playerId": "22757188",
@@ -110,19 +125,9 @@
     "kills": 40
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 34
-  },
-  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 33
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 32
   },
   {
     "playerId": "22077521",
@@ -135,6 +140,11 @@
     "kills": 29
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 27
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 26
@@ -143,6 +153,11 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 23
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 18
   },
   {
     "playerId": "21614515",
@@ -185,19 +200,24 @@
     "kills": 3
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 2
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
+    "kills": 2
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 2
   },
   {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 2
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 1
   },
   {
     "playerId": "15878197",
@@ -295,11 +315,6 @@
     "kills": 0
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 0
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 0
@@ -385,11 +400,6 @@
     "kills": 0
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 0
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 0
@@ -407,11 +417,6 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 0
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0
   },
   {
@@ -947,11 +952,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0
   },
   {
