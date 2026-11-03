@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35321954,
-    "kills": 44447092,
-    "deaths": 41930805,
-    "suicides": 9414835,
+    "victories": 35322021,
+    "kills": 44447155,
+    "deaths": 41930870,
+    "suicides": 9414850,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -590,10 +590,10 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "victories": 18190,
-    "kills": 25807,
-    "deaths": 29232,
-    "suicides": 6083,
+    "victories": 18193,
+    "kills": 25813,
+    "deaths": 29250,
+    "suicides": 6090,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -631,7 +631,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1618340623,
-    "lastLogin": 1793605152,
+    "lastLogin": 1793679801,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 27447,
-    "kills": 43193,
-    "deaths": 47773,
-    "suicides": 10079,
+    "victories": 27473,
+    "kills": 43267,
+    "deaths": 47858,
+    "suicides": 10097,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -1474,7 +1474,7 @@
     "username": "Sc4r",
     "victories": 68862,
     "kills": 113875,
-    "deaths": 118919,
+    "deaths": 118920,
     "suicides": 26150,
     "experience": 11078,
     "surrenders": 0,

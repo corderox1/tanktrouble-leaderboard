@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4601,
-    "lastKill": "2026-11-02 21:58:18"
+    "kills": 4664,
+    "lastKill": "2026-11-02 22:52:51"
   },
   {
     "playerId": "22472796",
@@ -16,6 +16,12 @@
     "username": "_zenin_",
     "kills": 341,
     "lastKill": "2026-11-02 16:22:25"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 304,
+    "lastKill": "2026-11-02 22:52:51"
   },
   {
     "playerId": "21601349",
@@ -40,12 +46,6 @@
     "username": "interstellar",
     "kills": 241,
     "lastKill": "2026-11-02 16:22:25"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 230,
-    "lastKill": "2026-11-02 21:58:18"
   },
   {
     "playerId": "13173087",
@@ -228,6 +228,12 @@
     "lastKill": "2026-11-02 08:03:20"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 6,
+    "lastKill": "2026-11-02 22:52:51"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 6,
@@ -338,12 +344,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0,
     "lastKill": null
   },
