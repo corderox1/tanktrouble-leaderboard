@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35321774,
-    "kills": 44446871,
-    "deaths": 41930496,
-    "suicides": 9414784,
+    "victories": 35321899,
+    "kills": 44446978,
+    "deaths": 41930660,
+    "suicides": 9414805,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 27414,
-    "kills": 43106,
-    "deaths": 47640,
-    "suicides": 10067,
+    "victories": 27430,
+    "kills": 43153,
+    "deaths": 47712,
+    "suicides": 10073,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1793664191,
+    "lastLogin": 1793671652,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 68832,
-    "kills": 113779,
-    "deaths": 118817,
-    "suicides": 26138,
+    "victories": 68850,
+    "kills": 113832,
+    "deaths": 118853,
+    "suicides": 26144,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1793575608,
+    "lastLogin": 1793671921,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "k",
-    "victories": 9697,
-    "kills": 16608,
-    "deaths": 18260,
-    "suicides": 4055,
+    "victories": 9704,
+    "kills": 16634,
+    "deaths": 18290,
+    "suicides": 4060,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2150,7 +2150,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1744675256,
-    "lastLogin": 1793149809,
+    "lastLogin": 1793672825,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 15888,
-    "kills": 28901,
-    "deaths": 47342,
-    "suicides": 12648,
+    "victories": 15928,
+    "kills": 28955,
+    "deaths": 47381,
+    "suicides": 12655,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 9463,
-    "kills": 14604,
-    "deaths": 8537,
-    "suicides": 3265,
+    "victories": 9473,
+    "kills": 14616,
+    "deaths": 8552,
+    "suicides": 3271,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 7808,
-    "kills": 15183,
-    "deaths": 13758,
-    "suicides": 3989,
+    "victories": 7824,
+    "kills": 15221,
+    "deaths": 13780,
+    "suicides": 3998,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9500,7 +9500,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707032376,
-    "lastLogin": 1793620569,
+    "lastLogin": 1793674644,
     "banned": false,
     "usernameApproved": true,
     "country": null

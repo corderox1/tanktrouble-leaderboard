@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3462
+    "kills": 3587
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 249
   },
   {
     "playerId": "17629928",
@@ -15,23 +20,18 @@
     "kills": 214
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 209
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 190
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 168
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
+    "kills": 178
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
     "kills": 168
   },
   {
@@ -42,12 +42,17 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 138
+    "kills": 154
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 108
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 86
   },
   {
     "playerId": "21508277",
@@ -58,11 +63,6 @@
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 70
   },
   {
     "playerId": "8899024",
@@ -135,6 +135,16 @@
     "kills": 21
   },
   {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 20
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 18
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 18
@@ -163,11 +173,6 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 16
-  },
-  {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 13
   },
   {
     "playerId": "20111777",
@@ -312,11 +317,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0
   },
   {
