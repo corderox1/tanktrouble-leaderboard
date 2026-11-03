@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7982
+    "kills": 8126
   },
   {
     "playerId": "13173087",
@@ -12,12 +12,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 469
+    "kills": 483
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 448
+    "kills": 450
   },
   {
     "playerId": "4142755",
@@ -300,6 +300,11 @@
     "kills": 2
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 2
+  },
+  {
     "playerId": "13825931",
     "username": "Tigers786",
     "kills": 2
@@ -327,11 +332,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 1
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {

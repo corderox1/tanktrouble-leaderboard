@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 381,
-    "lastKill": "2026-11-03 03:33:14"
+    "kills": 511,
+    "lastKill": "2026-11-03 04:32:53"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 351,
-    "lastKill": "2026-11-03 03:33:14"
+    "kills": 388,
+    "lastKill": "2026-11-03 04:32:53"
   },
   {
     "playerId": "13773720",
@@ -48,6 +48,12 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 11,
+    "lastKill": "2026-11-03 04:32:53"
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 8,
@@ -60,12 +66,6 @@
     "lastKill": "2026-11-03 03:33:14"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 3,
-    "lastKill": "2026-11-03 02:37:42"
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 2,
@@ -76,6 +76,12 @@
     "username": "kamarov",
     "kills": 2,
     "lastKill": "2026-11-03 03:33:14"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 2,
+    "lastKill": "2026-11-03 04:32:53"
   },
   {
     "playerId": "19068893",
@@ -494,12 +500,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
