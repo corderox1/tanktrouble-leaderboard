@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4033
+    "kills": 4134
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 287
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 249
+    "kills": 251
   },
   {
     "playerId": "17629928",
@@ -23,11 +28,6 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 214
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 208
   },
   {
     "playerId": "10794529",
@@ -62,12 +62,12 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 92
+    "kills": 102
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 86
+    "kills": 96
   },
   {
     "playerId": "21508277",
@@ -80,6 +80,11 @@
     "kills": 73
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 56
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 55
@@ -87,17 +92,17 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
+    "kills": 47
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 46
   },
   {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 43
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 42
   },
   {
     "playerId": "21098942",
@@ -125,11 +130,6 @@
     "kills": 35
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 34
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 31
@@ -145,13 +145,13 @@
     "kills": 30
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 22
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
+    "kills": 29
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
     "kills": 22
   },
   {
@@ -218,6 +218,11 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 4
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 3
   },
   {
     "playerId": "19068893",
@@ -327,11 +332,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {

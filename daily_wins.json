@@ -2,7 +2,17 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 127
+    "kills": 206
+  },
+  {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 124
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 58
   },
   {
     "playerId": "12107881",
@@ -10,24 +20,39 @@
     "kills": 50
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 48
-  },
-  {
-    "playerId": "6148530",
-    "username": "Laika",
-    "kills": 23
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
+    "kills": 29
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 22
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 10
   },
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 7
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 3
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 2
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -125,18 +150,8 @@
     "kills": 0
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 0
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -360,11 +375,6 @@
     "kills": 0
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 0
@@ -377,11 +387,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -962,11 +967,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
