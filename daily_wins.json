@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1478
+    "kills": 1766
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 284
+    "kills": 311
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 273
+    "kills": 291
   },
   {
     "playerId": "22716354",
@@ -20,14 +20,19 @@
     "kills": 110
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 82
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 73
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 66
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 69
   },
   {
     "playerId": "13773720",
@@ -40,9 +45,24 @@
     "kills": 50
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 42
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 41
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 41
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 37
   },
   {
     "playerId": "17953682",
@@ -55,14 +75,14 @@
     "kills": 29
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 23
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 16
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 17
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 16
   },
   {
     "playerId": "20111777",
@@ -77,11 +97,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 7
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 7
   },
   {
@@ -115,9 +130,9 @@
     "kills": 1
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
+    "playerId": "12478286",
+    "username": "ANUIQUILATE",
+    "kills": 1
   },
   {
     "playerId": "1145079",
@@ -460,11 +475,6 @@
     "kills": 0
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 0
-  },
-  {
     "playerId": "1609300",
     "username": "Turbo-Rambo",
     "kills": 0
@@ -482,11 +492,6 @@
   {
     "playerId": "10523030",
     "username": "DIMIG0D",
-    "kills": 0
-  },
-  {
-    "playerId": "12478286",
-    "username": "ANUIQUILATE",
     "kills": 0
   },
   {
@@ -1042,6 +1047,16 @@
   {
     "playerId": "9156179",
     "username": "EHS",
+    "kills": 0
+  },
+  {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 0
+  },
+  {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
     "kills": 0
   }
 ]
