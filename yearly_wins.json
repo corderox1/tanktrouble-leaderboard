@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 196323
+    "kills": 196346
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 9094
+    "kills": 9221
   },
   {
     "playerId": "13173087",
@@ -135,14 +135,14 @@
     "kills": 1472
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 1387
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 1363
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 1339
   },
   {
     "playerId": "19932455",
@@ -152,7 +152,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1260
+    "kills": 1263
   },
   {
     "playerId": "22809750",
@@ -212,7 +212,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 1010
+    "kills": 1060
   },
   {
     "playerId": "21700920",
@@ -490,6 +490,11 @@
     "kills": 127
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 105
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 93
@@ -498,11 +503,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 86
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 83
   },
   {
     "playerId": "21967085",

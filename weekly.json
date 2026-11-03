@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4972,
-    "lastKill": "2026-11-03 00:47:12"
+    "kills": 5001,
+    "lastKill": "2026-11-03 01:43:09"
   },
   {
     "playerId": "22472796",
@@ -48,16 +48,34 @@
     "lastKill": "2026-11-02 16:22:25"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 221,
+    "lastKill": "2026-11-03 01:43:09"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 188,
     "lastKill": "2026-11-02 21:03:15"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 172,
+    "lastKill": "2026-11-03 01:43:09"
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 159,
     "lastKill": "2026-11-02 08:57:58"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 151,
+    "lastKill": "2026-11-03 01:43:09"
   },
   {
     "playerId": "14892840",
@@ -84,12 +102,6 @@
     "lastKill": "2026-11-02 21:03:15"
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 116,
-    "lastKill": "2026-11-03 00:47:12"
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 106,
@@ -108,22 +120,10 @@
     "lastKill": "2026-11-02 23:53:03"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 88,
-    "lastKill": "2026-11-03 00:47:12"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 87,
-    "lastKill": "2026-11-02 11:43:02"
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 78,
-    "lastKill": "2026-11-02 16:22:25"
+    "kills": 81,
+    "lastKill": "2026-11-03 01:43:09"
   },
   {
     "playerId": "3923647",
@@ -238,6 +238,12 @@
     "username": "Trizz",
     "kills": 28,
     "lastKill": "2026-11-02 16:22:25"
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 18,
+    "lastKill": "2026-11-03 01:43:09"
   },
   {
     "playerId": "3990108",
@@ -1166,12 +1172,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0,
     "lastKill": null
   },
