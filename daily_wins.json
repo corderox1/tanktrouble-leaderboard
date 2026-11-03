@@ -15,14 +15,14 @@
     "kills": 293
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 166
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 165
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 161
   },
   {
     "playerId": "22716354",
@@ -30,9 +30,19 @@
     "kills": 110
   },
   {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 88
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 81
+    "kills": 84
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 79
   },
   {
     "playerId": "21508277",
@@ -100,11 +110,6 @@
     "kills": 40
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 36
-  },
-  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 34
@@ -115,14 +120,24 @@
     "kills": 33
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 32
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
     "kills": 30
   },
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 29
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 26
   },
   {
     "playerId": "20011985",
@@ -160,11 +175,6 @@
     "kills": 7
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 6
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 5
@@ -175,13 +185,8 @@
     "kills": 3
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 3
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 2
   },
   {
@@ -427,11 +432,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {

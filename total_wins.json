@@ -1,10 +1,5 @@
 [
   {
-    "playerId": "6148530",
-    "username": "Laika",
-    "kills": 35324822
-  },
-  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 1000387
@@ -27,7 +22,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 139508
+    "kills": 139534
   },
   {
     "playerId": "2574833",
@@ -72,7 +67,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 78691
+    "kills": 78696
   },
   {
     "playerId": "14892840",
@@ -172,7 +167,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 50131
+    "kills": 50180
   },
   {
     "playerId": "4201869",
@@ -287,7 +282,7 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 36476
+    "kills": 36528
   },
   {
     "playerId": "5134622",
@@ -647,7 +642,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 9975
+    "kills": 9977
   },
   {
     "playerId": "13173087",
@@ -702,7 +697,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 7969
+    "kills": 7996
   },
   {
     "playerId": "19138057",
@@ -833,6 +828,11 @@
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 3745
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 3741
   },
   {
     "playerId": "22047175",
@@ -1007,7 +1007,7 @@
   {
     "playerId": "22042037",
     "username": "N-A",
-    "kills": 456
+    "kills": 480
   },
   {
     "playerId": "3807830",

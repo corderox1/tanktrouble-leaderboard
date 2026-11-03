@@ -32,7 +32,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 4315
+    "kills": 4320
   },
   {
     "playerId": "4142755",
@@ -42,7 +42,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 3611
+    "kills": 3660
   },
   {
     "playerId": "22710399",
@@ -67,7 +67,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2448
+    "kills": 2450
   },
   {
     "playerId": "4381511",
@@ -82,7 +82,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 2206
+    "kills": 2232
   },
   {
     "playerId": "22694251",
@@ -92,7 +92,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 2098
+    "kills": 2125
   },
   {
     "playerId": "21796745",
@@ -102,7 +102,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1985
+    "kills": 1988
   },
   {
     "playerId": "1051525",
@@ -450,6 +450,11 @@
     "kills": 196
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 180
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 168
@@ -458,11 +463,6 @@
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 168
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 156
   },
   {
     "playerId": "12331664",
@@ -503,6 +503,11 @@
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 93
+  },
+  {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 88
   },
   {
     "playerId": "1341685",
@@ -568,11 +573,6 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 40
-  },
-  {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 36
   },
   {
     "playerId": "21102229",

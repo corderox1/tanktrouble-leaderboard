@@ -22,7 +22,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 351
+    "kills": 356
   },
   {
     "playerId": "4142755",
@@ -35,14 +35,14 @@
     "kills": 304
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 300
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 276
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 251
   },
   {
     "playerId": "21601349",
@@ -120,14 +120,19 @@
     "kills": 108
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 97
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 96
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 94
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 88
   },
   {
     "playerId": "21609912",
@@ -190,19 +195,29 @@
     "kills": 44
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 44
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 42
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 40
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 41
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 39
+    "kills": 41
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 40
   },
   {
     "playerId": "21614515",
@@ -213,11 +228,6 @@
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 38
-  },
-  {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 36
   },
   {
     "playerId": "17953682",
@@ -238,6 +248,11 @@
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 29
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 26
   },
   {
     "playerId": "20011985",
@@ -275,19 +290,9 @@
     "kills": 17
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 17
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 16
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 15
   },
   {
     "playerId": "21797119",
@@ -347,11 +352,6 @@
   {
     "playerId": "13825931",
     "username": "Tigers786",
-    "kills": 2
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
     "kills": 2
   },
   {
