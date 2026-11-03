@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 511,
-    "lastKill": "2026-11-03 04:32:53"
+    "kills": 646,
+    "lastKill": "2026-11-03 05:28:52"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 388,
     "lastKill": "2026-11-03 04:32:53"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 89,
+    "lastKill": "2026-11-03 05:28:52"
   },
   {
     "playerId": "13773720",
@@ -30,16 +36,16 @@
     "lastKill": "2026-11-03 01:43:09"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 44,
-    "lastKill": "2026-11-03 03:33:14"
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 43,
     "lastKill": "2026-11-03 03:33:14"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 25,
+    "lastKill": "2026-11-03 05:28:52"
   },
   {
     "playerId": "19726920",
@@ -48,10 +54,16 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 19,
+    "lastKill": "2026-11-03 05:28:52"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 11,
-    "lastKill": "2026-11-03 04:32:53"
+    "kills": 14,
+    "lastKill": "2026-11-03 05:28:52"
   },
   {
     "playerId": "8408190",
@@ -882,12 +894,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1238,12 +1244,6 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 496
+    "kills": 573
   },
   {
     "playerId": "8590474",
@@ -15,6 +15,11 @@
     "kills": 58
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 58
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 50
@@ -23,11 +28,6 @@
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 29
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 24
   },
   {
     "playerId": "20270104",
@@ -47,12 +47,27 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
+    "kills": 5
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 5
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
     "kills": 4
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 3
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 2
   },
   {
     "playerId": "21098942",
@@ -735,11 +750,6 @@
     "kills": 0
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0
@@ -1010,11 +1020,6 @@
     "kills": 0
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 0
@@ -1032,11 +1037,6 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0
   },
   {
