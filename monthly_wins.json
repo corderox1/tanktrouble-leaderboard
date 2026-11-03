@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9671
+    "kills": 10033
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 513
+    "kills": 515
   },
   {
     "playerId": "20666777",
@@ -27,7 +27,17 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 250
+    "kills": 304
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 282
+  },
+  {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 274
   },
   {
     "playerId": "21601349",
@@ -35,19 +45,14 @@
     "kills": 240
   },
   {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 232
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 232
-  },
-  {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 221
+    "kills": 233
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 213
   },
   {
     "playerId": "10502780",
@@ -75,11 +80,6 @@
     "kills": 153
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 152
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 139
@@ -88,6 +88,11 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 135
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 132
   },
   {
     "playerId": "12107881",
@@ -105,6 +110,11 @@
     "kills": 116
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 112
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 108
@@ -117,7 +127,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 91
+    "kills": 94
   },
   {
     "playerId": "21609912",
@@ -125,24 +135,14 @@
     "kills": 88
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 82
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 79
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 84
   },
   {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 77
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 75
   },
   {
     "playerId": "4381511",
@@ -183,6 +183,11 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 45
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 44
   },
   {
     "playerId": "1051525",
@@ -230,8 +235,8 @@
     "kills": 26
   },
   {
-    "playerId": "3147484",
-    "username": "Lichen",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 23
   },
   {
@@ -285,19 +290,14 @@
     "kills": 13
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
+    "playerId": "14617724",
+    "username": "Astra",
     "kills": 11
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 9
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 8
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 11
   },
   {
     "playerId": "21103294",
