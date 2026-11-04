@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14561
+    "kills": 14666
   },
   {
     "playerId": "13173087",
@@ -52,7 +52,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 335
+    "kills": 351
   },
   {
     "playerId": "8502796",
@@ -95,6 +95,11 @@
     "kills": 176
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 174
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 159
@@ -105,14 +110,9 @@
     "kills": 156
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 144
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 141
+    "kills": 142
   },
   {
     "playerId": "22706369",
@@ -122,7 +122,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 135
+    "kills": 137
   },
   {
     "playerId": "21180646",
@@ -265,6 +265,11 @@
     "kills": 39
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 36
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 34
@@ -285,13 +290,13 @@
     "kills": 32
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 26
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
+    "kills": 23
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 23
   },
   {
@@ -310,19 +315,19 @@
     "kills": 20
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 19
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 18
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 18
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 15
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 17
   },
   {
     "playerId": "21956820",
@@ -477,11 +482,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {

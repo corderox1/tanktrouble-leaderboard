@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 203254
+    "kills": 203359
   },
   {
     "playerId": "8590474",
@@ -47,7 +47,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 3695
+    "kills": 3711
   },
   {
     "playerId": "20297710",
@@ -112,7 +112,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 1757
+    "kills": 1758
   },
   {
     "playerId": "3990108",
@@ -135,14 +135,14 @@
     "kills": 1555
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 1458
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 1436
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 1428
   },
   {
     "playerId": "20269995",
@@ -272,7 +272,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 673
+    "kills": 675
   },
   {
     "playerId": "4686507",
@@ -312,12 +312,12 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 532
+    "kills": 549
   },
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 474
+    "kills": 482
   },
   {
     "playerId": "21940268",
@@ -457,7 +457,7 @@
   {
     "playerId": "22042037",
     "username": "N-A",
-    "kills": 180
+    "kills": 190
   },
   {
     "playerId": "20111777",
@@ -595,6 +595,11 @@
     "kills": 35
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 32
+  },
+  {
     "playerId": "151476",
     "username": "bangbangshoota",
     "kills": 32
@@ -602,11 +607,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 31
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 31
   },
   {

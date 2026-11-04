@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2370
+    "kills": 2475
   },
   {
     "playerId": "22710399",
@@ -40,13 +40,13 @@
     "kills": 62
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 46
-  },
-  {
     "playerId": "1185396",
     "username": "rhak",
+    "kills": 48
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
     "kills": 46
   },
   {
@@ -63,6 +63,11 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 42
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 40
   },
   {
     "playerId": "13773720",
@@ -92,7 +97,17 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 25
+    "kills": 26
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 17
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 17
   },
   {
     "playerId": "20666777",
@@ -100,14 +115,19 @@
     "kills": 16
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
+    "playerId": "22042037",
+    "username": "N-A",
     "kills": 10
   },
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 9
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 8
   },
   {
     "playerId": "21700920",
@@ -160,8 +180,8 @@
     "kills": 2
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 1
   },
   {
@@ -232,11 +252,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0
   },
   {
@@ -465,11 +480,6 @@
     "kills": 0
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 0
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 0
@@ -477,11 +487,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0
   },
   {
@@ -952,11 +957,6 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 0
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
     "kills": 0
   },
   {
