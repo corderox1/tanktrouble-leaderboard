@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4522,
-    "lastKill": "2026-11-03 19:42:55"
+    "kills": 4741,
+    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 489,
     "lastKill": "2026-11-03 12:55:35"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 280,
+    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "10794529",
@@ -22,12 +28,6 @@
     "username": "Lokirss",
     "kills": 223,
     "lastKill": "2026-11-03 17:53:15"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 222,
-    "lastKill": "2026-11-03 19:42:55"
   },
   {
     "playerId": "22706369",
@@ -90,6 +90,12 @@
     "lastKill": "2026-11-03 14:04:07"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 100,
+    "lastKill": "2026-11-03 20:38:01"
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 97,
@@ -100,6 +106,12 @@
     "username": "Sangpi",
     "kills": 89,
     "lastKill": "2026-11-03 11:55:43"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 87,
+    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "20270104",
@@ -120,12 +132,6 @@
     "lastKill": "2026-11-03 16:01:03"
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 79,
-    "lastKill": "2026-11-03 19:42:55"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 75,
@@ -136,12 +142,6 @@
     "username": "rhak",
     "kills": 71,
     "lastKill": "2026-11-03 16:01:03"
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 70,
-    "lastKill": "2026-11-03 19:42:55"
   },
   {
     "playerId": "19138057",
@@ -246,16 +246,22 @@
     "lastKill": "2026-11-03 05:28:52"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 8,
-    "lastKill": "2026-11-03 02:37:42"
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 14,
+    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "kills": 6,
-    "lastKill": "2026-11-03 16:01:03"
+    "kills": 11,
+    "lastKill": "2026-11-03 20:38:01"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 8,
+    "lastKill": "2026-11-03 02:37:42"
   },
   {
     "playerId": "21098942",
@@ -304,12 +310,6 @@
     "username": "ANUIQUILATE",
     "kills": 1,
     "lastKill": "2026-11-03 10:59:34"
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 1,
-    "lastKill": "2026-11-03 19:42:55"
   },
   {
     "playerId": "10132007",

@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7760
+    "kills": 7971
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 513
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 412
   },
   {
     "playerId": "21601349",
@@ -18,11 +23,6 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 374
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 365
   },
   {
     "playerId": "10794529",
@@ -55,6 +55,11 @@
     "kills": 165
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 157
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 156
@@ -63,11 +68,6 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 153
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 136
   },
   {
     "playerId": "8899024",
@@ -100,6 +100,11 @@
     "kills": 96
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 91
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 88
@@ -125,19 +130,19 @@
     "kills": 73
   },
   {
-    "playerId": "21180646",
-    "username": "Havamal",
-    "kills": 69
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 71
   },
   {
     "playerId": "21452912",
     "username": "k",
-    "kills": 66
+    "kills": 69
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 64
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 69
   },
   {
     "playerId": "18985660",
@@ -270,19 +275,24 @@
     "kills": 15
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 10
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 9
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 7
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 4
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 7
   },
   {
     "playerId": "21839393",
@@ -327,11 +337,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 1
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 1
   },
   {
@@ -997,11 +1002,6 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 0
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0
   },
   {
