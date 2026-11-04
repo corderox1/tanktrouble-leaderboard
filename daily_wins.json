@@ -2,17 +2,27 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 142
+    "kills": 328
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 49
+    "kills": 56
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 46
   },
   {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 42
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 20
   },
   {
     "playerId": "7559374",
@@ -22,6 +32,11 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
+    "kills": 2
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 2
   },
   {
@@ -80,11 +95,6 @@
     "kills": 0
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 0
-  },
-  {
     "playerId": "19691813",
     "username": "Jhxjan",
     "kills": 0
@@ -132,11 +142,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -407,11 +412,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0
   },
   {
