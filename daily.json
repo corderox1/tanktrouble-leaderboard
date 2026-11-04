@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 880,
-    "lastKill": "2026-11-04 06:02:25"
+    "kills": 1061,
+    "lastKill": "2026-11-04 06:56:43"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 262,
     "lastKill": "2026-11-04 06:02:25"
+  },
+  {
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 134,
+    "lastKill": "2026-11-04 06:56:43"
   },
   {
     "playerId": "8590474",
@@ -24,12 +30,6 @@
     "lastKill": "2026-11-04 05:07:54"
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
-    "kills": 86,
-    "lastKill": "2026-11-04 06:02:25"
-  },
-  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 44,
@@ -38,8 +38,8 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 28,
-    "lastKill": "2026-11-04 06:02:25"
+    "kills": 34,
+    "lastKill": "2026-11-04 06:56:43"
   },
   {
     "playerId": "20269995",
@@ -78,6 +78,12 @@
     "lastKill": "2026-11-04 04:12:52"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 6,
+    "lastKill": "2026-11-04 06:56:43"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 5,
@@ -94,6 +100,12 @@
     "username": "fyrenado",
     "kills": 4,
     "lastKill": "2026-11-04 02:12:59"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 3,
+    "lastKill": "2026-11-04 06:56:43"
   },
   {
     "playerId": "21098942",
@@ -1224,12 +1236,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 0,
@@ -1238,12 +1244,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0,
     "lastKill": null
   },
