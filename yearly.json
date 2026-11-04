@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 261164,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 261427,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 14440,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 14441,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "13173087",
@@ -26,8 +26,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 8130,
-    "lastKill": "2026-11-03 17:53:15"
+    "kills": 8136,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "14892840",
@@ -296,8 +296,8 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 1402,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 1403,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "19068893",
@@ -374,8 +374,8 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 808,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 814,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "18625144",
@@ -480,16 +480,16 @@
     "lastKill": "2026-11-03 14:04:07"
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 474,
+    "lastKill": "2026-11-04 17:18:01"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 465,
     "lastKill": "2026-11-04 05:07:54"
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 459,
-    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "20111777",
@@ -720,6 +720,12 @@
     "lastKill": "2026-10-22 11:52:52"
   },
   {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 71,
+    "lastKill": "2026-11-04 17:18:01"
+  },
+  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 62,
@@ -920,12 +926,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4191643",
-    "username": "Etxrnity",
     "kills": 0,
     "lastKill": null
   },

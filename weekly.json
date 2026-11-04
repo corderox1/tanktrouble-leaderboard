@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14122,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 14385,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "22710399",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 732,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 733,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "22472796",
@@ -44,8 +44,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 524,
-    "lastKill": "2026-11-03 17:53:15"
+    "kills": 530,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "10794529",
@@ -98,8 +98,8 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 260,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 261,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "20269995",
@@ -222,28 +222,28 @@
     "lastKill": "2026-11-04 00:23:05"
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 111,
+    "lastKill": "2026-11-04 17:18:01"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 108,
     "lastKill": "2026-11-03 23:27:35"
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 105,
-    "lastKill": "2026-11-04 16:22:58"
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 102,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 89,
     "lastKill": "2026-11-03 14:04:07"
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 87,
-    "lastKill": "2026-11-03 20:38:01"
   },
   {
     "playerId": "22042037",
@@ -280,6 +280,12 @@
     "username": "x",
     "kills": 73,
     "lastKill": "2026-11-03 23:27:35"
+  },
+  {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 71,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "18985660",
@@ -554,12 +560,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4191643",
-    "username": "Etxrnity",
     "kills": 0,
     "lastKill": null
   },

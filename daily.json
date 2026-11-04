@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3723,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 3986,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 155,
-    "lastKill": "2026-11-04 16:22:58"
+    "kills": 156,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "20101050",
@@ -90,10 +90,22 @@
     "lastKill": "2026-11-04 13:33:13"
   },
   {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 71,
+    "lastKill": "2026-11-04 17:18:01"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 67,
     "lastKill": "2026-11-04 11:34:24"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 62,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "8502796",
@@ -112,12 +124,6 @@
     "username": "interpreneur",
     "kills": 57,
     "lastKill": "2026-11-04 15:27:28"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 56,
-    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22706369",
@@ -140,8 +146,8 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 44,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 45,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "19726920",
@@ -178,6 +184,12 @@
     "username": "Invincible",
     "kills": 16,
     "lastKill": "2026-11-04 07:53:09"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 15,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "21700920",
@@ -238,6 +250,12 @@
     "username": "Spiros04",
     "kills": 8,
     "lastKill": "2026-11-04 12:33:55"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 6,
+    "lastKill": "2026-11-04 17:18:01"
   },
   {
     "playerId": "21956820",
@@ -372,12 +390,6 @@
     "lastKill": null
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0,
@@ -386,12 +398,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
@@ -416,12 +422,6 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4191643",
-    "username": "Etxrnity",
     "kills": 0,
     "lastKill": null
   },
