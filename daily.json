@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 109,
-    "lastKill": "2026-11-04 01:18:09"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 78,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 223,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 50,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 87,
+    "lastKill": "2026-11-04 02:12:59"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 84,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "7559374",
@@ -24,16 +24,22 @@
     "lastKill": "2026-11-04 01:18:09"
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 4,
+    "lastKill": "2026-11-04 02:12:59"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 1,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 3,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 1,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 2,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "22710399",
@@ -452,12 +458,6 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 0,
     "lastKill": null
   },

@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8671
+    "kills": 8713
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 597
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 423
   },
   {
     "playerId": "4142755",
@@ -18,11 +23,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 399
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 394
   },
   {
     "playerId": "10794529",
@@ -125,14 +125,14 @@
     "kills": 86
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 85
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 84
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 81
   },
   {
     "playerId": "22757188",
@@ -322,6 +322,11 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
+    "kills": 2
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
     "kills": 2
   },
   {
@@ -527,11 +532,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 0
   },
   {

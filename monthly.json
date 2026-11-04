@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14898,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 15012,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "4142755",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 791,
-    "lastKill": "2026-11-04 01:18:09"
+    "kills": 828,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "21601349",
@@ -72,16 +72,16 @@
     "lastKill": "2026-11-01 22:46:39"
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 280,
+    "lastKill": "2026-11-04 02:12:59"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 278,
     "lastKill": "2026-11-03 02:37:42"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 274,
-    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "3660774",
@@ -396,16 +396,16 @@
     "lastKill": "2026-11-02 08:03:20"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 7,
+    "lastKill": "2026-11-04 02:12:59"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 6,
     "lastKill": "2026-11-02 07:07:54"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 5,
-    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "7559374",
@@ -418,6 +418,12 @@
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-11-03 03:33:14"
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 4,
+    "lastKill": "2026-11-04 02:12:59"
   },
   {
     "playerId": "21839393",
@@ -438,6 +444,12 @@
     "lastKill": "2026-11-01 12:27:25"
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 2,
+    "lastKill": "2026-11-04 02:12:59"
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 2,
@@ -454,12 +466,6 @@
     "username": "Tigers786",
     "kills": 1,
     "lastKill": "2026-11-02 08:03:20"
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 1,
-    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "10132007",
@@ -662,12 +668,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 0,
     "lastKill": null
   },
