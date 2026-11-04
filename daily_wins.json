@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2475
+    "kills": 2676
   },
   {
     "playerId": "22710399",
@@ -32,7 +32,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 75
+    "kills": 82
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 71
   },
   {
     "playerId": "21508277",
@@ -40,14 +45,19 @@
     "kills": 62
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 48
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 59
   },
   {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 46
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 45
   },
   {
     "playerId": "20269995",
@@ -63,11 +73,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 42
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 40
   },
   {
     "playerId": "13773720",
@@ -100,19 +105,34 @@
     "kills": 26
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 17
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 26
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 25
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 22
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 17
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 16
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 11
   },
   {
     "playerId": "22042037",
@@ -178,11 +198,6 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 2
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 1
   },
   {
     "playerId": "21178768",
@@ -340,11 +355,6 @@
     "kills": 0
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 0
@@ -392,11 +402,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 0
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
     "kills": 0
   },
   {
@@ -487,11 +492,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {

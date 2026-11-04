@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11046
+    "kills": 11247
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 449
+    "kills": 456
   },
   {
     "playerId": "4142755",
@@ -30,14 +30,14 @@
     "kills": 399
   },
   {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 393
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 356
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 351
   },
   {
     "playerId": "22472796",
@@ -80,14 +80,14 @@
     "kills": 171
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 143
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 141
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 138
   },
   {
     "playerId": "20270104",
@@ -110,6 +110,11 @@
     "kills": 115
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 114
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 112
@@ -130,11 +135,6 @@
     "kills": 94
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 91
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 91
@@ -150,6 +150,11 @@
     "kills": 86
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 77
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
@@ -163,6 +168,11 @@
     "playerId": "17953682",
     "username": "hohi",
     "kills": 71
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 70
   },
   {
     "playerId": "19726920",
@@ -185,9 +195,9 @@
     "kills": 53
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 52
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 51
   },
   {
     "playerId": "21098942",
@@ -198,11 +208,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 46
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 44
   },
   {
     "playerId": "22688887",
@@ -220,13 +225,13 @@
     "kills": 41
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
+    "playerId": "20644558",
+    "username": "x",
     "kills": 40
   },
   {
-    "playerId": "20644558",
-    "username": "x",
+    "playerId": "15878197",
+    "username": "kamarov",
     "kills": 40
   },
   {
@@ -288,11 +293,6 @@
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 20
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 19
   },
   {
     "playerId": "17136803",

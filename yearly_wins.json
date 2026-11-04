@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 203359
+    "kills": 203560
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 9462
+    "kills": 9469
   },
   {
     "playerId": "13173087",
@@ -47,7 +47,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 3711
+    "kills": 3753
   },
   {
     "playerId": "20297710",
@@ -67,7 +67,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 2453
+    "kills": 2478
   },
   {
     "playerId": "21465536",
@@ -137,7 +137,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 1458
+    "kills": 1463
   },
   {
     "playerId": "13773720",
@@ -272,7 +272,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 675
+    "kills": 698
   },
   {
     "playerId": "4686507",
@@ -280,13 +280,13 @@
     "kills": 670
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 643
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
+    "kills": 654
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 643
   },
   {
@@ -390,14 +390,14 @@
     "kills": 276
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 273
+  },
+  {
     "playerId": "4653977",
     "username": "MAGATRON",
     "kills": 263
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 247
   },
   {
     "playerId": "22735235",
@@ -555,6 +555,11 @@
     "kills": 65
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 53
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 53
@@ -593,11 +598,6 @@
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 35
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 32
   },
   {
     "playerId": "151476",
