@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 259916,
-    "lastKill": "2026-11-04 11:34:24"
+    "kills": 260181,
+    "lastKill": "2026-11-04 12:33:55"
   },
   {
     "playerId": "8590474",
@@ -80,8 +80,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 4587,
-    "lastKill": "2026-11-04 11:34:24"
+    "kills": 4658,
+    "lastKill": "2026-11-04 12:33:55"
   },
   {
     "playerId": "8899024",
@@ -170,8 +170,8 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 2501,
-    "lastKill": "2026-11-02 07:07:54"
+    "kills": 2514,
+    "lastKill": "2026-11-04 12:33:55"
   },
   {
     "playerId": "21508277",
@@ -248,8 +248,8 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1865,
-    "lastKill": "2026-11-04 11:34:24"
+    "kills": 1888,
+    "lastKill": "2026-11-04 12:33:55"
   },
   {
     "playerId": "6776098",
@@ -840,6 +840,18 @@
     "lastKill": "2026-10-12 19:24:09"
   },
   {
+    "playerId": "4948831",
+    "username": "SavageAimbot",
+    "kills": 10,
+    "lastKill": "2026-11-04 12:33:55"
+  },
+  {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 8,
+    "lastKill": "2026-11-04 12:33:55"
+  },
+  {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
     "kills": 7,
@@ -974,18 +986,6 @@
   {
     "playerId": "6694888",
     "username": "Jellican",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4948831",
-    "username": "SavageAimbot",
     "kills": 0,
     "lastKill": null
   },

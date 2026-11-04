@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10585
+    "kills": 10827
   },
   {
     "playerId": "13173087",
@@ -35,6 +35,11 @@
     "kills": 356
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 339
+  },
+  {
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 335
@@ -43,11 +48,6 @@
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 333
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 304
   },
   {
     "playerId": "8502796",
@@ -65,14 +65,14 @@
     "kills": 215
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 204
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 203
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 193
   },
   {
     "playerId": "22845692",
@@ -275,6 +275,11 @@
     "kills": 26
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 23
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 23
@@ -300,11 +305,6 @@
     "kills": 17
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 17
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 10
@@ -318,6 +318,16 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 9
+  },
+  {
+    "playerId": "4948831",
+    "username": "SavageAimbot",
+    "kills": 6
+  },
+  {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 4
   },
   {
     "playerId": "7559374",
@@ -607,16 +617,6 @@
   {
     "playerId": "6694888",
     "username": "Jellican",
-    "kills": 0
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 0
-  },
-  {
-    "playerId": "4948831",
-    "username": "SavageAimbot",
     "kills": 0
   },
   {
