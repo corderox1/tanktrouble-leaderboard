@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12191
+    "kills": 12291
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 515
+    "kills": 535
   },
   {
     "playerId": "21601349",
@@ -100,6 +100,11 @@
     "kills": 134
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 127
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 120
@@ -148,11 +153,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 96
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 89
   },
   {
     "playerId": "18969891",
@@ -328,6 +328,11 @@
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 7
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
+    "kills": 4
   },
   {
     "playerId": "21839393",
@@ -677,11 +682,6 @@
   {
     "playerId": "255912",
     "username": "captainahvong",
-    "kills": 0
-  },
-  {
-    "playerId": "7559374",
-    "username": "Catalyst",
     "kills": 0
   },
   {

@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 200884
+    "kills": 200984
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 9387
+    "kills": 9407
   },
   {
     "playerId": "13173087",
@@ -270,6 +270,11 @@
     "kills": 670
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 665
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 643
@@ -283,11 +288,6 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 631
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 627
   },
   {
     "playerId": "11769746",
@@ -575,6 +575,11 @@
     "kills": 40
   },
   {
+    "playerId": "7559374",
+    "username": "Catalyst",
+    "kills": 35
+  },
+  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 35
@@ -592,11 +597,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 31
-  },
-  {
-    "playerId": "7559374",
-    "username": "Catalyst",
     "kills": 31
   },
   {

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10399,
-    "lastKill": "2026-11-04 00:23:05"
+    "kills": 10508,
+    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "4142755",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 577,
-    "lastKill": "2026-11-03 12:55:35"
+    "kills": 627,
+    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "17629928",
@@ -90,6 +90,12 @@
     "lastKill": "2026-11-03 20:38:01"
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 201,
+    "lastKill": "2026-11-04 01:18:09"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 200,
@@ -160,12 +166,6 @@
     "username": "3w0n",
     "kills": 132,
     "lastKill": "2026-11-03 11:55:43"
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 123,
-    "lastKill": "2026-11-04 00:23:05"
   },
   {
     "playerId": "4381511",
@@ -366,16 +366,22 @@
     "lastKill": "2026-11-02 07:07:54"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 5,
+    "lastKill": "2026-11-04 01:18:09"
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
+    "kills": 5,
+    "lastKill": "2026-11-04 01:18:09"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-11-03 03:33:14"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 4,
-    "lastKill": "2026-11-03 04:32:53"
   },
   {
     "playerId": "21839393",
@@ -406,6 +412,12 @@
     "username": "Tigers786",
     "kills": 1,
     "lastKill": "2026-11-02 08:03:20"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1,
+    "lastKill": "2026-11-04 01:18:09"
   },
   {
     "playerId": "10132007",
@@ -786,12 +798,6 @@
     "lastKill": null
   },
   {
-    "playerId": "7559374",
-    "username": "Catalyst",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 0,
@@ -1082,12 +1088,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0,
     "lastKill": null
   },
