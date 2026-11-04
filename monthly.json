@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17529,
-    "lastKill": "2026-11-04 12:33:55"
+    "kills": 17717,
+    "lastKill": "2026-11-04 13:33:13"
   },
   {
     "playerId": "22710399",
@@ -74,8 +74,8 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 345,
-    "lastKill": "2026-11-03 14:04:07"
+    "kills": 362,
+    "lastKill": "2026-11-04 13:33:13"
   },
   {
     "playerId": "13773720",
@@ -92,8 +92,8 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 310,
-    "lastKill": "2026-11-04 12:33:55"
+    "kills": 323,
+    "lastKill": "2026-11-04 13:33:13"
   },
   {
     "playerId": "10502780",
@@ -120,22 +120,22 @@
     "lastKill": "2026-11-03 22:33:06"
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 260,
-    "lastKill": "2026-11-04 03:08:38"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 255,
-    "lastKill": "2026-11-04 06:56:43"
+    "kills": 271,
+    "lastKill": "2026-11-04 13:33:13"
   },
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 240,
-    "lastKill": "2026-11-03 14:04:07"
+    "kills": 263,
+    "lastKill": "2026-11-04 13:33:13"
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 260,
+    "lastKill": "2026-11-04 03:08:38"
   },
   {
     "playerId": "8899024",
@@ -162,6 +162,12 @@
     "lastKill": "2026-11-03 22:33:06"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 197,
+    "lastKill": "2026-11-04 13:33:13"
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 194,
@@ -178,12 +184,6 @@
     "username": "Supernova-135",
     "kills": 187,
     "lastKill": "2026-11-03 02:37:42"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 183,
-    "lastKill": "2026-11-04 03:08:38"
   },
   {
     "playerId": "3923647",
@@ -478,6 +478,12 @@
     "username": "JAGUNJAGUN",
     "kills": 3,
     "lastKill": "2026-11-01 12:27:25"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 2,
+    "lastKill": "2026-11-04 13:33:13"
   },
   {
     "playerId": "8779272",
@@ -956,12 +962,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": null
   },
