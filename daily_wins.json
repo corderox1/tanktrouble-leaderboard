@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 643
+    "kills": 711
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 131
+    "kills": 177
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 75
+  },
+  {
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 47
   },
   {
     "playerId": "12107881",
@@ -23,11 +28,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 46
-  },
-  {
-    "playerId": "20101050",
-    "username": "Brainrot",
-    "kills": 42
   },
   {
     "playerId": "20270104",
@@ -45,13 +45,13 @@
     "kills": 9
   },
   {
-    "playerId": "7559374",
-    "username": "Catalyst",
-    "kills": 4
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 6
+  },
+  {
+    "playerId": "7559374",
+    "username": "Catalyst",
     "kills": 4
   },
   {
@@ -78,6 +78,11 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 2
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -812,11 +817,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0
   },
   {

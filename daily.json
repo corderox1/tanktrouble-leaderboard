@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 716,
-    "lastKill": "2026-11-04 05:07:54"
+    "kills": 880,
+    "lastKill": "2026-11-04 06:02:25"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 183,
-    "lastKill": "2026-11-04 05:07:54"
+    "kills": 262,
+    "lastKill": "2026-11-04 06:02:25"
   },
   {
     "playerId": "8590474",
@@ -26,14 +26,20 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 75,
-    "lastKill": "2026-11-04 05:07:54"
+    "kills": 86,
+    "lastKill": "2026-11-04 06:02:25"
   },
   {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 44,
     "lastKill": "2026-11-04 03:08:38"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 28,
+    "lastKill": "2026-11-04 06:02:25"
   },
   {
     "playerId": "20269995",
@@ -48,12 +54,6 @@
     "lastKill": "2026-11-04 03:08:38"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 18,
-    "lastKill": "2026-11-04 05:07:54"
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 15,
@@ -64,6 +64,12 @@
     "username": "SoftMagmaDriver",
     "kills": 13,
     "lastKill": "2026-11-04 05:07:54"
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 10,
+    "lastKill": "2026-11-04 06:02:25"
   },
   {
     "playerId": "22056849",
@@ -980,12 +986,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
     "kills": 0,
     "lastKill": null
   },
