@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 411,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 561,
+    "lastKill": "2026-11-04 04:12:52"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 97,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 110,
+    "lastKill": "2026-11-04 04:12:52"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 107,
+    "lastKill": "2026-11-04 04:12:52"
   },
   {
     "playerId": "1185396",
@@ -24,6 +30,12 @@
     "lastKill": "2026-11-04 03:08:38"
   },
   {
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 36,
+    "lastKill": "2026-11-04 04:12:52"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 22,
@@ -32,8 +44,20 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 7,
-    "lastKill": "2026-11-04 03:08:38"
+    "kills": 10,
+    "lastKill": "2026-11-04 04:12:52"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 9,
+    "lastKill": "2026-11-04 04:12:52"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 5,
+    "lastKill": "2026-11-04 04:12:52"
   },
   {
     "playerId": "7559374",
@@ -318,12 +342,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 0,
@@ -464,12 +482,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
@@ -852,12 +864,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 0,
@@ -1052,12 +1058,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0,
     "lastKill": null
   },

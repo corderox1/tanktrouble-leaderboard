@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 328
+    "kills": 498
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 86
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 56
+    "kills": 75
   },
   {
     "playerId": "12107881",
@@ -20,9 +25,19 @@
     "kills": 42
   },
   {
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 22
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 20
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 7
   },
   {
     "playerId": "7559374",
@@ -30,14 +45,24 @@
     "kills": 4
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 3
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 3
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 2
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 2
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -260,11 +285,6 @@
     "kills": 0
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 0
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 0
@@ -340,11 +360,6 @@
     "kills": 0
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 0
-  },
-  {
     "playerId": "29695",
     "username": "77777",
     "kills": 0
@@ -382,11 +397,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -705,11 +715,6 @@
     "kills": 0
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
-    "kills": 0
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 0
@@ -877,11 +882,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0
   },
   {
