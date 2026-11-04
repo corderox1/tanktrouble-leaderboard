@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3469
+    "kills": 3549
   },
   {
     "playerId": "13173087",
@@ -30,9 +30,19 @@
     "kills": 165
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 113
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 110
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 109
   },
   {
     "playerId": "18969891",
@@ -43,16 +53,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 84
-  },
-  {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 83
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 71
   },
   {
     "playerId": "21508277",
@@ -195,13 +195,13 @@
     "kills": 10
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 7
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 8
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 7
   },
   {
