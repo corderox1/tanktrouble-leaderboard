@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 202384
+    "kills": 202596
   },
   {
     "playerId": "8590474",
@@ -42,7 +42,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 3697
+    "kills": 3820
   },
   {
     "playerId": "17629928",
@@ -127,7 +127,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1600
+    "kills": 1605
   },
   {
     "playerId": "3660774",
@@ -262,7 +262,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 709
+    "kills": 715
   },
   {
     "playerId": "21708970",
@@ -307,7 +307,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 559
+    "kills": 563
   },
   {
     "playerId": "19425584",
@@ -357,7 +357,7 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 383
+    "kills": 385
   },
   {
     "playerId": "19168800",
@@ -475,6 +475,11 @@
     "kills": 147
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 137
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 136
@@ -493,11 +498,6 @@
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 118
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 112
   },
   {
     "playerId": "20101050",
@@ -628,6 +628,11 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 23
+  },
+  {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 18
   },
   {
     "playerId": "21528366",
@@ -1067,11 +1072,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0
   },
   {

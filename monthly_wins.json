@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13691
+    "kills": 13903
   },
   {
     "playerId": "13173087",
@@ -28,6 +28,11 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 467
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 360
   },
   {
     "playerId": "10794529",
@@ -60,11 +65,6 @@
     "kills": 238
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 237
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 226
@@ -72,12 +72,12 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 217
+    "kills": 223
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 210
+    "kills": 215
   },
   {
     "playerId": "12107881",
@@ -95,14 +95,14 @@
     "kills": 176
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 159
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 156
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 155
   },
   {
     "playerId": "20270104",
@@ -215,9 +215,14 @@
     "kills": 62
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 54
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 49
+    "kills": 51
   },
   {
     "playerId": "3147484",
@@ -270,11 +275,6 @@
     "kills": 32
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 29
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 26
@@ -302,6 +302,11 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 18
+  },
+  {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
     "kills": 18
   },
   {
@@ -1047,11 +1052,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0
   },
   {

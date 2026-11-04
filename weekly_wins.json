@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10071
+    "kills": 10283
   },
   {
     "playerId": "13173087",
@@ -23,6 +23,11 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 399
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 360
   },
   {
     "playerId": "10794529",
@@ -55,14 +60,9 @@
     "kills": 261
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 237
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 210
+    "kills": 215
   },
   {
     "playerId": "12107881",
@@ -77,7 +77,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 165
+    "kills": 171
   },
   {
     "playerId": "13773720",
@@ -95,6 +95,11 @@
     "kills": 118
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 115
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 112
@@ -103,11 +108,6 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 112
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 111
   },
   {
     "playerId": "2574833",
@@ -175,6 +175,11 @@
     "kills": 59
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 54
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 53
@@ -185,14 +190,14 @@
     "kills": 52
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 47
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 46
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 45
   },
   {
     "playerId": "3147484",
@@ -255,11 +260,6 @@
     "kills": 30
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 29
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 26
@@ -282,6 +282,11 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 18
+  },
+  {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
     "kills": 18
   },
   {
@@ -1047,11 +1052,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0
   },
   {
