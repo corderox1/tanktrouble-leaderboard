@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1181
+    "kills": 1385
   },
   {
     "playerId": "22716354",
@@ -20,6 +20,11 @@
     "kills": 75
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 58
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 46
@@ -28,6 +33,21 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 46
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 30
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 25
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 24
   },
   {
     "playerId": "13773720",
@@ -45,19 +65,9 @@
     "kills": 18
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 17
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 16
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 15
   },
   {
     "playerId": "22472796",
@@ -75,6 +85,11 @@
     "kills": 9
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 4
+  },
+  {
     "playerId": "7559374",
     "username": "Catalyst",
     "kills": 4
@@ -88,16 +103,6 @@
     "playerId": "22056849",
     "username": "Preww",
     "kills": 3
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 3
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 2
   },
   {
     "playerId": "21098942",
@@ -457,11 +462,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0
   },
   {

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1368,
-    "lastKill": "2026-11-04 07:53:09"
+    "kills": 1624,
+    "lastKill": "2026-11-04 08:48:11"
   },
   {
     "playerId": "22716354",
@@ -30,10 +30,22 @@
     "lastKill": "2026-11-04 05:07:54"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 73,
+    "lastKill": "2026-11-04 08:48:11"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 44,
     "lastKill": "2026-11-04 03:08:38"
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 35,
+    "lastKill": "2026-11-04 08:48:11"
   },
   {
     "playerId": "22706369",
@@ -42,10 +54,16 @@
     "lastKill": "2026-11-04 06:56:43"
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 29,
-    "lastKill": "2026-11-04 07:53:09"
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 31,
+    "lastKill": "2026-11-04 08:48:11"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 28,
+    "lastKill": "2026-11-04 08:48:11"
   },
   {
     "playerId": "20269995",
@@ -66,28 +84,22 @@
     "lastKill": "2026-11-04 03:08:38"
   },
   {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 18,
-    "lastKill": "2026-11-04 07:53:09"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 16,
     "lastKill": "2026-11-04 07:53:09"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 15,
-    "lastKill": "2026-11-04 05:07:54"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 13,
     "lastKill": "2026-11-04 05:07:54"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 11,
+    "lastKill": "2026-11-04 08:48:11"
   },
   {
     "playerId": "17629928",
@@ -100,12 +112,6 @@
     "username": "Preww",
     "kills": 9,
     "lastKill": "2026-11-04 04:12:52"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 8,
-    "lastKill": "2026-11-04 07:53:09"
   },
   {
     "playerId": "21956820",
@@ -554,12 +560,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": null
   },
