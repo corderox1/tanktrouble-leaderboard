@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1712
+    "kills": 2014
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 320
+    "kills": 491
   },
   {
     "playerId": "22716354",
@@ -30,6 +30,11 @@
     "kills": 75
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 74
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 62
@@ -45,14 +50,29 @@
     "kills": 46
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 44
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 39
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 39
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 31
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 38
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 32
   },
   {
     "playerId": "20843843",
@@ -60,29 +80,14 @@
     "kills": 30
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 25
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 21
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 28
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 20
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 18
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
-    "kills": 18
   },
   {
     "playerId": "20666777",
@@ -115,13 +120,13 @@
     "kills": 4
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 3
-  },
-  {
     "playerId": "22056849",
     "username": "Preww",
+    "kills": 4
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 3
   },
   {
@@ -132,6 +137,11 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
+    "kills": 1
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
     "kills": 1
   },
   {
@@ -382,11 +392,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 0
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 0
   },
   {
@@ -847,11 +852,6 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "kills": 0
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
     "kills": 0
   },
   {
