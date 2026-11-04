@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14867
+    "kills": 15120
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 597
+    "kills": 608
   },
   {
     "playerId": "4142755",
@@ -57,7 +57,7 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 280
+    "kills": 289
   },
   {
     "playerId": "20269995",
@@ -157,7 +157,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 96
+    "kills": 106
   },
   {
     "playerId": "19138057",
@@ -180,6 +180,16 @@
     "kills": 88
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 87
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 78
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 77
@@ -195,11 +205,6 @@
     "kills": 71
   },
   {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 70
-  },
-  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 69
@@ -208,11 +213,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 68
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 67
   },
   {
     "playerId": "19726920",
@@ -225,9 +225,19 @@
     "kills": 62
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 60
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 51
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 48
   },
   {
     "playerId": "22077521",
@@ -245,18 +255,8 @@
     "kills": 42
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 41
-  },
-  {
     "playerId": "20644558",
     "username": "x",
-    "kills": 40
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 40
   },
   {
@@ -432,6 +432,11 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
+    "kills": 1
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
     "kills": 1
   },
   {
@@ -772,11 +777,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0
   },
   {

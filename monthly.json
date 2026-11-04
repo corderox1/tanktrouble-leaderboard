@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18226,
-    "lastKill": "2026-11-04 15:27:28"
+    "kills": 18512,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22710399",
@@ -14,8 +14,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 864,
-    "lastKill": "2026-11-04 15:27:28"
+    "kills": 896,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "4142755",
@@ -66,16 +66,16 @@
     "lastKill": "2026-11-03 14:59:03"
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 406,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 364,
     "lastKill": "2026-11-04 10:38:46"
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 363,
-    "lastKill": "2026-11-04 14:30:25"
   },
   {
     "playerId": "1185396",
@@ -186,10 +186,22 @@
     "lastKill": "2026-11-03 02:37:42"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 182,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 178,
     "lastKill": "2026-11-02 20:07:54"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 169,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "19583686",
@@ -204,16 +216,22 @@
     "lastKill": "2026-11-04 08:48:11"
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 159,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 154,
     "lastKill": "2026-11-01 21:47:29"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 149,
-    "lastKill": "2026-11-03 02:37:42"
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 143,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "18969891",
@@ -226,12 +244,6 @@
     "username": "Brainrot",
     "kills": 139,
     "lastKill": "2026-11-04 07:53:09"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 135,
-    "lastKill": "2026-11-04 15:27:28"
   },
   {
     "playerId": "21609912",
@@ -250,18 +262,6 @@
     "username": "ISAH",
     "kills": 116,
     "lastKill": "2026-11-04 11:34:24"
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 115,
-    "lastKill": "2026-11-04 15:27:28"
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 97,
-    "lastKill": "2026-11-04 15:27:28"
   },
   {
     "playerId": "19932455",
@@ -354,10 +354,22 @@
     "lastKill": "2026-11-03 21:38:19"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 41,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 38,
     "lastKill": "2026-11-03 16:01:03"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 34,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "17136803",
@@ -376,18 +388,6 @@
     "username": "SPEED_XD",
     "kills": 33,
     "lastKill": "2026-11-04 08:48:11"
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 32,
-    "lastKill": "2026-11-04 14:30:24"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 32,
-    "lastKill": "2026-11-03 14:59:03"
   },
   {
     "playerId": "20011985",
@@ -484,6 +484,12 @@
     "username": "JAGUNJAGUN",
     "kills": 3,
     "lastKill": "2026-11-01 12:27:25"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 2,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22105718",
@@ -932,12 +938,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0,
     "lastKill": null
   },

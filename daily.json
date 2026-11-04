@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3437,
-    "lastKill": "2026-11-04 15:27:28"
+    "kills": 3723,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22710399",
@@ -30,6 +30,12 @@
     "lastKill": "2026-11-04 12:33:55"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 155,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 139,
@@ -42,16 +48,22 @@
     "lastKill": "2026-11-04 10:38:46"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 123,
-    "lastKill": "2026-11-04 15:27:28"
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 106,
     "lastKill": "2026-11-04 15:27:28"
+  },
+  {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 102,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 102,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "21508277",
@@ -84,10 +96,10 @@
     "lastKill": "2026-11-04 11:34:24"
   },
   {
-    "playerId": "3147484",
-    "username": "Lichen",
-    "kills": 58,
-    "lastKill": "2026-11-04 15:27:28"
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 61,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22757188",
@@ -102,10 +114,10 @@
     "lastKill": "2026-11-04 15:27:28"
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 56,
-    "lastKill": "2026-11-04 15:27:28"
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22706369",
@@ -146,26 +158,20 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 32,
-    "lastKill": "2026-11-04 14:30:24"
+    "kills": 34,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 33,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 31,
     "lastKill": "2026-11-04 08:48:11"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 22,
-    "lastKill": "2026-11-04 15:27:28"
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 18,
-    "lastKill": "2026-11-04 14:30:25"
   },
   {
     "playerId": "20666777",
@@ -210,6 +216,12 @@
     "lastKill": "2026-11-04 11:34:24"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 9,
+    "lastKill": "2026-11-04 16:22:58"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 9,
@@ -244,6 +256,12 @@
     "username": "fyrenado",
     "kills": 4,
     "lastKill": "2026-11-04 02:12:59"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 2,
+    "lastKill": "2026-11-04 16:22:58"
   },
   {
     "playerId": "22105718",
@@ -368,12 +386,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": null
   },
@@ -542,12 +554,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": null
   },
@@ -854,12 +860,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0,
     "lastKill": null
   },
