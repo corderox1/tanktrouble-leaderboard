@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1385
+    "kills": 1500
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 197
   },
   {
     "playerId": "22716354",
@@ -15,14 +20,19 @@
     "kills": 94
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 78
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 75
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 58
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 57
   },
   {
     "playerId": "12107881",
@@ -35,19 +45,19 @@
     "kills": 46
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 35
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 31
+  },
+  {
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 30
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 25
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 24
   },
   {
     "playerId": "13773720",
@@ -68,11 +78,6 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 16
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 12
   },
   {
     "playerId": "22706369",
@@ -118,11 +123,6 @@
     "playerId": "17629928",
     "username": "_zenin_",
     "kills": 1
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "1145079",
