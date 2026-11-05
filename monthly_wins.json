@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17272
+    "kills": 17504
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1191
+    "kills": 1213
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 481
+    "kills": 488
   },
   {
     "playerId": "21601349",
@@ -65,14 +65,14 @@
     "kills": 265
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 259
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 255
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 251
   },
   {
     "playerId": "19173281",
@@ -112,7 +112,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 171
+    "kills": 173
   },
   {
     "playerId": "21452912",
@@ -123,6 +123,11 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 156
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 148
   },
   {
     "playerId": "19138057",
@@ -143,11 +148,6 @@
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 134
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 125
   },
   {
     "playerId": "21180646",
@@ -340,6 +340,11 @@
     "kills": 20
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 19
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 18
@@ -358,11 +363,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 13
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 12
   },
   {
     "playerId": "10523030",
