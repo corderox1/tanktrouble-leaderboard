@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16142
+    "kills": 16264
   },
   {
     "playerId": "13173087",
@@ -10,14 +10,14 @@
     "kills": 1082
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 708
-  },
-  {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 574
+    "kills": 801
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 751
   },
   {
     "playerId": "4142755",
@@ -105,6 +105,11 @@
     "kills": 176
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 164
+  },
+  {
     "playerId": "21452912",
     "username": "k",
     "kills": 162
@@ -113,11 +118,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 162
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 160
   },
   {
     "playerId": "18985660",
@@ -305,6 +305,11 @@
     "kills": 32
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 23
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 23
@@ -343,11 +348,6 @@
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 15
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 14
   },
   {
     "playerId": "1341685",
