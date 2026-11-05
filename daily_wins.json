@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2379
+    "kills": 2668
   },
   {
     "playerId": "22710399",
@@ -20,6 +20,11 @@
     "kills": 131
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 118
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 100
@@ -32,12 +37,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 81
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 76
+    "kills": 86
   },
   {
     "playerId": "20666777",
@@ -70,6 +70,11 @@
     "kills": 51
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 40
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 39
@@ -88,6 +93,21 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 29
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 22
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 21
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 21
   },
   {
     "playerId": "1185396",
@@ -145,11 +165,6 @@
     "kills": 7
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 6
-  },
-  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 5
@@ -192,6 +207,11 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
+    "kills": 1
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 1
   },
   {
@@ -277,11 +297,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -477,11 +492,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -795,11 +805,6 @@
     "kills": 0
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 0
-  },
-  {
     "playerId": "10251396",
     "username": "vinus",
     "kills": 0
@@ -877,11 +882,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {

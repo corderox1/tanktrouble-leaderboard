@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18643
+    "kills": 18932
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 827
+    "kills": 869
   },
   {
     "playerId": "20666777",
@@ -52,7 +52,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 362
+    "kills": 396
   },
   {
     "playerId": "8502796",
@@ -95,14 +95,14 @@
     "kills": 203
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 194
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 190
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 189
   },
   {
     "playerId": "8899024",
@@ -130,9 +130,19 @@
     "kills": 165
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 164
+  },
+  {
     "playerId": "21452912",
     "username": "k",
     "kills": 162
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 155
   },
   {
     "playerId": "22706369",
@@ -148,16 +158,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 144
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 142
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 134
   },
   {
     "playerId": "21180646",
@@ -340,6 +340,11 @@
     "kills": 21
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 21
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 20
@@ -482,6 +487,11 @@
   {
     "playerId": "4128764",
     "username": "Bulletio",
+    "kills": 1
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 1
   },
   {
@@ -860,11 +870,6 @@
     "kills": 0
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 0
-  },
-  {
     "playerId": "10251396",
     "username": "vinus",
     "kills": 0
@@ -932,11 +937,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {
