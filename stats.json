@@ -2,10 +2,10 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "victories": 6699,
-    "kills": 13960,
-    "deaths": 5429,
-    "suicides": 1227,
+    "victories": 6867,
+    "kills": 14261,
+    "deaths": 5471,
+    "suicides": 1236,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35330956,
-    "kills": 44458032,
-    "deaths": 41944351,
-    "suicides": 9417555,
+    "victories": 35331048,
+    "kills": 44458213,
+    "deaths": 41944485,
+    "suicides": 9417599,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2354,10 +2354,10 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "victories": 142835,
-    "kills": 300127,
-    "deaths": 206168,
-    "suicides": 52025,
+    "victories": 142854,
+    "kills": 300159,
+    "deaths": 206206,
+    "suicides": 52033,
     "experience": 165259,
     "surrenders": 0,
     "turretColour": {
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 21534,
-    "kills": 31369,
-    "deaths": 25884,
-    "suicides": 6741,
+    "victories": 21550,
+    "kills": 31407,
+    "deaths": 25925,
+    "suicides": 6749,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4008,7 +4008,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1793828096,
+    "lastForumPost": 1793863478,
     "guest": false,
     "gmLevel": null,
     "created": 1649974122,
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1793818592,
+    "lastLogin": 1793863412,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8226,7 +8226,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1589476617,
-    "lastLogin": 1793860869,
+    "lastLogin": 1793861247,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9402,7 +9402,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1593248717,
-    "lastLogin": 1793365690,
+    "lastLogin": 1793863707,
     "banned": false,
     "usernameApproved": true,
     "country": null
