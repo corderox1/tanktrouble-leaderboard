@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16112,
-    "lastKill": "2026-11-05 03:38:14"
+    "kills": 16431,
+    "lastKill": "2026-11-05 04:41:30"
   },
   {
     "playerId": "22710399",
@@ -92,8 +92,8 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 286,
-    "lastKill": "2026-11-04 10:38:46"
+    "kills": 312,
+    "lastKill": "2026-11-05 04:41:30"
   },
   {
     "playerId": "2574833",
@@ -336,6 +336,12 @@
     "lastKill": "2026-11-04 12:33:55"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 50,
+    "lastKill": "2026-11-05 04:41:30"
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 42,
@@ -394,12 +400,6 @@
     "username": "dvi9311",
     "kills": 19,
     "lastKill": "2026-11-04 19:13:02"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 18,
-    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "10523030",
@@ -478,6 +478,12 @@
     "username": "Reverend",
     "kills": 5,
     "lastKill": "2026-11-05 00:47:54"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 4,
+    "lastKill": "2026-11-05 04:41:30"
   },
   {
     "playerId": "21839393",
@@ -992,12 +998,6 @@
   {
     "playerId": "8084329",
     "username": "Cicada3301",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },

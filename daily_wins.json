@@ -1,13 +1,13 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 647
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 556
-  },
-  {
-    "playerId": "6148530",
-    "username": "Laika",
-    "kills": 361
   },
   {
     "playerId": "22716354",
@@ -15,9 +15,19 @@
     "kills": 39
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 23
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 19
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 18
   },
   {
     "playerId": "8590474",
@@ -28,6 +38,11 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 11
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 2
   },
   {
     "playerId": "20269995",
@@ -405,11 +420,6 @@
     "kills": 0
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 0
@@ -707,11 +717,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   },
   {
@@ -1032,11 +1037,6 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0
   },
   {
