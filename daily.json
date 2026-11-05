@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4085,
-    "lastKill": "2026-11-05 16:52:59"
+    "kills": 4297,
+    "lastKill": "2026-11-05 17:52:53"
   },
   {
     "playerId": "22710399",
@@ -24,6 +24,12 @@
     "lastKill": "2026-11-05 16:52:59"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 187,
+    "lastKill": "2026-11-05 17:52:53"
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 166,
@@ -34,12 +40,6 @@
     "username": "Invincible",
     "kills": 160,
     "lastKill": "2026-11-05 12:08:45"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 152,
-    "lastKill": "2026-11-05 16:52:59"
   },
   {
     "playerId": "21700920",
@@ -234,6 +234,12 @@
     "lastKill": "2026-11-05 09:21:51"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 8,
+    "lastKill": "2026-11-05 17:52:53"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 7,
@@ -374,12 +380,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": null
   },

@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35333982,
-    "kills": 44462117,
-    "deaths": 41948912,
-    "suicides": 9418515,
+    "victories": 35334090,
+    "kills": 44462329,
+    "deaths": 41949167,
+    "suicides": 9418560,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 57,
+    "rank": 5,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 81962,
-    "kills": 122922,
-    "deaths": 142026,
-    "suicides": 30416,
+    "victories": 81968,
+    "kills": 122930,
+    "deaths": 142031,
+    "suicides": 30417,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1793818359,
+    "lastLogin": 1793920759,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 44386,
-    "kills": 65603,
-    "deaths": 74826,
-    "suicides": 17736,
+    "victories": 44426,
+    "kills": 65638,
+    "deaths": 74858,
+    "suicides": 17745,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6119,7 +6119,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1703474468,
-    "lastLogin": 1793898911,
+    "lastLogin": 1793922050,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7932,7 +7932,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
-    "lastLogin": 1793914577,
+    "lastLogin": 1793919203,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8961,7 +8961,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778445247,
-    "lastLogin": 1793839051,
+    "lastLogin": 1793921526,
     "banned": false,
     "usernameApproved": true,
     "country": null
