@@ -2,20 +2,26 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 753,
-    "lastKill": "2026-11-05 02:38:57"
+    "kills": 1041,
+    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 337,
-    "lastKill": "2026-11-05 02:38:57"
+    "kills": 571,
+    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 88,
     "lastKill": "2026-11-05 02:38:57"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 59,
+    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "8590474",
@@ -30,16 +36,22 @@
     "lastKill": "2026-11-05 01:42:52"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 6,
-    "lastKill": "2026-11-05 02:38:57"
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1,
+    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 1,
     "lastKill": "2026-11-05 02:38:57"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-11-05 03:38:14"
   },
   {
     "playerId": "1145079",
@@ -152,12 +164,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -482,12 +488,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
