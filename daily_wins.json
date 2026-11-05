@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3382
+    "kills": 3507
   },
   {
     "playerId": "22710399",
@@ -17,12 +17,12 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 177
+    "kills": 193
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 124
+    "kills": 128
   },
   {
     "playerId": "22472796",
@@ -38,6 +38,11 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 84
+  },
+  {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 74
   },
   {
     "playerId": "1185396",
@@ -95,11 +100,6 @@
     "kills": 42
   },
   {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 40
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 39
@@ -130,14 +130,29 @@
     "kills": 26
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 26
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 25
   },
   {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 24
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 23
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
+    "kills": 21
   },
   {
     "playerId": "17953682",
@@ -165,6 +180,11 @@
     "kills": 11
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 11
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 10
@@ -173,6 +193,11 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 9
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 8
   },
   {
     "playerId": "21797119",
@@ -350,16 +375,6 @@
     "kills": 0
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 0
-  },
-  {
     "playerId": "3808011",
     "username": "gg",
     "kills": 0
@@ -395,11 +410,6 @@
     "kills": 0
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 0
-  },
-  {
     "playerId": "20644558",
     "username": "x",
     "kills": 0
@@ -407,11 +417,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
@@ -987,11 +992,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
