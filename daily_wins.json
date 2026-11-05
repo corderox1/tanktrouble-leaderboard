@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2321
+    "kills": 2379
   },
   {
     "playerId": "22710399",
@@ -17,12 +17,12 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 99
+    "kills": 131
   },
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 94
+    "kills": 100
   },
   {
     "playerId": "21700920",
@@ -33,6 +33,11 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 81
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 76
   },
   {
     "playerId": "20666777",
@@ -62,7 +67,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 47
+    "kills": 51
   },
   {
     "playerId": "22716354",
@@ -105,11 +110,6 @@
     "kills": 18
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 16
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 13
@@ -145,6 +145,11 @@
     "kills": 7
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 6
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 5
@@ -152,12 +157,12 @@
   {
     "playerId": "19768925",
     "username": "Lil_May",
-    "kills": 3
+    "kills": 4
   },
   {
     "playerId": "22042037",
     "username": "N-A",
-    "kills": 3
+    "kills": 4
   },
   {
     "playerId": "3990108",
@@ -292,11 +297,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 0
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
     "kills": 0
   },
   {
