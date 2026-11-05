@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35330082,
-    "kills": 44456985,
-    "deaths": 41943063,
-    "suicides": 9417281,
+    "victories": 35330265,
+    "kills": 44457147,
+    "deaths": 41943295,
+    "suicides": 9417326,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2248,7 +2248,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1529802256,
-    "lastLogin": 1793668522,
+    "lastLogin": 1793840909,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2697,10 +2697,10 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 12441,
-    "kills": 24143,
-    "deaths": 24216,
-    "suicides": 5091,
+    "victories": 12452,
+    "kills": 24163,
+    "deaths": 24241,
+    "suicides": 5096,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2738,7 +2738,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1728937767,
-    "lastLogin": 1793816292,
+    "lastLogin": 1793838605,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3829,
-    "kills": 8174,
-    "deaths": 10660,
-    "suicides": 3149,
+    "victories": 3832,
+    "kills": 8177,
+    "deaths": 10664,
+    "suicides": 3150,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8961,7 +8961,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778445247,
-    "lastLogin": 1793751666,
+    "lastLogin": 1793839051,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 9923,
-    "kills": 14926,
-    "deaths": 8764,
-    "suicides": 3347,
+    "victories": 10016,
+    "kills": 14980,
+    "deaths": 8801,
+    "suicides": 3366,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9001,7 +9001,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 3076,
+    "rank": 3142,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -9010,7 +9010,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1625330278,
-    "lastLogin": 1793834729,
+    "lastLogin": 1793840315,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10047,10 +10047,10 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "victories": 50079,
-    "kills": 70978,
-    "deaths": 62062,
-    "suicides": 19972,
+    "victories": 50083,
+    "kills": 70983,
+    "deaths": 62064,
+    "suicides": 19973,
     "experience": 4775,
     "surrenders": 0,
     "turretColour": {
