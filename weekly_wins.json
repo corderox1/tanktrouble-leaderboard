@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14794
+    "kills": 14965
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,7 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 486
+    "kills": 492
   },
   {
     "playerId": "22716354",
@@ -42,7 +42,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 392
+    "kills": 400
   },
   {
     "playerId": "10794529",
@@ -50,14 +50,14 @@
     "kills": 356
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 347
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 343
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 323
   },
   {
     "playerId": "21508277",
@@ -65,14 +65,14 @@
     "kills": 255
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 238
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 228
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 218
   },
   {
     "playerId": "12107881",
@@ -80,14 +80,19 @@
     "kills": 203
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 198
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 188
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 154
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 159
   },
   {
     "playerId": "12222122",
@@ -105,6 +110,11 @@
     "kills": 141
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 139
+  },
+  {
     "playerId": "21452912",
     "username": "k",
     "kills": 137
@@ -120,19 +130,9 @@
     "kills": 137
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 135
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 126
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 122
   },
   {
     "playerId": "21180646",
@@ -140,14 +140,14 @@
     "kills": 118
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 114
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 113
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 110
   },
   {
     "playerId": "22809750",
@@ -300,6 +300,11 @@
     "kills": 28
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 24
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 23
@@ -308,11 +313,6 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 23
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 21
   },
   {
     "playerId": "20111777",
@@ -390,8 +390,18 @@
     "kills": 4
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 3
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 3
+  },
+  {
+    "playerId": "19768925",
+    "username": "Lil_May",
     "kills": 3
   },
   {
@@ -402,11 +412,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 2
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 2
   },
   {
@@ -572,11 +577,6 @@
   {
     "playerId": "29695",
     "username": "77777",
-    "kills": 0
-  },
-  {
-    "playerId": "19768925",
-    "username": "Lil_May",
     "kills": 0
   },
   {
