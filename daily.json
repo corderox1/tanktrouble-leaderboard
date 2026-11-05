@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3685,
-    "lastKill": "2026-11-05 14:57:30"
+    "kills": 3839,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 1041,
-    "lastKill": "2026-11-05 03:38:14"
+    "kills": 1042,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 232,
-    "lastKill": "2026-11-05 14:01:45"
+    "kills": 271,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "13173087",
@@ -48,10 +48,22 @@
     "lastKill": "2026-11-05 14:57:30"
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 137,
+    "lastKill": "2026-11-05 15:58:00"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 132,
     "lastKill": "2026-11-05 13:03:16"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 131,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "8502796",
@@ -68,8 +80,8 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 91,
-    "lastKill": "2026-11-05 14:57:30"
+    "kills": 94,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "22809750",
@@ -90,16 +102,16 @@
     "lastKill": "2026-11-05 13:03:16"
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 75,
+    "lastKill": "2026-11-05 15:58:00"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 75,
     "lastKill": "2026-11-05 09:21:51"
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 65,
-    "lastKill": "2026-11-05 14:57:30"
   },
   {
     "playerId": "21956820",
@@ -126,6 +138,18 @@
     "lastKill": "2026-11-05 13:03:16"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 50,
+    "lastKill": "2026-11-05 15:58:00"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 43,
+    "lastKill": "2026-11-05 15:58:00"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 43,
@@ -136,12 +160,6 @@
     "username": "volodymyr77",
     "kills": 41,
     "lastKill": "2026-11-05 12:08:45"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 38,
-    "lastKill": "2026-11-05 14:57:30"
   },
   {
     "playerId": "22757188",
@@ -162,10 +180,10 @@
     "lastKill": "2026-11-05 01:42:52"
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 30,
-    "lastKill": "2026-11-05 14:57:30"
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 32,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "20984454",
@@ -202,6 +220,12 @@
     "username": "FATAI169",
     "kills": 13,
     "lastKill": "2026-11-05 12:08:45"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 9,
+    "lastKill": "2026-11-05 15:58:00"
   },
   {
     "playerId": "21940268",
@@ -243,12 +267,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 2,
-    "lastKill": "2026-11-05 14:57:30"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1,
     "lastKill": "2026-11-05 14:57:30"
   },
   {
@@ -362,12 +380,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
@@ -590,12 +602,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": null
   },
@@ -854,12 +860,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0,
     "lastKill": null
   },

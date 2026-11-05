@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15312
+    "kills": 15450
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,22 @@
   {
     "playerId": "17629928",
     "username": "_zenin_",
-    "kills": 524
+    "kills": 537
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 535
+  },
+  {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 460
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 442
   },
   {
     "playerId": "22716354",
@@ -30,24 +45,9 @@
     "kills": 442
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 412
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 400
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 400
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 396
   },
   {
     "playerId": "8502796",
@@ -62,7 +62,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 255
+    "kills": 280
   },
   {
     "playerId": "20269995",
@@ -97,7 +97,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 149
+    "kills": 150
   },
   {
     "playerId": "20270104",
@@ -157,7 +157,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 98
+    "kills": 104
   },
   {
     "playerId": "20101050",
@@ -270,6 +270,11 @@
     "kills": 41
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 41
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 40
@@ -315,11 +320,6 @@
     "kills": 23
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 21
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 20
@@ -348,6 +348,11 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 12
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 10
   },
   {
     "playerId": "21797119",
@@ -457,11 +462,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 1
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 1
   },
   {
