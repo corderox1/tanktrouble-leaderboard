@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19070
+    "kills": 19290
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1221
+    "kills": 1222
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,17 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 612
+    "kills": 629
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 568
+    "kills": 572
+  },
+  {
+    "playerId": "17629928",
+    "username": "_zenin_",
+    "kills": 543
   },
   {
     "playerId": "20666777",
@@ -35,24 +40,19 @@
     "kills": 540
   },
   {
-    "playerId": "17629928",
-    "username": "_zenin_",
-    "kills": 537
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 474
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 466
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 461
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 460
   },
   {
     "playerId": "8502796",
@@ -97,7 +97,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 195
+    "kills": 196
   },
   {
     "playerId": "18985660",
@@ -320,6 +320,11 @@
     "kills": 32
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 30
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 29
@@ -373,11 +378,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 12
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 10
   },
   {
     "playerId": "21957440",
