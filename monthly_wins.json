@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16911
+    "kills": 17010
   },
   {
     "playerId": "22710399",
@@ -25,14 +25,14 @@
     "kills": 538
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 481
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 477
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 467
   },
   {
     "playerId": "22716354",
@@ -72,7 +72,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 246
+    "kills": 251
   },
   {
     "playerId": "19173281",
@@ -110,13 +110,13 @@
     "kills": 176
   },
   {
-    "playerId": "21452912",
-    "username": "k",
-    "kills": 162
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
+    "kills": 166
+  },
+  {
+    "playerId": "21452912",
+    "username": "k",
     "kills": 162
   },
   {
@@ -450,6 +450,11 @@
     "kills": 1
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 1
+  },
+  {
     "playerId": "3808011",
     "username": "gg",
     "kills": 1
@@ -517,11 +522,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0
   },
   {

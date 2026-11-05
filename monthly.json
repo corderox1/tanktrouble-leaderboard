@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20821,
-    "lastKill": "2026-11-05 04:41:30"
+    "kills": 20978,
+    "lastKill": "2026-11-05 05:37:05"
   },
   {
     "playerId": "22710399",
@@ -42,6 +42,12 @@
     "lastKill": "2026-11-04 17:18:01"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 677,
+    "lastKill": "2026-11-05 05:37:05"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 671,
@@ -52,12 +58,6 @@
     "username": "_zenin_",
     "kills": 639,
     "lastKill": "2026-11-04 15:27:28"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 624,
-    "lastKill": "2026-11-04 07:53:09"
   },
   {
     "playerId": "10794529",
@@ -78,16 +78,16 @@
     "lastKill": "2026-11-05 01:42:52"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 397,
+    "lastKill": "2026-11-05 05:37:05"
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 391,
     "lastKill": "2026-11-04 22:58:09"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 390,
-    "lastKill": "2026-11-05 04:41:30"
   },
   {
     "playerId": "8899024",
@@ -126,16 +126,16 @@
     "lastKill": "2026-11-01 22:46:39"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 289,
+    "lastKill": "2026-11-05 05:37:05"
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 288,
     "lastKill": "2026-11-04 15:27:28"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 285,
-    "lastKill": "2026-11-04 22:03:17"
   },
   {
     "playerId": "21452912",
@@ -528,6 +528,12 @@
     "lastKill": "2026-11-01 12:27:25"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 2,
+    "lastKill": "2026-11-05 05:37:05"
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 2,
@@ -608,12 +614,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0,
     "lastKill": null
   },
