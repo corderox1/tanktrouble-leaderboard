@@ -2,10 +2,10 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "victories": 6429,
-    "kills": 13419,
-    "deaths": 5421,
-    "suicides": 1219,
+    "victories": 6472,
+    "kills": 13509,
+    "deaths": 5424,
+    "suicides": 1222,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -43,7 +43,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788876266,
-    "lastLogin": 1793812507,
+    "lastLogin": 1793857035,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35330641,
-    "kills": 44457655,
-    "deaths": 41944004,
-    "suicides": 9417467,
+    "victories": 35330834,
+    "kills": 44457864,
+    "deaths": 41944187,
+    "suicides": 9417519,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 20,
+    "rank": 21,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 6235,
-    "kills": 8504,
-    "deaths": 3612,
-    "suicides": 763,
+    "victories": 6245,
+    "kills": 8512,
+    "deaths": 3614,
+    "suicides": 764,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
