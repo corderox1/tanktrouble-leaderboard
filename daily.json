@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1047,
-    "lastKill": "2026-11-05 05:37:05"
+    "kills": 1254,
+    "lastKill": "2026-11-05 06:33:09"
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 1041,
     "lastKill": "2026-11-05 03:38:14"
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 93,
+    "lastKill": "2026-11-05 06:33:09"
   },
   {
     "playerId": "22716354",
@@ -54,16 +60,28 @@
     "lastKill": "2026-11-05 01:42:52"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 4,
-    "lastKill": "2026-11-05 04:41:30"
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 18,
+    "lastKill": "2026-11-05 06:33:09"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 15,
+    "lastKill": "2026-11-05 06:33:09"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
+    "kills": 15,
+    "lastKill": "2026-11-05 06:33:09"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 4,
-    "lastKill": "2026-11-05 05:37:05"
+    "lastKill": "2026-11-05 04:41:30"
   },
   {
     "playerId": "20375730",
@@ -1110,12 +1128,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0,
@@ -1170,12 +1182,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 0,
@@ -1202,12 +1208,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0,
     "lastKill": null
   },
