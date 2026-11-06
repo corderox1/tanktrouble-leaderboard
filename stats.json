@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35335151,
-    "kills": 44463619,
-    "deaths": 41950927,
-    "suicides": 9418910,
+    "victories": 35335315,
+    "kills": 44463822,
+    "deaths": 41951133,
+    "suicides": 9418960,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 15,
+    "rank": 76,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1793938364,
+    "lastLogin": 1793947138,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 4924,
-    "kills": 10738,
-    "deaths": 9700,
-    "suicides": 2078,
+    "victories": 4937,
+    "kills": 10758,
+    "deaths": 9718,
+    "suicides": 2079,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2337,7 +2337,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 74,
+    "rank": 70,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2354,10 +2354,10 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "victories": 142854,
-    "kills": 300159,
-    "deaths": 206206,
-    "suicides": 52033,
+    "victories": 142857,
+    "kills": 300176,
+    "deaths": 206212,
+    "suicides": 52034,
     "experience": 165259,
     "surrenders": 0,
     "turretColour": {
@@ -2395,7 +2395,7 @@
     "guest": false,
     "gmLevel": 6,
     "created": 1433585271,
-    "lastLogin": 1793740848,
+    "lastLogin": 1793949181,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3126,11 +3126,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1793500765,
+    "lastForumPost": 1793946703,
     "guest": false,
     "gmLevel": null,
     "created": 1663987429,
-    "lastLogin": 1793500724,
+    "lastLogin": 1793946695,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 16136,
-    "kills": 29314,
-    "deaths": 47986,
-    "suicides": 12781,
+    "victories": 16137,
+    "kills": 29317,
+    "deaths": 47990,
+    "suicides": 12783,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3971,10 +3971,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 18163,
-    "kills": 31773,
-    "deaths": 29528,
-    "suicides": 11341,
+    "victories": 18164,
+    "kills": 31778,
+    "deaths": 29533,
+    "suicides": 11343,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7934,7 +7934,7 @@
     "created": 1678062783,
     "lastLogin": 1793930252,
     "banned": false,
-    "usernameApproved": null,
+    "usernameApproved": true,
     "country": null
   },
   {
