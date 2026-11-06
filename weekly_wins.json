@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19643
+    "kills": 19846
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 908
+    "kills": 920
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 653
+    "kills": 660
   },
   {
     "playerId": "4142755",
@@ -65,6 +65,11 @@
     "kills": 354
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 323
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 322
@@ -90,11 +95,6 @@
     "kills": 231
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 218
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 194
@@ -105,6 +105,11 @@
     "kills": 189
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 175
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 171
@@ -112,11 +117,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 165
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 165
   },
   {
@@ -260,8 +260,18 @@
     "kills": 67
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 62
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 60
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
     "kills": 60
   },
   {
@@ -270,9 +280,9 @@
     "kills": 56
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 56
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 54
   },
   {
     "playerId": "21178768",
@@ -287,11 +297,6 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 48
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 48
   },
   {
@@ -310,8 +315,8 @@
     "kills": 41
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 39
   },
   {
@@ -322,11 +327,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 34
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 34
   },
   {

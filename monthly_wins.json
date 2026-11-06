@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23263
+    "kills": 23466
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 985
+    "kills": 997
   },
   {
     "playerId": "8590474",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 653
+    "kills": 660
   },
   {
     "playerId": "22472796",
@@ -63,6 +63,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 354
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 323
   },
   {
     "playerId": "21508277",
@@ -105,14 +110,9 @@
     "kills": 224
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 218
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 210
+    "kills": 220
   },
   {
     "playerId": "22706369",
@@ -165,13 +165,13 @@
     "kills": 161
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 144
-  },
-  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
+    "kills": 148
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
     "kills": 144
   },
   {
@@ -270,6 +270,11 @@
     "kills": 67
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 62
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 60
@@ -283,6 +288,11 @@
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 55
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 54
   },
   {
     "playerId": "21098942",
@@ -300,11 +310,6 @@
     "kills": 49
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 48
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 44
@@ -320,8 +325,8 @@
     "kills": 41
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 39
   },
   {
@@ -337,11 +342,6 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 34
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 34
   },
   {
