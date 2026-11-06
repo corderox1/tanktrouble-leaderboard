@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3823
+    "kills": 3934
   },
   {
     "playerId": "22710399",
@@ -20,9 +20,19 @@
     "kills": 156
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 146
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 143
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 121
   },
   {
     "playerId": "8590474",
@@ -33,6 +43,11 @@
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 110
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 103
   },
   {
     "playerId": "1001669",
@@ -48,11 +63,6 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 88
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 73
   },
   {
     "playerId": "21508277",
@@ -85,14 +95,14 @@
     "kills": 51
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 46
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 48
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 44
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 48
   },
   {
     "playerId": "706234",
@@ -115,6 +125,11 @@
     "kills": 35
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 34
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 34
@@ -130,6 +145,11 @@
     "kills": 31
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 30
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 29
@@ -142,11 +162,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 22
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 22
   },
   {
@@ -180,14 +195,14 @@
     "kills": 12
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 11
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 11
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 10
   },
   {
     "playerId": "20984454",
@@ -198,11 +213,6 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 10
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 9
   },
   {
     "playerId": "21103294",
@@ -240,8 +250,8 @@
     "kills": 4
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 2
   },
   {
@@ -265,11 +275,6 @@
     "kills": 1
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 1
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 1
@@ -282,11 +287,6 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 1
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 1
   },
   {

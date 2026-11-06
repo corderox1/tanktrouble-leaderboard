@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16467
+    "kills": 16578
   },
   {
     "playerId": "22710399",
@@ -50,24 +50,24 @@
     "kills": 400
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 373
+  },
+  {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 349
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 347
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 343
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 318
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 249
   },
   {
     "playerId": "20269995",
@@ -80,14 +80,19 @@
     "kills": 228
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 218
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 198
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 189
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 171
   },
   {
     "playerId": "1001669",
@@ -150,6 +155,11 @@
     "kills": 113
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 105
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 105
@@ -172,12 +182,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 94
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 94
+    "kills": 102
   },
   {
     "playerId": "20101050",
@@ -230,14 +235,14 @@
     "kills": 67
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 66
-  },
-  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 60
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 48
   },
   {
     "playerId": "21103294",
@@ -253,6 +258,11 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 47
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 46
   },
   {
     "playerId": "22688887",
@@ -293,11 +303,6 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 36
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 34
   },
   {
     "playerId": "22077521",
@@ -355,11 +360,6 @@
     "kills": 12
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 11
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 8
@@ -383,6 +383,11 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 5
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 4
   },
   {
     "playerId": "20621274",
@@ -413,11 +418,6 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 4
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 3
   },
   {
     "playerId": "3162693",
