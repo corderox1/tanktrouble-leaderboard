@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3645
+    "kills": 3823
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 140
+    "kills": 143
   },
   {
     "playerId": "8590474",
@@ -85,6 +85,16 @@
     "kills": 51
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 46
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 44
+  },
+  {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 41
@@ -115,6 +125,11 @@
     "kills": 32
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 31
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 29
@@ -125,23 +140,8 @@
     "kills": 27
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 25
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 24
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 22
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 22
   },
   {
@@ -175,6 +175,11 @@
     "kills": 13
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 12
+  },
+  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 11
@@ -195,14 +200,14 @@
     "kills": 10
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 9
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 8
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 9
   },
   {
     "playerId": "19425584",
@@ -235,6 +240,11 @@
     "kills": 4
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 2
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 2
@@ -245,11 +255,6 @@
     "kills": 2
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 1
-  },
-  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 1
@@ -257,6 +262,11 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
+    "kills": 1
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 1
   },
   {
@@ -272,6 +282,11 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 1
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
     "kills": 1
   },
   {
@@ -327,16 +342,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 0
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
@@ -892,11 +897,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   },
   {

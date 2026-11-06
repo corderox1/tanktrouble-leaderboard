@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16289
+    "kills": 16467
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 900
+    "kills": 903
   },
   {
     "playerId": "21601349",
@@ -65,14 +65,14 @@
     "kills": 318
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 249
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 238
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 228
   },
   {
     "playerId": "22845692",
@@ -87,7 +87,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 188
+    "kills": 189
   },
   {
     "playerId": "1001669",
@@ -155,29 +155,34 @@
     "kills": 105
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 104
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 104
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 95
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 103
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 94
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 94
   },
   {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 94
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 93
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 91
   },
   {
     "playerId": "19173281",
@@ -215,11 +220,6 @@
     "kills": 86
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 74
-  },
-  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
@@ -232,7 +232,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 65
+    "kills": 66
   },
   {
     "playerId": "15878197",
@@ -415,6 +415,11 @@
     "kills": 4
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 3
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 3
@@ -428,11 +433,6 @@
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 3
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 2
   },
   {
     "playerId": "6776098",
