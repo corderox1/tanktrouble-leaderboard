@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23466
+    "kills": 23594
   },
   {
     "playerId": "22710399",
@@ -27,17 +27,17 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 731
+    "kills": 742
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 671
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 663
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 660
   },
   {
     "playerId": "22472796",
@@ -55,6 +55,11 @@
     "kills": 466
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 387
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 369
@@ -63,11 +68,6 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 354
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 323
   },
   {
     "playerId": "21508277",
@@ -292,11 +292,16 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 54
+    "kills": 55
   },
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
+    "kills": 51
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 51
   },
   {
@@ -323,11 +328,6 @@
     "playerId": "20644558",
     "username": "x",
     "kills": 41
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 39
   },
   {
     "playerId": "12517909",
@@ -407,6 +407,11 @@
   {
     "playerId": "4948831",
     "username": "SavageAimbot",
+    "kills": 6
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
     "kills": 6
   },
   {
@@ -827,11 +832,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {

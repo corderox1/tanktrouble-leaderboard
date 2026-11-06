@@ -2,26 +2,32 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3917,
-    "lastKill": "2026-11-06 15:27:59"
+    "kills": 4058,
+    "lastKill": "2026-11-06 16:23:01"
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 188,
-    "lastKill": "2026-11-06 14:33:20"
+    "kills": 195,
+    "lastKill": "2026-11-06 16:23:01"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 190,
+    "lastKill": "2026-11-06 16:23:01"
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 189,
+    "lastKill": "2026-11-06 16:23:01"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 185,
     "lastKill": "2026-11-06 10:48:42"
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 178,
-    "lastKill": "2026-11-06 15:27:59"
   },
   {
     "playerId": "21601349",
@@ -40,12 +46,6 @@
     "username": "Master_T-54",
     "kills": 122,
     "lastKill": "2026-11-06 10:48:42"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 109,
-    "lastKill": "2026-11-06 15:27:59"
   },
   {
     "playerId": "21609912",
@@ -86,8 +86,8 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 61,
-    "lastKill": "2026-11-06 15:27:59"
+    "kills": 75,
+    "lastKill": "2026-11-06 16:23:01"
   },
   {
     "playerId": "22809750",
@@ -126,16 +126,16 @@
     "lastKill": "2026-11-06 13:37:49"
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 42,
+    "lastKill": "2026-11-06 16:23:01"
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 39,
     "lastKill": "2026-11-06 13:37:49"
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 39,
-    "lastKill": "2026-11-06 15:27:59"
   },
   {
     "playerId": "21465536",
@@ -242,14 +242,20 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 7,
-    "lastKill": "2026-11-06 06:57:51"
+    "kills": 8,
+    "lastKill": "2026-11-06 16:23:01"
   },
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 6,
     "lastKill": "2026-11-06 02:17:37"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 6,
+    "lastKill": "2026-11-06 16:23:01"
   },
   {
     "playerId": "1145079",
@@ -884,12 +890,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": null
   },

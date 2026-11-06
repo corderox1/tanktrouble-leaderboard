@@ -2,12 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3007
+    "kills": 3135
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 158
+    "kills": 169
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 169
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 122
   },
   {
     "playerId": "20984454",
@@ -15,19 +25,9 @@
     "kills": 116
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 111
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 108
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 105
   },
   {
     "playerId": "22472796",
@@ -90,6 +90,11 @@
     "kills": 28
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 28
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 24
@@ -127,16 +132,11 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 17
+    "kills": 18
   },
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 16
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 16
   },
   {
@@ -188,6 +188,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 7
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 6
   },
   {
     "playerId": "21178768",
@@ -737,11 +742,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
