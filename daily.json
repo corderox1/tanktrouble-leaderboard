@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3166,
-    "lastKill": "2026-11-06 12:42:13"
+    "kills": 3490,
+    "lastKill": "2026-11-06 13:37:49"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 185,
     "lastKill": "2026-11-06 10:48:42"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 154,
+    "lastKill": "2026-11-06 13:37:49"
   },
   {
     "playerId": "22472796",
@@ -60,16 +66,10 @@
     "lastKill": "2026-11-06 09:53:42"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 87,
-    "lastKill": "2026-11-06 12:42:13"
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 60,
-    "lastKill": "2026-11-06 12:42:13"
+    "kills": 85,
+    "lastKill": "2026-11-06 13:37:49"
   },
   {
     "playerId": "22809750",
@@ -96,10 +96,28 @@
     "lastKill": "2026-11-06 09:53:42"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 42,
+    "lastKill": "2026-11-06 13:37:49"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 39,
+    "lastKill": "2026-11-06 13:37:49"
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 35,
     "lastKill": "2026-11-06 11:48:06"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 34,
+    "lastKill": "2026-11-06 13:37:49"
   },
   {
     "playerId": "22716354",
@@ -174,6 +192,12 @@
     "lastKill": "2026-11-06 10:48:42"
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 16,
+    "lastKill": "2026-11-06 13:37:49"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 16,
@@ -210,22 +234,16 @@
     "lastKill": "2026-11-06 11:48:06"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 5,
+    "lastKill": "2026-11-06 13:37:49"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 2,
     "lastKill": "2026-11-06 09:53:42"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 1,
-    "lastKill": "2026-11-06 09:53:42"
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 1,
-    "lastKill": "2026-11-06 12:42:13"
   },
   {
     "playerId": "20843843",
@@ -312,20 +330,8 @@
     "lastKill": null
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -428,12 +434,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },
