@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19398
+    "kills": 19537
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 669
+    "kills": 763
   },
   {
     "playerId": "4142755",
@@ -397,6 +397,11 @@
   {
     "playerId": "12331664",
     "username": "Reds",
+    "kills": 5
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 5
   },
   {
@@ -822,11 +827,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {

@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4297,
-    "lastKill": "2026-11-05 17:52:53"
+    "kills": 4474,
+    "lastKill": "2026-11-05 18:48:13"
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 1042,
     "lastKill": "2026-11-05 15:58:00"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 280,
+    "lastKill": "2026-11-05 18:48:13"
   },
   {
     "playerId": "17629928",
@@ -22,12 +28,6 @@
     "username": "kai-cj7",
     "kills": 190,
     "lastKill": "2026-11-05 16:52:59"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 187,
-    "lastKill": "2026-11-05 17:52:53"
   },
   {
     "playerId": "1001669",
@@ -220,6 +220,12 @@
     "username": "Lil_May",
     "kills": 15,
     "lastKill": "2026-11-05 14:01:45"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 15,
+    "lastKill": "2026-11-05 18:48:13"
   },
   {
     "playerId": "21103294",
@@ -890,12 +896,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },
