@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3273
+    "kills": 3445
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 286
+    "kills": 396
   },
   {
     "playerId": "17629928",
@@ -55,6 +55,11 @@
     "kills": 73
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 63
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 61
@@ -90,9 +95,14 @@
     "kills": 39
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 36
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 34
+    "kills": 35
   },
   {
     "playerId": "18985660",
@@ -110,19 +120,9 @@
     "kills": 29
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 29
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 27
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 25
   },
   {
     "playerId": "20270104",
@@ -145,6 +145,11 @@
     "kills": 19
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 18
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 18
@@ -155,9 +160,9 @@
     "kills": 13
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 11
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 12
   },
   {
     "playerId": "21178768",
@@ -170,14 +175,14 @@
     "kills": 10
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 10
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 9
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 8
   },
   {
     "playerId": "19425584",
@@ -185,9 +190,19 @@
     "kills": 7
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 7
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 6
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 5
   },
   {
     "playerId": "21957440",
@@ -205,9 +220,19 @@
     "kills": 4
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 4
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 4
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 3
   },
   {
     "playerId": "3990108",
@@ -295,11 +320,6 @@
     "kills": 0
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 0
-  },
-  {
     "playerId": "19691813",
     "username": "Jhxjan",
     "kills": 0
@@ -335,11 +355,6 @@
     "kills": 0
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0
@@ -347,11 +362,6 @@
   {
     "playerId": "3808011",
     "username": "gg",
-    "kills": 0
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
     "kills": 0
   },
   {
@@ -397,11 +407,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
@@ -532,11 +537,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0
   },
   {

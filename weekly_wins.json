@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15917
+    "kills": 16089
   },
   {
     "playerId": "22710399",
@@ -15,14 +15,14 @@
     "kills": 900
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 796
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 728
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 686
   },
   {
     "playerId": "17629928",
@@ -37,7 +37,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 446
+    "kills": 447
   },
   {
     "playerId": "22716354",
@@ -62,7 +62,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 280
+    "kills": 318
   },
   {
     "playerId": "20269995",
@@ -77,7 +77,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 203
+    "kills": 215
   },
   {
     "playerId": "2574833",
@@ -212,7 +212,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 73
+    "kills": 78
   },
   {
     "playerId": "19583686",
@@ -237,7 +237,7 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 50
+    "kills": 53
   },
   {
     "playerId": "21103294",
@@ -280,18 +280,23 @@
     "kills": 40
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 37
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 37
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 36
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 33
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 30
   },
   {
@@ -315,23 +320,18 @@
     "kills": 24
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 23
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 23
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 20
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 22
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 20
   },
   {
@@ -358,6 +358,11 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 8
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 7
   },
   {
     "playerId": "10523030",
@@ -527,11 +532,6 @@
   {
     "playerId": "3808011",
     "username": "gg",
-    "kills": 0
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
     "kills": 0
   },
   {
