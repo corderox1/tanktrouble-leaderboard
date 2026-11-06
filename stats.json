@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35334890,
-    "kills": 44463296,
-    "deaths": 41950524,
-    "suicides": 9418824,
+    "victories": 35335042,
+    "kills": 44463471,
+    "deaths": 41950776,
+    "suicides": 9418881,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 139604,
-    "kills": 192369,
-    "deaths": 190517,
-    "suicides": 48684,
+    "victories": 139605,
+    "kills": 192370,
+    "deaths": 190529,
+    "suicides": 48688,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -590,10 +590,10 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "victories": 18539,
-    "kills": 26208,
-    "deaths": 29689,
-    "suicides": 6163,
+    "victories": 18559,
+    "kills": 26224,
+    "deaths": 29696,
+    "suicides": 6165,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2248,7 +2248,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1529802256,
-    "lastLogin": 1793928655,
+    "lastLogin": 1793942496,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2697,10 +2697,10 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 12452,
-    "kills": 24163,
-    "deaths": 24241,
-    "suicides": 5096,
+    "victories": 12479,
+    "kills": 24223,
+    "deaths": 24275,
+    "suicides": 5104,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 16052,
-    "kills": 29198,
-    "deaths": 47818,
-    "suicides": 12745,
+    "victories": 16101,
+    "kills": 29266,
+    "deaths": 47899,
+    "suicides": 12760,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8283,17 +8283,17 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 8037,
-    "kills": 12705,
-    "deaths": 10424,
-    "suicides": 3056,
+    "victories": 8086,
+    "kills": 12793,
+    "deaths": 10491,
+    "suicides": 3076,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x7f7f7f 14",
-      "numericValue": "0x7f7f7f",
-      "imageValue": "14"
+      "type": "numeric",
+      "rawValue": "0x010243",
+      "numericValue": "0x010243",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
@@ -8307,7 +8307,7 @@
       "numericValue": "0x010243",
       "imageValue": ""
     },
-    "turretAccessory": "74",
+    "turretAccessory": "0",
     "barrelAccessory": "0",
     "frontAccessory": "0",
     "backAccessory": "0",
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1793789322,
+    "lastLogin": 1793940212,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9753,10 +9753,10 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "victories": 1521,
-    "kills": 2588,
-    "deaths": 2176,
-    "suicides": 701,
+    "victories": 1531,
+    "kills": 2604,
+    "deaths": 2196,
+    "suicides": 707,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9786,7 +9786,7 @@
     "badge": "0",
     "premium": false,
     "rank": 110,
-    "xp": 107630,
+    "xp": 108290,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -9794,7 +9794,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1792070136,
-    "lastLogin": 1793885811,
+    "lastLogin": 1793942087,
     "banned": false,
     "usernameApproved": true,
     "country": null
