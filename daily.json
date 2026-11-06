@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 658,
-    "lastKill": "2026-11-06 04:07:50"
+    "kills": 891,
+    "lastKill": "2026-11-06 05:03:14"
   },
   {
     "playerId": "21956820",
@@ -16,6 +16,12 @@
     "username": "Master_T-54",
     "kills": 43,
     "lastKill": "2026-11-06 04:07:50"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 34,
+    "lastKill": "2026-11-06 05:03:14"
   },
   {
     "playerId": "20666777",
@@ -464,12 +470,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
