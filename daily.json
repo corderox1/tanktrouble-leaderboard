@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 514,
-    "lastKill": "2026-11-06 03:12:53"
+    "kills": 658,
+    "lastKill": "2026-11-06 04:07:50"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 48,
-    "lastKill": "2026-11-06 02:17:37"
+    "kills": 92,
+    "lastKill": "2026-11-06 04:07:50"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 43,
+    "lastKill": "2026-11-06 04:07:50"
   },
   {
     "playerId": "20666777",
@@ -30,16 +36,16 @@
     "lastKill": "2026-11-06 02:17:37"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 11,
+    "lastKill": "2026-11-06 04:07:50"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 6,
     "lastKill": "2026-11-06 02:17:37"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 6,
-    "lastKill": "2026-11-06 03:12:53"
   },
   {
     "playerId": "22710399",
@@ -872,12 +878,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
