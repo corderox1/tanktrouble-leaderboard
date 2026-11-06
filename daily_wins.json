@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2669
+    "kills": 2804
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 130
+    "kills": 158
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 116
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 104
   },
   {
     "playerId": "22472796",
@@ -22,12 +27,17 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 89
+    "kills": 96
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 86
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 68
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 56
   },
   {
     "playerId": "22706369",
@@ -38,11 +48,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 53
-  },
-  {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 52
   },
   {
     "playerId": "22757188",
@@ -120,9 +125,19 @@
     "kills": 16
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 14
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 13
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 11
   },
   {
     "playerId": "14892840",
@@ -160,11 +175,6 @@
     "kills": 7
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 6
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 6
@@ -183,6 +193,16 @@
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 3
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 2
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 2
   },
   {
     "playerId": "1145079",
@@ -330,11 +350,6 @@
     "kills": 0
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 0
@@ -477,11 +492,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0
   },
   {
@@ -660,11 +670,6 @@
     "kills": 0
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 0
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0
@@ -707,11 +712,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0
   },
   {

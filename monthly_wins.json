@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23128
+    "kills": 23263
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 978
+    "kills": 985
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 703
+    "kills": 731
   },
   {
     "playerId": "20666777",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 635
+    "kills": 653
   },
   {
     "playerId": "22472796",
@@ -80,6 +80,11 @@
     "kills": 289
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 277
+  },
+  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 267
@@ -105,9 +110,9 @@
     "kills": 218
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 215
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 210
   },
   {
     "playerId": "22706369",
@@ -118,11 +123,6 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 203
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 196
   },
   {
     "playerId": "18985660",
@@ -172,7 +172,7 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 140
+    "kills": 144
   },
   {
     "playerId": "19932455",
@@ -320,13 +320,13 @@
     "kills": 41
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 37
-  },
-  {
     "playerId": "17149251",
     "username": "SmellMySocks",
+    "kills": 39
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
     "kills": 37
   },
   {
@@ -340,24 +340,24 @@
     "kills": 34
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 34
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 30
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 25
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 24
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 23
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 23
   },
   {
     "playerId": "21940268",
