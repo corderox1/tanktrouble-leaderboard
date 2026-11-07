@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2294
+    "kills": 2420
   },
   {
     "playerId": "22472796",
@@ -12,7 +12,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 211
+    "kills": 263
   },
   {
     "playerId": "10794529",
@@ -25,14 +25,24 @@
     "kills": 142
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 114
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 99
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 90
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 85
   },
   {
     "playerId": "20984454",
@@ -43,11 +53,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 74
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 67
   },
   {
     "playerId": "8502796",
@@ -62,7 +67,12 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 55
+    "kills": 58
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 53
   },
   {
     "playerId": "10502780",
@@ -75,18 +85,13 @@
     "kills": 45
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 38
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 40
   },
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 36
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 36
   },
   {
@@ -125,9 +130,9 @@
     "kills": 7
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 6
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 5
   },
   {
     "playerId": "21700920",
@@ -927,11 +932,6 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 0
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0
   },
   {
