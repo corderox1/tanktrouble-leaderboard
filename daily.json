@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4286,
-    "lastKill": "2026-11-06 17:22:30"
+    "kills": 4452,
+    "lastKill": "2026-11-06 18:18:43"
   },
   {
     "playerId": "17629928",
@@ -14,8 +14,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 230,
-    "lastKill": "2026-11-06 17:22:30"
+    "kills": 232,
+    "lastKill": "2026-11-06 18:18:43"
   },
   {
     "playerId": "21601349",
@@ -52,6 +52,12 @@
     "username": "-BarnFindAlly-",
     "kills": 107,
     "lastKill": "2026-11-06 15:27:59"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 102,
+    "lastKill": "2026-11-06 18:18:43"
   },
   {
     "playerId": "22710399",
@@ -602,12 +608,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
