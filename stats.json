@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35342051,
-    "kills": 44472462,
-    "deaths": 41961174,
-    "suicides": 9421023,
+    "victories": 35342243,
+    "kills": 44472685,
+    "deaths": 41961477,
+    "suicides": 9421086,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 5,
+    "rank": 9,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 78937,
-    "kills": 146054,
-    "deaths": 90138,
-    "suicides": 25176,
+    "victories": 79003,
+    "kills": 146131,
+    "deaths": 90200,
+    "suicides": 25191,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1415,7 +1415,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1610558160,
-    "lastLogin": 1794070802,
+    "lastLogin": 1794076707,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1954,7 +1954,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1619054415,
-    "lastLogin": 1794072644,
+    "lastLogin": 1794077402,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66513,
-    "kills": 140289,
-    "deaths": 99533,
-    "suicides": 30917,
+    "victories": 66518,
+    "kills": 140304,
+    "deaths": 99544,
+    "suicides": 30919,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4069,10 +4069,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 5613,
-    "kills": 8477,
-    "deaths": 6895,
-    "suicides": 1476,
+    "victories": 5627,
+    "kills": 8492,
+    "deaths": 6898,
+    "suicides": 1477,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7548,9 +7548,9 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "victories": 7996,
+    "victories": 7997,
     "kills": 13473,
-    "deaths": 15545,
+    "deaths": 15553,
     "suicides": 3606,
     "experience": 0,
     "surrenders": 0,
@@ -7589,7 +7589,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1782462061,
-    "lastLogin": 1793738222,
+    "lastLogin": 1794075160,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 50727,
-    "kills": 99657,
-    "deaths": 104911,
-    "suicides": 24346,
+    "victories": 50748,
+    "kills": 99689,
+    "deaths": 104923,
+    "suicides": 24351,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7932,7 +7932,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
-    "lastLogin": 1794064057,
+    "lastLogin": 1794074983,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 10428,
-    "kills": 15610,
-    "deaths": 9221,
-    "suicides": 3510,
+    "victories": 10451,
+    "kills": 15651,
+    "deaths": 9244,
+    "suicides": 3516,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
