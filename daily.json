@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3675,
-    "lastKill": "2026-11-07 15:43:10"
+    "kills": 3830,
+    "lastKill": "2026-11-07 16:37:29"
   },
   {
     "playerId": "22472796",
@@ -84,6 +84,12 @@
     "lastKill": "2026-11-07 05:32:23"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 84,
+    "lastKill": "2026-11-07 16:37:29"
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 77,
@@ -132,6 +138,12 @@
     "lastKill": "2026-11-07 15:43:10"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 36,
+    "lastKill": "2026-11-07 16:37:29"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 36,
@@ -156,22 +168,16 @@
     "lastKill": "2026-11-07 06:27:29"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 19,
-    "lastKill": "2026-11-07 15:43:10"
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 23,
+    "lastKill": "2026-11-07 16:37:29"
   },
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 16,
     "lastKill": "2026-11-07 07:23:41"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 16,
-    "lastKill": "2026-11-07 15:43:10"
   },
   {
     "playerId": "14617724",
@@ -202,6 +208,12 @@
     "username": "Brainrot",
     "kills": 5,
     "lastKill": "2026-11-07 12:02:32"
+  },
+  {
+    "playerId": "878689",
+    "username": "Gentleman",
+    "kills": 3,
+    "lastKill": "2026-11-07 16:37:29"
   },
   {
     "playerId": "16092601",
@@ -308,12 +320,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
@@ -500,12 +506,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "878689",
-    "username": "Gentleman",
     "kills": 0,
     "lastKill": null
   },
