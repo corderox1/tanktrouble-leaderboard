@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4015
+    "kills": 4225
   },
   {
     "playerId": "21601349",
@@ -35,6 +35,11 @@
     "kills": 104
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 99
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 85
@@ -42,11 +47,6 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 75
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 75
   },
   {
@@ -70,6 +70,11 @@
     "kills": 55
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 53
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 53
@@ -77,7 +82,12 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 52
+    "kills": 53
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 50
   },
   {
     "playerId": "22710399",
@@ -110,6 +120,11 @@
     "kills": 29
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 29
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 28
@@ -135,6 +150,11 @@
     "kills": 21
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 20
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 19
@@ -143,11 +163,6 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 18
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 17
   },
   {
     "playerId": "17136803",
@@ -170,9 +185,14 @@
     "kills": 13
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 10
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 11
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 11
   },
   {
     "playerId": "14892840",
@@ -210,6 +230,11 @@
     "kills": 7
   },
   {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 7
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 6
@@ -228,16 +253,6 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 4
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 3
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 3
   },
   {
     "playerId": "20843843",
@@ -268,11 +283,6 @@
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 1
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 0
   },
   {
     "playerId": "10132007",
@@ -482,11 +492,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0
   },
   {
@@ -1032,11 +1037,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
     "kills": 0
   },
   {
