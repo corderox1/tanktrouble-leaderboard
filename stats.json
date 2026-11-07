@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35342243,
-    "kills": 44472685,
-    "deaths": 41961477,
-    "suicides": 9421086,
+    "victories": 35342308,
+    "kills": 44472852,
+    "deaths": 41961671,
+    "suicides": 9421130,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 9,
+    "rank": 14,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1374,7 +1374,7 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 79003,
+    "victories": 79006,
     "kills": 146131,
     "deaths": 90200,
     "suicides": 25191,
@@ -1415,7 +1415,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1610558160,
-    "lastLogin": 1794076707,
+    "lastLogin": 1794078403,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1913,10 +1913,10 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 30063,
-    "kills": 29717,
-    "deaths": 46677,
-    "suicides": 14201,
+    "victories": 30078,
+    "kills": 29732,
+    "deaths": 46690,
+    "suicides": 14204,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1793950236,
+    "lastLogin": 1794077728,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1794044882,
+    "lastLogin": 1794080891,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 50748,
-    "kills": 99689,
-    "deaths": 104923,
-    "suicides": 24351,
+    "victories": 50815,
+    "kills": 99748,
+    "deaths": 104939,
+    "suicides": 24356,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7932,7 +7932,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
-    "lastLogin": 1794074983,
+    "lastLogin": 1794078422,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10145,10 +10145,10 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "victories": 1069,
-    "kills": 1597,
-    "deaths": 2484,
-    "suicides": 570,
+    "victories": 1092,
+    "kills": 1620,
+    "deaths": 2570,
+    "suicides": 584,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10178,7 +10178,7 @@
     "badge": "0",
     "premium": false,
     "rank": 4,
-    "xp": 71820,
+    "xp": 73200,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -10186,7 +10186,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1792940535,
-    "lastLogin": 1794069703,
+    "lastLogin": 1794079513,
     "banned": false,
     "usernameApproved": true,
     "country": null
