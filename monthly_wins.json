@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 25682
+    "kills": 25922
   },
   {
     "playerId": "22710399",
@@ -47,7 +47,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 522
+    "kills": 534
   },
   {
     "playerId": "12107881",
@@ -92,12 +92,17 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 303
+    "kills": 305
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 301
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 267
   },
   {
     "playerId": "2574833",
@@ -140,11 +145,6 @@
     "kills": 192
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 190
-  },
-  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 190
@@ -180,6 +180,11 @@
     "kills": 148
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 146
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 142
@@ -193,11 +198,6 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 133
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 128
   },
   {
     "playerId": "21180646",
@@ -280,6 +280,11 @@
     "kills": 69
   },
   {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 69
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 67
@@ -293,11 +298,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 62
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 60
   },
   {
     "playerId": "22042037",
@@ -320,6 +320,11 @@
     "kills": 51
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 50
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 50
@@ -328,11 +333,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 49
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 48
   },
   {
     "playerId": "22077521",
@@ -390,6 +390,11 @@
     "kills": 13
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 12
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 9
@@ -412,11 +417,6 @@
   {
     "playerId": "4948831",
     "username": "SavageAimbot",
-    "kills": 6
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 6
   },
   {
@@ -475,6 +475,11 @@
     "kills": 3
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 3
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 2
@@ -482,11 +487,6 @@
   {
     "playerId": "13825931",
     "username": "Tigers786",
-    "kills": 2
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 2
   },
   {

@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 528,
-    "lastKill": "2026-11-07 03:42:32"
+    "kills": 789,
+    "lastKill": "2026-11-07 04:37:30"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 106,
-    "lastKill": "2026-11-07 02:43:50"
+    "kills": 134,
+    "lastKill": "2026-11-07 04:37:30"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 100,
+    "lastKill": "2026-11-07 04:37:30"
   },
   {
     "playerId": "21956820",
@@ -30,16 +36,34 @@
     "lastKill": "2026-11-07 01:47:53"
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 34,
+    "lastKill": "2026-11-07 04:37:30"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 32,
     "lastKill": "2026-11-07 01:47:53"
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 11,
-    "lastKill": "2026-11-07 03:42:32"
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 22,
+    "lastKill": "2026-11-07 04:37:30"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 22,
+    "lastKill": "2026-11-07 04:37:30"
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 13,
+    "lastKill": "2026-11-07 04:37:30"
   },
   {
     "playerId": "22472796",
@@ -48,10 +72,16 @@
     "lastKill": "2026-11-07 03:42:32"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 11,
-    "lastKill": "2026-11-07 03:42:32"
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 10,
+    "lastKill": "2026-11-07 04:37:30"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 2,
+    "lastKill": "2026-11-07 04:37:30"
   },
   {
     "playerId": "22710399",
@@ -348,12 +378,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 0,
@@ -474,12 +498,6 @@
     "lastKill": null
   },
   {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 0,
@@ -500,12 +518,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
@@ -816,12 +828,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 0,
@@ -866,12 +872,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },
