@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 213593
+    "kills": 213870
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 4625
+    "kills": 4640
   },
   {
     "playerId": "4142755",
@@ -157,7 +157,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1379
+    "kills": 1382
   },
   {
     "playerId": "12107881",
@@ -225,14 +225,14 @@
     "kills": 1031
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 944
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 931
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 922
   },
   {
     "playerId": "21109495",
@@ -310,14 +310,14 @@
     "kills": 624
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 570
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 556
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 555
   },
   {
     "playerId": "21797119",
@@ -492,7 +492,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 142
+    "kills": 144
   },
   {
     "playerId": "20869330",
@@ -512,12 +512,17 @@
   {
     "playerId": "21180646",
     "username": "Havamal",
-    "kills": 118
+    "kills": 121
   },
   {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 107
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 94
   },
   {
     "playerId": "18969891",
@@ -533,11 +538,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 86
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 83
   },
   {
     "playerId": "21967085",

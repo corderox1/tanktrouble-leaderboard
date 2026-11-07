@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4441
+    "kills": 4718
   },
   {
     "playerId": "21601349",
@@ -27,7 +27,7 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 147
+    "kills": 169
   },
   {
     "playerId": "20984454",
@@ -40,6 +40,11 @@
     "kills": 111
   },
   {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 106
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 104
@@ -50,19 +55,14 @@
     "kills": 101
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 91
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 87
   },
   {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 85
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 76
   },
   {
     "playerId": "12107881",
@@ -73,6 +73,11 @@
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 60
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 56
   },
   {
     "playerId": "22706369",
@@ -90,9 +95,9 @@
     "kills": 53
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 53
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 52
   },
   {
     "playerId": "6776098",
@@ -107,7 +112,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 45
+    "kills": 47
   },
   {
     "playerId": "22845692",
@@ -128,11 +133,6 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 38
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 37
   },
   {
     "playerId": "2574833",
@@ -267,6 +267,11 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
+    "kills": 3
+  },
+  {
+    "playerId": "21180646",
+    "username": "Havamal",
     "kills": 3
   },
   {
@@ -1052,11 +1057,6 @@
   {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
-    "kills": 0
-  },
-  {
-    "playerId": "21180646",
-    "username": "Havamal",
     "kills": 0
   }
 ]
