@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5356,
-    "lastKill": "2026-11-06 22:07:56"
+    "kills": 5557,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "17629928",
@@ -26,14 +26,32 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 190,
-    "lastKill": "2026-11-06 16:23:01"
+    "kills": 211,
+    "lastKill": "2026-11-06 23:03:11"
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 209,
+    "lastKill": "2026-11-06 23:03:11"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 185,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 185,
     "lastKill": "2026-11-06 10:48:42"
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 177,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "22757188",
@@ -48,10 +66,10 @@
     "lastKill": "2026-11-06 19:16:48"
   },
   {
-    "playerId": "10502780",
-    "username": "No_Ammo",
-    "kills": 160,
-    "lastKill": "2026-11-06 22:07:56"
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 156,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "706234",
@@ -66,10 +84,10 @@
     "lastKill": "2026-11-06 12:42:13"
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 126,
-    "lastKill": "2026-11-06 22:07:56"
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 130,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "4381511",
@@ -96,12 +114,6 @@
     "lastKill": "2026-11-06 09:53:42"
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 97,
-    "lastKill": "2026-11-06 20:13:59"
-  },
-  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 96,
@@ -126,12 +138,6 @@
     "lastKill": "2026-11-06 13:37:49"
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 77,
-    "lastKill": "2026-11-06 22:07:56"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 74,
@@ -140,8 +146,14 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 59,
-    "lastKill": "2026-11-06 22:07:56"
+    "kills": 74,
+    "lastKill": "2026-11-06 23:03:11"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 61,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "6776098",
@@ -154,12 +166,6 @@
     "username": "zRok",
     "kills": 57,
     "lastKill": "2026-11-06 10:48:42"
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 56,
-    "lastKill": "2026-11-06 22:07:56"
   },
   {
     "playerId": "12222122",
@@ -188,14 +194,20 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 39,
-    "lastKill": "2026-11-06 13:37:49"
+    "kills": 41,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 37,
     "lastKill": "2026-11-06 15:27:59"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 37,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "17136803",
@@ -240,10 +252,10 @@
     "lastKill": "2026-11-06 11:48:06"
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 22,
-    "lastKill": "2026-11-06 22:07:56"
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 23,
+    "lastKill": "2026-11-06 23:03:11"
   },
   {
     "playerId": "1185396",
@@ -298,12 +310,6 @@
     "username": "dvi9311",
     "kills": 8,
     "lastKill": "2026-11-06 16:23:01"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 6,
-    "lastKill": "2026-11-06 02:17:37"
   },
   {
     "playerId": "22105718",
@@ -1196,12 +1202,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },

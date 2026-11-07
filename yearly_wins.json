@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 213430
+    "kills": 213593
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 7133
+    "kills": 7187
   },
   {
     "playerId": "21601349",
@@ -32,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 4609
+    "kills": 4625
   },
   {
     "playerId": "4142755",
@@ -62,7 +62,7 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 2860
+    "kills": 2877
   },
   {
     "playerId": "22472796",
@@ -177,7 +177,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1262
+    "kills": 1278
   },
   {
     "playerId": "706234",
@@ -230,6 +230,11 @@
     "kills": 931
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 922
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 912
@@ -240,24 +245,19 @@
     "kills": 870
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 860
-  },
-  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 845
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 817
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 787
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 783
   },
   {
     "playerId": "12222122",
@@ -317,7 +317,7 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 501
+    "kills": 555
   },
   {
     "playerId": "21797119",
@@ -367,7 +367,7 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 351
+    "kills": 352
   },
   {
     "playerId": "21462355",
@@ -377,7 +377,7 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 297
+    "kills": 315
   },
   {
     "playerId": "3162693",
@@ -490,6 +490,11 @@
     "kills": 147
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 142
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 136
@@ -510,11 +515,6 @@
     "kills": 118
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 113
-  },
-  {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 107
@@ -533,6 +533,11 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 86
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 83
   },
   {
     "playerId": "21967085",
@@ -648,11 +653,6 @@
     "playerId": "17794648",
     "username": "Quser",
     "kills": 23
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 19
   },
   {
     "playerId": "21528366",
