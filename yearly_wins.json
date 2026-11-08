@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 219451
+    "kills": 219633
   },
   {
     "playerId": "8590474",
@@ -25,14 +25,19 @@
     "kills": 4934
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 4866
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 4864
   },
   {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 4854
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 4756
   },
   {
     "playerId": "20666777",
@@ -40,19 +45,14 @@
     "kills": 4719
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 4716
-  },
-  {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 4368
+    "kills": 4381
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 3455
+    "kills": 3457
   },
   {
     "playerId": "20297710",
@@ -112,7 +112,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1880
+    "kills": 1892
   },
   {
     "playerId": "20984454",
@@ -127,7 +127,7 @@
   {
     "playerId": "3990108",
     "username": "Mandilindors",
-    "kills": 1788
+    "kills": 1807
   },
   {
     "playerId": "3660774",
@@ -137,12 +137,12 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 1577
+    "kills": 1591
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1459
+    "kills": 1461
   },
   {
     "playerId": "13773720",
@@ -235,6 +235,11 @@
     "kills": 957
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 932
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 931
@@ -243,11 +248,6 @@
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 912
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
-    "kills": 907
   },
   {
     "playerId": "6776098",
@@ -305,14 +305,14 @@
     "kills": 669
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 669
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 650
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 632
   },
   {
     "playerId": "11769746",
@@ -400,6 +400,11 @@
     "kills": 263
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 246
+  },
+  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 244
@@ -408,11 +413,6 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 243
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 241
   },
   {
     "playerId": "21839393",
