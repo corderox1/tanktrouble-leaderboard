@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 829,
-    "lastKill": "2026-11-08 05:53:40"
+    "kills": 886,
+    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "22472796",
@@ -20,14 +20,14 @@
   {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
-    "kills": 84,
-    "lastKill": "2026-11-08 05:53:40"
+    "kills": 102,
+    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 68,
-    "lastKill": "2026-11-08 05:53:40"
+    "kills": 79,
+    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "8590474",
@@ -52,6 +52,12 @@
     "username": "WillyWonkaBar",
     "kills": 40,
     "lastKill": "2026-11-08 05:53:40"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 30,
+    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "22706369",
@@ -84,10 +90,28 @@
     "lastKill": "2026-11-08 02:03:18"
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 6,
+    "lastKill": "2026-11-08 06:51:21"
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 1,
     "lastKill": "2026-11-08 03:02:09"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 1,
+    "lastKill": "2026-11-08 06:51:21"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 1,
+    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "22710399",
@@ -188,12 +212,6 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0,
     "lastKill": null
   },
@@ -1224,18 +1242,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 0,
@@ -1244,12 +1250,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0,
     "lastKill": null
   },

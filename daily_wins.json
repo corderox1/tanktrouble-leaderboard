@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 619
+    "kills": 670
   },
   {
     "playerId": "22472796",
@@ -27,7 +27,12 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 33
+    "kills": 36
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 23
   },
   {
     "playerId": "22757188",
@@ -47,7 +52,7 @@
   {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
-    "kills": 11
+    "kills": 14
   },
   {
     "playerId": "15931599",
@@ -70,9 +75,24 @@
     "kills": 7
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 6
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 2
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 1
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -157,11 +177,6 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 0
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0
   },
   {
@@ -1020,16 +1035,6 @@
     "kills": 0
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 0
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 0
@@ -1037,11 +1042,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0
   },
   {

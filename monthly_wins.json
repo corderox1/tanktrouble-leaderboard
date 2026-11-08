@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29877
+    "kills": 29928
   },
   {
     "playerId": "13173087",
@@ -85,6 +85,11 @@
     "kills": 411
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 406
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 401
@@ -93,11 +98,6 @@
     "playerId": "3923647",
     "username": "slayer",
     "kills": 397
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 383
   },
   {
     "playerId": "20269995",
@@ -170,6 +170,11 @@
     "kills": 190
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 188
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 187
@@ -178,11 +183,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 187
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 185
   },
   {
     "playerId": "3660774",
@@ -205,14 +205,14 @@
     "kills": 148
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 139
+  },
+  {
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 135
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 133
   },
   {
     "playerId": "19932455",
@@ -325,6 +325,11 @@
     "kills": 58
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 58
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 56
@@ -332,11 +337,6 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 55
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 55
   },
   {
@@ -372,7 +372,7 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 35
+    "kills": 36
   },
   {
     "playerId": "17136803",
@@ -430,6 +430,11 @@
     "kills": 5
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 5
+  },
+  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 4
@@ -457,11 +462,6 @@
   {
     "playerId": "21839393",
     "username": "notnothing",
-    "kills": 4
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 4
   },
   {
