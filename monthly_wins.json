@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29416
+    "kills": 29535
   },
   {
     "playerId": "13173087",
@@ -92,7 +92,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 384
+    "kills": 387
   },
   {
     "playerId": "22845692",
@@ -117,7 +117,12 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 266
+    "kills": 267
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 260
   },
   {
     "playerId": "12222122",
@@ -140,6 +145,11 @@
     "kills": 204
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 204
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 203
@@ -150,19 +160,9 @@
     "kills": 203
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 197
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 192
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 190
   },
   {
     "playerId": "18985660",
@@ -305,13 +305,13 @@
     "kills": 69
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 67
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
+    "kills": 69
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 67
   },
   {
@@ -395,6 +395,11 @@
     "kills": 13
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 10
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 9
@@ -402,11 +407,6 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 8
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
     "kills": 8
   },
   {
