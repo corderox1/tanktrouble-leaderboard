@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29928
+    "kills": 30074
   },
   {
     "playerId": "13173087",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 554
+    "kills": 556
   },
   {
     "playerId": "12107881",
@@ -75,6 +75,11 @@
     "kills": 428
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 418
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 416
@@ -83,11 +88,6 @@
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 411
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 406
   },
   {
     "playerId": "22757188",
@@ -127,7 +127,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 260
+    "kills": 261
   },
   {
     "playerId": "19173281",
@@ -202,12 +202,17 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 148
+    "kills": 149
   },
   {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 139
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 137
   },
   {
     "playerId": "10523030",
@@ -320,11 +325,6 @@
     "kills": 64
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 58
-  },
-  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 58
@@ -372,7 +372,7 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 36
+    "kills": 40
   },
   {
     "playerId": "17136803",
@@ -415,6 +415,11 @@
     "kills": 8
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 7
+  },
+  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 7
@@ -427,11 +432,6 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 5
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 5
   },
   {
@@ -515,6 +515,11 @@
     "kills": 1
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 1
+  },
+  {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
     "kills": 1
@@ -592,11 +597,6 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 0
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
     "kills": 0
   },
   {
