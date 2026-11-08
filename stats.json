@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35346126,
-    "kills": 44477315,
-    "deaths": 41967747,
-    "suicides": 9422317,
+    "victories": 35346347,
+    "kills": 44477497,
+    "deaths": 41968008,
+    "suicides": 9422366,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 2,
+    "rank": 17,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 28347,
-    "kills": 44430,
-    "deaths": 49337,
-    "suicides": 10363,
+    "victories": 28373,
+    "kills": 44454,
+    "deaths": 49396,
+    "suicides": 10376,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1794174957,
+    "lastLogin": 1794177039,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1178,10 +1178,10 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "victories": 44705,
-    "kills": 92952,
-    "deaths": 130436,
-    "suicides": 36295,
+    "victories": 44711,
+    "kills": 92960,
+    "deaths": 130458,
+    "suicides": 36301,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1219,7 +1219,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1586688568,
-    "lastLogin": 1794170236,
+    "lastLogin": 1794176004,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 82076,
+    "victories": 82077,
     "kills": 123026,
-    "deaths": 142217,
-    "suicides": 30461,
+    "deaths": 142219,
+    "suicides": 30463,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1374,10 +1374,10 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "victories": 79338,
-    "kills": 146499,
-    "deaths": 90401,
-    "suicides": 25233,
+    "victories": 79393,
+    "kills": 146550,
+    "deaths": 90475,
+    "suicides": 25263,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1411,7 +1411,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794174409,
+    "lastForumPost": 1794177248,
     "guest": false,
     "gmLevel": null,
     "created": 1610558160,
@@ -4020,10 +4020,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 60706,
-    "kills": 103800,
-    "deaths": 105883,
-    "suicides": 27638,
+    "victories": 60741,
+    "kills": 103850,
+    "deaths": 105919,
+    "suicides": 27650,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4061,7 +4061,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1538257271,
-    "lastLogin": 1794094830,
+    "lastLogin": 1794177476,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4069,10 +4069,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 5740,
-    "kills": 8652,
-    "deaths": 7027,
-    "suicides": 1505,
+    "victories": 5767,
+    "kills": 8704,
+    "deaths": 7072,
+    "suicides": 1511,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 50938,
-    "kills": 99922,
-    "deaths": 105152,
-    "suicides": 24408,
+    "victories": 50964,
+    "kills": 99980,
+    "deaths": 105183,
+    "suicides": 24411,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3868,
-    "kills": 8318,
-    "deaths": 10887,
-    "suicides": 3208,
+    "victories": 3869,
+    "kills": 8322,
+    "deaths": 10907,
+    "suicides": 3211,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8961,7 +8961,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778445247,
-    "lastLogin": 1794170135,
+    "lastLogin": 1794178976,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,32 +8969,32 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 10513,
-    "kills": 15730,
-    "deaths": 9304,
-    "suicides": 3536,
+    "victories": 10520,
+    "kills": 15751,
+    "deaths": 9320,
+    "suicides": 3546,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
       "type": "image",
-      "rawValue": "0xfb01fc 45",
-      "numericValue": "0xfb01fc",
-      "imageValue": "45"
+      "rawValue": "0xddb135 43",
+      "numericValue": "0xddb135",
+      "imageValue": "43"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x69772a 167",
-      "numericValue": "0x69772a",
-      "imageValue": "167"
+      "rawValue": "0x2bde73 33",
+      "numericValue": "0x2bde73",
+      "imageValue": "33"
     },
     "baseColour": {
       "type": "image",
-      "rawValue": "0x5fa5d1 163",
-      "numericValue": "0x5fa5d1",
-      "imageValue": "163"
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "turretAccessory": "49",
-    "barrelAccessory": "33",
+    "barrelAccessory": "19",
     "frontAccessory": "34",
     "backAccessory": "12",
     "treadAccessory": "0",
@@ -9655,10 +9655,10 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "victories": 17756,
-    "kills": 30429,
-    "deaths": 35168,
-    "suicides": 5671,
+    "victories": 17766,
+    "kills": 30461,
+    "deaths": 35218,
+    "suicides": 5675,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
