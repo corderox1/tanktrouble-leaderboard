@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1352
+    "kills": 1500
   },
   {
     "playerId": "10794529",
@@ -20,13 +20,13 @@
     "kills": 89
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 79
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
+    "kills": 82
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 79
   },
   {
@@ -65,14 +65,19 @@
     "kills": 33
   },
   {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 32
+  },
+  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 31
   },
   {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 29
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 26
   },
   {
     "playerId": "22757188",
@@ -88,6 +93,11 @@
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 14
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 12
   },
   {
     "playerId": "21673346",
@@ -130,6 +140,11 @@
     "kills": 6
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 6
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 5
@@ -140,8 +155,8 @@
     "kills": 3
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 2
   },
   {
@@ -152,11 +167,6 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 1
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 1
   },
   {
@@ -392,11 +402,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0
   },
   {
@@ -827,11 +832,6 @@
   {
     "playerId": "4422058",
     "username": "YuriDior",
-    "kills": 0
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 0
   },
   {

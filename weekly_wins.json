@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26990
+    "kills": 27138
   },
   {
     "playerId": "22710399",
@@ -77,7 +77,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 410
+    "kills": 413
   },
   {
     "playerId": "3923647",
@@ -115,14 +115,14 @@
     "kills": 266
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 257
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 246
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 231
   },
   {
     "playerId": "12222122",
@@ -320,14 +320,14 @@
     "kills": 66
   },
   {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 65
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 64
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 62
   },
   {
     "playerId": "22688887",
@@ -345,19 +345,24 @@
     "kills": 49
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 47
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 48
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 47
   },
   {
     "playerId": "20644558",
     "username": "x",
     "kills": 41
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 37
   },
   {
     "playerId": "1051525",
@@ -375,11 +380,6 @@
     "kills": 33
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 31
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 28
@@ -387,6 +387,11 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
+    "kills": 20
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
     "kills": 20
   },
   {
@@ -403,11 +408,6 @@
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 13
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 10
   },
   {
     "playerId": "793356",

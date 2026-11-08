@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1594,
-    "lastKill": "2026-11-08 11:27:58"
+    "kills": 1785,
+    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "22472796",
@@ -12,16 +12,16 @@
     "lastKill": "2026-11-08 04:56:26"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 158,
+    "lastKill": "2026-11-08 12:23:21"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 156,
     "lastKill": "2026-11-08 08:42:11"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 150,
-    "lastKill": "2026-11-08 11:27:58"
   },
   {
     "playerId": "10794529",
@@ -64,6 +64,12 @@
     "username": "Gentleman",
     "kills": 65,
     "lastKill": "2026-11-08 10:33:09"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 55,
+    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "21508277",
@@ -110,8 +116,8 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 24,
-    "lastKill": "2026-11-08 10:33:09"
+    "kills": 27,
+    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "1051525",
@@ -132,10 +138,22 @@
     "lastKill": "2026-11-08 08:42:11"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 15,
+    "lastKill": "2026-11-08 12:23:21"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 12,
     "lastKill": "2026-11-08 09:37:27"
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 12,
+    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "20666777",
@@ -154,6 +172,12 @@
     "username": "hohi",
     "kills": 6,
     "lastKill": "2026-11-08 06:51:21"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 5,
+    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "21516705",
@@ -184,18 +208,6 @@
     "username": "Ayanokoji",
     "kills": 1,
     "lastKill": "2026-11-08 07:46:31"
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 1,
-    "lastKill": "2026-11-08 03:02:09"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 1,
-    "lastKill": "2026-11-08 11:27:58"
   },
   {
     "playerId": "22710399",
@@ -476,12 +488,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0,
     "lastKill": null
   },
@@ -992,12 +998,6 @@
   {
     "playerId": "4422058",
     "username": "YuriDior",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 0,
     "lastKill": null
   },
