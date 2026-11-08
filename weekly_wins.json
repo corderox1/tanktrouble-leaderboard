@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26454
+    "kills": 26580
   },
   {
     "playerId": "22710399",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 537
+    "kills": 567
   },
   {
     "playerId": "12107881",
@@ -77,7 +77,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 366
+    "kills": 381
   },
   {
     "playerId": "3923647",
@@ -97,7 +97,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 277
+    "kills": 279
   },
   {
     "playerId": "22706369",
@@ -127,7 +127,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 216
+    "kills": 220
   },
   {
     "playerId": "21465536",
@@ -240,13 +240,13 @@
     "kills": 100
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
-    "kills": 97
-  },
-  {
     "playerId": "21516705",
     "username": "AriX",
+    "kills": 100
+  },
+  {
+    "playerId": "20101050",
+    "username": "Brainrot",
     "kills": 97
   },
   {
@@ -290,6 +290,11 @@
     "kills": 78
   },
   {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 78
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 77
@@ -320,11 +325,6 @@
     "kills": 64
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 61
-  },
-  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 58
@@ -337,6 +337,11 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 49
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 49
   },
   {
@@ -353,11 +358,6 @@
     "playerId": "20644558",
     "username": "x",
     "kills": 41
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 38
   },
   {
     "playerId": "17136803",
@@ -390,14 +390,19 @@
     "kills": 15
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 13
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 13
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 10
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 8
   },
   {
     "playerId": "793356",
@@ -422,11 +427,6 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 5
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 5
   },
   {
