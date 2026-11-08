@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30290
+    "kills": 30438
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1510
+    "kills": 1534
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1195
+    "kills": 1198
   },
   {
     "playerId": "4142755",
@@ -40,14 +40,14 @@
     "kills": 962
   },
   {
+    "playerId": "10794529",
+    "username": "interstellar",
+    "kills": 890
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 785
-  },
-  {
-    "playerId": "10794529",
-    "username": "interstellar",
-    "kills": 744
   },
   {
     "playerId": "22716354",
@@ -62,7 +62,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 446
+    "kills": 479
   },
   {
     "playerId": "10502780",
@@ -120,14 +120,14 @@
     "kills": 279
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 267
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 266
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 267
   },
   {
     "playerId": "19173281",
@@ -327,7 +327,12 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 58
+    "kills": 64
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 61
   },
   {
     "playerId": "22688887",
@@ -338,11 +343,6 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 56
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 55
   },
   {
     "playerId": "21098942",
@@ -378,6 +378,11 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 34
+  },
+  {
+    "playerId": "878689",
+    "username": "Gentleman",
+    "kills": 33
   },
   {
     "playerId": "20111777",
@@ -487,11 +492,6 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 2
-  },
-  {
-    "playerId": "878689",
-    "username": "Gentleman",
     "kills": 2
   },
   {
