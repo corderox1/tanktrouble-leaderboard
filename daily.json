@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4643,
-    "lastKill": "2026-11-07 22:18:55"
+    "kills": 4796,
+    "lastKill": "2026-11-07 23:17:59"
   },
   {
     "playerId": "22472796",
@@ -60,6 +60,12 @@
     "lastKill": "2026-11-07 15:43:10"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 165,
+    "lastKill": "2026-11-07 23:17:59"
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 147,
@@ -76,12 +82,6 @@
     "username": "Alrighty_",
     "kills": 137,
     "lastKill": "2026-11-07 17:32:55"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 132,
-    "lastKill": "2026-11-07 22:18:55"
   },
   {
     "playerId": "20984454",
@@ -144,6 +144,12 @@
     "lastKill": "2026-11-07 22:18:55"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 57,
+    "lastKill": "2026-11-07 23:17:59"
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 50,
@@ -162,6 +168,12 @@
     "lastKill": "2026-11-07 15:43:10"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 41,
+    "lastKill": "2026-11-07 23:17:59"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 36,
@@ -178,6 +190,12 @@
     "username": "Jaw",
     "kills": 35,
     "lastKill": "2026-11-07 01:47:53"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 31,
+    "lastKill": "2026-11-07 23:17:59"
   },
   {
     "playerId": "3660774",
@@ -204,6 +222,12 @@
     "lastKill": "2026-11-07 18:28:04"
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 14,
+    "lastKill": "2026-11-07 23:17:59"
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 13,
@@ -226,12 +250,6 @@
     "username": "Brainrot",
     "kills": 5,
     "lastKill": "2026-11-07 12:02:32"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 5,
-    "lastKill": "2026-11-07 22:18:55"
   },
   {
     "playerId": "19168800",
@@ -530,12 +548,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0,
     "lastKill": null
   },
@@ -1062,12 +1074,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1178,12 +1184,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },
