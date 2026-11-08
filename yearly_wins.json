@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 217003
+    "kills": 217142
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 6395
+    "kills": 6437
   },
   {
     "playerId": "22710399",
@@ -27,7 +27,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 4830
+    "kills": 4845
   },
   {
     "playerId": "20666777",
@@ -37,12 +37,12 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 4680
+    "kills": 4708
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 4538
+    "kills": 4588
   },
   {
     "playerId": "17629928",
@@ -70,14 +70,14 @@
     "kills": 2877
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 2687
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 2614
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 2600
   },
   {
     "playerId": "14617724",
@@ -222,7 +222,7 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 1055
+    "kills": 1061
   },
   {
     "playerId": "3923647",
@@ -362,7 +362,7 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 353
+    "kills": 355
   },
   {
     "playerId": "17953682",
@@ -470,13 +470,13 @@
     "kills": 173
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 168
-  },
-  {
     "playerId": "12517909",
     "username": "Crip",
+    "kills": 169
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 168
   },
   {
@@ -505,6 +505,11 @@
     "kills": 136
   },
   {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 135
+  },
+  {
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 132
@@ -518,11 +523,6 @@
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 124
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 121
   },
   {
     "playerId": "20101050",
