@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35343950,
-    "kills": 44474698,
-    "deaths": 41964329,
-    "suicides": 9421637,
+    "victories": 35344070,
+    "kills": 44474823,
+    "deaths": 41964531,
+    "suicides": 9421669,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 30,
+    "rank": 31,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 21685,
-    "kills": 31548,
-    "deaths": 26042,
-    "suicides": 6772,
+    "victories": 21701,
+    "kills": 31563,
+    "deaths": 26052,
+    "suicides": 6776,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1794113981,
+    "lastLogin": 1794121134,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3971,10 +3971,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 18191,
-    "kills": 31818,
-    "deaths": 29591,
-    "suicides": 11368,
+    "victories": 18198,
+    "kills": 31825,
+    "deaths": 29606,
+    "suicides": 11369,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4012,7 +4012,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1649974122,
-    "lastLogin": 1794046243,
+    "lastLogin": 1794121048,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6274,10 +6274,10 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "victories": 18029,
-    "kills": 26202,
-    "deaths": 28004,
-    "suicides": 6883,
+    "victories": 18074,
+    "kills": 26250,
+    "deaths": 28025,
+    "suicides": 6887,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8226,7 +8226,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1589476617,
-    "lastLogin": 1794114002,
+    "lastLogin": 1794121084,
     "banned": false,
     "usernameApproved": true,
     "country": null
