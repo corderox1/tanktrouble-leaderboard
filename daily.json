@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4300,
-    "lastKill": "2026-11-07 19:23:17"
+    "kills": 4433,
+    "lastKill": "2026-11-07 20:23:07"
   },
   {
     "playerId": "22472796",
@@ -20,8 +20,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 306,
-    "lastKill": "2026-11-07 19:23:17"
+    "kills": 352,
+    "lastKill": "2026-11-07 20:23:07"
   },
   {
     "playerId": "10794529",
@@ -162,22 +162,28 @@
     "lastKill": "2026-11-07 08:21:46"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 36,
+    "lastKill": "2026-11-07 20:23:07"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 35,
     "lastKill": "2026-11-07 01:47:53"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 27,
-    "lastKill": "2026-11-07 06:27:29"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 16,
-    "lastKill": "2026-11-07 07:23:41"
+    "kills": 22,
+    "lastKill": "2026-11-07 20:23:07"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 15,
+    "lastKill": "2026-11-07 20:23:07"
   },
   {
     "playerId": "10523030",
@@ -230,8 +236,8 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "kills": 2,
-    "lastKill": "2026-11-07 12:02:32"
+    "kills": 3,
+    "lastKill": "2026-11-07 20:23:07"
   },
   {
     "playerId": "22694251",
@@ -578,12 +584,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },

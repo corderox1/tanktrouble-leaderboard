@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28548
+    "kills": 28725
   },
   {
     "playerId": "13173087",
@@ -25,14 +25,14 @@
     "kills": 1076
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1049
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 1008
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1001
   },
   {
     "playerId": "8590474",
@@ -97,7 +97,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 307
+    "kills": 310
   },
   {
     "playerId": "20269995",
@@ -310,6 +310,11 @@
     "kills": 58
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 57
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 56
@@ -323,11 +328,6 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 55
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 52
   },
   {
     "playerId": "21098942",
@@ -377,7 +377,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 25
+    "kills": 33
   },
   {
     "playerId": "20111777",
@@ -405,14 +405,14 @@
     "kills": 8
   },
   {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
+    "playerId": "16092601",
+    "username": "fyrenado",
     "kills": 8
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 7
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 8
   },
   {
     "playerId": "793356",
