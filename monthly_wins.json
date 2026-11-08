@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29843
+    "kills": 29877
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 778
+    "kills": 785
   },
   {
     "playerId": "10794529",
@@ -180,6 +180,11 @@
     "kills": 187
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 185
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 175
@@ -193,11 +198,6 @@
     "playerId": "21452912",
     "username": "k",
     "kills": 162
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 152
   },
   {
     "playerId": "21609912",
@@ -295,6 +295,11 @@
     "kills": 77
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 75
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
@@ -302,11 +307,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 69
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 69
   },
   {
@@ -335,6 +335,11 @@
     "kills": 55
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 55
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 51
@@ -353,11 +358,6 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 45
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
-    "kills": 44
   },
   {
     "playerId": "21797119",

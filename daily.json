@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 736,
-    "lastKill": "2026-11-08 04:56:26"
+    "kills": 829,
+    "lastKill": "2026-11-08 05:53:40"
   },
   {
     "playerId": "22472796",
@@ -16,6 +16,18 @@
     "username": "L_Shy_P",
     "kills": 154,
     "lastKill": "2026-11-08 03:58:44"
+  },
+  {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 84,
+    "lastKill": "2026-11-08 05:53:40"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 68,
+    "lastKill": "2026-11-08 05:53:40"
   },
   {
     "playerId": "8590474",
@@ -36,6 +48,12 @@
     "lastKill": "2026-11-08 01:06:34"
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 40,
+    "lastKill": "2026-11-08 05:53:40"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 28,
@@ -54,16 +72,16 @@
     "lastKill": "2026-11-08 03:02:09"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 11,
+    "lastKill": "2026-11-08 05:53:40"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 9,
     "lastKill": "2026-11-08 02:03:18"
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 3,
-    "lastKill": "2026-11-08 03:02:09"
   },
   {
     "playerId": "16092601",
@@ -480,12 +498,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 0,
@@ -824,12 +836,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": null
   },
@@ -1250,12 +1256,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0,
     "lastKill": null
   },

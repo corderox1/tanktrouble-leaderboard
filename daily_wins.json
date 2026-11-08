@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 585
+    "kills": 619
   },
   {
     "playerId": "22472796",
@@ -25,6 +25,11 @@
     "kills": 45
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 33
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 22
@@ -40,9 +45,24 @@
     "kills": 17
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 11
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 10
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 8
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 7
   },
   {
     "playerId": "22809750",
@@ -52,11 +72,6 @@
   {
     "playerId": "16092601",
     "username": "fyrenado",
-    "kills": 2
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 2
   },
   {
@@ -400,11 +415,6 @@
     "kills": 0
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 0
@@ -687,11 +697,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
@@ -1042,11 +1047,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0
   },
   {

@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35344535,
-    "kills": 44475434,
-    "deaths": 41965164,
-    "suicides": 9421802,
+    "victories": 35344569,
+    "kills": 44475527,
+    "deaths": 41965295,
+    "suicides": 9421821,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 35,
+    "rank": 31,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 16260,
-    "kills": 29550,
-    "deaths": 48316,
-    "suicides": 12866,
+    "victories": 16267,
+    "kills": 29561,
+    "deaths": 48319,
+    "suicides": 12867,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -5482,7 +5482,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1631255814,
-    "lastLogin": 1794131886,
+    "lastLogin": 1794138369,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6519,10 +6519,10 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "victories": 6572,
-    "kills": 10690,
-    "deaths": 9727,
-    "suicides": 1977,
+    "victories": 6605,
+    "kills": 10758,
+    "deaths": 9766,
+    "suicides": 1985,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1794134057,
+    "lastLogin": 1794135801,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9312,10 +9312,10 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "victories": 13372,
-    "kills": 23907,
-    "deaths": 26280,
-    "suicides": 7649,
+    "victories": 13378,
+    "kills": 23944,
+    "deaths": 26342,
+    "suicides": 7662,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9353,7 +9353,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1722406568,
-    "lastLogin": 1794127475,
+    "lastLogin": 1794136763,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10243,10 +10243,10 @@
   {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
-    "victories": 195,
-    "kills": 340,
-    "deaths": 494,
-    "suicides": 138,
+    "victories": 206,
+    "kills": 424,
+    "deaths": 583,
+    "suicides": 166,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10276,7 +10276,7 @@
     "badge": "0",
     "premium": false,
     "rank": 0,
-    "xp": 13250,
+    "xp": 15740,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -10284,7 +10284,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788075622,
-    "lastLogin": 1793809371,
+    "lastLogin": 1794136105,
     "banned": false,
     "usernameApproved": true,
     "country": null
