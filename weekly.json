@@ -2,26 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3098,
-    "lastKill": "2026-11-09 11:53:14"
+    "kills": 3374,
+    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 357,
-    "lastKill": "2026-11-09 11:53:14"
+    "kills": 359,
+    "lastKill": "2026-11-09 12:48:13"
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 232,
+    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 170,
     "lastKill": "2026-11-09 10:56:50"
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 153,
-    "lastKill": "2026-11-09 11:53:14"
   },
   {
     "playerId": "20666777",
@@ -40,6 +40,18 @@
     "username": "WillyWonkaBar",
     "kills": 91,
     "lastKill": "2026-11-09 03:33:09"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 88,
+    "lastKill": "2026-11-09 12:48:13"
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 86,
+    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "22716354",
@@ -90,22 +102,16 @@
     "lastKill": "2026-11-09 01:41:37"
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 48,
-    "lastKill": "2026-11-09 11:53:14"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 48,
     "lastKill": "2026-11-09 09:02:23"
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 46,
-    "lastKill": "2026-11-09 11:53:14"
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 43,
+    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "8590474",
@@ -156,6 +162,12 @@
     "lastKill": "2026-11-09 09:02:23"
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 10,
+    "lastKill": "2026-11-09 12:48:13"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 9,
@@ -170,8 +182,8 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 7,
-    "lastKill": "2026-11-09 01:41:37"
+    "kills": 9,
+    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "22056849",
@@ -498,12 +510,6 @@
     "lastKill": null
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 0,
@@ -806,12 +812,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": null
   },
