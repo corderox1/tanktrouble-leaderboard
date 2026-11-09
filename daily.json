@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2887,
-    "lastKill": "2026-11-08 18:08:19"
+    "kills": 3092,
+    "lastKill": "2026-11-08 19:07:37"
   },
   {
     "playerId": "10794529",
@@ -56,19 +56,19 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 131,
-    "lastKill": "2026-11-08 18:08:19"
+    "kills": 146,
+    "lastKill": "2026-11-08 19:07:37"
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 139,
+    "lastKill": "2026-11-08 19:07:37"
   },
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 130,
-    "lastKill": "2026-11-08 17:13:39"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 123,
     "lastKill": "2026-11-08 17:13:39"
   },
   {
@@ -88,6 +88,12 @@
     "username": "voloding",
     "kills": 90,
     "lastKill": "2026-11-08 13:22:56"
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 74,
+    "lastKill": "2026-11-08 19:07:37"
   },
   {
     "playerId": "8590474",
@@ -216,16 +222,16 @@
     "lastKill": "2026-11-08 12:23:21"
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 9,
+    "lastKill": "2026-11-08 19:07:37"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 9,
     "lastKill": "2026-11-08 02:03:18"
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 6,
-    "lastKill": "2026-11-08 06:51:21"
   },
   {
     "playerId": "6776098",
@@ -386,12 +392,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0,
     "lastKill": null
   },
