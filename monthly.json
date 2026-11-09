@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44424,
-    "lastKill": "2026-11-09 14:43:14"
+    "kills": 44669,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "22710399",
@@ -306,6 +306,12 @@
     "lastKill": "2026-11-07 12:02:32"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 201,
+    "lastKill": "2026-11-09 15:43:43"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 198,
@@ -324,12 +330,6 @@
     "lastKill": "2026-11-09 09:58:15"
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 182,
-    "lastKill": "2026-11-09 12:48:13"
-  },
-  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 178,
@@ -346,6 +346,12 @@
     "username": "FATAI169",
     "kills": 165,
     "lastKill": "2026-11-07 11:07:40"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 164,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "19583686",
@@ -376,12 +382,6 @@
     "username": "ISAH",
     "kills": 150,
     "lastKill": "2026-11-06 06:02:54"
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 149,
-    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "3990108",
@@ -428,8 +428,8 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 115,
-    "lastKill": "2026-11-09 04:27:59"
+    "kills": 116,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "21098942",
@@ -508,6 +508,12 @@
     "username": "dvi9311",
     "kills": 27,
     "lastKill": "2026-11-06 16:23:01"
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 22,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "793356",
@@ -1244,12 +1250,6 @@
   {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
     "kills": 0,
     "lastKill": null
   },

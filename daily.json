@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3916,
-    "lastKill": "2026-11-09 14:43:14"
+    "kills": 4161,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "22472796",
@@ -48,16 +48,16 @@
     "lastKill": "2026-11-09 13:48:15"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 105,
+    "lastKill": "2026-11-09 15:43:43"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 91,
     "lastKill": "2026-11-09 03:33:09"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 86,
-    "lastKill": "2026-11-09 12:48:13"
   },
   {
     "playerId": "21452912",
@@ -108,6 +108,12 @@
     "lastKill": "2026-11-09 13:48:15"
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 63,
+    "lastKill": "2026-11-09 15:43:43"
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 55,
@@ -117,12 +123,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 49,
-    "lastKill": "2026-11-09 14:43:14"
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 48,
     "lastKill": "2026-11-09 14:43:14"
   },
   {
@@ -148,6 +148,12 @@
     "username": "3w0n",
     "kills": 30,
     "lastKill": "2026-11-09 07:13:12"
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 22,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "22042037",
@@ -188,8 +194,8 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 9,
-    "lastKill": "2026-11-09 04:27:59"
+    "kills": 10,
+    "lastKill": "2026-11-09 15:43:43"
   },
   {
     "playerId": "17149251",
@@ -1214,12 +1220,6 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
     "kills": 0,
     "lastKill": null
   },
