@@ -2,26 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2251,
-    "lastKill": "2026-11-09 09:58:15"
+    "kills": 2734,
+    "lastKill": "2026-11-09 10:56:50"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 326,
-    "lastKill": "2026-11-09 09:58:16"
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 137,
-    "lastKill": "2026-11-09 08:07:53"
+    "kills": 351,
+    "lastKill": "2026-11-09 10:56:50"
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 134,
-    "lastKill": "2026-11-09 09:58:15"
+    "kills": 170,
+    "lastKill": "2026-11-09 10:56:50"
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 140,
+    "lastKill": "2026-11-09 10:56:50"
   },
   {
     "playerId": "20666777",
@@ -78,6 +78,12 @@
     "lastKill": "2026-11-09 01:41:37"
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 55,
+    "lastKill": "2026-11-09 10:56:50"
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 55,
@@ -102,16 +108,16 @@
     "lastKill": "2026-11-09 09:02:23"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 33,
+    "lastKill": "2026-11-09 10:56:50"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 30,
     "lastKill": "2026-11-09 07:13:12"
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 28,
-    "lastKill": "2026-11-09 09:58:15"
   },
   {
     "playerId": "22042037",
@@ -174,10 +180,22 @@
     "lastKill": "2026-11-09 01:41:37"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 3,
+    "lastKill": "2026-11-09 10:56:50"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 3,
     "lastKill": "2026-11-09 09:02:23"
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 2,
+    "lastKill": "2026-11-09 10:56:50"
   },
   {
     "playerId": "1145079",
@@ -296,12 +314,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -510,12 +522,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -566,12 +572,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
     "kills": 0,
     "lastKill": null
   },
