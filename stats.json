@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35348339,
-    "kills": 44479846,
-    "deaths": 41971027,
-    "suicides": 9422930,
+    "victories": 35348556,
+    "kills": 44480091,
+    "deaths": 41971344,
+    "suicides": 9423000,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 29,
+    "rank": 49,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1033,8 +1033,8 @@
     "username": "Rapid",
     "victories": 25370,
     "kills": 42226,
-    "deaths": 60858,
-    "suicides": 13059,
+    "deaths": 60859,
+    "suicides": 13060,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1072,7 +1072,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1736517443,
-    "lastLogin": 1794162980,
+    "lastLogin": 1794226925,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1129,10 +1129,10 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "victories": 22895,
-    "kills": 36349,
-    "deaths": 42724,
-    "suicides": 7732,
+    "victories": 22926,
+    "kills": 36379,
+    "deaths": 42764,
+    "suicides": 7747,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1166,11 +1166,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794159559,
+    "lastForumPost": 1794228204,
     "guest": false,
     "gmLevel": null,
     "created": 1736519234,
-    "lastLogin": 1794159304,
+    "lastLogin": 1794226885,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2501,10 +2501,10 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "victories": 14513,
-    "kills": 6874,
-    "deaths": 10119,
-    "suicides": 2328,
+    "victories": 14606,
+    "kills": 6947,
+    "deaths": 10257,
+    "suicides": 2359,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2648,10 +2648,10 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "victories": 21997,
-    "kills": 32258,
-    "deaths": 34330,
-    "suicides": 9484,
+    "victories": 22000,
+    "kills": 32271,
+    "deaths": 34346,
+    "suicides": 9487,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2689,7 +2689,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1753784242,
-    "lastLogin": 1794222484,
+    "lastLogin": 1794228851,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 16332,
-    "kills": 29670,
-    "deaths": 48465,
-    "suicides": 12898,
+    "victories": 16364,
+    "kills": 29708,
+    "deaths": 48528,
+    "suicides": 12913,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 6483,
-    "kills": 9011,
-    "deaths": 4018,
-    "suicides": 843,
+    "victories": 6491,
+    "kills": 9019,
+    "deaths": 4024,
+    "suicides": 846,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3718,7 +3718,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789068508,
-    "lastLogin": 1794191437,
+    "lastLogin": 1794229486,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1794219295,
+    "lastLogin": 1794226692,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 50969,
-    "kills": 99985,
-    "deaths": 105189,
-    "suicides": 24412,
+    "victories": 50989,
+    "kills": 100001,
+    "deaths": 105199,
+    "suicides": 24413,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7932,7 +7932,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
-    "lastLogin": 1794223193,
+    "lastLogin": 1794229248,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9402,7 +9402,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1593248717,
-    "lastLogin": 1793863707,
+    "lastLogin": 1794228845,
     "banned": false,
     "usernameApproved": true,
     "country": null
