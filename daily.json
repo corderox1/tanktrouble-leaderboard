@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3630,
-    "lastKill": "2026-11-09 13:48:15"
+    "kills": 3916,
+    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "22472796",
@@ -12,14 +12,14 @@
     "lastKill": "2026-11-09 12:48:13"
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 241,
-    "lastKill": "2026-11-09 13:48:15"
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
+    "kills": 251,
+    "lastKill": "2026-11-09 14:43:14"
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 241,
     "lastKill": "2026-11-09 13:48:15"
   },
@@ -34,6 +34,12 @@
     "username": "soso_boy",
     "kills": 117,
     "lastKill": "2026-11-09 09:02:23"
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 116,
+    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "20269995",
@@ -56,14 +62,20 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 84,
-    "lastKill": "2026-11-09 13:48:15"
+    "kills": 85,
+    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 75,
     "lastKill": "2026-11-09 08:07:53"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 75,
+    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "22105718",
@@ -76,12 +88,6 @@
     "username": "Supernova-135",
     "kills": 71,
     "lastKill": "2026-11-09 06:18:12"
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 70,
-    "lastKill": "2026-11-09 09:02:23"
   },
   {
     "playerId": "10523030",
@@ -108,6 +114,18 @@
     "lastKill": "2026-11-09 01:41:37"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 49,
+    "lastKill": "2026-11-09 14:43:14"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 48,
+    "lastKill": "2026-11-09 14:43:14"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 48,
@@ -132,12 +150,6 @@
     "lastKill": "2026-11-09 07:13:12"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 27,
-    "lastKill": "2026-11-09 13:48:15"
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 15,
@@ -148,12 +160,6 @@
     "username": "kai-cj7",
     "kills": 14,
     "lastKill": "2026-11-09 09:58:16"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 13,
-    "lastKill": "2026-11-09 13:48:15"
   },
   {
     "playerId": "20011985",
@@ -202,6 +208,12 @@
     "username": "Preww",
     "kills": 6,
     "lastKill": "2026-11-09 04:27:59"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 4,
+    "lastKill": "2026-11-09 14:43:14"
   },
   {
     "playerId": "22651240",
@@ -314,12 +326,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0,
     "lastKill": null
   },
@@ -608,12 +614,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },

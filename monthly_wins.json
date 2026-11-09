@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 35557
+    "kills": 35735
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1161
+    "kills": 1194
   },
   {
     "playerId": "10794529",
@@ -52,7 +52,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 743
+    "kills": 753
   },
   {
     "playerId": "22716354",
@@ -70,6 +70,11 @@
     "kills": 503
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 500
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 497
@@ -78,11 +83,6 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 465
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 458
   },
   {
     "playerId": "10502780",
@@ -102,7 +102,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 402
+    "kills": 403
   },
   {
     "playerId": "3923647",
@@ -147,7 +147,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 270
+    "kills": 271
   },
   {
     "playerId": "22105718",
@@ -170,6 +170,11 @@
     "kills": 244
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 228
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 226
@@ -183,11 +188,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 224
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 211
   },
   {
     "playerId": "14617724",
@@ -215,6 +215,11 @@
     "kills": 186
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 167
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 165
@@ -223,11 +228,6 @@
     "playerId": "17953682",
     "username": "hohi",
     "kills": 158
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 137
   },
   {
     "playerId": "17149251",
@@ -372,7 +372,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 43
+    "kills": 48
   },
   {
     "playerId": "20644558",
