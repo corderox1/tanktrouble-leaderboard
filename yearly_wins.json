@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 221147
+    "kills": 221219
   },
   {
     "playerId": "8590474",
@@ -145,6 +145,11 @@
     "kills": 1461
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 1461
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1438
@@ -160,19 +165,14 @@
     "kills": 1422
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 1399
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 1395
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 1377
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 1368
   },
   {
     "playerId": "19138057",
@@ -335,13 +335,13 @@
     "kills": 472
   },
   {
-    "playerId": "20644558",
-    "username": "x",
-    "kills": 433
-  },
-  {
     "playerId": "16092601",
     "username": "fyrenado",
+    "kills": 436
+  },
+  {
+    "playerId": "20644558",
+    "username": "x",
     "kills": 433
   },
   {
@@ -378,6 +378,11 @@
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 315
+  },
+  {
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 304
   },
   {
     "playerId": "3162693",
@@ -470,11 +475,6 @@
     "kills": 197
   },
   {
-    "playerId": "21180646",
-    "username": "Havamal",
-    "kills": 193
-  },
-  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 188
@@ -507,7 +507,7 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 139
+    "kills": 143
   },
   {
     "playerId": "20869330",

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 40250,
-    "lastKill": "2026-11-08 22:53:10"
+    "kills": 40359,
+    "lastKill": "2026-11-08 23:48:08"
   },
   {
     "playerId": "22710399",
@@ -146,14 +146,26 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 447,
-    "lastKill": "2026-11-08 22:53:10"
+    "kills": 476,
+    "lastKill": "2026-11-08 23:48:08"
+  },
+  {
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 465,
+    "lastKill": "2026-11-08 23:48:08"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 432,
     "lastKill": "2026-11-08 08:42:11"
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 425,
+    "lastKill": "2026-11-08 23:48:08"
   },
   {
     "playerId": "1185396",
@@ -208,18 +220,6 @@
     "username": "Hafiz-Muhammad",
     "kills": 348,
     "lastKill": "2026-11-08 09:37:27"
-  },
-  {
-    "playerId": "21180646",
-    "username": "Havamal",
-    "kills": 345,
-    "lastKill": "2026-11-08 22:53:10"
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 324,
-    "lastKill": "2026-11-08 22:53:10"
   },
   {
     "playerId": "10523030",
@@ -314,8 +314,8 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 170,
-    "lastKill": "2026-11-08 22:53:10"
+    "kills": 177,
+    "lastKill": "2026-11-08 23:48:08"
   },
   {
     "playerId": "21103294",
@@ -486,6 +486,12 @@
     "lastKill": "2026-11-08 08:42:11"
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 31,
+    "lastKill": "2026-11-08 23:48:08"
+  },
+  {
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 27,
@@ -496,12 +502,6 @@
     "username": "dvi9311",
     "kills": 27,
     "lastKill": "2026-11-06 16:23:01"
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 22,
-    "lastKill": "2026-11-08 12:23:21"
   },
   {
     "playerId": "21251653",
