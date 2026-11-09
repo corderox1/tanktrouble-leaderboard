@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1210
+    "kills": 1385
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 113
+    "kills": 225
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 82
+    "kills": 83
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 56
   },
   {
     "playerId": "19726920",
@@ -35,6 +40,16 @@
     "kills": 35
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 34
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 34
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 34
@@ -45,29 +60,14 @@
     "kills": 31
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 24
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 20
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 18
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 8
-  },
-  {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 6
+    "kills": 9
   },
   {
     "playerId": "22757188",
@@ -92,6 +92,11 @@
   {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 2
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
     "kills": 2
   },
   {
@@ -702,11 +707,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0
   },
   {
