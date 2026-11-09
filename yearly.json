@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 283160,
-    "lastKill": "2026-11-09 00:43:08"
+    "kills": 283274,
+    "lastKill": "2026-11-09 01:41:37"
   },
   {
     "playerId": "8590474",
@@ -198,6 +198,12 @@
     "lastKill": "2026-11-07 11:07:40"
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 2338,
+    "lastKill": "2026-11-09 01:41:37"
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 2337,
@@ -207,12 +213,6 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 2329,
-    "lastKill": "2026-11-09 00:43:08"
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 2267,
     "lastKill": "2026-11-09 00:43:08"
   },
   {
@@ -438,6 +438,12 @@
     "lastKill": "2026-11-08 23:48:08"
   },
   {
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 603,
+    "lastKill": "2026-11-09 01:41:37"
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 594,
@@ -468,12 +474,6 @@
     "lastKill": "2026-11-08 02:03:18"
   },
   {
-    "playerId": "21180646",
-    "username": "Havamal",
-    "kills": 548,
-    "lastKill": "2026-11-09 00:43:08"
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 533,
@@ -502,6 +502,12 @@
     "username": "-BarnFindAlly-",
     "kills": 413,
     "lastKill": "2026-11-08 17:13:39"
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 393,
+    "lastKill": "2026-11-09 01:41:37"
   },
   {
     "playerId": "20111777",
@@ -570,16 +576,16 @@
     "lastKill": "2026-10-23 23:43:02"
   },
   {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 324,
-    "lastKill": "2026-11-09 00:43:08"
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 313,
     "lastKill": "2026-11-06 19:16:48"
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 290,
+    "lastKill": "2026-11-09 01:41:37"
   },
   {
     "playerId": "1001669",
@@ -604,12 +610,6 @@
     "username": "NotInvincible",
     "kills": 264,
     "lastKill": "2026-10-25 09:27:46"
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 259,
-    "lastKill": "2026-11-08 05:53:40"
   },
   {
     "playerId": "1341685",
@@ -816,6 +816,12 @@
     "lastKill": "2026-10-27 16:43:06"
   },
   {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 23,
+    "lastKill": "2026-11-09 01:41:37"
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 18,
@@ -838,12 +844,6 @@
     "username": "TripleStryke",
     "kills": 17,
     "lastKill": "2026-09-28 14:07:22"
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
-    "kills": 16,
-    "lastKill": "2026-11-06 21:12:24"
   },
   {
     "playerId": "673237",
@@ -892,6 +892,12 @@
     "username": "Envy",
     "kills": 4,
     "lastKill": "2026-10-12 21:48:33"
+  },
+  {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
+    "kills": 4,
+    "lastKill": "2026-11-09 01:41:37"
   },
   {
     "playerId": "22752688",
@@ -1286,12 +1292,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22651240",
-    "username": "WiIlyWonkaBar",
     "kills": 0,
     "lastKill": null
   }

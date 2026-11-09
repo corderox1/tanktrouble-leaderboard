@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 221347
+    "kills": 221422
   },
   {
     "playerId": "8590474",
@@ -142,7 +142,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1524
+    "kills": 1559
   },
   {
     "playerId": "20269995",
@@ -350,6 +350,11 @@
     "kills": 427
   },
   {
+    "playerId": "21180646",
+    "username": "Havamal",
+    "kills": 416
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 405
@@ -358,11 +363,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 385
-  },
-  {
-    "playerId": "21180646",
-    "username": "Havamal",
-    "kills": 382
   },
   {
     "playerId": "17953682",
@@ -480,9 +480,19 @@
     "kills": 188
   },
   {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 186
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 173
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 170
   },
   {
     "playerId": "20111777",
@@ -490,19 +500,9 @@
     "kills": 168
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 158
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 154
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 150
   },
   {
     "playerId": "16874545",
@@ -685,13 +685,13 @@
     "kills": 12
   },
   {
-    "playerId": "13825931",
-    "username": "Tigers786",
-    "kills": 10
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
+    "kills": 11
+  },
+  {
+    "playerId": "13825931",
+    "username": "Tigers786",
     "kills": 10
   },
   {
@@ -727,6 +727,11 @@
   {
     "playerId": "160470",
     "username": "bbc",
+    "kills": 5
+  },
+  {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
     "kills": 5
   },
   {
@@ -1072,11 +1077,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "22651240",
-    "username": "WiIlyWonkaBar",
     "kills": 0
   }
 ]
