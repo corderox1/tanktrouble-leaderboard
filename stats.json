@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35350595,
-    "kills": 44482770,
-    "deaths": 41974381,
-    "suicides": 9423607,
+    "victories": 35350822,
+    "kills": 44482974,
+    "deaths": 41974621,
+    "suicides": 9423648,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 4,
+    "rank": 22,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 28387,
-    "kills": 44465,
-    "deaths": 49421,
-    "suicides": 10382,
+    "victories": 28422,
+    "kills": 44499,
+    "deaths": 49435,
+    "suicides": 10387,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1794183372,
+    "lastLogin": 1794262848,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2501,10 +2501,10 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "victories": 14795,
-    "kills": 7086,
-    "deaths": 10531,
-    "suicides": 2420,
+    "victories": 14834,
+    "kills": 7130,
+    "deaths": 10597,
+    "suicides": 2431,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6952,7 +6952,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1732758759,
-    "lastLogin": 1794248138,
+    "lastLogin": 1794261589,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7548,10 +7548,10 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "victories": 8062,
-    "kills": 13593,
-    "deaths": 15679,
-    "suicides": 3636,
+    "victories": 8080,
+    "kills": 13634,
+    "deaths": 15724,
+    "suicides": 3643,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3885,
-    "kills": 8366,
-    "deaths": 10984,
-    "suicides": 3233,
+    "victories": 3893,
+    "kills": 8381,
+    "deaths": 11002,
+    "suicides": 3239,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9704,10 +9704,10 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "victories": 3290,
-    "kills": 5793,
-    "deaths": 8009,
-    "suicides": 2035,
+    "victories": 3368,
+    "kills": 5874,
+    "deaths": 8121,
+    "suicides": 2051,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {

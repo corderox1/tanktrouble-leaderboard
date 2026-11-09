@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4161,
-    "lastKill": "2026-11-09 15:43:43"
+    "kills": 4365,
+    "lastKill": "2026-11-09 16:42:29"
   },
   {
     "playerId": "22472796",
@@ -12,16 +12,22 @@
     "lastKill": "2026-11-09 12:48:13"
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 285,
+    "lastKill": "2026-11-09 16:42:29"
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 251,
     "lastKill": "2026-11-09 14:43:14"
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 241,
-    "lastKill": "2026-11-09 13:48:15"
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 146,
+    "lastKill": "2026-11-09 16:42:29"
   },
   {
     "playerId": "20666777",
@@ -48,10 +54,10 @@
     "lastKill": "2026-11-09 13:48:15"
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 105,
-    "lastKill": "2026-11-09 15:43:43"
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 103,
+    "lastKill": "2026-11-09 16:42:29"
   },
   {
     "playerId": "19726920",
@@ -132,6 +138,12 @@
     "lastKill": "2026-11-09 09:02:23"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 34,
+    "lastKill": "2026-11-09 16:42:29"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 34,
@@ -150,10 +162,10 @@
     "lastKill": "2026-11-09 07:13:12"
   },
   {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 22,
-    "lastKill": "2026-11-09 15:43:43"
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 15,
+    "lastKill": "2026-11-09 16:42:29"
   },
   {
     "playerId": "22042037",
@@ -332,12 +344,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": null
   },
@@ -1148,12 +1154,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0,
     "lastKill": null
   },
