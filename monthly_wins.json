@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 34822
+    "kills": 35150
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1253
+    "kills": 1256
   },
   {
     "playerId": "4142755",
@@ -110,14 +110,14 @@
     "kills": 397
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 334
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 333
+    "kills": 349
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 336
   },
   {
     "playerId": "20270104",
@@ -135,19 +135,24 @@
     "kills": 279
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 277
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 270
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 266
-  },
-  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 257
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 254
   },
   {
     "playerId": "21609912",
@@ -167,11 +172,6 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 226
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
     "kills": 226
   },
   {
@@ -315,6 +315,11 @@
     "kills": 82
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 79
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 73
@@ -357,11 +362,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 51
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 51
   },
   {
