@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 387,
-    "lastKill": "2026-11-09 03:33:09"
+    "kills": 754,
+    "lastKill": "2026-11-09 04:27:59"
   },
   {
     "playerId": "19726920",
@@ -38,14 +38,32 @@
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 23,
-    "lastKill": "2026-11-09 03:33:09"
+    "kills": 28,
+    "lastKill": "2026-11-09 04:27:59"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 27,
+    "lastKill": "2026-11-09 04:27:59"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 9,
+    "lastKill": "2026-11-09 04:27:59"
   },
   {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 7,
     "lastKill": "2026-11-09 01:41:37"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 6,
+    "lastKill": "2026-11-09 04:27:59"
   },
   {
     "playerId": "22651240",
@@ -516,12 +534,6 @@
     "lastKill": null
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 0,
@@ -894,12 +906,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1076,12 +1082,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0,
     "lastKill": null
   },
