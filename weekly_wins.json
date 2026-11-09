@@ -2,22 +2,27 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2741
+    "kills": 2903
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 299
+    "kills": 302
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 111
+    "kills": 191
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 87
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 75
   },
   {
     "playerId": "20984454",
@@ -28,11 +33,6 @@
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 72
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 64
   },
   {
     "playerId": "22105718",
@@ -55,9 +55,19 @@
     "kills": 46
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 43
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 41
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 38
   },
   {
     "playerId": "19138057",
@@ -68,11 +78,6 @@
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 36
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 35
   },
   {
     "playerId": "22716354",
@@ -90,11 +95,6 @@
     "kills": 31
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 30
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 30
@@ -110,6 +110,16 @@
     "kills": 18
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 16
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 11
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 11
@@ -120,6 +130,11 @@
     "kills": 9
   },
   {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 6
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 6
@@ -127,11 +142,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 5
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 5
   },
   {
@@ -277,11 +287,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
@@ -502,11 +507,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
