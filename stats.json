@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35346735,
-    "kills": 44477924,
-    "deaths": 41968653,
-    "suicides": 9422484,
+    "victories": 35346971,
+    "kills": 44478155,
+    "deaths": 41968968,
+    "suicides": 9422542,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -590,10 +590,10 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "victories": 18676,
-    "kills": 26360,
-    "deaths": 29860,
-    "suicides": 6206,
+    "victories": 18697,
+    "kills": 26380,
+    "deaths": 29870,
+    "suicides": 6210,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -627,7 +627,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794035168,
+    "lastForumPost": 1794192198,
     "guest": false,
     "gmLevel": null,
     "created": 1618340623,
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1794184144,
+    "lastLogin": 1794191895,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 6439,
-    "kills": 8942,
-    "deaths": 3955,
-    "suicides": 832,
+    "victories": 6467,
+    "kills": 8986,
+    "deaths": 3984,
+    "suicides": 838,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3718,7 +3718,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789068508,
-    "lastLogin": 1794165257,
+    "lastLogin": 1794191437,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6276,7 +6276,7 @@
     "username": "SmellMySocks",
     "victories": 18088,
     "kills": 26261,
-    "deaths": 28028,
+    "deaths": 28029,
     "suicides": 6887,
     "experience": 0,
     "surrenders": 0,
@@ -6315,7 +6315,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1670617999,
-    "lastLogin": 1794121770,
+    "lastLogin": 1794190580,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8920,10 +8920,10 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "victories": 3870,
-    "kills": 8324,
-    "deaths": 10918,
-    "suicides": 3212,
+    "victories": 3882,
+    "kills": 8357,
+    "deaths": 10949,
+    "suicides": 3224,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8961,7 +8961,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1778445247,
-    "lastLogin": 1794178976,
+    "lastLogin": 1794193041,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,10 +8969,10 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 10629,
-    "kills": 15924,
-    "deaths": 9425,
-    "suicides": 3590,
+    "victories": 10670,
+    "kills": 15987,
+    "deaths": 9472,
+    "suicides": 3605,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
