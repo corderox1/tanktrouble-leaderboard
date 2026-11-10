@@ -1681,6 +1681,7 @@
         0 0 5px rgba(212, 175, 55, 0.25);
 }
 
+\n/* =========================================================\n   EXPANDED STATS PLATFORM\n========================================================= */\n.site-page { display: none; }\n.site-page.active-page { display: block; }\n\n.site-nav {\n    width: min(1100px, calc(100% - 32px));\n    margin: 4px auto 28px;\n    display: flex;\n    justify-content: center;\n    flex-wrap: wrap;\n    gap: 8px;\n    padding: 8px;\n    background: rgba(18,18,18,.88);\n    border: 1px solid #303030;\n    border-radius: 14px;\n    box-shadow: 0 10px 30px rgba(0,0,0,.25);\n}\n.site-nav .nav-button {\n    border: 1px solid #393939;\n    background: #141414;\n    color: #aaa;\n    border-radius: 9px;\n    padding: 10px 16px;\n    font: inherit;\n    font-size: 13px;\n    cursor: pointer;\n    transition: .18s;\n}\n.site-nav .nav-button:hover {\n    color: #fff;\n    border-color: #d4af37;\n    box-shadow: 0 0 12px rgba(212,175,55,.12);\n}\n.site-nav .nav-button.active {\n    color: #fff;\n    border-color: #d4af37;\n    background: linear-gradient(180deg,#29240f,#171717);\n    box-shadow: 0 0 14px rgba(212,175,55,.15);\n}\n\n.search-result-panel {\n    width: min(900px, calc(100% - 40px));\n    margin: 10px auto 18px;\n    padding: 16px;\n    background: #121212;\n    border: 1px solid #343434;\n    border-radius: 14px;\n    display: none;\n}\n.search-result-head { display:flex; align-items:center; justify-content:space-between; gap:15px; }\n.search-result-name { font-size: 22px; color:#fff; text-shadow:0 0 7px rgba(212,175,55,.3); }\n.search-result-kd { color:#aaa; font-size:12px; }\n.search-rank-grid {\n    display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-top:12px;\n}\n.search-rank-chip {\n    padding:10px; background:#191919; border:1px solid #303030; border-radius:9px; text-align:center;\n}\n.search-rank-chip span { display:block; color:#888; font-size:10px; margin-bottom:3px; }\n.search-rank-chip strong { color:#fff; font-size:15px; -webkit-text-stroke:.25px #d4af37; text-shadow:0 0 4px rgba(212,175,55,.25); }\n.search-result-actions { margin-top:12px; display:flex; justify-content:center; }\n.search-result-actions button, .feature-button {\n    border:1px solid #6f5b1a; background:#171717; color:#fff; border-radius:8px; padding:9px 15px; font:inherit; cursor:pointer;\n}\n.search-result-actions button:hover, .feature-button:hover { border-color:#d4af37; box-shadow:0 0 12px rgba(212,175,55,.12); }\n\n.feature-page { width:min(1300px,calc(100% - 32px)); margin:0 auto 50px; }\n.feature-title { text-align:center; color:#fff; font-size:30px; margin:12px 0 6px; text-shadow:0 0 8px rgba(212,175,55,.35); }\n.feature-subtitle { text-align:center; color:#888; font-family:Arial,sans-serif; font-size:13px; margin-bottom:20px; }\n.feature-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }\n.feature-card { background:#121212; border:1px solid #303030; border-radius:14px; overflow:hidden; box-shadow:0 12px 35px rgba(0,0,0,.22); }\n.feature-card h3 { margin:0; padding:14px 16px; color:#fff; border-bottom:1px solid #2b2b2b; font-size:17px; }\n.feature-card-body { padding:14px; }\n.feature-row { display:grid; grid-template-columns:42px 1fr auto; align-items:center; gap:10px; padding:10px 6px; border-bottom:1px solid #242424; cursor:pointer; }\n.feature-row:last-child { border-bottom:0; }\n.feature-row:hover { background:#191919; }\n.feature-rank { color:#888; }\n.feature-name { color:#eee; }\n.feature-value { color:#fff; -webkit-text-stroke:.25px #d4af37; text-shadow:0 0 4px rgba(212,175,55,.25); }\n.feature-empty { color:#777; padding:20px; text-align:center; font-family:Arial,sans-serif; }\n\n.achievement-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }\n.achievement-card { background:#151515; border:1px solid #303030; border-radius:12px; padding:15px; }\n.achievement-icon { font-size:26px; }\n.achievement-card h4 { margin:7px 0 3px; color:#fff; }\n.achievement-card p { margin:0; color:#888; font-family:Arial,sans-serif; font-size:12px; line-height:1.4; }\n.achievement-card.unlocked { border-color:#806b20; box-shadow:0 0 15px rgba(212,175,55,.08); }\n\n.record-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }\n.record-card { padding:16px; background:#151515; border:1px solid #303030; border-radius:12px; }\n.record-label { color:#888; font-size:11px; }\n.record-player { color:#fff; font-size:18px; margin:6px 0; }\n.record-value { color:#fff; -webkit-text-stroke:.25px #d4af37; text-shadow:0 0 4px rgba(212,175,55,.25); }\n\n.profile-rank-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin:14px 0; }\n.profile-rank-chip { background:#151515; border:1px solid #2d2d2d; border-radius:9px; padding:9px 5px; text-align:center; }\n.profile-rank-chip span { display:block; color:#777; font-size:10px; }\n.profile-rank-chip strong { color:#fff; font-size:14px; }\n.profile-extra { margin-top:12px; }\n.profile-extra-title { color:#fff; font-size:14px; margin-bottom:8px; }\n.profile-achievements { display:flex; flex-wrap:wrap; gap:6px; justify-content:center; }\n.profile-achievement { padding:6px 9px; border:1px solid #4a4a4a; border-radius:20px; background:#171717; color:#ddd; font-size:11px; }\n.profile-last-recorded { color:#777; font-size:11px; text-align:center; margin-top:10px; }\n\n.history-wrap { background:#111; border:1px solid #2e2e2e; border-radius:12px; padding:10px; }\n#profileHistoryChart { width:100%; height:170px; display:block; }\n\n@media(max-width:800px){\n    .search-rank-grid{grid-template-columns:repeat(2,1fr)}\n    .feature-grid{grid-template-columns:1fr}\n    .achievement-grid{grid-template-columns:repeat(2,1fr)}\n    .record-grid{grid-template-columns:1fr}\n    .profile-rank-grid{grid-template-columns:repeat(2,1fr)}\n}\n@media(max-width:500px){\n    .achievement-grid{grid-template-columns:1fr}\n    .site-nav .nav-button{padding:8px 10px;font-size:12px}\n}\n
 </style>
 
 </head>
@@ -1748,6 +1749,14 @@
         
     </header>
 
+<nav class="site-nav" aria-label="Main navigation">
+    <button class="nav-button active" data-page="leaderboardPage" onclick="showSitePage('leaderboardPage', this)">🏆 Leaderboard</button>
+    <button class="nav-button" data-page="playersPage" onclick="showSitePage('playersPage', this)">👤 Players</button>
+    <button class="nav-button" data-page="hallPage" onclick="showSitePage('hallPage', this)">🏛️ Hall of Fame</button>
+    <button class="nav-button" data-page="achievementsPage" onclick="showSitePage('achievementsPage', this)">🏅 Achievements</button>
+</nav>
+
+
 
 
 
@@ -1756,6 +1765,7 @@
 
 
     
+<main id="leaderboardPage" class="site-page active-page">
 <div class="search-container">
     <input
         type="text"
@@ -1763,6 +1773,8 @@
         placeholder="Search players..."
         oninput="searchPlayers()"
     >
+
+    <div id="searchResultPanel" class="search-result-panel"></div>
 
     <!-- LAIKA -->
 
@@ -2018,7 +2030,10 @@
 
 
 
-    <script>
+    
+</main>
+
+<script>
 
 const TANK_ASSETS = {
   "accessories/back1": "build/assets/images/tankIcon/accessories/back1-640-975f299e.avif",
@@ -3711,7 +3726,336 @@ document.addEventListener("click", function(event) {
     }
 
 });    
-    </script>
+    
+
+/* =========================================================
+   EXPANDED STATS / SEARCH / PROFILE SYSTEM
+========================================================= */
+const DATA_BASE = "https://raw.githubusercontent.com/corderox1/tanktrouble-leaderboard/main/";
+let statsCache = null;
+let historyCache = null;
+let leaderboardCache = {};
+
+async function fetchJsonFile(name) {
+    const response = await fetch(DATA_BASE + name + "?time=" + Date.now());
+    if (!response.ok) throw new Error("Could not load " + name);
+    return response.json();
+}
+
+async function getStats() {
+    if (!statsCache) statsCache = await fetchJsonFile("stats.json");
+    return statsCache;
+}
+
+async function getHistory() {
+    if (!historyCache) historyCache = await fetchJsonFile("history.json");
+    return historyCache;
+}
+
+async function getBoard(period, stat="kills") {
+    const key = period + "_" + stat;
+    if (!leaderboardCache[key]) {
+        leaderboardCache[key] = await fetchJsonFile(
+            stat === "wins" ? period + "_wins.json" : period + ".json"
+        );
+    }
+    return leaderboardCache[key];
+}
+
+function realOnly(list) {
+    return (list || []).filter(p => String(p.username).toLowerCase() !== "laika");
+}
+
+function playerRank(list, id) {
+    const clean = realOnly(list);
+    const index = clean.findIndex(p => String(p.playerId) === String(id));
+    return index >= 0 ? index + 1 : null;
+}
+
+function rankText(rank) {
+    return rank ? "#" + rank.toLocaleString() : "—";
+}
+
+function safeName(name) {
+    return String(name).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+}
+
+async function showSitePage(pageId, button) {
+    document.querySelectorAll(".site-page").forEach(p => p.classList.remove("active-page"));
+    const page = document.getElementById(pageId);
+    if (page) page.classList.add("active-page");
+
+    document.querySelectorAll(".site-nav .nav-button").forEach(b => b.classList.remove("active"));
+    if (button) button.classList.add("active");
+
+    if (pageId === "playersPage") await loadPlayersTools();
+    if (pageId === "hallPage") await loadHallOfFame();
+    if (pageId === "achievementsPage") await loadAchievementCatalog();
+    window.scrollTo({top: 0, behavior: "smooth"});
+}
+
+async function buildPlayerRanks(playerId) {
+    const [daily, weekly, monthly, yearly, lifetimeKills, lifetimeWins, stats] = await Promise.all([
+        getBoard("daily","kills"), getBoard("weekly","kills"), getBoard("monthly","kills"), getBoard("yearly","kills"),
+        fetchJsonFile("total_kills.json"),
+        fetchJsonFile("total_wins.json"),
+        getStats()
+    ]);
+
+    const kdList = realOnly(stats).map(p => ({...p, kd: p.deaths ? p.kills / p.deaths : p.kills})).sort((a,b)=>b.kd-a.kd);
+    return {
+        daily: playerRank(daily, playerId), weekly: playerRank(weekly, playerId), monthly: playerRank(monthly, playerId), yearly: playerRank(yearly, playerId),
+        lifetimeKills: playerRank(lifetimeKills, playerId), lifetimeWins: playerRank(lifetimeWins, playerId),
+        kd: playerRank(kdList, playerId)
+    };
+}
+
+function rankChipsHtml(ranks) {
+    const items = [
+        ["Daily", ranks.daily], ["Weekly", ranks.weekly], ["Monthly", ranks.monthly], ["Yearly", ranks.yearly],
+        ["Lifetime Kills", ranks.lifetimeKills], ["Lifetime Wins", ranks.lifetimeWins], ["K/D", ranks.kd]
+    ];
+    return items.map(([label, rank]) => `<div class="profile-rank-chip"><span>${label}</span><strong>${rankText(rank)}</strong></div>`).join("");
+}
+
+function calculateActivityStreak(playerId, history) {
+    const days = new Set();
+    const h = (history || []).filter(x => String(x.playerId) === String(playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T")));
+    for (let i=1;i<h.length;i++) {
+        if (Number(h[i].kills) > Number(h[i-1].kills) || Number(h[i].victories) > Number(h[i-1].victories)) {
+            days.add(h[i].date.slice(0,10));
+        }
+    }
+    let dates = [...days].sort((a,b)=>new Date(b)-new Date(a));
+    if (!dates.length) return 0;
+    let streak = 1;
+    for (let i=0;i<dates.length-1;i++) {
+        const a=new Date(dates[i]+"T00:00:00");
+        const b=new Date(dates[i+1]+"T00:00:00");
+        const diff=Math.round((a-b)/86400000);
+        if (diff===1) streak++; else break;
+    }
+    return streak;
+}
+
+function getAchievementList(player, ranks, history) {
+    const achievements = [];
+    const kills = Number(player.kills || 0), wins = Number(player.victories || 0), deaths = Number(player.deaths || 0);
+    const kd = deaths ? kills / deaths : kills;
+    const h = (history || []).filter(x => String(x.playerId) === String(player.playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T")));
+    const streak = calculateActivityStreak(player.playerId, history);
+    const dailyMax = (() => {
+        const byDay = {};
+        h.forEach((x,i)=>{
+            if (!i) return;
+            const prev=h[i-1]; const d=x.date.slice(0,10);
+            const gain=Math.max(0,Number(x.kills)-Number(prev.kills));
+            byDay[d]=(byDay[d]||0)+gain;
+        });
+        return Math.max(0,...Object.values(byDay));
+    })();
+    if (kills >= 1000) achievements.push(["⚔️","1K Kills","Reached 1,000 lifetime kills"]);
+    if (kills >= 10000) achievements.push(["💀","10K Kills","Reached 10,000 lifetime kills"]);
+    if (kills >= 50000) achievements.push(["🔥","50K Kills","Reached 50,000 lifetime kills"]);
+    if (wins >= 1000) achievements.push(["🏆","1K Wins","Reached 1,000 lifetime wins"]);
+    if (wins >= 10000) achievements.push(["👑","10K Wins","Reached 10,000 lifetime wins"]);
+    if (kd >= 2) achievements.push(["🎯","2.0 K/D","Maintained at least a 2.00 K/D"]);
+    if (kd >= 3) achievements.push(["🎯","3.0 K/D","Maintained at least a 3.00 K/D"]);
+    if (dailyMax >= 100) achievements.push(["🔥","100 in a Day","Gained 100+ kills in a recorded day"]);
+    if (streak >= 7) achievements.push(["📅","7-Day Streak","Recorded activity on seven consecutive days"]);
+    if (streak >= 30) achievements.push(["📅","30-Day Streak","Recorded activity on thirty consecutive days"]);
+    if (ranks.daily === 1 || ranks.weekly === 1 || ranks.monthly === 1 || ranks.yearly === 1) achievements.push(["👑","#1","Currently #1 on at least one period leaderboard"]);
+    if (ranks.daily && ranks.daily <= 3 || ranks.weekly && ranks.weekly <= 3 || ranks.monthly && ranks.monthly <= 3 || ranks.yearly && ranks.yearly <= 3) achievements.push(["🥇","Top 3","Currently in the top three on a period leaderboard"]);
+    return achievements;
+}
+
+async function searchPlayers() {
+    const input = document.getElementById("searchInput");
+    const query = input ? input.value.trim().toLowerCase() : "";
+    const panel = document.getElementById("searchResultPanel");
+    const rows = document.querySelectorAll(".player");
+
+    rows.forEach(row => {
+        const nameEl = row.querySelector(".username");
+        const name = nameEl ? nameEl.textContent.toLowerCase() : "";
+        row.style.display = !query || name.includes(query) ? "grid" : "none";
+    });
+
+    if (!panel) return;
+    if (!query) { panel.style.display="none"; panel.innerHTML=""; return; }
+
+    try {
+        const stats = realOnly(await getStats());
+        const matches = stats.filter(p => String(p.username).toLowerCase().includes(query)).slice(0,5);
+        if (!matches.length) {
+            panel.style.display="block";
+            panel.innerHTML=`<div class="feature-empty">No players found.</div>`;
+            return;
+        }
+        const p = matches[0];
+        const ranks = await buildPlayerRanks(p.playerId);
+        const kd = p.deaths ? (p.kills/p.deaths).toFixed(2) : p.kills.toFixed(2);
+        panel.style.display="block";
+        panel.innerHTML=`
+            <div class="search-result-head">
+                <div><div class="search-result-name">${safeName(p.username)}</div><div class="search-result-kd">K/D ${kd} • ${Number(p.kills).toLocaleString()} kills • ${Number(p.victories).toLocaleString()} wins</div></div>
+                <button class="feature-button" onclick="openPlayerProfile('${String(p.playerId)}')">View Profile</button>
+            </div>
+            <div class="search-rank-grid">
+                <div class="search-rank-chip"><span>Daily</span><strong>${rankText(ranks.daily)}</strong></div>
+                <div class="search-rank-chip"><span>Weekly</span><strong>${rankText(ranks.weekly)}</strong></div>
+                <div class="search-rank-chip"><span>Monthly</span><strong>${rankText(ranks.monthly)}</strong></div>
+                <div class="search-rank-chip"><span>Yearly</span><strong>${rankText(ranks.yearly)}</strong></div>
+                <div class="search-rank-chip"><span>Lifetime Kills</span><strong>${rankText(ranks.lifetimeKills)}</strong></div>
+                <div class="search-rank-chip"><span>Lifetime Wins</span><strong>${rankText(ranks.lifetimeWins)}</strong></div>
+                <div class="search-rank-chip"><span>K/D</span><strong>${rankText(ranks.kd)}</strong></div>
+            </div>`;
+    } catch(e) { console.error(e); }
+}
+
+async function loadPlayersTools() {
+    try {
+        const stats=realOnly(await getStats());
+        const kd=stats.map(p=>({...p,kd:p.deaths?p.kills/p.deaths:p.kills})).sort((a,b)=>b.kd-a.kd).slice(0,15);
+        const kdBox=document.getElementById("kdLeaderboard");
+        kdBox.innerHTML=kd.map((p,i)=>`<div class="feature-row" onclick="openPlayerProfile('${p.playerId}')"><div class="feature-rank">${i+1}</div><div class="feature-name">${safeName(p.username)}</div><div class="feature-value">${p.kd.toFixed(2)}</div></div>`).join("");
+        const history=await getHistory();
+        const now=Date.now();
+        const recent=stats.map(p=>{
+            const h=history.filter(x=>String(x.playerId)===String(p.playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T")));
+            let gain=0;
+            const cutoff=now-24*60*60*1000;
+            for(let i=1;i<h.length;i++) if(new Date(h[i].date.replace(" ","T")).getTime()>=cutoff) gain += Math.max(0,Number(h[i].kills)-Number(h[i-1].kills));
+            return {...p,gain};
+        }).sort((a,b)=>b.gain-a.gain).slice(0,15);
+        document.getElementById("activityLeaderboard").innerHTML=recent.map((p,i)=>`<div class="feature-row" onclick="openPlayerProfile('${p.playerId}')"><div class="feature-rank">${i+1}</div><div class="feature-name">${safeName(p.username)}</div><div class="feature-value">+${p.gain.toLocaleString()} kills</div></div>`).join("");
+    } catch(e){ console.error(e); }
+}
+
+async function loadHallOfFame() {
+    try {
+        const stats=realOnly(await getStats());
+        const history=await getHistory();
+        const totalKills=realOnly(await fetchJsonFile("total_kills.json"));
+        const totalWins=realOnly(await fetchJsonFile("total_wins.json"));
+        const kd=[...stats].map(p=>({...p,kd:p.deaths?p.kills/p.deaths:p.kills})).sort((a,b)=>b.kd-a.kd);
+        const daily=realOnly(await getBoard("daily","kills")), weekly=realOnly(await getBoard("weekly","kills")), monthly=realOnly(await getBoard("monthly","kills")), yearly=realOnly(await getBoard("yearly","kills"));
+        const maxDaily=Math.max(...daily.map(p=>Number(p.kills)||0),0);
+        const maxDayPlayer=daily.find(p=>Number(p.kills)===maxDaily);
+        const records=[
+            ["💀 Most Lifetime Kills",totalKills[0]?.username,totalKills[0]?.kills||0,"kills"],
+            ["🏆 Most Lifetime Wins",totalWins[0]?.username,totalWins[0]?.kills||0,"wins"],
+            ["🎯 Best K/D",kd[0]?.username,kd[0]?.kd?.toFixed(2)||0,"K/D"],
+            ["🔥 Current Daily Leader",daily[0]?.username,daily[0]?.kills||0,"kills"],
+            ["📅 Current Weekly Leader",weekly[0]?.username,weekly[0]?.kills||0,"kills"],
+            ["🗓️ Current Monthly Leader",monthly[0]?.username,monthly[0]?.kills||0,"kills"]
+        ];
+        document.getElementById("hallRecords").innerHTML=records.map(r=>`<div class="record-card"><div class="record-label">${r[0]}</div><div class="record-player">${safeName(r[1]||"—")}</div><div class="record-value">${Number(r[2]).toLocaleString()} ${r[3]}</div></div>`).join("");
+        const ones=[['Daily',daily[0]],['Weekly',weekly[0]],['Monthly',monthly[0]],['Yearly',yearly[0]]];
+        document.getElementById("currentNumberOnes").innerHTML=ones.map(([label,p])=>`<div class="feature-row" ${p?`onclick="openPlayerProfile('${p.playerId}')"`:''}><div class="feature-rank">👑</div><div class="feature-name">${label}: ${safeName(p?.username||'—')}</div><div class="feature-value">${p?.kills?.toLocaleString()||'—'}</div></div>`).join("");
+        document.getElementById("hallLifetime").innerHTML=totalKills.slice(0,10).map((p,i)=>`<div class="feature-row" onclick="openPlayerProfile('${p.playerId}')"><div class="feature-rank">${i+1}</div><div class="feature-name">${safeName(p.username)}</div><div class="feature-value">${Number(p.kills).toLocaleString()}</div></div>`).join("");
+    } catch(e){ console.error(e); }
+}
+
+async function loadAchievementCatalog() {
+    const catalog=[
+        ["⚔️","1K Kills","Reach 1,000 lifetime kills"],["💀","10K Kills","Reach 10,000 lifetime kills"],["🔥","50K Kills","Reach 50,000 lifetime kills"],
+        ["🏆","1K Wins","Reach 1,000 lifetime wins"],["👑","10K Wins","Reach 10,000 lifetime wins"],["🎯","2.0 K/D","Maintain a 2.00+ K/D"],
+        ["🎯","3.0 K/D","Maintain a 3.00+ K/D"],["🔥","100 in a Day","Gain 100+ kills in a recorded day"],["🥇","Top 3","Finish in the current top three"],["👑","#1","Reach #1 on a period leaderboard"]
+    ];
+    document.getElementById("achievementCatalog").innerHTML=catalog.map(a=>`<div class="achievement-card"><div class="achievement-icon">${a[0]}</div><h4>${a[1]}</h4><p>${a[2]}</p></div>`).join("");
+}
+
+async function drawProfileHistory(playerId) {
+    const canvas=document.getElementById("profileHistoryChart"); if(!canvas) return;
+    const ctx=canvas.getContext("2d"), w=canvas.width, h=canvas.height;
+    ctx.clearRect(0,0,w,h);
+    try {
+        const history=(await getHistory()).filter(x=>String(x.playerId)===String(playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T"))).slice(-18);
+        if(history.length<2){ctx.fillStyle="#777";ctx.font="12px Arial";ctx.fillText("Not enough history yet.",15,30);return;}
+        const gains=history.map((x,i)=>i?Math.max(0,Number(x.kills)-Number(history[i-1].kills)):0);
+        const max=Math.max(...gains,1), pad=22;
+        ctx.strokeStyle="#292929"; ctx.lineWidth=1;
+        for(let i=0;i<4;i++){let y=pad+(h-pad*2)*i/3;ctx.beginPath();ctx.moveTo(pad,y);ctx.lineTo(w-pad,y);ctx.stroke();}
+        ctx.beginPath(); ctx.strokeStyle="#d4af37"; ctx.lineWidth=2;
+        gains.forEach((v,i)=>{const x=pad+(w-pad*2)*i/(gains.length-1);const y=h-pad-(v/max)*(h-pad*2);if(i)ctx.lineTo(x,y);else ctx.moveTo(x,y);});ctx.stroke();
+        ctx.fillStyle="#fff";ctx.font="10px Arial";ctx.fillText("Kills gained per recorded update",pad,12);
+    } catch(e){console.error(e);}
+}
+
+async function openPlayerProfile(playerId) {
+    try {
+        const stats=await getStats();
+        const player=stats.find(p=>String(p.playerId)===String(playerId));
+        if(!player){alert("Player not found.");return;}
+        document.getElementById("profileUsername").textContent=player.username;
+        document.getElementById("profileKills").textContent=Number(player.kills).toLocaleString();
+        document.getElementById("profileDeaths").textContent=Number(player.deaths).toLocaleString();
+        document.getElementById("profileVictories").textContent=Number(player.victories).toLocaleString();
+        document.getElementById("profileSuicides").textContent=Number(player.suicides).toLocaleString();
+        document.getElementById("profileXP").textContent=Number(player.xp).toLocaleString();
+        document.getElementById("profileKD").textContent=(player.deaths?(player.kills/player.deaths):player.kills).toFixed(2);
+        document.getElementById("profileRank").textContent=player.rank ?? "—";
+        document.getElementById("profilePlayerID").textContent=player.playerId;
+        document.getElementById("profileModal").style.display="flex";
+        loadPlayerTank(player);
+        const [ranks,history]=await Promise.all([buildPlayerRanks(player.playerId),getHistory()]);
+        document.getElementById("profileRanks").innerHTML=rankChipsHtml(ranks);
+        const achievements=getAchievementList(player,ranks,history);
+        document.getElementById("profileAchievements").innerHTML=achievements.length?achievements.map(a=>`<span class="profile-achievement">${a[0]} ${a[1]}</span>`).join(""):'<span class="profile-achievement">No achievements yet</span>';
+        const playerHistory=history.filter(x=>String(x.playerId)===String(player.playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T")));
+        const last=playerHistory[playerHistory.length-1];
+        document.getElementById("profileStreak").textContent="Activity streak: "+calculateActivityStreak(player.playerId, history)+" day"+(calculateActivityStreak(player.playerId, history)===1?"":"s");
+        document.getElementById("profileLastRecorded").textContent=last?"Last recorded: "+new Date(last.date.replace(" ","T")).toLocaleString():"Last recorded: —";
+        drawProfileHistory(player.playerId);
+    } catch(e){console.error(e);alert("Could not load player profile.");}
+}
+
+// Load the new feature pages quietly in the background so they are ready immediately.
+loadAchievementCatalog();
+
+</script>
+
+<section id="playersPage" class="site-page">
+    <div class="feature-page">
+        <div class="feature-title">Players</div>
+        <div class="feature-subtitle">Search anyone on the leaderboard or compare lifetime K/D.</div>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>📊 K/D Ratio Leaders</h3>
+                <div class="feature-card-body" id="kdLeaderboard"><div class="feature-empty">Loading...</div></div>
+            </div>
+            <div class="feature-card">
+                <h3>🔥 Recently Active</h3>
+                <div class="feature-card-body" id="activityLeaderboard"><div class="feature-empty">Loading...</div></div>
+            </div>
+            <div class="feature-card">
+                <h3>🟢 Activity Status</h3>
+                <div class="feature-card-body"><div class="feature-empty">The leaderboard records periodic player snapshots, so this page can show recent activity and last recorded times. A true live online list would require TankTrouble's live presence data.</div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="hallPage" class="site-page">
+    <div class="feature-page">
+        <div class="feature-title">Hall of Fame</div>
+        <div class="feature-subtitle">Records calculated from the leaderboard data currently available.</div>
+        <div class="record-grid" id="hallRecords"></div>
+        <div class="feature-grid" style="margin-top:16px;">
+            <div class="feature-card"><h3>👑 Current #1s</h3><div class="feature-card-body" id="currentNumberOnes"></div></div>
+            <div class="feature-card"><h3>🏆 Lifetime Leaders</h3><div class="feature-card-body" id="hallLifetime"></div></div>
+        </div>
+    </div>
+</section>
+
+<section id="achievementsPage" class="site-page">
+    <div class="feature-page">
+        <div class="feature-title">Achievements</div>
+        <div class="feature-subtitle">Milestones are calculated automatically from player stats and leaderboard results.</div>
+        <div class="achievement-grid" id="achievementCatalog"></div>
+    </div>
+</section>
 
 <div id="profileModal" class="profile-modal">
 
@@ -3767,6 +4111,24 @@ document.addEventListener("click", function(event) {
             </div>
 
         </div>
+
+        <div class="profile-extra">
+            <div class="profile-extra-title">Leaderboard Ranks</div>
+            <div class="profile-rank-grid" id="profileRanks"></div>
+        </div>
+
+        <div class="profile-extra">
+            <div class="profile-extra-title">Recent Performance</div>
+            <div class="history-wrap"><canvas id="profileHistoryChart" width="700" height="170"></canvas></div>
+        </div>
+
+        <div class="profile-extra">
+            <div class="profile-extra-title">Achievements</div>
+            <div class="profile-achievements" id="profileAchievements"></div>
+        </div>
+
+        <div class="profile-last-recorded" id="profileStreak">Activity streak: --</div>
+        <div class="profile-last-recorded" id="profileLastRecorded">Last recorded: --</div>
 
     </div>
 
