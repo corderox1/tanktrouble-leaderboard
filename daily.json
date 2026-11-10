@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 359,
-    "lastKill": "2026-11-10 02:52:53"
+    "kills": 538,
+    "lastKill": "2026-11-10 03:53:01"
   },
   {
     "playerId": "14617724",
@@ -12,10 +12,22 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 33,
+    "lastKill": "2026-11-10 03:53:01"
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 27,
-    "lastKill": "2026-11-10 02:52:53"
+    "kills": 32,
+    "lastKill": "2026-11-10 03:53:01"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 10,
+    "lastKill": "2026-11-10 03:53:01"
   },
   {
     "playerId": "9184666",
@@ -24,16 +36,16 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 7,
-    "lastKill": "2026-11-10 02:52:53"
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 3,
     "lastKill": "2026-11-10 01:02:54"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 3,
+    "lastKill": "2026-11-10 03:53:01"
   },
   {
     "playerId": "22710399",
@@ -62,12 +74,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0,
     "lastKill": null
   },
@@ -500,12 +506,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },

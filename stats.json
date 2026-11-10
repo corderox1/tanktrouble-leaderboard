@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35352255,
-    "kills": 44484444,
-    "deaths": 41976422,
-    "suicides": 9424000,
+    "victories": 35352392,
+    "kills": 44484623,
+    "deaths": 41976674,
+    "suicides": 9424056,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19267,
-    "kills": 36964,
-    "deaths": 45659,
-    "suicides": 8881,
+    "victories": 19301,
+    "kills": 36997,
+    "deaths": 45699,
+    "suicides": 8888,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -386,7 +386,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1616212639,
-    "lastLogin": 1794145488,
+    "lastLogin": 1794302604,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3971,10 +3971,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 18207,
-    "kills": 31837,
-    "deaths": 29640,
-    "suicides": 11378,
+    "victories": 18208,
+    "kills": 31840,
+    "deaths": 29643,
+    "suicides": 11381,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6519,10 +6519,10 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "victories": 6692,
-    "kills": 10884,
-    "deaths": 9865,
-    "suicides": 2013,
+    "victories": 6694,
+    "kills": 10889,
+    "deaths": 9873,
+    "suicides": 2018,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1794299519,
+    "lastLogin": 1794303938,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 7983,
-    "kills": 15577,
-    "deaths": 14137,
-    "suicides": 4115,
+    "victories": 7986,
+    "kills": 15580,
+    "deaths": 14139,
+    "suicides": 4116,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
