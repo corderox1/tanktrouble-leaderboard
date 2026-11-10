@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36528
+    "kills": 36709
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1364
+    "kills": 1367
   },
   {
     "playerId": "21601349",
@@ -52,7 +52,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 784
+    "kills": 800
   },
   {
     "playerId": "22716354",
@@ -100,19 +100,19 @@
     "kills": 431
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 409
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 409
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 406
-  },
-  {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 398
+    "kills": 406
   },
   {
     "playerId": "20269995",
@@ -160,14 +160,14 @@
     "kills": 250
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
+    "playerId": "3660774",
+    "username": "Sc4r",
     "kills": 246
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 244
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 246
   },
   {
     "playerId": "8408190",
@@ -222,7 +222,7 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 169
+    "kills": 179
   },
   {
     "playerId": "17953682",
@@ -280,6 +280,11 @@
     "kills": 106
   },
   {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 100
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 100
@@ -305,13 +310,13 @@
     "kills": 95
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 94
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
+    "kills": 88
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
     "kills": 88
   },
   {
@@ -332,11 +337,6 @@
   {
     "playerId": "19583686",
     "username": "Raxlyr",
-    "kills": 73
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 73
   },
   {
@@ -435,13 +435,13 @@
     "kills": 13
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 9
-  },
-  {
     "playerId": "8146384",
     "username": "itachi",
+    "kills": 12
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 9
   },
   {
