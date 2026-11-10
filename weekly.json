@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9197,
-    "lastKill": "2026-11-10 16:57:20"
+    "kills": 9332,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "22472796",
@@ -26,8 +26,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 398,
-    "lastKill": "2026-11-10 16:57:20"
+    "kills": 461,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "21508277",
@@ -76,6 +76,12 @@
     "username": "Palestinene",
     "kills": 179,
     "lastKill": "2026-11-10 16:57:20"
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 177,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "13173087",
@@ -148,12 +154,6 @@
     "username": "Sc4r",
     "kills": 112,
     "lastKill": "2026-11-09 23:13:17"
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 102,
-    "lastKill": "2026-11-10 16:57:20"
   },
   {
     "playerId": "3147484",
@@ -286,6 +286,12 @@
     "username": "Novocaine",
     "kills": 34,
     "lastKill": "2026-11-09 03:33:09"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 33,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "21797119",
@@ -584,12 +590,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": null
   },

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3721,
-    "lastKill": "2026-11-10 16:57:20"
+    "kills": 3856,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "17629928",
@@ -48,6 +48,12 @@
     "lastKill": "2026-11-10 05:42:50"
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 118,
+    "lastKill": "2026-11-10 17:53:14"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 115,
@@ -76,6 +82,12 @@
     "username": "Invincible",
     "kills": 101,
     "lastKill": "2026-11-10 15:02:55"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 96,
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "20269995",
@@ -144,12 +156,6 @@
     "lastKill": "2026-11-10 15:02:55"
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 43,
-    "lastKill": "2026-11-10 16:57:20"
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 42,
@@ -174,10 +180,10 @@
     "lastKill": "2026-11-10 13:11:51"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
+    "playerId": "3162693",
+    "username": "commander",
     "kills": 33,
-    "lastKill": "2026-11-10 16:57:20"
+    "lastKill": "2026-11-10 17:53:14"
   },
   {
     "playerId": "2885724",
@@ -518,12 +524,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": null
   },
