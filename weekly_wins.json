@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5772
+    "kills": 5982
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 410
+    "kills": 416
   },
   {
     "playerId": "4142755",
@@ -18,6 +18,11 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 248
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 112
   },
   {
     "playerId": "19138057",
@@ -33,6 +38,11 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 96
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 95
   },
   {
     "playerId": "21102229",
@@ -53,6 +63,11 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 91
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 89
   },
   {
     "playerId": "20666777",
@@ -80,18 +95,8 @@
     "kills": 70
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 64
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 62
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 62
   },
   {
@@ -125,14 +130,14 @@
     "kills": 46
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 43
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 42
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 43
   },
   {
     "playerId": "19726920",
@@ -143,11 +148,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 40
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 38
   },
   {
     "playerId": "8146384",
@@ -175,6 +175,11 @@
     "kills": 31
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 27
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 27
@@ -198,11 +203,6 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 18
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 17
   },
   {
     "playerId": "1001669",
@@ -265,6 +265,11 @@
     "kills": 5
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 4
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 4
@@ -278,11 +283,6 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 3
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 2
   },
   {
     "playerId": "8502796",
