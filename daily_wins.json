@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2803
+    "kills": 3144
   },
   {
     "playerId": "17629928",
@@ -62,7 +62,7 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 62
+    "kills": 67
   },
   {
     "playerId": "2574833",
@@ -73,6 +73,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 55
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 45
   },
   {
     "playerId": "22706369",
@@ -88,6 +93,11 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 41
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 40
   },
   {
     "playerId": "14617724",
@@ -190,6 +200,11 @@
     "kills": 7
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 5
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 5
@@ -215,8 +230,8 @@
     "kills": 3
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
+    "playerId": "17953682",
+    "username": "hohi",
     "kills": 2
   },
   {
@@ -290,16 +305,6 @@
     "kills": 0
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 0
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 0
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0
@@ -312,11 +317,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0
   },
   {

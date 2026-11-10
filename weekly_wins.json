@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7468
+    "kills": 7809
   },
   {
     "playerId": "21708970",
@@ -15,14 +15,14 @@
     "kills": 487
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 295
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 262
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 255
   },
   {
     "playerId": "22472796",
@@ -37,7 +37,7 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 157
+    "kills": 162
   },
   {
     "playerId": "20269995",
@@ -128,6 +128,11 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 62
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 55
   },
   {
     "playerId": "22757188",
@@ -255,11 +260,6 @@
     "kills": 11
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 10
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 10
@@ -278,6 +278,11 @@
     "playerId": "2885724",
     "username": "Tankyy",
     "kills": 9
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 7
   },
   {
     "playerId": "15931599",
@@ -315,11 +320,6 @@
     "kills": 5
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 4
-  },
-  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 4
@@ -338,6 +338,11 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 3
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 2
   },
   {
     "playerId": "20101050",
@@ -387,11 +392,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0
   },
   {
