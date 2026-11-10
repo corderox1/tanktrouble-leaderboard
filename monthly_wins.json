@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36851
+    "kills": 36933
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1371
+    "kills": 1390
   },
   {
     "playerId": "21601349",
@@ -90,6 +90,11 @@
     "kills": 442
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 439
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 431
@@ -98,11 +103,6 @@
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 431
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 413
   },
   {
     "playerId": "21708970",
@@ -145,6 +145,11 @@
     "kills": 277
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 275
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 271
@@ -155,14 +160,14 @@
     "kills": 257
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 256
-  },
-  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 250
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 249
   },
   {
     "playerId": "22809750",
@@ -170,14 +175,9 @@
     "kills": 246
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 245
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 242
+    "kills": 244
   },
   {
     "playerId": "13773720",
@@ -230,6 +230,11 @@
     "kills": 158
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 153
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 136
@@ -240,9 +245,9 @@
     "kills": 133
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 128
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 130
   },
   {
     "playerId": "22077521",
@@ -273,11 +278,6 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 114
-  },
-  {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 111
   },
   {
     "playerId": "3990108",
@@ -390,6 +390,11 @@
     "kills": 41
   },
   {
+    "playerId": "8146384",
+    "username": "itachi",
+    "kills": 35
+  },
+  {
     "playerId": "878689",
     "username": "Gentleman",
     "kills": 33
@@ -407,11 +412,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 20
-  },
-  {
-    "playerId": "8146384",
-    "username": "itachi",
     "kills": 20
   },
   {

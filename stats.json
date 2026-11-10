@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35351543,
-    "kills": 44483644,
-    "deaths": 41975566,
-    "suicides": 9423829,
+    "victories": 35351625,
+    "kills": 44483753,
+    "deaths": 41975651,
+    "suicides": 9423847,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,31 +835,31 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 28521,
-    "kills": 44676,
-    "deaths": 49588,
-    "suicides": 10419,
+    "victories": 28540,
+    "kills": 44711,
+    "deaths": 49649,
+    "suicides": 10422,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
+      "type": "numeric",
+      "rawValue": "0x003b3a",
+      "numericValue": "0x003b3a",
+      "imageValue": ""
+    },
+    "treadColour": {
       "type": "numeric",
       "rawValue": "0xcccccc",
       "numericValue": "0xcccccc",
       "imageValue": ""
     },
-    "treadColour": {
-      "type": "numeric",
-      "rawValue": "0xa2c4ff",
-      "numericValue": "0xa2c4ff",
-      "imageValue": ""
-    },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0xddffff",
-      "numericValue": "0xddffff",
+      "rawValue": "0x666666",
+      "numericValue": "0x666666",
       "imageValue": ""
     },
-    "turretAccessory": "0",
+    "turretAccessory": "109",
     "barrelAccessory": "0",
     "frontAccessory": "21",
     "backAccessory": "0",
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 82129,
-    "kills": 123131,
-    "deaths": 142389,
-    "suicides": 30497,
+    "victories": 82133,
+    "kills": 123141,
+    "deaths": 142426,
+    "suicides": 30501,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1423,10 +1423,10 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "victories": 36551,
-    "kills": 61628,
-    "deaths": 59678,
-    "suicides": 13865,
+    "victories": 36570,
+    "kills": 61682,
+    "deaths": 59722,
+    "suicides": 13877,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1472,10 +1472,10 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "victories": 69080,
-    "kills": 114415,
-    "deaths": 119531,
-    "suicides": 26291,
+    "victories": 69099,
+    "kills": 114463,
+    "deaths": 119572,
+    "suicides": 26298,
     "experience": 11078,
     "surrenders": 0,
     "turretColour": {
@@ -1717,28 +1717,28 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "victories": 89268,
-    "kills": 166835,
-    "deaths": 234730,
-    "suicides": 52776,
+    "victories": 89283,
+    "kills": 166870,
+    "deaths": 234775,
+    "suicides": 52786,
     "experience": 227,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0xff1000",
-      "numericValue": "0xff1000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x712f57 50",
+      "numericValue": "0x712f57",
+      "imageValue": "50"
     },
     "treadColour": {
-      "type": "numeric",
-      "rawValue": "0xff1000",
-      "numericValue": "0xff1000",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x6743a2 153",
+      "numericValue": "0x6743a2",
+      "imageValue": "153"
     },
     "baseColour": {
       "type": "numeric",
-      "rawValue": "0xff1000",
-      "numericValue": "0xff1000",
+      "rawValue": "0x010243",
+      "numericValue": "0x010243",
       "imageValue": ""
     },
     "turretAccessory": "76",
@@ -1758,7 +1758,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1583375029,
-    "lastLogin": 1794276932,
+    "lastLogin": 1794283044,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2060,33 +2060,33 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "victories": 10072,
-    "kills": 17130,
-    "deaths": 19040,
-    "suicides": 4193,
+    "victories": 10098,
+    "kills": 17183,
+    "deaths": 19089,
+    "suicides": 4206,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "numeric",
-      "rawValue": "0x010243",
-      "numericValue": "0x010243",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x384b94 151",
-      "numericValue": "0x384b94",
-      "imageValue": "151"
+      "rawValue": "0x333333 42",
+      "numericValue": "0x333333",
+      "imageValue": "42"
     },
     "baseColour": {
-      "type": "numeric",
-      "rawValue": "0x0080ff",
-      "numericValue": "0x0080ff",
-      "imageValue": ""
+      "type": "image",
+      "rawValue": "0x6c6b50 165",
+      "numericValue": "0x6c6b50",
+      "imageValue": "165"
     },
-    "turretAccessory": "76",
+    "turretAccessory": "74",
     "barrelAccessory": "0",
-    "frontAccessory": "22",
+    "frontAccessory": "0",
     "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
@@ -2101,7 +2101,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765340933,
-    "lastLogin": 1794278078,
+    "lastLogin": 1794281787,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4363,10 +4363,10 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "victories": 30681,
-    "kills": 46659,
-    "deaths": 57110,
-    "suicides": 15134,
+    "victories": 30706,
+    "kills": 46694,
+    "deaths": 57163,
+    "suicides": 15143,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4404,7 +4404,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1620859696,
-    "lastLogin": 1794166274,
+    "lastLogin": 1794281692,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 7980,
-    "kills": 15569,
-    "deaths": 14105,
-    "suicides": 4095,
+    "victories": 7982,
+    "kills": 15570,
+    "deaths": 14123,
+    "suicides": 4111,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9500,7 +9500,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707032376,
-    "lastLogin": 1794280580,
+    "lastLogin": 1794281472,
     "banned": false,
     "usernameApproved": true,
     "country": null

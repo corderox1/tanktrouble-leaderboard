@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4197
+    "kills": 4279
   },
   {
     "playerId": "21708970",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 134
+    "kills": 153
   },
   {
     "playerId": "17629928",
@@ -45,6 +45,11 @@
     "kills": 75
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 75
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 73
@@ -57,7 +62,12 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 55
+    "kills": 57
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 54
   },
   {
     "playerId": "4381511",
@@ -65,19 +75,9 @@
     "kills": 53
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 50
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 50
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 49
   },
   {
     "playerId": "21180646",
@@ -100,6 +100,11 @@
     "kills": 42
   },
   {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 42
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 41
@@ -108,6 +113,11 @@
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 36
+  },
+  {
+    "playerId": "8146384",
+    "username": "itachi",
+    "kills": 35
   },
   {
     "playerId": "22716354",
@@ -120,14 +130,19 @@
     "kills": 31
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 31
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 30
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 23
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 25
   },
   {
     "playerId": "21940268",
@@ -138,11 +153,6 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 22
-  },
-  {
-    "playerId": "8146384",
-    "username": "itachi",
-    "kills": 20
   },
   {
     "playerId": "21797119",
@@ -163,11 +173,6 @@
     "playerId": "1001669",
     "username": "Mud",
     "kills": 14
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 12
   },
   {
     "playerId": "17136803",
@@ -537,11 +542,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0
   },
   {
