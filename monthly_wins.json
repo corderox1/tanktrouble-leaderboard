@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 39519
+    "kills": 39602
   },
   {
     "playerId": "13173087",
@@ -15,14 +15,14 @@
     "kills": 1492
   },
   {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 1471
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 1445
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 1426
   },
   {
     "playerId": "22472796",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1275
+    "kills": 1318
   },
   {
     "playerId": "10794529",
@@ -47,7 +47,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 951
+    "kills": 971
   },
   {
     "playerId": "21508277",
@@ -95,6 +95,11 @@
     "kills": 458
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 457
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 451
@@ -103,11 +108,6 @@
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 442
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 440
   },
   {
     "playerId": "21180646",
@@ -150,14 +150,14 @@
     "kills": 299
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 291
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 289
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 284
   },
   {
     "playerId": "3660774",
@@ -220,13 +220,13 @@
     "kills": 186
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 180
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
+    "kills": 185
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 180
   },
   {
@@ -285,14 +285,14 @@
     "kills": 120
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 119
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 116
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 114
   },
   {
     "playerId": "11769746",
@@ -370,6 +370,11 @@
     "kills": 61
   },
   {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 59
+  },
+  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 58
@@ -415,11 +420,6 @@
     "kills": 22
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 21
-  },
-  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 16
@@ -442,6 +442,11 @@
   {
     "playerId": "12331664",
     "username": "Reds",
+    "kills": 9
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 9
   },
   {
@@ -1057,6 +1062,16 @@
   {
     "playerId": "9156179",
     "username": "EHS",
+    "kills": 0
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 0
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
     "kills": 0
   }
 ]
