@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 36709
+    "kills": 36851
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1737
+    "kills": 1743
   },
   {
     "playerId": "22710399",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1367
+    "kills": 1371
   },
   {
     "playerId": "21601349",
@@ -102,7 +102,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 409
+    "kills": 413
   },
   {
     "playerId": "21708970",
@@ -155,14 +155,14 @@
     "kills": 257
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 256
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 250
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 246
   },
   {
     "playerId": "22809750",
@@ -172,7 +172,12 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 243
+    "kills": 245
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 242
   },
   {
     "playerId": "13773720",
@@ -183,11 +188,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 226
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 224
   },
   {
     "playerId": "14617724",
@@ -275,19 +275,19 @@
     "kills": 114
   },
   {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 111
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 106
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 100
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 100
+    "kills": 102
   },
   {
     "playerId": "21516705",
@@ -380,14 +380,14 @@
     "kills": 50
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 44
+  },
+  {
     "playerId": "20644558",
     "username": "x",
     "kills": 41
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 34
   },
   {
     "playerId": "878689",
@@ -407,6 +407,11 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
+    "kills": 20
+  },
+  {
+    "playerId": "8146384",
+    "username": "itachi",
     "kills": 20
   },
   {
@@ -433,11 +438,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 13
-  },
-  {
-    "playerId": "8146384",
-    "username": "itachi",
-    "kills": 12
   },
   {
     "playerId": "12331664",

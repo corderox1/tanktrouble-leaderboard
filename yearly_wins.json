@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 225402
+    "kills": 225544
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 7588
+    "kills": 7594
   },
   {
     "playerId": "21601349",
@@ -22,7 +22,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 5034
+    "kills": 5038
   },
   {
     "playerId": "10794529",
@@ -132,7 +132,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 1732
+    "kills": 1742
   },
   {
     "playerId": "2574833",
@@ -142,7 +142,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1569
+    "kills": 1573
   },
   {
     "playerId": "20269995",
@@ -157,7 +157,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1443
+    "kills": 1445
   },
   {
     "playerId": "12107881",
@@ -177,7 +177,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1342
+    "kills": 1360
   },
   {
     "playerId": "706234",
@@ -257,7 +257,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 899
+    "kills": 901
   },
   {
     "playerId": "22757188",
@@ -415,14 +415,14 @@
     "kills": 255
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 253
+  },
+  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 244
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 243
   },
   {
     "playerId": "21839393",
@@ -535,14 +535,14 @@
     "kills": 127
   },
   {
-    "playerId": "20101050",
-    "username": "Brainrot",
+    "playerId": "18969891",
+    "username": "AlmaMater",
     "kills": 111
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 100
+    "playerId": "20101050",
+    "username": "Brainrot",
+    "kills": 111
   },
   {
     "playerId": "4191643",
@@ -660,6 +660,11 @@
     "kills": 23
   },
   {
+    "playerId": "8146384",
+    "username": "itachi",
+    "kills": 22
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 17
@@ -673,11 +678,6 @@
     "playerId": "9156179",
     "username": "EHS",
     "kills": 16
-  },
-  {
-    "playerId": "8146384",
-    "username": "itachi",
-    "kills": 14
   },
   {
     "playerId": "10132007",
