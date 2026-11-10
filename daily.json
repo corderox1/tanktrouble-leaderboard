@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1109,
-    "lastKill": "2026-11-10 07:37:56"
+    "kills": 1362,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "11769746",
@@ -14,14 +14,20 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 105,
-    "lastKill": "2026-11-10 07:37:56"
+    "kills": 115,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 82,
-    "lastKill": "2026-11-10 06:38:57"
+    "kills": 112,
+    "lastKill": "2026-11-10 08:33:19"
+  },
+  {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 83,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "22716354",
@@ -42,28 +48,22 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 44,
-    "lastKill": "2026-11-10 06:38:57"
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 56,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 32,
-    "lastKill": "2026-11-10 07:37:56"
+    "kills": 47,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 24,
-    "lastKill": "2026-11-10 07:37:56"
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 24,
-    "lastKill": "2026-11-10 07:37:56"
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 44,
+    "lastKill": "2026-11-10 06:38:57"
   },
   {
     "playerId": "21178768",
@@ -72,10 +72,34 @@
     "lastKill": "2026-11-10 07:37:56"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 20,
+    "lastKill": "2026-11-10 08:33:19"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 17,
+    "lastKill": "2026-11-10 08:33:19"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 14,
     "lastKill": "2026-11-10 06:38:57"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 10,
+    "lastKill": "2026-11-10 08:33:19"
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 7,
+    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "9184666",
@@ -366,20 +390,8 @@
     "lastKill": null
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
     "kills": 0,
     "lastKill": null
   },
@@ -434,12 +446,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": null
   },
@@ -518,12 +524,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0,
     "lastKill": null
   },

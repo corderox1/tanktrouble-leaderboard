@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5526
+    "kills": 5772
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
-    "kills": 408
+    "kills": 410
   },
   {
     "playerId": "4142755",
@@ -18,6 +18,11 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 248
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 112
   },
   {
     "playerId": "17629928",
@@ -40,18 +45,13 @@
     "kills": 94
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
+    "playerId": "22706369",
+    "username": "soso_boy",
     "kills": 94
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 91
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 91
   },
   {
@@ -90,9 +90,19 @@
     "kills": 62
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 62
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 53
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 50
   },
   {
     "playerId": "21180646",
@@ -130,14 +140,14 @@
     "kills": 41
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 41
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 40
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 38
   },
   {
     "playerId": "8146384",
@@ -170,11 +180,6 @@
     "kills": 27
   },
   {
-    "playerId": "22845692",
-    "username": "vincible",
-    "kills": 25
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 23
@@ -195,9 +200,9 @@
     "kills": 18
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 15
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 17
   },
   {
     "playerId": "1001669",
@@ -215,13 +220,18 @@
     "kills": 9
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
     "kills": 9
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 9
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 9
   },
   {
@@ -470,11 +480,6 @@
     "kills": 0
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0
@@ -522,11 +527,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
