@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7255
+    "kills": 7468
   },
   {
     "playerId": "21708970",
@@ -12,7 +12,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 394
+    "kills": 487
   },
   {
     "playerId": "21508277",
@@ -35,14 +35,14 @@
     "kills": 173
   },
   {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 157
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 154
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 127
   },
   {
     "playerId": "13173087",
@@ -205,6 +205,11 @@
     "kills": 33
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 31
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 30
@@ -217,11 +222,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 23
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 23
   },
   {

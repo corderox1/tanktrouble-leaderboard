@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3105,
-    "lastKill": "2026-11-10 15:02:55"
+    "kills": 3358,
+    "lastKill": "2026-11-10 16:02:57"
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 365,
+    "lastKill": "2026-11-10 16:02:57"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 270,
     "lastKill": "2026-11-10 13:11:51"
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 264,
-    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "13173087",
@@ -114,6 +114,12 @@
     "lastKill": "2026-11-10 11:21:48"
   },
   {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 64,
+    "lastKill": "2026-11-10 16:02:57"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 58,
@@ -168,12 +174,6 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 26,
-    "lastKill": "2026-11-10 15:02:55"
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 23,
@@ -214,6 +214,12 @@
     "username": "BillyTheKid",
     "kills": 13,
     "lastKill": "2026-11-10 12:17:13"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 13,
+    "lastKill": "2026-11-10 16:02:57"
   },
   {
     "playerId": "12222122",
@@ -1154,12 +1160,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0,
     "lastKill": null
   },
