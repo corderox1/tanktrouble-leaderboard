@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2804,
-    "lastKill": "2026-11-10 14:06:48"
+    "kills": 3105,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "22472796",
@@ -14,8 +14,8 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 243,
-    "lastKill": "2026-11-10 14:06:48"
+    "kills": 264,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "13173087",
@@ -74,8 +74,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 99,
-    "lastKill": "2026-11-10 14:06:48"
+    "kills": 101,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "20269995",
@@ -120,6 +120,12 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 48,
+    "lastKill": "2026-11-10 15:02:55"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 47,
@@ -128,8 +134,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 44,
-    "lastKill": "2026-11-10 14:06:48"
+    "kills": 45,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "20270104",
@@ -162,22 +168,28 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 26,
+    "lastKill": "2026-11-10 15:02:55"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 23,
     "lastKill": "2026-11-10 07:37:56"
   },
   {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 22,
-    "lastKill": "2026-11-10 11:21:48"
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 20,
     "lastKill": "2026-11-10 13:11:51"
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 20,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "21465536",
@@ -262,6 +274,12 @@
     "username": "SoftMagmaDriver",
     "kills": 3,
     "lastKill": "2026-11-10 03:53:01"
+  },
+  {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 3,
+    "lastKill": "2026-11-10 15:02:55"
   },
   {
     "playerId": "19425584",
@@ -602,12 +620,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
@@ -1212,12 +1224,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 0,
@@ -1238,12 +1244,6 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
     "kills": 0,
     "lastKill": null
   },

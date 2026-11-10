@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2283
+    "kills": 2590
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 277
+    "kills": 289
   },
   {
     "playerId": "22472796",
@@ -47,7 +47,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 84
+    "kills": 86
   },
   {
     "playerId": "20269995",
@@ -117,7 +117,7 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 25
+    "kills": 32
   },
   {
     "playerId": "20984454",
@@ -143,6 +143,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 16
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 15
   },
   {
     "playerId": "21508277",
@@ -190,8 +195,18 @@
     "kills": 4
   },
   {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
+    "kills": 4
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
+    "kills": 3
+  },
+  {
+    "playerId": "793356",
+    "username": "Antiserum",
     "kills": 3
   },
   {
@@ -502,11 +517,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -1010,11 +1020,6 @@
     "kills": 0
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 0
-  },
-  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 0
@@ -1032,11 +1037,6 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 0
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
     "kills": 0
   },
   {
