@@ -1644,10 +1644,428 @@
 
     </div>
 
-    <script src="tank-assets.js"></script>
 
 
     <script>
+
+const TANK_ASSETS = {
+  "accessories/back1": "build/assets/images/tankIcon/accessories/back1-280-82fb0277.avif",
+  "accessories/back10": "build/assets/images/tankIcon/accessories/back10-280-6b3dec09.avif",
+  "accessories/back107": "build/assets/images/tankIcon/accessories/back107-280-974976be.avif",
+  "accessories/back108": "build/assets/images/tankIcon/accessories/back108-280-7e82f5b4.avif",
+  "accessories/back11": "build/assets/images/tankIcon/accessories/back11-280-ee0fed4e.avif",
+  "accessories/back116": "build/assets/images/tankIcon/accessories/back116-280-55ae3b5c.avif",
+  "accessories/back117": "build/assets/images/tankIcon/accessories/back117-280-815c5e21.avif",
+  "accessories/back118": "build/assets/images/tankIcon/accessories/back118-280-d81aab72.avif",
+  "accessories/back119": "build/assets/images/tankIcon/accessories/back119-280-c818b619.avif",
+  "accessories/back12": "build/assets/images/tankIcon/accessories/back12-280-c38e39ce.avif",
+  "accessories/back120": "build/assets/images/tankIcon/accessories/back120-280-3ab8310e.avif",
+  "accessories/back13": "build/assets/images/tankIcon/accessories/back13-280-838ffdc3.avif",
+  "accessories/back14": "build/assets/images/tankIcon/accessories/back14-280-ceb63a36.avif",
+  "accessories/back15": "build/assets/images/tankIcon/accessories/back15-280-dcdd421a.avif",
+  "accessories/back150": "build/assets/images/tankIcon/accessories/back150-280-5d6375c3.avif",
+  "accessories/back151": "build/assets/images/tankIcon/accessories/back151-280-21b8aa97.avif",
+  "accessories/back152": "build/assets/images/tankIcon/accessories/back152-280-bb1d9be7.avif",
+  "accessories/back16": "build/assets/images/tankIcon/accessories/back16-280-d57b7112.avif",
+  "accessories/back160": "build/assets/images/tankIcon/accessories/back160-280-f541267e.avif",
+  "accessories/back161": "build/assets/images/tankIcon/accessories/back161-280-14772b8f.avif",
+  "accessories/back162": "build/assets/images/tankIcon/accessories/back162-280-e4c82031.avif",
+  "accessories/back17": "build/assets/images/tankIcon/accessories/back17-280-7b8a453a.avif",
+  "accessories/back18": "build/assets/images/tankIcon/accessories/back18-280-204d77a7.avif",
+  "accessories/back19": "build/assets/images/tankIcon/accessories/back19-280-1891307a.avif",
+  "accessories/back2": "build/assets/images/tankIcon/accessories/back2-280-3595266a.avif",
+  "accessories/back20": "build/assets/images/tankIcon/accessories/back20-280-3c73322c.avif",
+  "accessories/back201": "build/assets/images/tankIcon/accessories/back201-280-51454f0f.avif",
+  "accessories/back202": "build/assets/images/tankIcon/accessories/back202-280-eb2e413b.avif",
+  "accessories/back206": "build/assets/images/tankIcon/accessories/back206-280-3974e9ab.avif",
+  "accessories/back207": "build/assets/images/tankIcon/accessories/back207-280-718103d2.avif",
+  "accessories/back208": "build/assets/images/tankIcon/accessories/back208-280-7d1c2bfb.avif",
+  "accessories/back209": "build/assets/images/tankIcon/accessories/back209-280-aa4da051.avif",
+  "accessories/back21": "build/assets/images/tankIcon/accessories/back21-280-7de3e7a0.avif",
+  "accessories/back211": "build/assets/images/tankIcon/accessories/back211-280-7e00b850.avif",
+  "accessories/back212": "build/assets/images/tankIcon/accessories/back212-280-b1d95c48.avif",
+  "accessories/back214": "build/assets/images/tankIcon/accessories/back214-280-2a51c514.avif",
+  "accessories/back215": "build/assets/images/tankIcon/accessories/back215-280-f2e35d77.avif",
+  "accessories/back217": "build/assets/images/tankIcon/accessories/back217-280-1a61a300.avif",
+  "accessories/back219": "build/assets/images/tankIcon/accessories/back219-280-4166a072.avif",
+  "accessories/back22": "build/assets/images/tankIcon/accessories/back22-280-8e2a6d2e.avif",
+  "accessories/back220": "build/assets/images/tankIcon/accessories/back220-280-a51bfe78.avif",
+  "accessories/back221": "build/assets/images/tankIcon/accessories/back221-280-12060678.avif",
+  "accessories/back222": "build/assets/images/tankIcon/accessories/back222-280-8e5ef2ad.avif",
+  "accessories/back224": "build/assets/images/tankIcon/accessories/back224-280-6dcae931.avif",
+  "accessories/back225": "build/assets/images/tankIcon/accessories/back225-280-5ee987ea.avif",
+  "accessories/back228": "build/assets/images/tankIcon/accessories/back228-280-6f0d99ed.avif",
+  "accessories/back229": "build/assets/images/tankIcon/accessories/back229-280-9946edca.avif",
+  "accessories/back23": "build/assets/images/tankIcon/accessories/back23-280-c442e334.avif",
+  "accessories/back231": "build/assets/images/tankIcon/accessories/back231-280-4430d0fd.avif",
+  "accessories/back232": "build/assets/images/tankIcon/accessories/back232-280-c983cbbf.avif",
+  "accessories/back233": "build/assets/images/tankIcon/accessories/back233-280-1dcf7bbd.avif",
+  "accessories/back234": "build/assets/images/tankIcon/accessories/back234-280-e321d425.avif",
+  "accessories/back235": "build/assets/images/tankIcon/accessories/back235-280-d3df6051.avif",
+  "accessories/back237": "build/assets/images/tankIcon/accessories/back237-280-557badb2.avif",
+  "accessories/back238": "build/assets/images/tankIcon/accessories/back238-280-f08ee9c2.avif",
+  "accessories/back239": "build/assets/images/tankIcon/accessories/back239-280-2441de85.avif",
+  "accessories/back24": "build/assets/images/tankIcon/accessories/back24-280-02dd842b.avif",
+  "accessories/back241": "build/assets/images/tankIcon/accessories/back241-280-7cecf002.avif",
+  "accessories/back243": "build/assets/images/tankIcon/accessories/back243-280-2258f57a.avif",
+  "accessories/back244": "build/assets/images/tankIcon/accessories/back244-280-fc127ffd.avif",
+  "accessories/back246": "build/assets/images/tankIcon/accessories/back246-280-7026ce3e.avif",
+  "accessories/back248": "build/assets/images/tankIcon/accessories/back248-280-dc22ac39.avif",
+  "accessories/back25": "build/assets/images/tankIcon/accessories/back25-280-9c1e4d3d.avif",
+  "accessories/back253": "build/assets/images/tankIcon/accessories/back253-280-6cf85264.avif",
+  "accessories/back256": "build/assets/images/tankIcon/accessories/back256-280-e58b5c0e.avif",
+  "accessories/back257": "build/assets/images/tankIcon/accessories/back257-280-9fb1d7db.avif",
+  "accessories/back258": "build/assets/images/tankIcon/accessories/back258-280-57384929.avif",
+  "accessories/back259": "build/assets/images/tankIcon/accessories/back259-280-2f031343.avif",
+  "accessories/back260": "build/assets/images/tankIcon/accessories/back260-280-ade7560d.avif",
+  "accessories/back261": "build/assets/images/tankIcon/accessories/back261-280-5e1cb564.avif",
+  "accessories/back262": "build/assets/images/tankIcon/accessories/back262-280-9ff69b6f.avif",
+  "accessories/back265": "build/assets/images/tankIcon/accessories/back265-280-7eb44e08.avif",
+  "accessories/back266": "build/assets/images/tankIcon/accessories/back266-280-b6f92a89.avif",
+  "accessories/back27": "build/assets/images/tankIcon/accessories/back27-280-39e5688b.avif",
+  "accessories/back270": "build/assets/images/tankIcon/accessories/back270-280-a45a96d0.avif",
+  "accessories/back271": "build/assets/images/tankIcon/accessories/back271-280-3c881ca4.avif",
+  "accessories/back272": "build/assets/images/tankIcon/accessories/back272-280-ff707213.avif",
+  "accessories/back273": "build/assets/images/tankIcon/accessories/back273-280-e4542cc4.avif",
+  "accessories/back276": "build/assets/images/tankIcon/accessories/back276-280-45eda949.avif",
+  "accessories/back277": "build/assets/images/tankIcon/accessories/back277-280-1418b0b5.avif",
+  "accessories/back278": "build/assets/images/tankIcon/accessories/back278-280-da315c40.avif",
+  "accessories/back279": "build/assets/images/tankIcon/accessories/back279-280-3b9033d4.avif",
+  "accessories/back28": "build/assets/images/tankIcon/accessories/back28-280-39e5688b.avif",
+  "accessories/back281": "build/assets/images/tankIcon/accessories/back281-280-b82cf981.avif",
+  "accessories/back282": "build/assets/images/tankIcon/accessories/back282-280-c0ca87ec.avif",
+  "accessories/back286": "build/assets/images/tankIcon/accessories/back286-280-21ca015f.avif",
+  "accessories/back288": "build/assets/images/tankIcon/accessories/back288-280-ad36e276.avif",
+  "accessories/back289": "build/assets/images/tankIcon/accessories/back289-280-09592368.avif",
+  "accessories/back29": "build/assets/images/tankIcon/accessories/back29-280-39e5688b.avif",
+  "accessories/back292": "build/assets/images/tankIcon/accessories/back292-280-ba66680f.avif",
+  "accessories/back295": "build/assets/images/tankIcon/accessories/back295-280-e5f9e299.avif",
+  "accessories/back296": "build/assets/images/tankIcon/accessories/back296-280-a5e102b3.avif",
+  "accessories/back297": "build/assets/images/tankIcon/accessories/back297-280-6bcebcab.avif",
+  "accessories/back298": "build/assets/images/tankIcon/accessories/back298-280-7cc7e0a1.avif",
+  "accessories/back3": "build/assets/images/tankIcon/accessories/back3-280-fee70825.avif",
+  "accessories/back30": "build/assets/images/tankIcon/accessories/back30-280-39e5688b.avif",
+  "accessories/back300": "build/assets/images/tankIcon/accessories/back300-280-d8d9487b.avif",
+  "accessories/back302": "build/assets/images/tankIcon/accessories/back302-280-aaec6a1c.avif",
+  "accessories/back303": "build/assets/images/tankIcon/accessories/back303-280-8a2ae737.avif",
+  "accessories/back306": "build/assets/images/tankIcon/accessories/back306-280-9df6363c.avif",
+  "accessories/back307": "build/assets/images/tankIcon/accessories/back307-280-be705474.avif",
+  "accessories/back308": "build/assets/images/tankIcon/accessories/back308-280-98224be9.avif",
+  "accessories/back309": "build/assets/images/tankIcon/accessories/back309-280-b682b3b8.avif",
+  "accessories/back31": "build/assets/images/tankIcon/accessories/back31-280-39e5688b.avif",
+  "accessories/back310": "build/assets/images/tankIcon/accessories/back310-280-f215b359.avif",
+  "accessories/back312": "build/assets/images/tankIcon/accessories/back312-280-f4a9a675.avif",
+  "accessories/back319": "build/assets/images/tankIcon/accessories/back319-280-4046a970.avif",
+  "accessories/back32": "build/assets/images/tankIcon/accessories/back32-280-9a70b004.avif",
+  "accessories/back320": "build/assets/images/tankIcon/accessories/back320-280-b03cd5bc.avif",
+  "accessories/back322": "build/assets/images/tankIcon/accessories/back322-280-15345ece.avif",
+  "accessories/back323": "build/assets/images/tankIcon/accessories/back323-280-647931e8.avif",
+  "accessories/back324": "build/assets/images/tankIcon/accessories/back324-280-277904a2.avif",
+  "accessories/back325": "build/assets/images/tankIcon/accessories/back325-280-8369375f.avif",
+  "accessories/back327": "build/assets/images/tankIcon/accessories/back327-280-98ced98d.avif",
+  "accessories/back328": "build/assets/images/tankIcon/accessories/back328-280-e51d8329.avif",
+  "accessories/back33": "build/assets/images/tankIcon/accessories/back33-280-0efe116c.avif",
+  "accessories/back332": "build/assets/images/tankIcon/accessories/back332-280-0267f707.avif",
+  "accessories/back333": "build/assets/images/tankIcon/accessories/back333-280-7278f0f3.avif",
+  "accessories/back334": "build/assets/images/tankIcon/accessories/back334-280-90e8deed.avif",
+  "accessories/back335": "build/assets/images/tankIcon/accessories/back335-280-a06c06e0.avif",
+  "accessories/back337": "build/assets/images/tankIcon/accessories/back337-280-fd675708.avif",
+  "accessories/back338": "build/assets/images/tankIcon/accessories/back338-280-8f4a6726.avif",
+  "accessories/back339": "build/assets/images/tankIcon/accessories/back339-280-22081fe2.avif",
+  "accessories/back34": "build/assets/images/tankIcon/accessories/back34-280-6c1efe37.avif",
+  "accessories/back346": "build/assets/images/tankIcon/accessories/back346-280-3d3e1805.avif",
+  "accessories/back348": "build/assets/images/tankIcon/accessories/back348-280-4875fdc8.avif",
+  "accessories/back349": "build/assets/images/tankIcon/accessories/back349-280-284c14b6.avif",
+  "accessories/back35": "build/assets/images/tankIcon/accessories/back35-280-40e2524c.avif",
+  "accessories/back351": "build/assets/images/tankIcon/accessories/back351-280-a8470ebe.avif",
+  "accessories/back353": "build/assets/images/tankIcon/accessories/back353-280-2cfe80ee.avif",
+  "accessories/back354": "build/assets/images/tankIcon/accessories/back354-280-b0fce9b8.avif",
+  "accessories/back356": "build/assets/images/tankIcon/accessories/back356-280-7bc812ae.avif",
+  "accessories/back358": "build/assets/images/tankIcon/accessories/back358-280-54ba55e1.avif",
+  "accessories/back36": "build/assets/images/tankIcon/accessories/back36-280-fe4629fe.avif",
+  "accessories/back360": "build/assets/images/tankIcon/accessories/back360-280-1b5df9be.avif",
+  "accessories/back362": "build/assets/images/tankIcon/accessories/back362-280-cc3739a8.avif",
+  "accessories/back363": "build/assets/images/tankIcon/accessories/back363-280-234fbc94.avif",
+  "accessories/back365": "build/assets/images/tankIcon/accessories/back365-280-f4b2522d.avif",
+  "accessories/back366": "build/assets/images/tankIcon/accessories/back366-280-97c6cde9.avif",
+  "accessories/back37": "build/assets/images/tankIcon/accessories/back37-280-3e215a58.avif",
+  "accessories/back370": "build/assets/images/tankIcon/accessories/back370-280-75ebbaa0.avif",
+  "accessories/back371": "build/assets/images/tankIcon/accessories/back371-280-cff67b4a.avif",
+  "accessories/back372": "build/assets/images/tankIcon/accessories/back372-280-aeb54112.avif",
+  "accessories/back373": "build/assets/images/tankIcon/accessories/back373-280-02f28736.avif",
+  "accessories/back377": "build/assets/images/tankIcon/accessories/back377-280-dd7cbe4a.avif",
+  "accessories/back381": "build/assets/images/tankIcon/accessories/back381-280-dc473e5c.avif",
+  "accessories/back382": "build/assets/images/tankIcon/accessories/back382-280-364af200.avif",
+  "accessories/back383": "build/assets/images/tankIcon/accessories/back383-280-7e5d1972.avif",
+  "accessories/back384": "build/assets/images/tankIcon/accessories/back384-280-bdf65feb.avif",
+  "accessories/back388": "build/assets/images/tankIcon/accessories/back388-280-4288322f.avif",
+  "accessories/back389": "build/assets/images/tankIcon/accessories/back389-280-8801e917.avif",
+  "accessories/back390": "build/assets/images/tankIcon/accessories/back390-280-d423d10d.avif",
+  "accessories/back393": "build/assets/images/tankIcon/accessories/back393-280-8c654422.avif",
+  "accessories/back394": "build/assets/images/tankIcon/accessories/back394-280-ed206118.avif",
+  "accessories/back395": "build/assets/images/tankIcon/accessories/back395-280-6611584e.avif",
+  "accessories/back396": "build/assets/images/tankIcon/accessories/back396-280-33070e9a.avif",
+  "accessories/back397": "build/assets/images/tankIcon/accessories/back397-280-dc01d14a.avif",
+  "accessories/back398": "build/assets/images/tankIcon/accessories/back398-280-ccc40462.avif",
+  "accessories/back399": "build/assets/images/tankIcon/accessories/back399-280-33c95e6d.avif",
+  "accessories/back4": "build/assets/images/tankIcon/accessories/back4-280-3baf1eaf.avif",
+  "accessories/back400": "build/assets/images/tankIcon/accessories/back400-280-8d31d347.avif",
+  "accessories/back401": "build/assets/images/tankIcon/accessories/back401-280-5f42ace6.avif",
+  "accessories/back42": "build/assets/images/tankIcon/accessories/back42-280-44802a66.avif",
+  "accessories/back43": "build/assets/images/tankIcon/accessories/back43-280-5937221d.avif",
+  "accessories/back45": "build/assets/images/tankIcon/accessories/back45-280-f7d98aba.avif",
+  "accessories/back5": "build/assets/images/tankIcon/accessories/back5-280-ccdbe642.avif",
+  "accessories/back50": "build/assets/images/tankIcon/accessories/back50-280-b6a3c3d3.avif",
+  "accessories/back52": "build/assets/images/tankIcon/accessories/back52-280-21bc7d35.avif",
+  "accessories/back6": "build/assets/images/tankIcon/accessories/back6-280-d874964c.avif",
+  "accessories/back60": "build/assets/images/tankIcon/accessories/back60-280-e69096cc.avif",
+  "accessories/back7": "build/assets/images/tankIcon/accessories/back7-280-94cb42b9.avif",
+  "accessories/back70": "build/assets/images/tankIcon/accessories/back70-280-022b5b2d.avif",
+  "accessories/back71": "build/assets/images/tankIcon/accessories/back71-280-79cee292.avif",
+  "accessories/back72": "build/assets/images/tankIcon/accessories/back72-280-220d3119.avif",
+  "accessories/back73": "build/assets/images/tankIcon/accessories/back73-280-b7c960d3.avif",
+  "accessories/back78": "build/assets/images/tankIcon/accessories/back78-280-830cd2bd.avif",
+  "accessories/back8": "build/assets/images/tankIcon/accessories/back8-280-d7f020c3.avif",
+  "accessories/back9": "build/assets/images/tankIcon/accessories/back9-280-7df7d55c.avif",
+  "accessories/barrel1": "build/assets/images/tankIcon/accessories/barrel1-280-7ddb7aeb.avif",
+  "accessories/barrel10": "build/assets/images/tankIcon/accessories/barrel10-280-e614a3de.avif",
+  "accessories/barrel100": "build/assets/images/tankIcon/accessories/barrel100-280-f8233ea9.avif",
+  "accessories/barrel101": "build/assets/images/tankIcon/accessories/barrel101-280-36d1b15b.avif",
+  "accessories/barrel102": "build/assets/images/tankIcon/accessories/barrel102-280-b35c29c8.avif",
+  "accessories/barrel107": "build/assets/images/tankIcon/accessories/barrel107-280-46ae97e0.avif",
+  "accessories/barrel108": "build/assets/images/tankIcon/accessories/barrel108-280-c0d003da.avif",
+  "accessories/barrel109": "build/assets/images/tankIcon/accessories/barrel109-280-12af7207.avif",
+  "accessories/barrel11": "build/assets/images/tankIcon/accessories/barrel11-280-5f63ee70.avif",
+  "accessories/barrel110": "build/assets/images/tankIcon/accessories/barrel110-280-3b2570de.avif",
+  "accessories/barrel111": "build/assets/images/tankIcon/accessories/barrel111-280-902f1a16.avif",
+  "accessories/barrel116": "build/assets/images/tankIcon/accessories/barrel116-280-992e7403.avif",
+  "accessories/barrel12": "build/assets/images/tankIcon/accessories/barrel12-280-9d459bd3.avif",
+  "accessories/barrel120": "build/assets/images/tankIcon/accessories/barrel120-280-d4304b2a.avif",
+  "accessories/barrel13": "build/assets/images/tankIcon/accessories/barrel13-280-a5c93623.avif",
+  "accessories/barrel14": "build/assets/images/tankIcon/accessories/barrel14-280-e8811461.avif",
+  "accessories/barrel15": "build/assets/images/tankIcon/accessories/barrel15-280-c36b629d.avif",
+  "accessories/barrel150": "build/assets/images/tankIcon/accessories/barrel150-280-413a51b7.avif",
+  "accessories/barrel16": "build/assets/images/tankIcon/accessories/barrel16-280-9e749adf.avif",
+  "accessories/barrel160": "build/assets/images/tankIcon/accessories/barrel160-280-bfd2a1ed.avif",
+  "accessories/barrel161": "build/assets/images/tankIcon/accessories/barrel161-280-857f73f2.avif",
+  "accessories/barrel162": "build/assets/images/tankIcon/accessories/barrel162-280-2d56d378.avif",
+  "accessories/barrel163": "build/assets/images/tankIcon/accessories/barrel163-280-ced3eb6b.avif",
+  "accessories/barrel164": "build/assets/images/tankIcon/accessories/barrel164-280-bb2f9ea9.avif",
+  "accessories/barrel17": "build/assets/images/tankIcon/accessories/barrel17-280-d783b478.avif",
+  "accessories/barrel18": "build/assets/images/tankIcon/accessories/barrel18-280-5dd237fc.avif",
+  "accessories/barrel19": "build/assets/images/tankIcon/accessories/barrel19-280-02a3d85d.avif",
+  "accessories/barrel2": "build/assets/images/tankIcon/accessories/barrel2-280-069c4c7b.avif",
+  "accessories/barrel20": "build/assets/images/tankIcon/accessories/barrel20-280-430b772a.avif",
+  "accessories/barrel21": "build/assets/images/tankIcon/accessories/barrel21-280-2aa77694.avif",
+  "accessories/barrel22": "build/assets/images/tankIcon/accessories/barrel22-280-b6fbb7d2.avif",
+  "accessories/barrel23": "build/assets/images/tankIcon/accessories/barrel23-280-1f26b899.avif",
+  "accessories/barrel24": "build/assets/images/tankIcon/accessories/barrel24-280-8119e280.avif",
+  "accessories/barrel25": "build/assets/images/tankIcon/accessories/barrel25-280-0b8a1630.avif",
+  "accessories/barrel27": "build/assets/images/tankIcon/accessories/barrel27-280-39e5688b.avif",
+  "accessories/barrel28": "build/assets/images/tankIcon/accessories/barrel28-280-39e5688b.avif",
+  "accessories/barrel29": "build/assets/images/tankIcon/accessories/barrel29-280-39e5688b.avif",
+  "accessories/barrel30": "build/assets/images/tankIcon/accessories/barrel30-280-39e5688b.avif",
+  "accessories/barrel31": "build/assets/images/tankIcon/accessories/barrel31-280-39e5688b.avif",
+  "accessories/barrel32": "build/assets/images/tankIcon/accessories/barrel32-280-39e5688b.avif",
+  "accessories/barrel33": "build/assets/images/tankIcon/accessories/barrel33-280-95a05994.avif",
+  "accessories/barrel37": "build/assets/images/tankIcon/accessories/barrel37-280-488f3666.avif",
+  "accessories/barrel38": "build/assets/images/tankIcon/accessories/barrel38-280-79d54dba.avif",
+  "accessories/barrel42": "build/assets/images/tankIcon/accessories/barrel42-280-3ced80cf.avif",
+  "accessories/barrel43": "build/assets/images/tankIcon/accessories/barrel43-280-68a3f0a0.avif",
+  "accessories/barrel44": "build/assets/images/tankIcon/accessories/barrel44-280-f18af927.avif",
+  "accessories/barrel45": "build/assets/images/tankIcon/accessories/barrel45-280-d078935b.avif",
+  "accessories/barrel5": "build/assets/images/tankIcon/accessories/barrel5-280-b10ee28f.avif",
+  "accessories/barrel50": "build/assets/images/tankIcon/accessories/barrel50-280-1f2d5469.avif",
+  "accessories/barrel51": "build/assets/images/tankIcon/accessories/barrel51-280-6eb9bb5a.avif",
+  "accessories/barrel52": "build/assets/images/tankIcon/accessories/barrel52-280-9c5fd694.avif",
+  "accessories/barrel53": "build/assets/images/tankIcon/accessories/barrel53-280-1c9ffed7.avif",
+  "accessories/barrel54": "build/assets/images/tankIcon/accessories/barrel54-280-19b20fb2.avif",
+  "accessories/barrel55": "build/assets/images/tankIcon/accessories/barrel55-280-d537fddb.avif",
+  "accessories/barrel56": "build/assets/images/tankIcon/accessories/barrel56-280-f3eb788b.avif",
+  "accessories/barrel57": "build/assets/images/tankIcon/accessories/barrel57-280-918da0f7.avif",
+  "accessories/barrel58": "build/assets/images/tankIcon/accessories/barrel58-280-e7ebc0cd.avif",
+  "accessories/barrel59": "build/assets/images/tankIcon/accessories/barrel59-280-e3b35121.avif",
+  "accessories/barrel6": "build/assets/images/tankIcon/accessories/barrel6-280-4ea60f16.avif",
+  "accessories/barrel60": "build/assets/images/tankIcon/accessories/barrel60-280-e74d650c.avif",
+  "accessories/barrel7": "build/assets/images/tankIcon/accessories/barrel7-280-f908a68b.avif",
+  "accessories/barrel70": "build/assets/images/tankIcon/accessories/barrel70-280-f52a4597.avif",
+  "accessories/barrel71": "build/assets/images/tankIcon/accessories/barrel71-280-1ef1ec4a.avif",
+  "accessories/barrel72": "build/assets/images/tankIcon/accessories/barrel72-280-673a7bd5.avif",
+  "accessories/barrel73": "build/assets/images/tankIcon/accessories/barrel73-280-62b190de.avif",
+  "accessories/barrel79": "build/assets/images/tankIcon/accessories/barrel79-280-2102ea1c.avif",
+  "accessories/barrel8": "build/assets/images/tankIcon/accessories/barrel8-280-1c78e9b4.avif",
+  "accessories/barrel9": "build/assets/images/tankIcon/accessories/barrel9-280-00110262.avif",
+  "accessories/front1": "build/assets/images/tankIcon/accessories/front1-280-f55a33c4.avif",
+  "accessories/front10": "build/assets/images/tankIcon/accessories/front10-280-ea9ef3be.avif",
+  "accessories/front101": "build/assets/images/tankIcon/accessories/front101-280-ad82b673.avif",
+  "accessories/front107": "build/assets/images/tankIcon/accessories/front107-280-c897f47c.avif",
+  "accessories/front108": "build/assets/images/tankIcon/accessories/front108-280-f6f6945b.avif",
+  "accessories/front109": "build/assets/images/tankIcon/accessories/front109-280-e82fb0d3.avif",
+  "accessories/front110": "build/assets/images/tankIcon/accessories/front110-280-394a6629.avif",
+  "accessories/front111": "build/assets/images/tankIcon/accessories/front111-280-0adde394.avif",
+  "accessories/front112": "build/assets/images/tankIcon/accessories/front112-280-e7c379d7.avif",
+  "accessories/front113": "build/assets/images/tankIcon/accessories/front113-280-246faa22.avif",
+  "accessories/front116": "build/assets/images/tankIcon/accessories/front116-280-11cbd159.avif",
+  "accessories/front120": "build/assets/images/tankIcon/accessories/front120-280-bf7aba7e.avif",
+  "accessories/front13": "build/assets/images/tankIcon/accessories/front13-280-0a9bc68b.avif",
+  "accessories/front14": "build/assets/images/tankIcon/accessories/front14-280-7dab2b0e.avif",
+  "accessories/front15": "build/assets/images/tankIcon/accessories/front15-280-4a4676d7.avif",
+  "accessories/front150": "build/assets/images/tankIcon/accessories/front150-280-ad467c36.avif",
+  "accessories/front160": "build/assets/images/tankIcon/accessories/front160-280-d9e0db1d.avif",
+  "accessories/front161": "build/assets/images/tankIcon/accessories/front161-280-66f9080d.avif",
+  "accessories/front162": "build/assets/images/tankIcon/accessories/front162-280-fafd6c7a.avif",
+  "accessories/front163": "build/assets/images/tankIcon/accessories/front163-280-97ff5561.avif",
+  "accessories/front164": "build/assets/images/tankIcon/accessories/front164-280-2c004b25.avif",
+  "accessories/front165": "build/assets/images/tankIcon/accessories/front165-280-0b504d4d.avif",
+  "accessories/front18": "build/assets/images/tankIcon/accessories/front18-280-0d029b64.avif",
+  "accessories/front19": "build/assets/images/tankIcon/accessories/front19-280-16bd5300.avif",
+  "accessories/front20": "build/assets/images/tankIcon/accessories/front20-280-00c1a6d0.avif",
+  "accessories/front21": "build/assets/images/tankIcon/accessories/front21-280-d61e9cb1.avif",
+  "accessories/front22": "build/assets/images/tankIcon/accessories/front22-280-5e47fcb5.avif",
+  "accessories/front23": "build/assets/images/tankIcon/accessories/front23-280-dc467639.avif",
+  "accessories/front24": "build/assets/images/tankIcon/accessories/front24-280-a6f244a0.avif",
+  "accessories/front25": "build/assets/images/tankIcon/accessories/front25-280-acb9c95d.avif",
+  "accessories/front26": "build/assets/images/tankIcon/accessories/front26-280-cfd5533a.avif",
+  "accessories/front27": "build/assets/images/tankIcon/accessories/front27-280-39e5688b.avif",
+  "accessories/front28": "build/assets/images/tankIcon/accessories/front28-280-39e5688b.avif",
+  "accessories/front29": "build/assets/images/tankIcon/accessories/front29-280-39e5688b.avif",
+  "accessories/front30": "build/assets/images/tankIcon/accessories/front30-280-39e5688b.avif",
+  "accessories/front33": "build/assets/images/tankIcon/accessories/front33-280-f9c2b98b.avif",
+  "accessories/front34": "build/assets/images/tankIcon/accessories/front34-280-023ff251.avif",
+  "accessories/front37": "build/assets/images/tankIcon/accessories/front37-280-6db1e133.avif",
+  "accessories/front38": "build/assets/images/tankIcon/accessories/front38-280-64eebb2a.avif",
+  "accessories/front39": "build/assets/images/tankIcon/accessories/front39-280-2dc1866c.avif",
+  "accessories/front4": "build/assets/images/tankIcon/accessories/front4-280-bbe11f96.avif",
+  "accessories/front40": "build/assets/images/tankIcon/accessories/front40-280-d06b84ba.avif",
+  "accessories/front41": "build/assets/images/tankIcon/accessories/front41-280-acef668f.avif",
+  "accessories/front43": "build/assets/images/tankIcon/accessories/front43-280-b194d354.avif",
+  "accessories/front45": "build/assets/images/tankIcon/accessories/front45-280-1ae2a985.avif",
+  "accessories/front46": "build/assets/images/tankIcon/accessories/front46-280-669b086f.avif",
+  "accessories/front5": "build/assets/images/tankIcon/accessories/front5-280-ca468b34.avif",
+  "accessories/front50": "build/assets/images/tankIcon/accessories/front50-280-06cf1770.avif",
+  "accessories/front6": "build/assets/images/tankIcon/accessories/front6-280-0b089959.avif",
+  "accessories/front60": "build/assets/images/tankIcon/accessories/front60-280-1f136a22.avif",
+  "accessories/front7": "build/assets/images/tankIcon/accessories/front7-280-0910b06a.avif",
+  "accessories/front78": "build/assets/images/tankIcon/accessories/front78-280-7640d887.avif",
+  "accessories/front8": "build/assets/images/tankIcon/accessories/front8-280-1bfac09e.avif",
+  "accessories/front9": "build/assets/images/tankIcon/accessories/front9-280-3e874f7a.avif",
+  "accessories/front90": "build/assets/images/tankIcon/accessories/front90-280-11dc5727.avif",
+  "accessories/front91": "build/assets/images/tankIcon/accessories/front91-280-1e56539a.avif",
+  "accessories/turret1": "build/assets/images/tankIcon/accessories/turret1-280-3dcb8fe8.avif",
+  "accessories/turret10": "build/assets/images/tankIcon/accessories/turret10-280-082a07e3.avif",
+  "accessories/turret100": "build/assets/images/tankIcon/accessories/turret100-280-6df99c8c.avif",
+  "accessories/turret101": "build/assets/images/tankIcon/accessories/turret101-280-edc94e9d.avif",
+  "accessories/turret107": "build/assets/images/tankIcon/accessories/turret107-280-88169163.avif",
+  "accessories/turret108": "build/assets/images/tankIcon/accessories/turret108-280-59f85357.avif",
+  "accessories/turret109": "build/assets/images/tankIcon/accessories/turret109-280-12e279f2.avif",
+  "accessories/turret11": "build/assets/images/tankIcon/accessories/turret11-280-c51cb65d.avif",
+  "accessories/turret110": "build/assets/images/tankIcon/accessories/turret110-280-e0caa0fa.avif",
+  "accessories/turret111": "build/assets/images/tankIcon/accessories/turret111-280-89507941.avif",
+  "accessories/turret112": "build/assets/images/tankIcon/accessories/turret112-280-017fe1bf.avif",
+  "accessories/turret113": "build/assets/images/tankIcon/accessories/turret113-280-c478d8e9.avif",
+  "accessories/turret114": "build/assets/images/tankIcon/accessories/turret114-280-426bf0ea.avif",
+  "accessories/turret116": "build/assets/images/tankIcon/accessories/turret116-280-f40e3f31.avif",
+  "accessories/turret12": "build/assets/images/tankIcon/accessories/turret12-280-01baf28e.avif",
+  "accessories/turret120": "build/assets/images/tankIcon/accessories/turret120-280-aa16ec79.avif",
+  "accessories/turret121": "build/assets/images/tankIcon/accessories/turret121-280-beb79661.avif",
+  "accessories/turret13": "build/assets/images/tankIcon/accessories/turret13-280-416ecc30.avif",
+  "accessories/turret14": "build/assets/images/tankIcon/accessories/turret14-280-ff367336.avif",
+  "accessories/turret15": "build/assets/images/tankIcon/accessories/turret15-280-7f6ebb80.avif",
+  "accessories/turret150": "build/assets/images/tankIcon/accessories/turret150-280-6854f647.avif",
+  "accessories/turret16": "build/assets/images/tankIcon/accessories/turret16-280-bcf5daea.avif",
+  "accessories/turret160": "build/assets/images/tankIcon/accessories/turret160-280-c7588683.avif",
+  "accessories/turret161": "build/assets/images/tankIcon/accessories/turret161-280-88759c97.avif",
+  "accessories/turret162": "build/assets/images/tankIcon/accessories/turret162-280-07d985c4.avif",
+  "accessories/turret163": "build/assets/images/tankIcon/accessories/turret163-280-df9257af.avif",
+  "accessories/turret164": "build/assets/images/tankIcon/accessories/turret164-280-2c3fdaca.avif",
+  "accessories/turret165": "build/assets/images/tankIcon/accessories/turret165-280-015d6252.avif",
+  "accessories/turret166": "build/assets/images/tankIcon/accessories/turret166-280-e20c0566.avif",
+  "accessories/turret167": "build/assets/images/tankIcon/accessories/turret167-280-a89a6414.avif",
+  "accessories/turret17": "build/assets/images/tankIcon/accessories/turret17-280-3389897d.avif",
+  "accessories/turret18": "build/assets/images/tankIcon/accessories/turret18-280-bc6dd255.avif",
+  "accessories/turret19": "build/assets/images/tankIcon/accessories/turret19-280-2147a257.avif",
+  "accessories/turret2": "build/assets/images/tankIcon/accessories/turret2-280-2a8eb2c1.avif",
+  "accessories/turret20": "build/assets/images/tankIcon/accessories/turret20-280-c219e495.avif",
+  "accessories/turret21": "build/assets/images/tankIcon/accessories/turret21-280-88dc38fe.avif",
+  "accessories/turret22": "build/assets/images/tankIcon/accessories/turret22-280-eaebc8e3.avif",
+  "accessories/turret23": "build/assets/images/tankIcon/accessories/turret23-280-e10af81d.avif",
+  "accessories/turret24": "build/assets/images/tankIcon/accessories/turret24-280-9071140b.avif",
+  "accessories/turret25": "build/assets/images/tankIcon/accessories/turret25-280-eb68e543.avif",
+  "accessories/turret27": "build/assets/images/tankIcon/accessories/turret27-280-39e5688b.avif",
+  "accessories/turret3": "build/assets/images/tankIcon/accessories/turret3-280-760a3fa9.avif",
+  "accessories/turret33": "build/assets/images/tankIcon/accessories/turret33-280-7e64cb54.avif",
+  "accessories/turret37": "build/assets/images/tankIcon/accessories/turret37-280-4a9a86d1.avif",
+  "accessories/turret38": "build/assets/images/tankIcon/accessories/turret38-280-82abb056.avif",
+  "accessories/turret39": "build/assets/images/tankIcon/accessories/turret39-280-5c72ecb1.avif",
+  "accessories/turret4": "build/assets/images/tankIcon/accessories/turret4-280-22634a12.avif",
+  "accessories/turret40": "build/assets/images/tankIcon/accessories/turret40-280-f6533aa3.avif",
+  "accessories/turret42": "build/assets/images/tankIcon/accessories/turret42-280-1c95fe80.avif",
+  "accessories/turret43": "build/assets/images/tankIcon/accessories/turret43-280-ec737b3c.avif",
+  "accessories/turret44": "build/assets/images/tankIcon/accessories/turret44-280-2c2a4a7c.avif",
+  "accessories/turret45": "build/assets/images/tankIcon/accessories/turret45-280-6a247920.avif",
+  "accessories/turret46": "build/assets/images/tankIcon/accessories/turret46-280-f65a802c.avif",
+  "accessories/turret47": "build/assets/images/tankIcon/accessories/turret47-280-ec806fd2.avif",
+  "accessories/turret48": "build/assets/images/tankIcon/accessories/turret48-280-eb85caf0.avif",
+  "accessories/turret49": "build/assets/images/tankIcon/accessories/turret49-280-622f3cc8.avif",
+  "accessories/turret5": "build/assets/images/tankIcon/accessories/turret5-280-9e869afa.avif",
+  "accessories/turret50": "build/assets/images/tankIcon/accessories/turret50-280-cdc563de.avif",
+  "accessories/turret51": "build/assets/images/tankIcon/accessories/turret51-280-b0ee495f.avif",
+  "accessories/turret52": "build/assets/images/tankIcon/accessories/turret52-280-eccadc87.avif",
+  "accessories/turret6": "build/assets/images/tankIcon/accessories/turret6-280-8add4509.avif",
+  "accessories/turret60": "build/assets/images/tankIcon/accessories/turret60-280-123c7273.avif",
+  "accessories/turret65": "build/assets/images/tankIcon/accessories/turret65-280-97e582d4.avif",
+  "accessories/turret7": "build/assets/images/tankIcon/accessories/turret7-280-da3017b2.avif",
+  "accessories/turret70": "build/assets/images/tankIcon/accessories/turret70-280-83955063.avif",
+  "accessories/turret71": "build/assets/images/tankIcon/accessories/turret71-280-1efbb97c.avif",
+  "accessories/turret72": "build/assets/images/tankIcon/accessories/turret72-280-a5282938.avif",
+  "accessories/turret73": "build/assets/images/tankIcon/accessories/turret73-280-953a6251.avif",
+  "accessories/turret74": "build/assets/images/tankIcon/accessories/turret74-280-d3a1a3ef.avif",
+  "accessories/turret75": "build/assets/images/tankIcon/accessories/turret75-280-558c7a0e.avif",
+  "accessories/turret76": "build/assets/images/tankIcon/accessories/turret76-280-a61dc24b.avif",
+  "accessories/turret77": "build/assets/images/tankIcon/accessories/turret77-280-d6c63872.avif",
+  "accessories/turret78": "build/assets/images/tankIcon/accessories/turret78-280-558057c2.avif",
+  "accessories/turret79": "build/assets/images/tankIcon/accessories/turret79-280-b2017169.avif",
+  "accessories/turret8": "build/assets/images/tankIcon/accessories/turret8-280-a0a63df8.avif",
+  "accessories/turret9": "build/assets/images/tankIcon/accessories/turret9-280-17caf5bc.avif",
+  "barrel": "build/assets/images/tankIcon/barrel-280-c72baf12.avif",
+  "barrelShade": "build/assets/images/tankIcon/barrelShade-280-43c0bc98.avif",
+  "base": "build/assets/images/tankIcon/base-280-63190bca.avif",
+  "baseShade": "build/assets/images/tankIcon/baseShade-280-8f78ccc1.avif",
+  "colours/colour107": "build/assets/images/tankIcon/colours/colour107-280-4d8b1d20.avif",
+  "colours/colour108": "build/assets/images/tankIcon/colours/colour108-280-c931bbf6.avif",
+  "colours/colour109": "build/assets/images/tankIcon/colours/colour109-280-1c259239.avif",
+  "colours/colour110": "build/assets/images/tankIcon/colours/colour110-280-60b2f760.avif",
+  "colours/colour120": "build/assets/images/tankIcon/colours/colour120-280-7bc46591.avif",
+  "colours/colour13": "build/assets/images/tankIcon/colours/colour13-280-8869b548.avif",
+  "colours/colour14": "build/assets/images/tankIcon/colours/colour14-280-be391dce.avif",
+  "colours/colour150": "build/assets/images/tankIcon/colours/colour150-280-d9c9a3ee.avif",
+  "colours/colour151": "build/assets/images/tankIcon/colours/colour151-280-2be2f6cd.avif",
+  "colours/colour152": "build/assets/images/tankIcon/colours/colour152-280-68aa1c66.avif",
+  "colours/colour153": "build/assets/images/tankIcon/colours/colour153-280-b442730d.avif",
+  "colours/colour160": "build/assets/images/tankIcon/colours/colour160-280-44e521e1.avif",
+  "colours/colour161": "build/assets/images/tankIcon/colours/colour161-280-94a07585.avif",
+  "colours/colour162": "build/assets/images/tankIcon/colours/colour162-280-07e74edb.avif",
+  "colours/colour163": "build/assets/images/tankIcon/colours/colour163-280-87863279.avif",
+  "colours/colour164": "build/assets/images/tankIcon/colours/colour164-280-0f8d195f.avif",
+  "colours/colour165": "build/assets/images/tankIcon/colours/colour165-280-287a57ac.avif",
+  "colours/colour166": "build/assets/images/tankIcon/colours/colour166-280-ab0d9edf.avif",
+  "colours/colour167": "build/assets/images/tankIcon/colours/colour167-280-6b269b9b.avif",
+  "colours/colour33": "build/assets/images/tankIcon/colours/colour33-280-cf250b2a.avif",
+  "colours/colour42": "build/assets/images/tankIcon/colours/colour42-280-27c00af2.avif",
+  "colours/colour43": "build/assets/images/tankIcon/colours/colour43-280-6e609453.avif",
+  "colours/colour45": "build/assets/images/tankIcon/colours/colour45-280-9dbff17e.avif",
+  "colours/colour50": "build/assets/images/tankIcon/colours/colour50-280-7a80362f.avif",
+  "colours/colour60": "build/assets/images/tankIcon/colours/colour60-280-34e53edd.avif",
+  "colours/colour61": "build/assets/images/tankIcon/colours/colour61-280-0c799d05.avif",
+  "leftTread": "build/assets/images/tankIcon/leftTread-280-cbbd1f28.avif",
+  "leftTreadShade": "build/assets/images/tankIcon/leftTreadShade-280-ca395a2a.avif",
+  "placeholder": "build/assets/images/tankIcon/placeholder-280-fbcc3725.avif",
+  "rightTread": "build/assets/images/tankIcon/rightTread-280-ac382de2.avif",
+  "rightTreadShade": "build/assets/images/tankIcon/rightTreadShade-280-99a10d4b.avif",
+  "turret": "build/assets/images/tankIcon/turret-280-92ce8d6d.avif",
+  "turretShade": "build/assets/images/tankIcon/turretShade-280-25a7bd72.avif"
+};
+
 
 
         let currentType = "daily";
@@ -1815,429 +2233,7 @@ if (activeStatButton) {
 
                     container.appendChild(playerDiv);
 
-                    function loadPlayerTank(player) {
-    const canvas = document.getElementById("playerTankCanvas");
 
-    if (!canvas) return;
-
-    const ctx = canvas.getContext("2d");
-    const size = 280;
-
-    canvas.width = size;
-    canvas.height = size;
-
-    ctx.clearRect(0, 0, size, size);
-
-    const baseUrl = "https://tanktrouble.com/";
-
-    function loadImage(path) {
-        return new Promise((resolve, reject) => {
-            const img = new Image();
-
-            img.onload = () => resolve(img);
-            img.onerror = () => reject(new Error("Failed to load: " + path));
-
-            img.src = baseUrl + path;
-        });
-    }
-
-    function getColour(colour) {
-        if (!colour) {
-            return "#888888";
-        }
-
-        // Normal TankTrouble numeric colour
-        if (colour.numericValue) {
-            let value = colour.numericValue.substring(2);
-
-            value = value.padStart(6, "0");
-
-            return "#" + value;
-        }
-
-        // Image-based colour
-        if (colour.imageValue) {
-            return null;
-        }
-
-        return "#888888";
-    }
-
-    async function tintPart(partImage, colour) {
-        const buffer = document.createElement("canvas");
-        buffer.width = size;
-        buffer.height = size;
-
-        const bufferCtx = buffer.getContext("2d");
-
-        bufferCtx.clearRect(0, 0, size, size);
-
-        if (colour) {
-            bufferCtx.fillStyle = colour;
-            bufferCtx.fillRect(0, 0, size, size);
-        }
-
-        bufferCtx.globalCompositeOperation = "destination-atop";
-        bufferCtx.drawImage(partImage, 0, 0, size, size);
-
-        bufferCtx.globalCompositeOperation = "source-over";
-
-        return buffer;
-    }
-
-    async function drawTank() {
-        try {
-            /*
-             * BASE TANK PARTS
-             */
-            const [
-                turret,
-                barrel,
-                leftTread,
-                rightTread,
-                base,
-                turretShade,
-                barrelShade,
-                leftTreadShade,
-                rightTreadShade,
-                baseShade
-            ] = await Promise.all([
-                loadImage(TANK_ASSETS.turret),
-                loadImage(TANK_ASSETS.barrel),
-                loadImage(TANK_ASSETS.leftTread),
-                loadImage(TANK_ASSETS.rightTread),
-                loadImage(TANK_ASSETS.base),
-                loadImage(TANK_ASSETS.turretShade),
-                loadImage(TANK_ASSETS.barrelShade),
-                loadImage(TANK_ASSETS.leftTreadShade),
-                loadImage(TANK_ASSETS.rightTreadShade),
-                loadImage(TANK_ASSETS.baseShade)
-            ]);
-
-            /*
-             * ACCESSORIES
-             */
-            const accessoryTypes = [
-                ["turret", player.turretAccessory],
-                ["barrel", player.barrelAccessory],
-                ["front", player.frontAccessory],
-                ["back", player.backAccessory],
-                ["tread", player.treadAccessory],
-                ["background", player.backgroundAccessory],
-                ["badge", player.badge]
-            ];
-
-            const accessoryImages = {};
-
-            await Promise.all(
-                accessoryTypes.map(async ([type, id]) => {
-                    if (
-                        id === undefined ||
-                        id === null ||
-                        id === "" ||
-                        id === "0" ||
-                        id === 0
-                    ) {
-                        return;
-                    }
-
-                    const key = "accessories/" + type + id;
-                    const path = TANK_ASSETS[key];
-
-                    if (!path) {
-                        console.warn(
-                            "No TankTrouble asset found for:",
-                            key
-                        );
-                        return;
-                    }
-
-                    try {
-                        accessoryImages[type] = await loadImage(path);
-                    } catch (error) {
-                        console.warn(
-                            "Could not load accessory:",
-                            key
-                        );
-                    }
-                })
-            );
-
-            /*
-             * BACKGROUND ACCESSORY
-             *
-             * TankTrouble draws this before the actual tank.
-             */
-            if (accessoryImages.background) {
-                ctx.drawImage(
-                    accessoryImages.background,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * TURRET
-             */
-            const turretColour = getColour(player.turretColour);
-
-            if (turretColour) {
-                const tintedTurret =
-                    await tintPart(turret, turretColour);
-
-                ctx.drawImage(
-                    tintedTurret,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            } else {
-                ctx.drawImage(
-                    turret,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.drawImage(
-                turretShade,
-                0,
-                0,
-                size,
-                size
-            );
-
-            /*
-             * TURRET ACCESSORY
-             */
-            if (accessoryImages.turret) {
-                ctx.drawImage(
-                    accessoryImages.turret,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * BARREL
-             */
-            const barrelColour = getColour(player.turretColour);
-
-            if (barrelColour) {
-                const tintedBarrel =
-                    await tintPart(barrel, barrelColour);
-
-                ctx.drawImage(
-                    tintedBarrel,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            } else {
-                ctx.drawImage(
-                    barrel,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.drawImage(
-                barrelShade,
-                0,
-                0,
-                size,
-                size
-            );
-
-            /*
-             * BARREL ACCESSORY
-             */
-            if (accessoryImages.barrel) {
-                ctx.drawImage(
-                    accessoryImages.barrel,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * LEFT TREAD
-             */
-            const treadColour = getColour(player.treadColour);
-
-            if (treadColour) {
-                const tintedLeftTread =
-                    await tintPart(leftTread, treadColour);
-
-                ctx.drawImage(
-                    tintedLeftTread,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            } else {
-                ctx.drawImage(
-                    leftTread,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.drawImage(
-                leftTreadShade,
-                0,
-                0,
-                size,
-                size
-            );
-
-            /*
-             * RIGHT TREAD
-             */
-            if (treadColour) {
-                const tintedRightTread =
-                    await tintPart(rightTread, treadColour);
-
-                ctx.drawImage(
-                    tintedRightTread,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            } else {
-                ctx.drawImage(
-                    rightTread,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.drawImage(
-                rightTreadShade,
-                0,
-                0,
-                size,
-                size
-            );
-
-            /*
-             * BASE
-             */
-            const baseColour = getColour(player.baseColour);
-
-            if (baseColour) {
-                const tintedBase =
-                    await tintPart(base, baseColour);
-
-                ctx.drawImage(
-                    tintedBase,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            } else {
-                ctx.drawImage(
-                    base,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.drawImage(
-                baseShade,
-                0,
-                0,
-                size,
-                size
-            );
-
-            /*
-             * FRONT ACCESSORY
-             */
-            if (accessoryImages.front) {
-                ctx.drawImage(
-                    accessoryImages.front,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * BACK ACCESSORY
-             */
-            if (accessoryImages.back) {
-                ctx.drawImage(
-                    accessoryImages.back,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * TREAD ACCESSORY
-             */
-            if (accessoryImages.tread) {
-                ctx.drawImage(
-                    accessoryImages.tread,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            /*
-             * BADGE
-             */
-            if (accessoryImages.badge) {
-                ctx.drawImage(
-                    accessoryImages.badge,
-                    0,
-                    0,
-                    size,
-                    size
-                );
-            }
-
-            ctx.globalCompositeOperation = "source-over";
-
-        } catch (error) {
-            console.error(
-                "Could not render TankTrouble tank:",
-                error
-            );
-        }
-    }
-
-    drawTank();
-}
-
-loadPlayerTank(player);
 
 
                     
@@ -2844,6 +2840,235 @@ function searchPlayers() {
     });
 }
 
+
+function loadPlayerTank(player) {
+    const canvas = document.getElementById("playerTankCanvas");
+
+    if (!canvas) return;
+
+    const ctx = canvas.getContext("2d");
+    const size = 280;
+
+    canvas.width = size;
+    canvas.height = size;
+    ctx.clearRect(0, 0, size, size);
+
+    const baseUrl = "https://tanktrouble.com/";
+
+    function loadImage(path) {
+        return new Promise((resolve, reject) => {
+            const img = new Image();
+            img.onload = () => resolve(img);
+            img.onerror = () => reject(new Error("Failed to load: " + path));
+            img.src = baseUrl + path;
+        });
+    }
+
+    function getColour(colour) {
+        if (!colour || !colour.numericValue) {
+            return "#888888";
+        }
+
+        return "#" + colour.numericValue.substring(2).padStart(6, "0");
+    }
+
+    async function tintPart(image, colour) {
+        const buffer = document.createElement("canvas");
+        buffer.width = size;
+        buffer.height = size;
+
+        const bufferCtx = buffer.getContext("2d");
+        bufferCtx.fillStyle = colour;
+        bufferCtx.fillRect(0, 0, size, size);
+
+        bufferCtx.globalCompositeOperation = "destination-atop";
+        bufferCtx.drawImage(image, 0, 0, size, size);
+        bufferCtx.globalCompositeOperation = "source-over";
+
+        return buffer;
+    }
+
+    async function drawTank() {
+        try {
+            const [
+                turret,
+                barrel,
+                leftTread,
+                rightTread,
+                base,
+                turretShade,
+                barrelShade,
+                leftTreadShade,
+                rightTreadShade,
+                baseShade
+            ] = await Promise.all([
+                loadImage(TANK_ASSETS.turret),
+                loadImage(TANK_ASSETS.barrel),
+                loadImage(TANK_ASSETS.leftTread),
+                loadImage(TANK_ASSETS.rightTread),
+                loadImage(TANK_ASSETS.base),
+                loadImage(TANK_ASSETS.turretShade),
+                loadImage(TANK_ASSETS.barrelShade),
+                loadImage(TANK_ASSETS.leftTreadShade),
+                loadImage(TANK_ASSETS.rightTreadShade),
+                loadImage(TANK_ASSETS.baseShade)
+            ]);
+
+            const accessoryTypes = [
+                ["turret", player.turretAccessory],
+                ["barrel", player.barrelAccessory],
+                ["front", player.frontAccessory],
+                ["back", player.backAccessory],
+                ["tread", player.treadAccessory],
+                ["background", player.backgroundAccessory],
+                ["badge", player.badge]
+            ];
+
+            const accessoryImages = {};
+
+            await Promise.all(
+                accessoryTypes.map(async ([type, id]) => {
+                    if (
+                        id === undefined ||
+                        id === null ||
+                        id === "" ||
+                        id === "0" ||
+                        id === 0
+                    ) {
+                        return;
+                    }
+
+                    const path = TANK_ASSETS["accessories/" + type + id];
+
+                    if (!path) {
+                        console.warn(
+                            "No TankTrouble asset found for:",
+                            type + id
+                        );
+                        return;
+                    }
+
+                    try {
+                        accessoryImages[type] = await loadImage(path);
+                    } catch (error) {
+                        console.warn(
+                            "Could not load accessory:",
+                            type + id
+                        );
+                    }
+                })
+            );
+
+            // Background
+            if (accessoryImages.background) {
+                ctx.drawImage(
+                    accessoryImages.background,
+                    0, 0, size, size
+                );
+            }
+
+            // Turret
+            ctx.drawImage(
+                await tintPart(
+                    turret,
+                    getColour(player.turretColour)
+                ),
+                0, 0, size, size
+            );
+
+            ctx.drawImage(turretShade, 0, 0, size, size);
+
+            if (accessoryImages.turret) {
+                ctx.drawImage(
+                    accessoryImages.turret,
+                    0, 0, size, size
+                );
+            }
+
+            // Barrel
+            ctx.drawImage(
+                await tintPart(
+                    barrel,
+                    getColour(player.turretColour)
+                ),
+                0, 0, size, size
+            );
+
+            ctx.drawImage(barrelShade, 0, 0, size, size);
+
+            if (accessoryImages.barrel) {
+                ctx.drawImage(
+                    accessoryImages.barrel,
+                    0, 0, size, size
+                );
+            }
+
+            // Treads
+            const treadColour = getColour(player.treadColour);
+
+            ctx.drawImage(
+                await tintPart(leftTread, treadColour),
+                0, 0, size, size
+            );
+
+            ctx.drawImage(
+                leftTreadShade,
+                0, 0, size, size
+            );
+
+            ctx.drawImage(
+                await tintPart(rightTread, treadColour),
+                0, 0, size, size
+            );
+
+            ctx.drawImage(
+                rightTreadShade,
+                0, 0, size, size
+            );
+
+            // Base
+            ctx.drawImage(
+                await tintPart(
+                    base,
+                    getColour(player.baseColour)
+                ),
+                0, 0, size, size
+            );
+
+            ctx.drawImage(
+                baseShade,
+                0, 0, size, size
+            );
+
+            // Front, back, tread and badge accessories
+            for (const type of [
+                "front",
+                "back",
+                "tread",
+                "badge"
+            ]) {
+                if (accessoryImages[type]) {
+                    ctx.drawImage(
+                        accessoryImages[type],
+                        0, 0, size, size
+                    );
+                }
+            }
+
+            ctx.globalCompositeOperation = "source-over";
+
+        } catch (error) {
+            console.error(
+                "Could not render TankTrouble tank:",
+                error
+            );
+        }
+    }
+
+    drawTank();
+}
+
+
 function openPlayerProfile(playerId) {
 
     fetch("stats.json")
@@ -2886,6 +3111,11 @@ function openPlayerProfile(playerId) {
 
             document.getElementById("profilePlayerID").textContent =
                 player.playerId;
+
+            document.getElementById("profileModal").style.display =
+                "flex";
+
+            loadPlayerTank(player);
             
          
         })
