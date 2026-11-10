@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 37188
+    "kills": 37319
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1426
+    "kills": 1492
   },
   {
     "playerId": "22710399",
@@ -62,7 +62,7 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 515
+    "kills": 553
   },
   {
     "playerId": "8502796",
@@ -137,7 +137,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 279
+    "kills": 283
   },
   {
     "playerId": "3660774",
@@ -155,6 +155,11 @@
     "kills": 271
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 259
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 257
@@ -168,11 +173,6 @@
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 250
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 246
   },
   {
     "playerId": "19138057",
@@ -497,6 +497,11 @@
   {
     "playerId": "7559374",
     "username": "Catalyst",
+    "kills": 4
+  },
+  {
+    "playerId": "9184666",
+    "username": "-I-",
     "kills": 4
   },
   {
@@ -1027,11 +1032,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0
   },
   {
