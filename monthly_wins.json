@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 39297
+    "kills": 39519
   },
   {
     "playerId": "13173087",
@@ -20,14 +20,14 @@
     "kills": 1445
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 1385
-  },
-  {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1379
+    "kills": 1426
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 1397
   },
   {
     "playerId": "21601349",
@@ -47,12 +47,12 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 887
+    "kills": 951
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 812
+    "kills": 814
   },
   {
     "playerId": "22716354",
@@ -105,6 +105,11 @@
     "kills": 442
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 440
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 431
@@ -115,9 +120,9 @@
     "kills": 406
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 387
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 406
   },
   {
     "playerId": "22706369",
@@ -130,24 +135,19 @@
     "kills": 374
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 361
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 355
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 301
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 299
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 298
   },
   {
     "playerId": "22105718",
@@ -225,6 +225,11 @@
     "kills": 180
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 180
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 179
@@ -242,7 +247,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 153
+    "kills": 157
   },
   {
     "playerId": "19932455",
@@ -265,14 +270,9 @@
     "kills": 135
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 134
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 127
+    "kills": 129
   },
   {
     "playerId": "21956820",
@@ -417,7 +417,7 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 20
+    "kills": 21
   },
   {
     "playerId": "22056849",
