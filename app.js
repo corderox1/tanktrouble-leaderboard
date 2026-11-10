@@ -1793,22 +1793,32 @@ function getAchievementList(player, ranks, history) {
     const h = (history || []).filter(x => String(x.playerId) === String(player.playerId)).sort((a,b)=>new Date(a.date.replace(" ","T"))-new Date(b.date.replace(" ","T")));
     const dailyMax = (() => {
         const byDay = {};
-        h.forEach((x,i)=>{
-            if (!i) return;
-            const prev=h[i-1]; const d=x.date.slice(0,10);
-            const gain=Math.max(0,Number(x.kills)-Number(prev.kills));
-            byDay[d]=(byDay[d]||0)+gain;
+        h.forEach(x => {
+            const d = x.date.slice(0, 10);
+            const kills = Number(x.kills) || 0;
+            if (!byDay[d]) {
+                byDay[d] = { min: kills, max: kills };
+            } else {
+                byDay[d].min = Math.min(byDay[d].min, kills);
+                byDay[d].max = Math.max(byDay[d].max, kills);
+            }
         });
-        return Math.max(0,...Object.values(byDay));
+        return Math.max(
+            0,
+            ...Object.values(byDay).map(day => Math.max(0, day.max - day.min))
+        );
     })();
     if (kills >= 1000) achievements.push(["⚔️","1K Kills","Reached 1,000 lifetime kills"]);
     if (kills >= 10000) achievements.push(["💀","10K Kills","Reached 10,000 lifetime kills"]);
     if (kills >= 50000) achievements.push(["🔥","50K Kills","Reached 50,000 lifetime kills"]);
+    if (kills >= 100000) achievements.push(["💎","100K Kills","Reached 100,000 lifetime kills"]);
+    if (kills >= 1000000) achievements.push(["🏆","1M Kills","Reached 1,000,000 lifetime kills"]);
     if (wins >= 1000) achievements.push(["🏆","1K Wins","Reached 1,000 lifetime wins"]);
     if (wins >= 10000) achievements.push(["👑","10K Wins","Reached 10,000 lifetime wins"]);
     if (kd >= 2) achievements.push(["🎯","2.0 K/D","Maintained at least a 2.00 K/D"]);
     if (kd >= 3) achievements.push(["🎯","3.0 K/D","Maintained at least a 3.00 K/D"]);
     if (dailyMax >= 100) achievements.push(["🔥","100 in a Day","Gained 100+ kills in a recorded day"]);
+    if (dailyMax >= 1000) achievements.push(["⚡","1K in a Day","Gained 1,000+ kills in a recorded day"]);
     if (ranks.daily === 1 || ranks.weekly === 1 || ranks.monthly === 1 || ranks.yearly === 1) achievements.push(["👑","#1","Currently #1 on at least one period leaderboard"]);
     if (ranks.daily && ranks.daily <= 3 || ranks.weekly && ranks.weekly <= 3 || ranks.monthly && ranks.monthly <= 3 || ranks.yearly && ranks.yearly <= 3) achievements.push(["🥇","Top 3","Currently in the top three on a period leaderboard"]);
     return achievements;
@@ -1904,9 +1914,19 @@ async function loadHallOfFame() {
 
 async function loadAchievementCatalog() {
     const catalog=[
-        ["⚔️","1K Kills","Reach 1,000 lifetime kills"],["💀","10K Kills","Reach 10,000 lifetime kills"],["🔥","50K Kills","Reach 50,000 lifetime kills"],
-        ["🏆","1K Wins","Reach 1,000 lifetime wins"],["👑","10K Wins","Reach 10,000 lifetime wins"],["🎯","2.0 K/D","Maintain a 2.00+ K/D"],
-        ["🎯","3.0 K/D","Maintain a 3.00+ K/D"],["🔥","100 in a Day","Gain 100+ kills in a recorded day"],["🥇","Top 3","Finish in the current top three"],["👑","#1","Reach #1 on a period leaderboard"]
+        ["⚔️","1K Kills","Reach 1,000 lifetime kills"],
+        ["💀","10K Kills","Reach 10,000 lifetime kills"],
+        ["🔥","50K Kills","Reach 50,000 lifetime kills"],
+        ["💎","100K Kills","Reach 100,000 lifetime kills"],
+        ["🏆","1M Kills","Reach 1,000,000 lifetime kills"],
+        ["🏆","1K Wins","Reach 1,000 lifetime wins"],
+        ["👑","10K Wins","Reach 10,000 lifetime wins"],
+        ["🎯","2.0 K/D","Maintain a 2.00+ K/D"],
+        ["🎯","3.0 K/D","Maintain a 3.00+ K/D"],
+        ["🔥","100 in a Day","Gain 100+ kills in a recorded day"],
+        ["⚡","1K in a Day","Gain 1,000+ kills in a recorded day"],
+        ["🥇","Top 3","Finish in the current top three"],
+        ["👑","#1","Reach #1 on a period leaderboard"]
     ];
     document.getElementById("achievementCatalog").innerHTML=catalog.map(a=>`<div class="achievement-card"><div class="achievement-icon">${a[0]}</div><h4>${a[1]}</h4><p>${a[2]}</p></div>`).join("");
 }

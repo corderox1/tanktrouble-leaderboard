@@ -1862,3 +1862,139 @@ body{min-height:100vh;}
 .footer{max-width:1180px;margin:30px auto;padding:20px;color:#666;text-align:center;}
 @media(max-width:900px){.dashboard,.lifetime-dashboard{grid-template-columns:repeat(2,1fr)!important}.feature-grid{grid-template-columns:1fr!important}.achievement-grid{grid-template-columns:repeat(2,1fr)!important}.record-grid{grid-template-columns:repeat(2,1fr)!important}}
 @media(max-width:600px){.dashboard,.lifetime-dashboard{grid-template-columns:1fr!important}.achievement-grid,.record-grid{grid-template-columns:1fr!important}.site-nav{justify-content:stretch}.site-nav .nav-button{flex:1 1 45%}.page-shell{width:calc(100% - 20px)}}
+
+
+/* =========================================================
+   TTLEADERBOARD FINAL MAIN PAGE LAYOUT
+   Wider cards + full player names
+========================================================= */
+
+/* Let the main leaderboard breathe across the available screen. */
+#leaderboardPage.page-shell {
+    width: calc(100vw - 40px) !important;
+    max-width: 1500px !important;
+}
+
+/* Keep the search/bot area centered rather than stretching it. */
+#leaderboardPage .search-container {
+    width: min(900px, 100%) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Four wide, evenly spaced leaderboard cards. */
+#leaderboardPage .dashboard {
+    width: 100% !important;
+    max-width: 1500px !important;
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+    gap: 18px !important;
+    margin: 26px auto !important;
+}
+
+/* Wider lifetime cards. */
+#leaderboardPage .lifetime-dashboard {
+    width: 100% !important;
+    max-width: 1500px !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 18px !important;
+    margin: 22px auto 40px !important;
+}
+
+/* Give each board a little more vertical room. */
+#leaderboardPage .card-players {
+    height: 650px !important;
+}
+
+/* Make names readable instead of forcing them into tiny single-line slots. */
+#leaderboardPage .card-players .player {
+    grid-template-columns: 42px minmax(0, 1fr) 78px !important;
+    min-height: 48px !important;
+    padding: 9px 12px !important;
+}
+
+#leaderboardPage .card-players .username {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    align-content: center !important;
+    min-width: 0 !important;
+    overflow: visible !important;
+    white-space: normal !important;
+    line-height: 1.15 !important;
+}
+
+#leaderboardPage .card-players .username-name {
+    display: inline !important;
+    max-width: 100% !important;
+    overflow: visible !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    word-break: normal !important;
+    text-overflow: clip !important;
+    color: #f5f5f5 !important;
+}
+
+#leaderboardPage .card-players .last-kill {
+    display: block !important;
+    width: 100% !important;
+    margin: 3px 0 0 !important;
+    font-size: 9px !important;
+    line-height: 1 !important;
+    white-space: nowrap !important;
+    color: #777 !important;
+}
+
+/* Don't let the number column squeeze the player name. */
+#leaderboardPage .card-players .kills {
+    min-width: 0 !important;
+    text-align: right !important;
+}
+
+/* Lifetime lists should also have enough room to read names. */
+#leaderboardPage .lifetime-dashboard .card-players {
+    height: 560px !important;
+}
+
+@media (max-width: 1200px) {
+    #leaderboardPage.page-shell {
+        width: calc(100vw - 24px) !important;
+    }
+
+    #leaderboardPage .dashboard {
+        gap: 12px !important;
+    }
+
+    #leaderboardPage .card-players .player {
+        grid-template-columns: 34px minmax(0, 1fr) 68px !important;
+        padding-left: 9px !important;
+        padding-right: 9px !important;
+    }
+
+    #leaderboardPage .card-players .username-name {
+        font-size: 12px !important;
+    }
+
+    #leaderboardPage .card-players .last-kill {
+        font-size: 8px !important;
+    }
+}
+
+@media (max-width: 900px) {
+    #leaderboardPage .dashboard {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    #leaderboardPage .lifetime-dashboard {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+@media (max-width: 600px) {
+    #leaderboardPage .dashboard {
+        grid-template-columns: 1fr !important;
+    }
+
+    #leaderboardPage .card-players {
+        height: 600px !important;
+    }
+}
