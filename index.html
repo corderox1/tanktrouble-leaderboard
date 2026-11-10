@@ -319,72 +319,166 @@
     display: none;
     position: fixed;
     inset: 0;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.82);
     z-index: 1000;
     align-items: center;
     justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .profile-box {
     position: relative;
-    width: 90%;
-    max-width: 500px;
-    padding: 30px;
-    background: #111;
+    width: min(92vw, 620px);
+    max-height: 92vh;
+    overflow-y: auto;
+    padding: 26px;
+    background:
+        radial-gradient(circle at 50% 18%, rgba(255, 212, 59, 0.08), transparent 38%),
+        #111;
     border: 2px solid #ffd43b;
-    border-radius: 10px;
-    box-shadow: 0 0 30px rgba(255, 212, 59, 0.3);
+    border-radius: 16px;
+    box-shadow:
+        0 0 45px rgba(255, 212, 59, 0.18),
+        inset 0 0 35px rgba(255, 255, 255, 0.015);
     box-sizing: border-box;
+}
+
+.profile-box::-webkit-scrollbar {
+    width: 7px;
+}
+
+.profile-box::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 10px;
+}
+
+.profile-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    width: 34px;
+    height: 34px;
+    border: 1px solid #444;
+    border-radius: 50%;
+    background: #181818;
+    color: #aaa;
+    font-size: 24px;
+    line-height: 30px;
+    cursor: pointer;
+    z-index: 5;
+    transition: 0.15s;
+}
+
+.profile-close:hover {
+    color: #ffd43b;
+    border-color: #ffd43b;
+    transform: scale(1.05);
 }
 
 .profile-title {
     text-align: center;
     color: #ffd43b;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: bold;
-    margin-bottom: 25px;
-    text-shadow: 0 0 10px rgba(255, 212, 59, 0.5);
+    margin: 2px 45px 16px;
+    text-shadow: 0 0 12px rgba(255, 212, 59, 0.45);
 }
 
-.profile-close {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    border: none;
+.profile-tank-stage {
+    width: 100%;
+    min-height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 18px;
+    padding: 12px 0;
+    box-sizing: border-box;
+}
+
+.tank-placeholder {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: transparent;
-    color: #aaa;
-    font-size: 28px;
-    cursor: pointer;
+    border: none;
+    box-shadow: none;
 }
 
-.profile-close:hover {
-    color: #ffd43b;
+#playerTankCanvas {
+    display: block;
+    width: min(100%, 560px);
+    height: auto;
+    image-rendering: auto;
 }
 
 .profile-stats {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
 }
 
 .profile-stats > div {
-    padding: 15px;
-    background: #1b1b1b;
+    min-height: 72px;
+    padding: 12px 8px;
+    background: linear-gradient(145deg, #1b1b1b, #151515);
     border: 1px solid #333;
-    border-radius: 6px;
+    border-radius: 9px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
 }
 
 .profile-stats span {
     display: block;
     color: #888;
-    font-size: 12px;
-    margin-bottom: 8px;
+    font-size: 11px;
+    margin-bottom: 6px;
+    font-weight: bold;
 }
 
 .profile-stats strong {
     color: #ffd43b;
-    font-size: 16px;
+    font-size: 17px;
+}
+
+.profile-meta {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 0 0 18px;
+}
+
+.profile-meta span {
+    padding: 5px 10px;
+    background: #181818;
+    border: 1px solid #333;
+    border-radius: 999px;
+    color: #999;
+    font-size: 11px;
+}
+
+@media (max-width: 600px) {
+    .profile-box {
+        width: 96vw;
+        padding: 20px 14px;
+    }
+
+    .profile-title {
+        font-size: 25px;
+    }
+
+    .profile-tank-stage {
+        min-height: 190px;
+    }
+
+    .profile-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
         /* =========================
@@ -2843,7 +2937,6 @@ function searchPlayers() {
 
 function loadPlayerTank(player) {
     const canvas = document.getElementById("playerTankCanvas");
-
     if (!canvas) return;
 
     const width = 280;
@@ -2853,7 +2946,6 @@ function loadPlayerTank(player) {
     canvas.height = height;
 
     const ctx = canvas.getContext("2d");
-
     ctx.clearRect(0, 0, width, height);
 
     const baseUrl = "https://tanktrouble.com/";
@@ -2861,43 +2953,26 @@ function loadPlayerTank(player) {
     function loadImage(path) {
         return new Promise((resolve, reject) => {
             const img = new Image();
-
             img.onload = () => resolve(img);
-            img.onerror = () => reject(
-                new Error("Failed to load: " + path)
-            );
-
+            img.onerror = () => reject(new Error("Failed to load: " + path));
             img.src = baseUrl + path;
         });
     }
 
     function colourValue(colour) {
-        if (!colour) {
-            return "#888888";
-        }
+        if (!colour) return "#888888";
 
         if (colour.numericValue) {
-            let value = colour.numericValue.slice(2);
-
-            value = new Array(
-                Math.max(0, 6 - value.length) + 1
-            ).join("0") + value;
-
+            let value = colour.numericValue.substring(2).padStart(6, "0");
             return "#" + value;
         }
 
         return null;
     }
 
-    async function getColour(colour) {
-        if (
-            colour &&
-            colour.imageValue
-        ) {
-            const path =
-                TANK_ASSETS[
-                    "colours/colour" + colour.imageValue
-                ];
+    async function resolveColour(colour) {
+        if (colour && colour.imageValue) {
+            const path = TANK_ASSETS["colours/colour" + colour.imageValue];
 
             if (path) {
                 return await loadImage(path);
@@ -2907,57 +2982,25 @@ function loadPlayerTank(player) {
         return colourValue(colour);
     }
 
-    /*
-     * This is the same tint operation TankTrouble uses:
-     *
-     * 1. Put the colour/image into the tint buffer.
-     * 2. destination-atop with the actual tank part.
-     * 3. Composite the tinted part.
-     * 4. Put the shade image on top.
-     */
     function tintPart(bufferCtx, image, colour) {
         bufferCtx.clearRect(0, 0, width, height);
 
         bufferCtx.globalCompositeOperation = "copy";
 
         if (colour instanceof HTMLImageElement) {
-            bufferCtx.drawImage(
-                colour,
-                0,
-                0,
-                width,
-                height
-            );
+            bufferCtx.drawImage(colour, 0, 0, width, height);
         } else {
             bufferCtx.fillStyle = colour || "#888888";
-            bufferCtx.fillRect(
-                0,
-                0,
-                width,
-                height
-            );
+            bufferCtx.fillRect(0, 0, width, height);
         }
 
-        bufferCtx.globalCompositeOperation =
-            "destination-atop";
-
-        bufferCtx.drawImage(
-            image,
-            0,
-            0,
-            width,
-            height
-        );
-
-        bufferCtx.globalCompositeOperation =
-            "source-over";
+        bufferCtx.globalCompositeOperation = "destination-atop";
+        bufferCtx.drawImage(image, 0, 0, width, height);
+        bufferCtx.globalCompositeOperation = "source-over";
     }
 
     async function drawTank() {
         try {
-            /*
-             * Load all of the actual TankTrouble tank layers.
-             */
             const [
                 turret,
                 barrel,
@@ -2982,87 +3025,83 @@ function loadPlayerTank(player) {
                 loadImage(TANK_ASSETS.baseShade)
             ]);
 
-            /*
-             * Load colours.
-             */
             const [
                 turretColour,
                 treadColour,
                 baseColour
             ] = await Promise.all([
-                getColour(player.turretColour),
-                getColour(player.treadColour),
-                getColour(player.baseColour)
+                resolveColour(player.turretColour),
+                resolveColour(player.treadColour),
+                resolveColour(player.baseColour)
             ]);
 
-            /*
-             * Load accessories.
-             */
             const accessoryImages = {};
 
             const accessoryList = [
                 ["turret", player.turretAccessory],
                 ["barrel", player.barrelAccessory],
                 ["front", player.frontAccessory],
-                ["back", player.backAccessory],
-                ["tread", player.treadAccessory],
-                ["background", player.backgroundAccessory],
-                ["badge", player.badge]
+                ["back", player.backAccessory]
             ];
 
             await Promise.all(
-                accessoryList.map(
-                    async ([type, id]) => {
-                        if (
-                            id === undefined ||
-                            id === null ||
-                            id === "" ||
-                            id === "0" ||
-                            id === 0
-                        ) {
-                            return;
-                        }
-
-                        const key =
-                            "accessories/" +
-                            type +
-                            id;
-
-                        const path =
-                            TANK_ASSETS[key];
-
-                        if (!path) {
-                            console.warn(
-                                "No TankTrouble asset:",
-                                key
-                            );
-                            return;
-                        }
-
-                        try {
-                            accessoryImages[type] =
-                                await loadImage(path);
-                        } catch (error) {
-                            console.warn(
-                                "Could not load:",
-                                key
-                            );
-                        }
+                accessoryList.map(async ([type, id]) => {
+                    if (
+                        id === undefined ||
+                        id === null ||
+                        id === "" ||
+                        id === "0" ||
+                        id === 0
+                    ) {
+                        return;
                     }
-                )
+
+                    const path =
+                        TANK_ASSETS["accessories/" + type + id];
+
+                    if (!path) {
+                        console.warn(
+                            "No TankTrouble asset found:",
+                            type + id
+                        );
+                        return;
+                    }
+
+                    try {
+                        accessoryImages[type] = await loadImage(path);
+                    } catch (error) {
+                        console.warn(
+                            "Could not load accessory:",
+                            type + id
+                        );
+                    }
+                })
             );
 
             /*
-             * TankTrouble uses a separate compositing buffer.
+             * This follows TankTrouble's actual drawTankIcon order:
+             *
+             * BACK
+             * LEFT TREAD
+             * TURRET
+             * BASE
+             * RIGHT TREAD
+             * BARREL
+             * TURRET ACCESSORY
+             * FRONT ACCESSORY
+             * BARREL ACCESSORY
+             *
+             * The old renderer drew the treads in a different order,
+             * which caused the left tread to look corrupted.
              */
+
             const composited =
                 document.createElement("canvas");
 
             composited.width = width;
             composited.height = height;
 
-            const compositeCtx =
-                composited.getContext("2d");
+            const w = composited.getContext("2d");
 
             const tinted =
                 document.createElement("canvas");
@@ -3070,220 +3109,107 @@ function loadPlayerTank(player) {
             tinted.width = width;
             tinted.height = height;
 
-            const tintedCtx =
-                tinted.getContext("2d");
+            const tintCtx = tinted.getContext("2d");
 
-            /*
-             * BACKGROUND / BACK ACCESSORIES
-             *
-             * These sit behind the tank.
-             */
-            if (accessoryImages.background) {
-                compositeCtx.drawImage(
-                    accessoryImages.background,
-                    0,
-                    0,
-                    width,
-                    height
-                );
-            }
-
+            // BACK ACCESSORY
             if (accessoryImages.back) {
-                compositeCtx.drawImage(
+                w.drawImage(
                     accessoryImages.back,
-                    0,
-                    0,
-                    width,
-                    height
+                    0, 0, width, height
                 );
             }
 
-            /*
-             * TURRET
-             */
+            // LEFT TREAD
             tintPart(
-                tintedCtx,
-                turret,
-                turretColour
-            );
-
-            compositeCtx.drawImage(
-                tinted,
-                0,
-                0,
-                width,
-                height
-            );
-
-            compositeCtx.drawImage(
-                turretShade,
-                0,
-                0,
-                width,
-                height
-            );
-
-            /*
-             * BARREL
-             */
-            tintPart(
-                tintedCtx,
-                barrel,
-                turretColour
-            );
-
-            compositeCtx.drawImage(
-                tinted,
-                0,
-                0,
-                width,
-                height
-            );
-
-            compositeCtx.drawImage(
-                barrelShade,
-                0,
-                0,
-                width,
-                height
-            );
-
-            /*
-             * LEFT TREAD
-             */
-            tintPart(
-                tintedCtx,
+                tintCtx,
                 leftTread,
                 treadColour
             );
 
-            compositeCtx.drawImage(
-                tinted,
-                0,
-                0,
-                width,
-                height
-            );
-
-            compositeCtx.drawImage(
+            w.drawImage(tinted, 0, 0);
+            w.drawImage(
                 leftTreadShade,
-                0,
-                0,
-                width,
-                height
+                0, 0, width, height
             );
 
-            /*
-             * RIGHT TREAD
-             */
+            // TURRET
             tintPart(
-                tintedCtx,
-                rightTread,
-                treadColour
+                tintCtx,
+                turret,
+                turretColour
             );
 
-            compositeCtx.drawImage(
-                tinted,
-                0,
-                0,
-                width,
-                height
+            w.drawImage(tinted, 0, 0);
+            w.drawImage(
+                turretShade,
+                0, 0, width, height
             );
 
-            compositeCtx.drawImage(
-                rightTreadShade,
-                0,
-                0,
-                width,
-                height
-            );
-
-            /*
-             * BASE
-             */
+            // BASE
             tintPart(
-                tintedCtx,
+                tintCtx,
                 base,
                 baseColour
             );
 
-            compositeCtx.drawImage(
-                tinted,
-                0,
-                0,
-                width,
-                height
-            );
-
-            compositeCtx.drawImage(
+            w.drawImage(tinted, 0, 0);
+            w.drawImage(
                 baseShade,
-                0,
-                0,
-                width,
-                height
+                0, 0, width, height
             );
 
-            /*
-             * FRONT / TURRET / BARREL ACCESSORIES
-             */
+            // RIGHT TREAD
+            tintPart(
+                tintCtx,
+                rightTread,
+                treadColour
+            );
+
+            w.drawImage(tinted, 0, 0);
+            w.drawImage(
+                rightTreadShade,
+                0, 0, width, height
+            );
+
+            // BARREL
+            tintPart(
+                tintCtx,
+                barrel,
+                turretColour
+            );
+
+            w.drawImage(tinted, 0, 0);
+            w.drawImage(
+                barrelShade,
+                0, 0, width, height
+            );
+
+            // TURRET ACCESSORY
             if (accessoryImages.turret) {
-                compositeCtx.drawImage(
+                w.drawImage(
                     accessoryImages.turret,
-                    0,
-                    0,
-                    width,
-                    height
+                    0, 0, width, height
                 );
             }
 
+            // FRONT ACCESSORY
             if (accessoryImages.front) {
-                compositeCtx.drawImage(
+                w.drawImage(
                     accessoryImages.front,
-                    0,
-                    0,
-                    width,
-                    height
+                    0, 0, width, height
                 );
             }
 
+            // BARREL ACCESSORY
             if (accessoryImages.barrel) {
-                compositeCtx.drawImage(
+                w.drawImage(
                     accessoryImages.barrel,
-                    0,
-                    0,
-                    width,
-                    height
+                    0, 0, width, height
                 );
             }
 
             /*
-             * TREAD ACCESSORY
-             */
-            if (accessoryImages.tread) {
-                compositeCtx.drawImage(
-                    accessoryImages.tread,
-                    0,
-                    0,
-                    width,
-                    height
-                );
-            }
-
-            /*
-             * BADGE
-             */
-            if (accessoryImages.badge) {
-                compositeCtx.drawImage(
-                    accessoryImages.badge,
-                    0,
-                    0,
-                    width,
-                    height
-                );
-            }
-
-            /*
-             * TankTrouble's 1px black outline.
+             * TankTrouble's outline pass.
              */
             const outline =
                 document.createElement("canvas");
@@ -3294,17 +3220,10 @@ function loadPlayerTank(player) {
             const outlineCtx =
                 outline.getContext("2d");
 
-            outlineCtx.globalCompositeOperation =
-                "copy";
-
-            outlineCtx.fillStyle =
-                "rgba(0,0,0,0.8)";
-
+            outlineCtx.globalCompositeOperation = "copy";
+            outlineCtx.fillStyle = "rgba(0,0,0,0.8)";
             outlineCtx.fillRect(
-                0,
-                0,
-                width,
-                height
+                0, 0, width, height
             );
 
             outlineCtx.globalCompositeOperation =
@@ -3312,40 +3231,29 @@ function loadPlayerTank(player) {
 
             outlineCtx.drawImage(
                 composited,
-                0,
-                0
+                0, 0
             );
 
-            ctx.clearRect(
-                0,
-                0,
-                width,
-                height
-            );
+            const outlineWidth = 1;
+            const diagonal =
+                Math.sqrt(
+                    outlineWidth * outlineWidth / 2
+                );
 
-            /*
-             * Same 8-direction outline used by TankTrouble.
-             */
-            const M = 1;
-            const B = Math.sqrt(M * M / 2);
+            ctx.clearRect(0, 0, width, height);
 
-            ctx.drawImage(outline, -M, 0);
-            ctx.drawImage(outline, -B, -B);
-            ctx.drawImage(outline, -B, B);
-            ctx.drawImage(outline, 0, M);
-            ctx.drawImage(outline, 0, -M);
-            ctx.drawImage(outline, B, -B);
-            ctx.drawImage(outline, B, B);
-            ctx.drawImage(outline, M, 0);
+            ctx.drawImage(outline, -outlineWidth, 0);
+            ctx.drawImage(outline, -diagonal, -diagonal);
+            ctx.drawImage(outline, -diagonal, diagonal);
+            ctx.drawImage(outline, 0, outlineWidth);
+            ctx.drawImage(outline, 0, -outlineWidth);
+            ctx.drawImage(outline, diagonal, -diagonal);
+            ctx.drawImage(outline, diagonal, diagonal);
+            ctx.drawImage(outline, outlineWidth, 0);
 
-            ctx.drawImage(
-                composited,
-                0,
-                0
-            );
+            ctx.drawImage(composited, 0, 0);
 
-            ctx.globalCompositeOperation =
-                "source-over";
+            ctx.globalCompositeOperation = "source-over";
 
         } catch (error) {
             console.error(
@@ -3536,10 +3444,16 @@ document.addEventListener("click", function(event) {
             Player
         </div>
 
-       <div class="tank-preview">
-   <div class="tank-placeholder">
-   <canvas id="playerTankCanvas" width="280" height="168"></canvas>
-</div>
+        <div class="profile-meta">
+            <span>Rank <strong id="profileRank">--</strong></span>
+            <span>ID <strong id="profilePlayerID">--</strong></span>
+        </div>
+
+        <div class="profile-tank-stage">
+            <div class="tank-placeholder">
+                <canvas id="playerTankCanvas" width="280" height="168"></canvas>
+            </div>
+        </div>
 
         <div class="profile-stats">
 
@@ -3567,21 +3481,12 @@ document.addEventListener("click", function(event) {
                 <span>XP</span>
                 <strong id="profileXP">--</strong>
             </div>
-            
+
             <div>
                 <span>K/D Ratio</span>
                 <strong id="profileKD">--</strong>
             </div>
 
-            <div>
-                <span>Rank</span>
-                <strong id="profileRank">--</strong>
-            </div>
-
-            <div>
-                <span>Player ID</span>
-                <strong id="profilePlayerID">--</strong>
-           </div>
         </div>
 
     </div>
