@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1317
+    "kills": 1410
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 95
+    "kills": 97
   },
   {
     "playerId": "11769746",
@@ -25,6 +25,11 @@
     "kills": 89
   },
   {
+    "playerId": "3147484",
+    "username": "Lichen",
+    "kills": 87
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 55
@@ -40,14 +45,29 @@
     "kills": 39
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 38
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 36
   },
   {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
+    "kills": 35
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 32
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 26
   },
   {
     "playerId": "22757188",
@@ -60,19 +80,19 @@
     "kills": 18
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 16
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 16
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 9
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 9
-  },
-  {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 8
   },
   {
     "playerId": "22809750",
@@ -83,6 +103,16 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 7
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 4
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 3
   },
   {
     "playerId": "9184666",
@@ -103,11 +133,6 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 1
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "10132007",
@@ -187,11 +212,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -322,11 +342,6 @@
   {
     "playerId": "22479485",
     "username": "-_purup_-",
-    "kills": 0
-  },
-  {
-    "playerId": "3147484",
-    "username": "Lichen",
     "kills": 0
   },
   {
@@ -880,16 +895,6 @@
     "kills": 0
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 0
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0
@@ -1002,11 +1007,6 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 0
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
     "kills": 0
   },
   {
