@@ -1782,6 +1782,7 @@ if (activeStatButton) {
                         openPlayerProfile(player.playerId);
 
                     playerDiv.innerHTML = `
+                    
                         <div class="rank">
                             ${
                                 index === 0
@@ -1810,7 +1811,435 @@ if (activeStatButton) {
                         </div>
                     `;
 
+
                     container.appendChild(playerDiv);
+
+                    function loadPlayerTank(player) {
+    const canvas = document.getElementById("playerTankCanvas");
+
+    if (!canvas) return;
+
+    const ctx = canvas.getContext("2d");
+    const size = 280;
+
+    canvas.width = size;
+    canvas.height = size;
+
+    ctx.clearRect(0, 0, size, size);
+
+    const baseUrl = "https://tanktrouble.com/";
+
+    function loadImage(path) {
+        return new Promise((resolve, reject) => {
+            const img = new Image();
+
+            img.onload = () => resolve(img);
+            img.onerror = () => reject(new Error("Failed to load: " + path));
+
+            img.src = baseUrl + path;
+        });
+    }
+
+    function getColour(colour) {
+        if (!colour) {
+            return "#888888";
+        }
+
+        // Normal TankTrouble numeric colour
+        if (colour.numericValue) {
+            let value = colour.numericValue.substring(2);
+
+            value = value.padStart(6, "0");
+
+            return "#" + value;
+        }
+
+        // Image-based colour
+        if (colour.imageValue) {
+            return null;
+        }
+
+        return "#888888";
+    }
+
+    async function tintPart(partImage, colour) {
+        const buffer = document.createElement("canvas");
+        buffer.width = size;
+        buffer.height = size;
+
+        const bufferCtx = buffer.getContext("2d");
+
+        bufferCtx.clearRect(0, 0, size, size);
+
+        if (colour) {
+            bufferCtx.fillStyle = colour;
+            bufferCtx.fillRect(0, 0, size, size);
+        }
+
+        bufferCtx.globalCompositeOperation = "destination-atop";
+        bufferCtx.drawImage(partImage, 0, 0, size, size);
+
+        bufferCtx.globalCompositeOperation = "source-over";
+
+        return buffer;
+    }
+
+    async function drawTank() {
+        try {
+            /*
+             * BASE TANK PARTS
+             */
+            const [
+                turret,
+                barrel,
+                leftTread,
+                rightTread,
+                base,
+                turretShade,
+                barrelShade,
+                leftTreadShade,
+                rightTreadShade,
+                baseShade
+            ] = await Promise.all([
+                loadImage(TANK_ASSETS.turret),
+                loadImage(TANK_ASSETS.barrel),
+                loadImage(TANK_ASSETS.leftTread),
+                loadImage(TANK_ASSETS.rightTread),
+                loadImage(TANK_ASSETS.base),
+                loadImage(TANK_ASSETS.turretShade),
+                loadImage(TANK_ASSETS.barrelShade),
+                loadImage(TANK_ASSETS.leftTreadShade),
+                loadImage(TANK_ASSETS.rightTreadShade),
+                loadImage(TANK_ASSETS.baseShade)
+            ]);
+
+            /*
+             * ACCESSORIES
+             */
+            const accessoryTypes = [
+                ["turret", player.turretAccessory],
+                ["barrel", player.barrelAccessory],
+                ["front", player.frontAccessory],
+                ["back", player.backAccessory],
+                ["tread", player.treadAccessory],
+                ["background", player.backgroundAccessory],
+                ["badge", player.badge]
+            ];
+
+            const accessoryImages = {};
+
+            await Promise.all(
+                accessoryTypes.map(async ([type, id]) => {
+                    if (
+                        id === undefined ||
+                        id === null ||
+                        id === "" ||
+                        id === "0" ||
+                        id === 0
+                    ) {
+                        return;
+                    }
+
+                    const key = "accessories/" + type + id;
+                    const path = TANK_ASSETS[key];
+
+                    if (!path) {
+                        console.warn(
+                            "No TankTrouble asset found for:",
+                            key
+                        );
+                        return;
+                    }
+
+                    try {
+                        accessoryImages[type] = await loadImage(path);
+                    } catch (error) {
+                        console.warn(
+                            "Could not load accessory:",
+                            key
+                        );
+                    }
+                })
+            );
+
+            /*
+             * BACKGROUND ACCESSORY
+             *
+             * TankTrouble draws this before the actual tank.
+             */
+            if (accessoryImages.background) {
+                ctx.drawImage(
+                    accessoryImages.background,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * TURRET
+             */
+            const turretColour = getColour(player.turretColour);
+
+            if (turretColour) {
+                const tintedTurret =
+                    await tintPart(turret, turretColour);
+
+                ctx.drawImage(
+                    tintedTurret,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            } else {
+                ctx.drawImage(
+                    turret,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.drawImage(
+                turretShade,
+                0,
+                0,
+                size,
+                size
+            );
+
+            /*
+             * TURRET ACCESSORY
+             */
+            if (accessoryImages.turret) {
+                ctx.drawImage(
+                    accessoryImages.turret,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * BARREL
+             */
+            const barrelColour = getColour(player.turretColour);
+
+            if (barrelColour) {
+                const tintedBarrel =
+                    await tintPart(barrel, barrelColour);
+
+                ctx.drawImage(
+                    tintedBarrel,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            } else {
+                ctx.drawImage(
+                    barrel,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.drawImage(
+                barrelShade,
+                0,
+                0,
+                size,
+                size
+            );
+
+            /*
+             * BARREL ACCESSORY
+             */
+            if (accessoryImages.barrel) {
+                ctx.drawImage(
+                    accessoryImages.barrel,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * LEFT TREAD
+             */
+            const treadColour = getColour(player.treadColour);
+
+            if (treadColour) {
+                const tintedLeftTread =
+                    await tintPart(leftTread, treadColour);
+
+                ctx.drawImage(
+                    tintedLeftTread,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            } else {
+                ctx.drawImage(
+                    leftTread,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.drawImage(
+                leftTreadShade,
+                0,
+                0,
+                size,
+                size
+            );
+
+            /*
+             * RIGHT TREAD
+             */
+            if (treadColour) {
+                const tintedRightTread =
+                    await tintPart(rightTread, treadColour);
+
+                ctx.drawImage(
+                    tintedRightTread,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            } else {
+                ctx.drawImage(
+                    rightTread,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.drawImage(
+                rightTreadShade,
+                0,
+                0,
+                size,
+                size
+            );
+
+            /*
+             * BASE
+             */
+            const baseColour = getColour(player.baseColour);
+
+            if (baseColour) {
+                const tintedBase =
+                    await tintPart(base, baseColour);
+
+                ctx.drawImage(
+                    tintedBase,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            } else {
+                ctx.drawImage(
+                    base,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.drawImage(
+                baseShade,
+                0,
+                0,
+                size,
+                size
+            );
+
+            /*
+             * FRONT ACCESSORY
+             */
+            if (accessoryImages.front) {
+                ctx.drawImage(
+                    accessoryImages.front,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * BACK ACCESSORY
+             */
+            if (accessoryImages.back) {
+                ctx.drawImage(
+                    accessoryImages.back,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * TREAD ACCESSORY
+             */
+            if (accessoryImages.tread) {
+                ctx.drawImage(
+                    accessoryImages.tread,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            /*
+             * BADGE
+             */
+            if (accessoryImages.badge) {
+                ctx.drawImage(
+                    accessoryImages.badge,
+                    0,
+                    0,
+                    size,
+                    size
+                );
+            }
+
+            ctx.globalCompositeOperation = "source-over";
+
+        } catch (error) {
+            console.error(
+                "Could not render TankTrouble tank:",
+                error
+            );
+        }
+    }
+
+    drawTank();
+}
+
+loadPlayerTank(player);
+
+
+                    
 
                 });
 
@@ -2457,18 +2886,7 @@ function openPlayerProfile(playerId) {
             document.getElementById("profilePlayerID").textContent =
                 player.playerId;
             
-          document.querySelector(".tank-body").style.background =
-    "#" + player.baseColour.numericValue.substring(2);
-
-document.querySelector(".tank-turret").style.background =
-    "#" + player.turretColour.numericValue.substring(2);
-
-document.querySelector(".tank-barrel").style.background =
-    "#" + player.turretColour.numericValue.substring(2);
-
-            document.getElementById("profileModal").style.display =
-                "flex";
-
+         
         })
         .catch(error => {
             console.error(error);
@@ -2599,14 +3017,8 @@ document.addEventListener("click", function(event) {
         </div>
 
        <div class="tank-preview">
-    <div class="tank-placeholder">
-        <div class="tank-body">
-    <div class="tank-tread-left"></div>
-    <div class="tank-tread-right"></div>
-    <div class="tank-turret"></div>
-    <div class="tank-barrel"></div>
-</div>
-    </div>
+   <div class="tank-placeholder">
+   <canvas id="playerTankCanvas" width="280" height="280"></canvas>
 </div>
 
         <div class="profile-stats">
