@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 189
+    "kills": 244
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 15
   },
   {
     "playerId": "22716354",
@@ -18,6 +23,11 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 3
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -670,11 +680,6 @@
     "kills": 0
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 0
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 0
@@ -962,11 +967,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {

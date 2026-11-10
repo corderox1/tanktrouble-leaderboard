@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 233,
-    "lastKill": "2026-11-10 01:57:54"
+    "kills": 359,
+    "lastKill": "2026-11-10 02:52:53"
   },
   {
     "playerId": "14617724",
@@ -12,10 +12,22 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 27,
+    "lastKill": "2026-11-10 02:52:53"
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 7,
     "lastKill": "2026-11-10 01:02:54"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 7,
+    "lastKill": "2026-11-10 02:52:53"
   },
   {
     "playerId": "22716354",
@@ -804,12 +816,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 0,
@@ -1154,12 +1160,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },

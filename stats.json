@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35352200,
-    "kills": 44484318,
-    "deaths": 41976222,
-    "suicides": 9423961,
+    "victories": 35352255,
+    "kills": 44484444,
+    "deaths": 41976422,
+    "suicides": 9424000,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 17,
+    "rank": 15,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -6519,10 +6519,10 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "victories": 6677,
-    "kills": 10857,
-    "deaths": 9846,
-    "suicides": 2005,
+    "victories": 6692,
+    "kills": 10884,
+    "deaths": 9865,
+    "suicides": 2013,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1794235925,
+    "lastLogin": 1794299519,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 7982,
-    "kills": 15570,
-    "deaths": 14123,
-    "suicides": 4111,
+    "victories": 7983,
+    "kills": 15577,
+    "deaths": 14137,
+    "suicides": 4115,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
