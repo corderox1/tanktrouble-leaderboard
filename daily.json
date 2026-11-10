@@ -2,8 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 538,
-    "lastKill": "2026-11-10 03:53:01"
+    "kills": 610,
+    "lastKill": "2026-11-10 04:48:03"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 96,
+    "lastKill": "2026-11-10 04:48:03"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 71,
+    "lastKill": "2026-11-10 04:48:03"
   },
   {
     "playerId": "14617724",
@@ -12,22 +24,16 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 33,
-    "lastKill": "2026-11-10 03:53:01"
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 32,
-    "lastKill": "2026-11-10 03:53:01"
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 24,
+    "lastKill": "2026-11-10 04:48:03"
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 10,
-    "lastKill": "2026-11-10 03:53:01"
+    "kills": 13,
+    "lastKill": "2026-11-10 04:48:03"
   },
   {
     "playerId": "9184666",
@@ -878,12 +884,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
