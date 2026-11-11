@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11521,
-    "lastKill": "2026-11-11 04:32:20"
+    "kills": 11742,
+    "lastKill": "2026-11-11 05:28:04"
   },
   {
     "playerId": "22472796",
@@ -54,22 +54,22 @@
     "lastKill": "2026-11-11 00:43:15"
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 259,
-    "lastKill": "2026-11-10 22:48:16"
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 269,
+    "lastKill": "2026-11-11 05:28:04"
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 239,
-    "lastKill": "2026-11-11 04:32:20"
+    "kills": 261,
+    "lastKill": "2026-11-11 05:28:04"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 226,
-    "lastKill": "2026-11-10 15:02:55"
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 259,
+    "lastKill": "2026-11-10 22:48:16"
   },
   {
     "playerId": "19138057",
@@ -252,6 +252,12 @@
     "lastKill": "2026-11-10 08:33:19"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 74,
+    "lastKill": "2026-11-11 05:28:04"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 72,
@@ -342,28 +348,28 @@
     "lastKill": "2026-11-10 17:53:14"
   },
   {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 32,
+    "lastKill": "2026-11-11 05:28:04"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 31,
     "lastKill": "2026-11-09 19:27:57"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 23,
-    "lastKill": "2026-11-10 07:37:56"
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 29,
+    "lastKill": "2026-11-11 05:28:04"
   },
   {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 22,
     "lastKill": "2026-11-11 01:42:37"
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 21,
-    "lastKill": "2026-11-09 21:18:18"
   },
   {
     "playerId": "22042037",
@@ -1232,12 +1238,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0,
     "lastKill": null
   },
