@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 41879
+    "kills": 42005
   },
   {
     "playerId": "13173087",
@@ -35,14 +35,14 @@
     "kills": 1367
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 1103
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1069
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 1038
   },
   {
     "playerId": "20666777",
@@ -67,7 +67,7 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 554
+    "kills": 556
   },
   {
     "playerId": "12107881",
@@ -265,6 +265,11 @@
     "kills": 157
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 148
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
@@ -298,11 +303,6 @@
     "playerId": "2885724",
     "username": "Tankyy",
     "kills": 119
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 118
   },
   {
     "playerId": "11769746",
