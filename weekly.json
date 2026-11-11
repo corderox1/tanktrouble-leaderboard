@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13961,
-    "lastKill": "2026-11-11 13:59:07"
+    "kills": 14185,
+    "lastKill": "2026-11-11 15:05:11"
   },
   {
     "playerId": "22710399",
@@ -20,8 +20,8 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 693,
-    "lastKill": "2026-11-11 13:59:07"
+    "kills": 741,
+    "lastKill": "2026-11-11 15:05:11"
   },
   {
     "playerId": "4142755",
@@ -126,10 +126,22 @@
     "lastKill": "2026-11-10 17:53:14"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 173,
+    "lastKill": "2026-11-11 15:05:11"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 169,
     "lastKill": "2026-11-11 10:08:37"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 165,
+    "lastKill": "2026-11-11 15:05:11"
   },
   {
     "playerId": "21700920",
@@ -174,6 +186,12 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 138,
+    "lastKill": "2026-11-11 15:05:11"
+  },
+  {
     "playerId": "8146384",
     "username": "itachi",
     "kills": 136,
@@ -184,12 +202,6 @@
     "username": "Invader",
     "kills": 135,
     "lastKill": "2026-11-09 23:13:17"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 132,
-    "lastKill": "2026-11-11 13:59:07"
   },
   {
     "playerId": "22845692",
@@ -216,12 +228,6 @@
     "lastKill": "2026-11-11 00:43:15"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 123,
-    "lastKill": "2026-11-10 15:02:55"
-  },
-  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 119,
@@ -244,12 +250,6 @@
     "username": "Lichen",
     "kills": 102,
     "lastKill": "2026-11-10 11:21:48"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 96,
-    "lastKill": "2026-11-10 23:48:20"
   },
   {
     "playerId": "16736853",
@@ -294,10 +294,22 @@
     "lastKill": "2026-11-11 10:08:37"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 83,
+    "lastKill": "2026-11-11 15:05:11"
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 76,
+    "lastKill": "2026-11-11 15:05:11"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 71,
-    "lastKill": "2026-11-11 11:07:27"
+    "kills": 74,
+    "lastKill": "2026-11-11 15:05:11"
   },
   {
     "playerId": "10523030",
@@ -354,12 +366,6 @@
     "lastKill": "2026-11-09 20:23:07"
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 39,
-    "lastKill": "2026-11-11 12:57:32"
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 33,
@@ -406,12 +412,6 @@
     "username": "-BarnFindAlly-",
     "kills": 20,
     "lastKill": "2026-11-10 15:02:55"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 17,
-    "lastKill": "2026-11-10 08:33:19"
   },
   {
     "playerId": "17149251",
@@ -498,6 +498,12 @@
     "lastKill": "2026-11-09 10:56:50"
   },
   {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
+    "kills": 2,
+    "lastKill": "2026-11-11 15:05:11"
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 2,
@@ -508,12 +514,6 @@
     "username": "Reverend",
     "kills": 2,
     "lastKill": "2026-11-11 12:03:08"
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 1,
-    "lastKill": "2026-11-11 11:07:27"
   },
   {
     "playerId": "10132007",

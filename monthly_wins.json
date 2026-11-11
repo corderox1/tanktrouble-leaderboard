@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44341
+    "kills": 44526
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1707
+    "kills": 1735
   },
   {
     "playerId": "4142755",
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1367
+    "kills": 1409
   },
   {
     "playerId": "20666777",
@@ -75,6 +75,11 @@
     "kills": 553
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 537
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 520
@@ -83,11 +88,6 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 519
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 515
   },
   {
     "playerId": "20269995",
@@ -132,7 +132,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 381
+    "kills": 398
   },
   {
     "playerId": "14892840",
@@ -185,9 +185,14 @@
     "kills": 269
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 267
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 257
+    "kills": 258
   },
   {
     "playerId": "21609912",
@@ -203,11 +208,6 @@
     "playerId": "1001669",
     "username": "Mud",
     "kills": 215
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 214
   },
   {
     "playerId": "18985660",
@@ -228,6 +228,11 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 194
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 188
   },
   {
     "playerId": "10523030",
@@ -273,11 +278,6 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 158
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 153
   },
   {
     "playerId": "21614515",
@@ -402,7 +402,7 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 51
+    "kills": 53
   },
   {
     "playerId": "8146384",
@@ -465,14 +465,14 @@
     "kills": 15
   },
   {
-    "playerId": "1341685",
-    "username": "supervolcano",
+    "playerId": "12331664",
+    "username": "Reds",
     "kills": 13
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 12
+    "playerId": "1341685",
+    "username": "supervolcano",
+    "kills": 13
   },
   {
     "playerId": "793356",

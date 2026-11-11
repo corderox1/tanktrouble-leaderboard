@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11687
+    "kills": 11872
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 618
+    "kills": 646
   },
   {
     "playerId": "21708970",
@@ -70,6 +70,11 @@
     "kills": 139
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 134
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 133
@@ -93,6 +98,11 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 124
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 112
   },
   {
     "playerId": "3147484",
@@ -125,19 +135,9 @@
     "kills": 95
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 95
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 93
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 92
   },
   {
     "playerId": "11769746",
@@ -148,6 +148,11 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 91
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 90
   },
   {
     "playerId": "16736853",
@@ -180,9 +185,9 @@
     "kills": 70
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 68
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 69
   },
   {
     "playerId": "19425584",
@@ -192,6 +197,11 @@
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 63
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 62
   },
   {
@@ -265,11 +275,6 @@
     "kills": 35
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 34
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 32
@@ -340,11 +345,6 @@
     "kills": 9
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 9
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 9
@@ -380,6 +380,11 @@
     "kills": 5
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 4
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 4
@@ -395,11 +400,6 @@
     "kills": 4
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 3
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 3
@@ -412,6 +412,11 @@
   {
     "playerId": "17953682",
     "username": "hohi",
+    "kills": 2
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 2
   },
   {
@@ -547,11 +552,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0
   },
   {
