@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8061
+    "kills": 8330
   },
   {
     "playerId": "21708970",
@@ -22,7 +22,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 262
+    "kills": 272
   },
   {
     "playerId": "22472796",
@@ -52,7 +52,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 114
+    "kills": 122
   },
   {
     "playerId": "19138057",
@@ -87,7 +87,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 94
+    "kills": 95
   },
   {
     "playerId": "22706369",
@@ -180,8 +180,18 @@
     "kills": 40
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 40
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
+    "kills": 39
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
     "kills": 39
   },
   {
@@ -210,11 +220,6 @@
     "kills": 34
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 33
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 32
@@ -228,11 +233,6 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 27
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 23
   },
   {
     "playerId": "12222122",
@@ -265,6 +265,11 @@
     "kills": 12
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 12
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 11
@@ -282,11 +287,6 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 9
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 9
   },
   {
@@ -313,6 +313,11 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 6
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 5
   },
   {
     "playerId": "6776098",
@@ -353,11 +358,6 @@
     "playerId": "12331664",
     "username": "Reds",
     "kills": 2
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 1
   },
   {
     "playerId": "20101050",
@@ -1072,6 +1072,11 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
+    "kills": 0
+  },
+  {
+    "playerId": "2004238",
+    "username": "QuickNinja",
     "kills": 0
   }
 ]

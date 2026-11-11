@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4012,
-    "lastKill": "2026-11-10 18:53:13"
+    "kills": 4220,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "17629928",
@@ -20,14 +20,20 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 147,
-    "lastKill": "2026-11-10 10:22:57"
+    "kills": 169,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 145,
     "lastKill": "2026-11-10 09:28:01"
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 132,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "3990108",
@@ -126,16 +132,16 @@
     "lastKill": "2026-11-10 13:11:51"
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 64,
-    "lastKill": "2026-11-10 11:21:48"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 58,
     "lastKill": "2026-11-10 01:02:54"
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 54,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "4381511",
@@ -174,6 +180,12 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 35,
+    "lastKill": "2026-11-10 19:52:36"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 34,
@@ -186,28 +198,22 @@
     "lastKill": "2026-11-10 17:53:14"
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 31,
-    "lastKill": "2026-11-10 14:06:48"
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 28,
+    "lastKill": "2026-11-10 19:52:36"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 26,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 23,
     "lastKill": "2026-11-10 07:37:56"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 22,
-    "lastKill": "2026-11-10 16:57:20"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 20,
-    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "21609912",
@@ -226,6 +232,12 @@
     "username": "_-YourDestruction-_",
     "kills": 15,
     "lastKill": "2026-11-10 12:17:13"
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 14,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "22809750",
@@ -294,10 +306,10 @@
     "lastKill": "2026-11-10 11:21:48"
   },
   {
-    "playerId": "3808011",
-    "username": "gg",
+    "playerId": "21452912",
+    "username": "x",
     "kills": 4,
-    "lastKill": "2026-11-10 18:53:13"
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "15878197",
@@ -328,6 +340,12 @@
     "username": "_Eddie_",
     "kills": 1,
     "lastKill": "2026-11-10 09:28:01"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 1,
+    "lastKill": "2026-11-10 19:52:36"
   },
   {
     "playerId": "10132007",
@@ -420,12 +438,6 @@
     "lastKill": null
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0,
@@ -470,12 +482,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
     "kills": 0,
     "lastKill": null
   },
@@ -1248,12 +1254,6 @@
     "lastKill": null
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "9156179",
     "username": "EHS",
     "kills": 0,
@@ -1286,6 +1286,12 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "2004238",
+    "username": "QuickNinja",
     "kills": 0,
     "lastKill": null
   }

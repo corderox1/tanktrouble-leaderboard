@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 40715
+    "kills": 40984
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1840
+    "kills": 1848
   },
   {
     "playerId": "4142755",
@@ -52,7 +52,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 814
+    "kills": 824
   },
   {
     "playerId": "22716354",
@@ -70,13 +70,13 @@
     "kills": 553
   },
   {
-    "playerId": "21708970",
-    "username": "Ayanokoji",
-    "kills": 520
-  },
-  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
+    "kills": 537
+  },
+  {
+    "playerId": "21708970",
+    "username": "Ayanokoji",
     "kills": 520
   },
   {
@@ -92,7 +92,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 458
+    "kills": 459
   },
   {
     "playerId": "20269995",
@@ -162,7 +162,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 277
+    "kills": 283
   },
   {
     "playerId": "22809750",
@@ -445,6 +445,11 @@
     "kills": 13
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 12
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 11
@@ -460,11 +465,6 @@
     "kills": 9
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 9
-  },
-  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 8
@@ -473,6 +473,11 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 7
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 6
   },
   {
     "playerId": "19068893",
@@ -527,11 +532,6 @@
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 2
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 2
   },
   {
@@ -1072,6 +1072,11 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
+    "kills": 0
+  },
+  {
+    "playerId": "2004238",
+    "username": "QuickNinja",
     "kills": 0
   }
 ]
