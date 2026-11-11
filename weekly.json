@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9332,
-    "lastKill": "2026-11-10 17:53:14"
+    "kills": 9488,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "22472796",
@@ -234,16 +234,16 @@
     "lastKill": "2026-11-10 01:02:54"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 56,
+    "lastKill": "2026-11-10 18:53:13"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 53,
     "lastKill": "2026-11-10 11:21:48"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 49,
-    "lastKill": "2026-11-10 16:02:57"
   },
   {
     "playerId": "12517909",
@@ -348,6 +348,12 @@
     "lastKill": "2026-11-10 08:33:19"
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 17,
+    "lastKill": "2026-11-10 18:53:13"
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 16,
@@ -390,12 +396,6 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 9,
-    "lastKill": "2026-11-09 09:58:15"
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 6,
@@ -418,6 +418,12 @@
     "username": "hohi",
     "kills": 5,
     "lastKill": "2026-11-10 16:57:20"
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 4,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "22651240",
@@ -506,12 +512,6 @@
   {
     "playerId": "4191643",
     "username": "Etxrnity",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 229263
+    "kills": 229408
   },
   {
     "playerId": "8590474",
@@ -322,7 +322,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 543
+    "kills": 547
   },
   {
     "playerId": "21797119",
@@ -510,13 +510,13 @@
     "kills": 156
   },
   {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
-    "kills": 147
-  },
-  {
     "playerId": "17149251",
     "username": "SmellMySocks",
+    "kills": 155
+  },
+  {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
     "kills": 147
   },
   {
@@ -760,6 +760,11 @@
     "kills": 3
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 2
+  },
+  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 2
@@ -773,11 +778,6 @@
     "playerId": "10251396",
     "username": "vinus",
     "kills": 2
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 1
   },
   {
     "playerId": "9881740",

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7916
+    "kills": 8061
   },
   {
     "playerId": "21708970",
@@ -200,6 +200,11 @@
     "kills": 36
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 35
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 34
@@ -213,11 +218,6 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 32
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 31
   },
   {
     "playerId": "13773720",
@@ -258,6 +258,11 @@
     "playerId": "1001669",
     "username": "Mud",
     "kills": 14
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 12
   },
   {
     "playerId": "19932455",
@@ -325,11 +330,6 @@
     "kills": 5
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 4
-  },
-  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 4
@@ -353,6 +353,11 @@
     "playerId": "12331664",
     "username": "Reds",
     "kills": 2
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 1
   },
   {
     "playerId": "20101050",
@@ -417,11 +422,6 @@
   {
     "playerId": "4191643",
     "username": "Etxrnity",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {

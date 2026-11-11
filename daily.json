@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3856,
-    "lastKill": "2026-11-10 17:53:14"
+    "kills": 4012,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "17629928",
@@ -204,6 +204,12 @@
     "lastKill": "2026-11-10 16:57:20"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 20,
+    "lastKill": "2026-11-10 18:53:13"
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 20,
@@ -234,12 +240,6 @@
     "lastKill": "2026-11-10 12:17:13"
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 13,
-    "lastKill": "2026-11-10 16:02:57"
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 12,
@@ -250,6 +250,12 @@
     "username": "MACHOSOLTERO",
     "kills": 11,
     "lastKill": "2026-11-10 11:21:48"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 8,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "21614515",
@@ -286,6 +292,12 @@
     "username": "Hafiz-Muhammad",
     "kills": 5,
     "lastKill": "2026-11-10 11:21:48"
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 4,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "15878197",
@@ -422,12 +434,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0,
     "lastKill": null
   },
@@ -884,12 +890,6 @@
   {
     "playerId": "22114709",
     "username": "CaptainCat",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
     "kills": 0,
     "lastKill": null
   },

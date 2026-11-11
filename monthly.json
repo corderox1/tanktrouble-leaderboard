@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 49840,
-    "lastKill": "2026-11-10 17:53:14"
+    "kills": 49996,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "22710399",
@@ -264,16 +264,16 @@
     "lastKill": "2026-11-10 14:06:48"
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 279,
+    "lastKill": "2026-11-10 18:53:13"
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 272,
     "lastKill": "2026-11-09 23:13:17"
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 272,
-    "lastKill": "2026-11-10 16:02:57"
   },
   {
     "playerId": "1001669",
@@ -350,8 +350,8 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 186,
-    "lastKill": "2026-11-09 09:58:15"
+    "kills": 194,
+    "lastKill": "2026-11-10 18:53:13"
   },
   {
     "playerId": "21102229",
@@ -624,6 +624,12 @@
     "lastKill": "2026-11-04 01:18:09"
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 4,
+    "lastKill": "2026-11-10 18:53:13"
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 4,
@@ -710,12 +716,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0,
     "lastKill": null
   },
