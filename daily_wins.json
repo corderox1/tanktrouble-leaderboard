@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2527
+    "kills": 2623
   },
   {
     "playerId": "22710399",
@@ -10,14 +10,14 @@
     "kills": 437
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 183
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 172
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 161
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 93
+    "kills": 131
   },
   {
     "playerId": "13773720",
@@ -45,19 +45,29 @@
     "kills": 52
   },
   {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 48
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 41
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 40
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 39
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 37
   },
   {
     "playerId": "21508277",
@@ -75,16 +85,6 @@
     "kills": 32
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 30
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 29
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 29
@@ -93,6 +93,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 27
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 26
   },
   {
     "playerId": "21797119",
@@ -267,11 +272,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
