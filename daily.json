@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3823,
-    "lastKill": "2026-11-11 16:03:26"
+    "kills": 4052,
+    "lastKill": "2026-11-11 17:04:03"
   },
   {
     "playerId": "22710399",
@@ -40,6 +40,12 @@
     "username": "Hafiz-Muhammad",
     "kills": 130,
     "lastKill": "2026-11-11 12:57:32"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 121,
+    "lastKill": "2026-11-11 17:04:03"
   },
   {
     "playerId": "21508277",
@@ -82,12 +88,6 @@
     "username": "ISAH",
     "kills": 68,
     "lastKill": "2026-11-11 06:23:08"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 66,
-    "lastKill": "2026-11-11 15:05:11"
   },
   {
     "playerId": "22706369",
@@ -154,6 +154,12 @@
     "username": "III__E-74__III",
     "kills": 37,
     "lastKill": "2026-11-11 12:03:08"
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 36,
+    "lastKill": "2026-11-11 17:04:03"
   },
   {
     "playerId": "21102229",
@@ -518,12 +524,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0,
     "lastKill": null
   },
