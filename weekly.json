@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10463,
-    "lastKill": "2026-11-10 23:48:20"
+    "kills": 10620,
+    "lastKill": "2026-11-11 00:43:15"
   },
   {
     "playerId": "22472796",
@@ -14,8 +14,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 537,
-    "lastKill": "2026-11-10 23:48:20"
+    "kills": 553,
+    "lastKill": "2026-11-11 00:43:15"
   },
   {
     "playerId": "21708970",
@@ -50,8 +50,8 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 310,
-    "lastKill": "2026-11-10 23:48:20"
+    "kills": 313,
+    "lastKill": "2026-11-11 00:43:15"
   },
   {
     "playerId": "18969891",
@@ -162,6 +162,12 @@
     "lastKill": "2026-11-10 13:11:51"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 128,
+    "lastKill": "2026-11-11 00:43:15"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 128,
@@ -178,12 +184,6 @@
     "username": "boogiemaster22",
     "kills": 119,
     "lastKill": "2026-11-10 05:42:50"
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 115,
-    "lastKill": "2026-11-10 23:48:20"
   },
   {
     "playerId": "1001669",
@@ -276,6 +276,12 @@
     "lastKill": "2026-11-10 00:08:01"
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 62,
+    "lastKill": "2026-11-11 00:43:15"
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 62,
@@ -296,8 +302,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 44,
-    "lastKill": "2026-11-10 06:38:57"
+    "kills": 47,
+    "lastKill": "2026-11-11 00:43:15"
   },
   {
     "playerId": "22710399",
@@ -334,12 +340,6 @@
     "username": "SilentSpaceSergeant",
     "kills": 31,
     "lastKill": "2026-11-09 19:27:57"
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 28,
-    "lastKill": "2026-11-10 11:21:48"
   },
   {
     "playerId": "21178768",
@@ -424,6 +424,12 @@
     "username": "III__E-74__III",
     "kills": 10,
     "lastKill": "2026-11-10 14:06:48"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 8,
+    "lastKill": "2026-11-11 00:43:15"
   },
   {
     "playerId": "1145079",
@@ -590,12 +596,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": null
   },
