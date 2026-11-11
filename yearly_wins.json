@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 232267
+    "kills": 232466
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,12 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 5184
+    "kills": 5250
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 5041
   },
   {
     "playerId": "10794529",
@@ -40,14 +45,9 @@
     "kills": 5029
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 5027
-  },
-  {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 4954
+    "kills": 5002
   },
   {
     "playerId": "22716354",
@@ -57,7 +57,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 3452
+    "kills": 3533
   },
   {
     "playerId": "20297710",
@@ -92,7 +92,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 2250
+    "kills": 2251
   },
   {
     "playerId": "22077521",
@@ -150,14 +150,14 @@
     "kills": 1615
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 1501
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1484
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 1467
   },
   {
     "playerId": "8408190",
@@ -192,7 +192,7 @@
   {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 1220
+    "kills": 1224
   },
   {
     "playerId": "16736853",
@@ -222,7 +222,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 1120
+    "kills": 1149
   },
   {
     "playerId": "21956820",
@@ -327,12 +327,12 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 521
+    "kills": 546
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 478
+    "kills": 505
   },
   {
     "playerId": "16092601",
@@ -460,19 +460,24 @@
     "kills": 223
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 219
+  },
+  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 219
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 216
-  },
-  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 214
+  },
+  {
+    "playerId": "21102229",
+    "username": "Palestinene",
+    "kills": 211
   },
   {
     "playerId": "22754085",
@@ -493,11 +498,6 @@
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 201
-  },
-  {
-    "playerId": "21102229",
-    "username": "Palestinene",
-    "kills": 197
   },
   {
     "playerId": "10523030",

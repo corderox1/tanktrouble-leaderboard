@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10920
+    "kills": 11119
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 553
   },
   {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 519
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 505
   },
   {
     "playerId": "4142755",
@@ -22,17 +22,22 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 320
+    "kills": 386
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 308
+    "kills": 309
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 293
+    "kills": 307
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 295
   },
   {
     "playerId": "13173087",
@@ -40,14 +45,9 @@
     "kills": 247
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 214
-  },
-  {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 162
+    "kills": 176
   },
   {
     "playerId": "20269995",
@@ -145,6 +145,11 @@
     "kills": 88
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 87
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 87
@@ -170,6 +175,11 @@
     "kills": 68
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 64
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 63
@@ -178,11 +188,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 62
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 58
   },
   {
     "playerId": "18969891",
@@ -225,6 +230,11 @@
     "kills": 44
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 44
+  },
+  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 44
@@ -250,6 +260,11 @@
     "kills": 35
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 33
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 32
@@ -263,11 +278,6 @@
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 31
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 30
   },
   {
     "playerId": "21839393",
@@ -290,11 +300,6 @@
     "kills": 22
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 19
-  },
-  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 18
@@ -313,6 +318,11 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 12
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 11
   },
   {
     "playerId": "6776098",
@@ -335,6 +345,11 @@
     "kills": 9
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 9
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 7
@@ -342,11 +357,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 7
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
     "kills": 7
   },
   {
@@ -358,16 +368,6 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 7
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 6
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 6
   },
   {
     "playerId": "22651240",
