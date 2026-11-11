@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8518
+    "kills": 8646
   },
   {
     "playerId": "21708970",
@@ -25,6 +25,11 @@
     "kills": 272
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 206
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 185
@@ -45,14 +50,14 @@
     "kills": 154
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 149
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 130
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 117
   },
   {
     "playerId": "19138057",
@@ -63,11 +68,6 @@
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 109
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 106
   },
   {
     "playerId": "2574833",
@@ -137,7 +137,12 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 60
+    "kills": 61
+  },
+  {
+    "playerId": "18969891",
+    "username": "AlmaMater",
+    "kills": 56
   },
   {
     "playerId": "22757188",
@@ -150,11 +155,6 @@
     "kills": 49
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 47
-  },
-  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 46
@@ -162,6 +162,11 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
+    "kills": 44
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 44
   },
   {
@@ -190,6 +195,11 @@
     "kills": 40
   },
   {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 40
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 39
@@ -210,14 +220,14 @@
     "kills": 36
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
+    "playerId": "12517909",
+    "username": "Crip",
     "kills": 35
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 34
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 35
   },
   {
     "playerId": "3162693",
@@ -230,9 +240,19 @@
     "kills": 30
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 28
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 27
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 26
   },
   {
     "playerId": "3808011",
@@ -243,6 +263,11 @@
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 21
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 20
   },
   {
     "playerId": "21797119",
@@ -258,21 +283,6 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 18
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 16
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 15
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 15
   },
   {
     "playerId": "17149251",
@@ -298,11 +308,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 9
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 8
   },
   {
     "playerId": "1145079",
@@ -360,6 +365,11 @@
     "kills": 4
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 3
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 3
@@ -367,11 +377,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 2
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 2
   },
   {
@@ -512,11 +517,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
     "kills": 0
   },
   {
