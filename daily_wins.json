@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 999
+    "kills": 1184
   },
   {
     "playerId": "8590474",
@@ -10,14 +10,19 @@
     "kills": 123
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 64
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 52
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 48
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 37
   },
   {
     "playerId": "21839393",
@@ -30,14 +35,14 @@
     "kills": 25
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 23
-  },
-  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 15
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 13
   },
   {
     "playerId": "20984454",
@@ -47,6 +52,11 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
+    "kills": 6
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
     "kills": 6
   },
   {
@@ -840,11 +850,6 @@
     "kills": 0
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 0
-  },
-  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 0
@@ -872,11 +877,6 @@
   {
     "playerId": "21727981",
     "username": "YHWH",
-    "kills": 0
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
     "kills": 0
   },
   {

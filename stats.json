@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35357409,
-    "kills": 44490617,
-    "deaths": 41983543,
-    "suicides": 9425529,
+    "victories": 35357594,
+    "kills": 44490810,
+    "deaths": 41983800,
+    "suicides": 9425574,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 22,
+    "rank": 21,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -1166,11 +1166,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794326507,
+    "lastForumPost": 1794399764,
     "guest": false,
     "gmLevel": null,
     "created": 1736519234,
-    "lastLogin": 1794336319,
+    "lastLogin": 1794399716,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3081,7 +3081,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1705518447,
-    "lastLogin": 1794239731,
+    "lastLogin": 1794401421,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 16503,
-    "kills": 29897,
-    "deaths": 48714,
-    "suicides": 12960,
+    "victories": 16519,
+    "kills": 29913,
+    "deaths": 48717,
+    "suicides": 12961,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3522,7 +3522,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1745175868,
-    "lastLogin": 1794394157,
+    "lastLogin": 1794401591,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7107,10 +7107,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 4048,
-    "kills": 8182,
-    "deaths": 9949,
-    "suicides": 3435,
+    "victories": 4062,
+    "kills": 8213,
+    "deaths": 9996,
+    "suicides": 3452,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1794396797,
+    "lastLogin": 1794400368,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 51456,
-    "kills": 100466,
-    "deaths": 105521,
-    "suicides": 24503,
+    "victories": 51469,
+    "kills": 100483,
+    "deaths": 105524,
+    "suicides": 24504,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7932,7 +7932,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
-    "lastLogin": 1794353280,
+    "lastLogin": 1794402146,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7991,8 +7991,8 @@
     "username": "ISAH",
     "victories": 10269,
     "kills": 17232,
-    "deaths": 20337,
-    "suicides": 5979,
+    "deaths": 20338,
+    "suicides": 5980,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8283,10 +8283,10 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 8137,
-    "kills": 12853,
-    "deaths": 10534,
-    "suicides": 3086,
+    "victories": 8143,
+    "kills": 12862,
+    "deaths": 10544,
+    "suicides": 3089,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1794147146,
+    "lastLogin": 1794402643,
     "banned": false,
     "usernameApproved": true,
     "country": null
