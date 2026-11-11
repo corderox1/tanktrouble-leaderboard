@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 894
+    "kills": 999
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 40
+    "kills": 48
   },
   {
     "playerId": "21839393",
@@ -25,14 +25,14 @@
     "kills": 29
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 25
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 23
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 22
   },
   {
     "playerId": "18985660",
@@ -50,13 +50,13 @@
     "kills": 6
   },
   {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 3
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
+    "kills": 6
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
     "kills": 3
   },
   {
@@ -68,6 +68,11 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 2
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -1032,11 +1037,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0
   },
   {
