@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9064
+    "kills": 9225
   },
   {
     "playerId": "21708970",
@@ -72,7 +72,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 112
+    "kills": 115
   },
   {
     "playerId": "3147484",
@@ -137,6 +137,11 @@
   {
     "playerId": "14617724",
     "username": "Astra",
+    "kills": 76
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 76
   },
   {
@@ -210,13 +215,13 @@
     "kills": 43
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 41
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
+    "kills": 43
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
     "kills": 41
   },
   {
@@ -285,9 +290,9 @@
     "kills": 18
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 18
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 15
   },
   {
     "playerId": "17149251",
@@ -315,6 +320,11 @@
     "kills": 7
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 7
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 7
@@ -333,11 +343,6 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 6
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 5
   },
   {
     "playerId": "6776098",
@@ -377,6 +382,11 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 3
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
     "kills": 3
   },
   {
@@ -760,11 +770,6 @@
     "kills": 0
   },
   {
-    "playerId": "18985660",
-    "username": "volodymyr77",
-    "kills": 0
-  },
-  {
     "playerId": "19635407",
     "username": "Mashin",
     "kills": 0
@@ -972,11 +977,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 0
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0
   },
   {
