@@ -2,42 +2,42 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2294
+    "kills": 2527
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 430
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 154
+    "kills": 437
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 147
+    "kills": 172
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 161
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 129
+    "kills": 143
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 90
+    "kills": 93
   },
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 66
+    "kills": 67
   },
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 58
+    "kills": 60
   },
   {
     "playerId": "19726920",
@@ -48,6 +48,11 @@
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 41
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 40
   },
   {
     "playerId": "22706369",
@@ -70,6 +75,16 @@
     "kills": 32
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 30
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 29
+  },
+  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 29
@@ -88,6 +103,11 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 25
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 24
   },
   {
     "playerId": "12222122",
@@ -128,11 +148,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 6
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 5
   },
   {
     "playerId": "22056849",
@@ -222,11 +237,6 @@
   {
     "playerId": "19691813",
     "username": "Jhxjan",
-    "kills": 0
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
     "kills": 0
   },
   {
@@ -680,11 +690,6 @@
     "kills": 0
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 0
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0
@@ -1067,11 +1072,6 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 0
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 0
   },
   {
