@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 40984
+    "kills": 41172
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1848
+    "kills": 1875
   },
   {
     "playerId": "4142755",
@@ -60,6 +60,11 @@
     "kills": 730
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 557
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 554
@@ -68,11 +73,6 @@
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 553
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 537
   },
   {
     "playerId": "21708970",
@@ -92,7 +92,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 459
+    "kills": 470
   },
   {
     "playerId": "20269995",
@@ -162,7 +162,7 @@
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 283
+    "kills": 288
   },
   {
     "playerId": "22809750",
@@ -185,14 +185,14 @@
     "kills": 245
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 241
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 234
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 226
   },
   {
     "playerId": "21465536",
@@ -232,7 +232,7 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 179
+    "kills": 180
   },
   {
     "playerId": "17136803",
@@ -415,6 +415,11 @@
     "kills": 33
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 23
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 23
@@ -425,13 +430,18 @@
     "kills": 22
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 20
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 16
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 16
   },
   {
@@ -443,11 +453,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 13
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 12
   },
   {
     "playerId": "12331664",
@@ -470,14 +475,14 @@
     "kills": 8
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 8
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 7
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 6
   },
   {
     "playerId": "19068893",
@@ -1067,11 +1072,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 0
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
     "kills": 0
   },
   {
