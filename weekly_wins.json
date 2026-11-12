@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12894
+    "kills": 13061
   },
   {
     "playerId": "17629928",
@@ -22,7 +22,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 458
+    "kills": 472
   },
   {
     "playerId": "13173087",
@@ -47,7 +47,7 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 210
+    "kills": 265
   },
   {
     "playerId": "20269995",
@@ -55,14 +55,14 @@
     "kills": 191
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 185
+  },
+  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 176
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 165
   },
   {
     "playerId": "8590474",
@@ -80,6 +80,11 @@
     "kills": 139
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 135
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 134
@@ -93,11 +98,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 131
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 128
   },
   {
     "playerId": "8899024",
@@ -123,6 +123,11 @@
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 100
   },
   {
     "playerId": "2574833",
@@ -185,11 +190,6 @@
     "kills": 87
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 80
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 76
@@ -215,14 +215,19 @@
     "kills": 63
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 59
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 58
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 57
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 55
   },
   {
     "playerId": "21797119",
@@ -230,14 +235,9 @@
     "kills": 53
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 52
-  },
-  {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 50
+    "kills": 52
   },
   {
     "playerId": "21180646",
@@ -270,14 +270,14 @@
     "kills": 42
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
+    "playerId": "10523030",
+    "username": "DIMIG0D",
     "kills": 37
   },
   {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 36
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 37
   },
   {
     "playerId": "21940268",
@@ -360,6 +360,11 @@
     "kills": 7
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 7
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 7
@@ -383,11 +388,6 @@
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 5
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 4
   },
   {
     "playerId": "21609912",
