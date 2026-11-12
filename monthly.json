@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 60966,
-    "lastKill": "2026-11-12 16:33:13"
+    "kills": 61093,
+    "lastKill": "2026-11-12 17:29:13"
   },
   {
     "playerId": "22710399",
@@ -20,8 +20,8 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 2692,
-    "lastKill": "2026-11-12 16:33:13"
+    "kills": 2746,
+    "lastKill": "2026-11-12 17:29:13"
   },
   {
     "playerId": "4142755",
@@ -224,8 +224,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 450,
-    "lastKill": "2026-11-12 15:38:19"
+    "kills": 462,
+    "lastKill": "2026-11-12 17:29:13"
   },
   {
     "playerId": "21609912",
@@ -320,8 +320,8 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 295,
-    "lastKill": "2026-11-12 16:33:13"
+    "kills": 300,
+    "lastKill": "2026-11-12 17:29:13"
   },
   {
     "playerId": "21940268",
@@ -438,6 +438,12 @@
     "lastKill": "2026-11-04 07:53:09"
   },
   {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 157,
+    "lastKill": "2026-11-12 17:29:13"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 155,
@@ -468,12 +474,6 @@
     "lastKill": "2026-11-08 10:33:09"
   },
   {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 124,
-    "lastKill": "2026-11-04 21:03:59"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 120,
@@ -492,6 +492,12 @@
     "lastKill": "2026-11-10 22:48:16"
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 91,
+    "lastKill": "2026-11-12 17:29:13"
+  },
+  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 89,
@@ -508,12 +514,6 @@
     "username": "Gentleman",
     "kills": 68,
     "lastKill": "2026-11-08 10:33:09"
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 62,
-    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "20843843",
@@ -696,6 +696,12 @@
     "lastKill": "2026-11-04 21:03:59"
   },
   {
+    "playerId": "16874545",
+    "username": "RDCGAMER",
+    "kills": 1,
+    "lastKill": "2026-11-12 17:29:13"
+  },
+  {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
     "kills": 1,
@@ -788,12 +794,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16874545",
-    "username": "RDCGAMER",
     "kills": 0,
     "lastKill": null
   },

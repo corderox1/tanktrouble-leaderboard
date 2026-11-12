@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 238556
+    "kills": 238644
   },
   {
     "playerId": "8590474",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 5245
+    "kills": 5281
   },
   {
     "playerId": "20666777",
@@ -77,7 +77,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 2724
+    "kills": 2725
   },
   {
     "playerId": "14617724",
@@ -167,7 +167,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1470
+    "kills": 1484
   },
   {
     "playerId": "19932455",
@@ -360,14 +360,14 @@
     "kills": 431
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 406
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 405
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 404
   },
   {
     "playerId": "3147484",
@@ -402,7 +402,7 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 329
+    "kills": 339
   },
   {
     "playerId": "21462355",
@@ -545,6 +545,11 @@
     "kills": 127
   },
   {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 123
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 122
@@ -553,11 +558,6 @@
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 111
-  },
-  {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 88
   },
   {
     "playerId": "1341685",

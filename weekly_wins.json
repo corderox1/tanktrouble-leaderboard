@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17209
+    "kills": 17297
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 796
+    "kills": 832
   },
   {
     "playerId": "22710399",
@@ -145,14 +145,14 @@
     "kills": 116
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
+    "playerId": "21465536",
+    "username": "Alternator",
     "kills": 111
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 110
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 111
   },
   {
     "playerId": "3147484",
@@ -205,14 +205,14 @@
     "kills": 91
   },
   {
-    "playerId": "16736853",
-    "username": "Saucy",
+    "playerId": "8408190",
+    "username": "Invader",
     "kills": 89
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 75
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 89
   },
   {
     "playerId": "20011985",
@@ -280,6 +280,11 @@
     "kills": 46
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 45
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 44
@@ -300,8 +305,8 @@
     "kills": 42
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
+    "playerId": "4191643",
+    "username": "Etxrnity",
     "kills": 35
   },
   {
@@ -315,14 +320,14 @@
     "kills": 34
   },
   {
-    "playerId": "21839393",
-    "username": "notnothing",
+    "playerId": "17953682",
+    "username": "hohi",
     "kills": 29
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 27
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 29
   },
   {
     "playerId": "21609912",
@@ -502,11 +507,6 @@
   {
     "playerId": "10794529",
     "username": "interstellar",
-    "kills": 0
-  },
-  {
-    "playerId": "4191643",
-    "username": "Etxrnity",
     "kills": 0
   },
   {
