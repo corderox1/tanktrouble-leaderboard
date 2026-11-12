@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4224,
-    "lastKill": "2026-11-11 18:03:00"
+    "kills": 4459,
+    "lastKill": "2026-11-11 18:58:02"
   },
   {
     "playerId": "22710399",
@@ -42,6 +42,12 @@
     "lastKill": "2026-11-11 12:57:32"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 130,
+    "lastKill": "2026-11-11 18:58:02"
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 121,
@@ -58,12 +64,6 @@
     "username": "seyi-vibez-jr",
     "kills": 94,
     "lastKill": "2026-11-11 13:59:07"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 94,
-    "lastKill": "2026-11-11 18:03:00"
   },
   {
     "playerId": "20270104",
@@ -88,6 +88,12 @@
     "username": "ISAH",
     "kills": 68,
     "lastKill": "2026-11-11 06:23:08"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 65,
+    "lastKill": "2026-11-11 18:58:02"
   },
   {
     "playerId": "22706369",
@@ -174,12 +180,6 @@
     "lastKill": "2026-11-11 05:28:04"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 28,
-    "lastKill": "2026-11-11 18:03:00"
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 26,
@@ -198,10 +198,22 @@
     "lastKill": "2026-11-11 10:08:37"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 21,
+    "lastKill": "2026-11-11 18:58:02"
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 16,
     "lastKill": "2026-11-11 01:42:37"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 14,
+    "lastKill": "2026-11-11 18:58:02"
   },
   {
     "playerId": "22757188",
@@ -656,12 +668,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0,
     "lastKill": null
   },
@@ -1244,12 +1250,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0,
     "lastKill": null
   },
