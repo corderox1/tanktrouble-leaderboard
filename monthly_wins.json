@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 48161
+    "kills": 48411
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 2145
+    "kills": 2176
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1751
+    "kills": 1798
   },
   {
     "playerId": "4142755",
@@ -27,7 +27,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1569
+    "kills": 1607
   },
   {
     "playerId": "21601349",
@@ -42,7 +42,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1194
+    "kills": 1195
   },
   {
     "playerId": "10794529",
@@ -97,7 +97,12 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 494
+    "kills": 496
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 495
   },
   {
     "playerId": "22757188",
@@ -110,11 +115,6 @@
     "kills": 456
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 455
-  },
-  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 448
@@ -125,14 +125,14 @@
     "kills": 442
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 442
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 431
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 428
   },
   {
     "playerId": "2574833",
@@ -205,14 +205,14 @@
     "kills": 270
   },
   {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 262
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 258
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 248
   },
   {
     "playerId": "21700920",
@@ -270,6 +270,11 @@
     "kills": 176
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 167
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 160
@@ -283,11 +288,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 157
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 152
   },
   {
     "playerId": "18969891",
@@ -365,6 +365,11 @@
     "kills": 88
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 83
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 74
@@ -408,11 +413,6 @@
     "playerId": "8146384",
     "username": "itachi",
     "kills": 49
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 43
   },
   {
     "playerId": "20644558",
