@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35360885,
-    "kills": 44494630,
-    "deaths": 41988768,
-    "suicides": 9426559,
+    "victories": 35360952,
+    "kills": 44494748,
+    "deaths": 41988879,
+    "suicides": 9426578,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 21949,
-    "kills": 31910,
-    "deaths": 26284,
-    "suicides": 6816,
+    "victories": 22102,
+    "kills": 32057,
+    "deaths": 26327,
+    "suicides": 6825,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3326,7 +3326,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1723560463,
-    "lastLogin": 1794414656,
+    "lastLogin": 1794469867,
     "banned": false,
     "usernameApproved": true,
     "country": null
