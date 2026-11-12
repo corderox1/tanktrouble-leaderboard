@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18586,
-    "lastKill": "2026-11-12 11:43:43"
+    "kills": 19114,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "22710399",
@@ -14,14 +14,14 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 922,
-    "lastKill": "2026-11-12 11:43:43"
+    "kills": 929,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 839,
-    "lastKill": "2026-11-12 11:43:43"
+    "kills": 921,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "4142755",
@@ -32,8 +32,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 605,
-    "lastKill": "2026-11-12 11:43:43"
+    "kills": 608,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "13173087",
@@ -54,16 +54,16 @@
     "lastKill": "2026-11-10 11:21:48"
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 488,
+    "lastKill": "2026-11-12 12:43:33"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 486,
     "lastKill": "2026-11-12 09:53:27"
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 446,
-    "lastKill": "2026-11-12 11:43:43"
   },
   {
     "playerId": "21452912",
@@ -114,6 +114,12 @@
     "lastKill": "2026-11-11 22:42:59"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 273,
+    "lastKill": "2026-11-12 12:43:33"
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 259,
@@ -132,12 +138,6 @@
     "lastKill": "2026-11-11 13:59:07"
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 248,
-    "lastKill": "2026-11-12 11:43:43"
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 248,
@@ -152,14 +152,26 @@
   {
     "playerId": "22056849",
     "username": "Preww",
+    "kills": 243,
+    "lastKill": "2026-11-12 12:43:33"
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
     "kills": 229,
-    "lastKill": "2026-11-12 11:43:43"
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 213,
     "lastKill": "2026-11-11 11:07:27"
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 196,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "1001669",
@@ -176,26 +188,14 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 170,
-    "lastKill": "2026-11-12 08:58:09"
+    "kills": 172,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 170,
     "lastKill": "2026-11-11 22:42:59"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 165,
-    "lastKill": "2026-11-11 15:05:11"
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 159,
-    "lastKill": "2026-11-10 12:17:13"
   },
   {
     "playerId": "21178768",
@@ -350,8 +350,8 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 74,
-    "lastKill": "2026-11-12 11:43:43"
+    "kills": 75,
+    "lastKill": "2026-11-12 12:43:33"
   },
   {
     "playerId": "12107881",
@@ -414,16 +414,16 @@
     "lastKill": "2026-11-11 05:28:04"
   },
   {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 31,
+    "lastKill": "2026-11-12 12:43:33"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 27,
     "lastKill": "2026-11-12 07:03:11"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 27,
-    "lastKill": "2026-11-12 09:53:27"
   },
   {
     "playerId": "22042037",
