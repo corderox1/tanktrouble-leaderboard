@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3454,
-    "lastKill": "2026-11-12 13:38:32"
+    "kills": 3979,
+    "lastKill": "2026-11-12 14:38:29"
   },
   {
     "playerId": "22710399",
@@ -30,6 +30,12 @@
     "lastKill": "2026-11-12 09:53:27"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 181,
+    "lastKill": "2026-11-12 14:38:29"
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 173,
@@ -42,12 +48,6 @@
     "lastKill": "2026-11-12 12:43:33"
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 165,
-    "lastKill": "2026-11-12 13:38:32"
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 111,
@@ -56,8 +56,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 98,
-    "lastKill": "2026-11-12 13:38:32"
+    "kills": 102,
+    "lastKill": "2026-11-12 14:38:29"
   },
   {
     "playerId": "22716354",
@@ -120,6 +120,18 @@
     "lastKill": "2026-11-12 11:43:43"
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 35,
+    "lastKill": "2026-11-12 14:38:29"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 35,
+    "lastKill": "2026-11-12 14:38:29"
+  },
+  {
     "playerId": "17794648",
     "username": "Quser",
     "kills": 35,
@@ -154,6 +166,12 @@
     "username": "EPIC_GIRL",
     "kills": 27,
     "lastKill": "2026-11-12 07:03:11"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 23,
+    "lastKill": "2026-11-12 14:38:29"
   },
   {
     "playerId": "21609912",
@@ -284,12 +302,6 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0,
     "lastKill": null
   },
@@ -576,20 +588,8 @@
     "lastKill": null
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
