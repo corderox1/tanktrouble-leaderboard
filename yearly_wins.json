@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 236552
+    "kills": 236854
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,17 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 5565
+    "kills": 5605
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 5390
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 5128
   },
   {
     "playerId": "17629928",
@@ -38,11 +43,6 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 5103
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 5100
   },
   {
     "playerId": "10794529",
@@ -107,7 +107,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 2071
+    "kills": 2100
   },
   {
     "playerId": "21796745",
@@ -247,7 +247,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 975
+    "kills": 993
   },
   {
     "playerId": "21109495",
@@ -337,7 +337,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 509
+    "kills": 510
   },
   {
     "playerId": "16092601",
@@ -610,6 +610,11 @@
     "kills": 58
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 54
+  },
+  {
     "playerId": "8146384",
     "username": "itachi",
     "kills": 51
@@ -622,11 +627,6 @@
   {
     "playerId": "4128764",
     "username": "Bulletio",
-    "kills": 44
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 44
   },
   {
