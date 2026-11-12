@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5089,
-    "lastKill": "2026-11-11 22:42:59"
+    "kills": 5228,
+    "lastKill": "2026-11-11 23:38:30"
   },
   {
     "playerId": "22710399",
@@ -14,8 +14,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 301,
-    "lastKill": "2026-11-11 13:59:07"
+    "kills": 310,
+    "lastKill": "2026-11-11 23:38:30"
   },
   {
     "playerId": "17629928",
@@ -228,6 +228,12 @@
     "lastKill": "2026-11-11 08:13:25"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 24,
+    "lastKill": "2026-11-11 23:38:30"
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 24,
@@ -274,6 +280,12 @@
     "username": "rhak",
     "kills": 6,
     "lastKill": "2026-11-11 01:42:37"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 5,
+    "lastKill": "2026-11-11 23:38:30"
   },
   {
     "playerId": "12222122",
@@ -332,12 +344,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
     "kills": 0,
     "lastKill": null
   },
@@ -1220,12 +1226,6 @@
   {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0,
     "lastKill": null
   },
