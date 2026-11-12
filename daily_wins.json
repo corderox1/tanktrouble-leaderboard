@@ -1,13 +1,13 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 303
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 196
-  },
-  {
-    "playerId": "6148530",
-    "username": "Laika",
-    "kills": 138
   },
   {
     "playerId": "14617724",
@@ -17,6 +17,16 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
+    "kills": 23
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 17
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 1
   },
   {
@@ -122,11 +132,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -372,11 +377,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {

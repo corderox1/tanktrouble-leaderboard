@@ -1,21 +1,33 @@
 [
   {
+    "playerId": "6148530",
+    "username": "Laika",
+    "kills": 394,
+    "lastKill": "2026-11-12 03:22:19"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 205,
     "lastKill": "2026-11-12 02:28:02"
   },
   {
-    "playerId": "6148530",
-    "username": "Laika",
-    "kills": 196,
-    "lastKill": "2026-11-12 02:28:02"
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 63,
+    "lastKill": "2026-11-12 03:22:19"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 28,
     "lastKill": "2026-11-12 01:33:28"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 23,
+    "lastKill": "2026-11-12 03:22:19"
   },
   {
     "playerId": "22710399",
@@ -218,12 +230,6 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
     "kills": 0,
     "lastKill": null
   },
@@ -446,12 +452,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
