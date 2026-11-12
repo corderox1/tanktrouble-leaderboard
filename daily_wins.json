@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3579
+    "kills": 3830
   },
   {
     "playerId": "22710399",
@@ -35,9 +35,19 @@
     "kills": 143
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 108
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 101
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 80
   },
   {
     "playerId": "13773720",
@@ -65,6 +75,11 @@
     "kills": 52
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 46
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 43
@@ -77,7 +92,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 40
+    "kills": 41
   },
   {
     "playerId": "2885724",
@@ -100,8 +115,18 @@
     "kills": 37
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 36
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
+    "kills": 34
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 34
   },
   {
@@ -118,11 +143,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 27
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 25
   },
   {
     "playerId": "21178768",
@@ -150,11 +170,6 @@
     "kills": 19
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 19
-  },
-  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 16
@@ -170,24 +185,24 @@
     "kills": 14
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 12
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 11
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 9
   },
   {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 7
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 6
   },
   {
     "playerId": "22056849",
@@ -320,11 +335,6 @@
     "kills": 0
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 0
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 0
@@ -332,11 +342,6 @@
   {
     "playerId": "18969891",
     "username": "AlmaMater",
-    "kills": 0
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
     "kills": 0
   },
   {
@@ -397,11 +402,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
