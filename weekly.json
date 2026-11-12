@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19922,
-    "lastKill": "2026-11-12 14:38:29"
+    "kills": 20219,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "22710399",
@@ -74,8 +74,8 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 361,
-    "lastKill": "2026-11-11 21:48:24"
+    "kills": 401,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "19138057",
@@ -132,6 +132,12 @@
     "lastKill": "2026-11-12 12:43:33"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 261,
+    "lastKill": "2026-11-12 15:38:19"
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 259,
@@ -174,16 +180,16 @@
     "lastKill": "2026-11-11 11:07:27"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 208,
-    "lastKill": "2026-11-12 14:38:29"
-  },
-  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 192,
     "lastKill": "2026-11-12 11:43:43"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 174,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "21700920",
@@ -198,6 +204,12 @@
     "lastKill": "2026-11-11 22:42:59"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 164,
+    "lastKill": "2026-11-12 15:38:19"
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 156,
@@ -208,12 +220,6 @@
     "username": "Escape",
     "kills": 145,
     "lastKill": "2026-11-10 06:38:57"
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 140,
-    "lastKill": "2026-11-10 14:06:48"
   },
   {
     "playerId": "21601349",
@@ -232,12 +238,6 @@
     "username": "itachi",
     "kills": 136,
     "lastKill": "2026-11-10 23:48:20"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 135,
-    "lastKill": "2026-11-09 23:13:17"
   },
   {
     "playerId": "22845692",
@@ -368,8 +368,8 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 49,
-    "lastKill": "2026-11-12 09:53:27"
+    "kills": 50,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "3808011",
@@ -466,6 +466,12 @@
     "username": "SoftMagmaDriver",
     "kills": 14,
     "lastKill": "2026-11-11 08:13:25"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 12,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "10689052",
@@ -980,12 +986,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },

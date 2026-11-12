@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3979,
-    "lastKill": "2026-11-12 14:38:29"
+    "kills": 4276,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "22710399",
@@ -66,6 +66,12 @@
     "lastKill": "2026-11-12 06:08:10"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 88,
+    "lastKill": "2026-11-12 15:38:19"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 79,
@@ -120,14 +126,14 @@
     "lastKill": "2026-11-12 11:43:43"
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 35,
-    "lastKill": "2026-11-12 14:38:29"
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 40,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 35,
     "lastKill": "2026-11-12 14:38:29"
   },
@@ -136,6 +142,12 @@
     "username": "Quser",
     "kills": 35,
     "lastKill": "2026-11-12 06:08:10"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 34,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "20269995",
@@ -154,6 +166,12 @@
     "username": "III__E-74__III",
     "kills": 31,
     "lastKill": "2026-11-12 13:38:32"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 29,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "14617724",
@@ -182,14 +200,20 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 16,
-    "lastKill": "2026-11-12 09:53:27"
+    "kills": 17,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 14,
     "lastKill": "2026-11-12 08:58:09"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 12,
+    "lastKill": "2026-11-12 15:38:19"
   },
   {
     "playerId": "21700920",
@@ -324,20 +348,8 @@
     "lastKill": null
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0,
     "lastKill": null
   },
@@ -446,12 +458,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },
@@ -884,12 +890,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },

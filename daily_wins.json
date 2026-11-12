@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3237
+    "kills": 3513
   },
   {
     "playerId": "22710399",
@@ -38,6 +38,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 74
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 73
   },
   {
     "playerId": "21508277",
@@ -80,6 +85,11 @@
     "kills": 30
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 28
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 27
@@ -92,11 +102,6 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 24
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 24
   },
   {
@@ -113,6 +118,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 22
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 21
   },
   {
     "playerId": "21609912",
@@ -135,9 +145,19 @@
     "kills": 14
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 12
+  },
+  {
     "playerId": "17794648",
     "username": "Quser",
     "kills": 11
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 8
   },
   {
     "playerId": "17953682",
@@ -265,18 +285,8 @@
     "kills": 0
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 0
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 0
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0
   },
   {
@@ -367,11 +377,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0
   },
   {
@@ -732,11 +737,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {

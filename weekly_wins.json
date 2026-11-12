@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 16705
+    "kills": 16981
   },
   {
     "playerId": "22710399",
@@ -57,7 +57,7 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 267
+    "kills": 288
   },
   {
     "playerId": "20269995",
@@ -88,6 +88,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 169
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 163
   },
   {
     "playerId": "2885724",
@@ -135,9 +140,9 @@
     "kills": 120
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 114
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 116
   },
   {
     "playerId": "19726920",
@@ -205,9 +210,9 @@
     "kills": 89
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 88
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 75
   },
   {
     "playerId": "20011985",
@@ -217,11 +222,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 63
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 63
   },
   {
@@ -377,6 +377,11 @@
   {
     "playerId": "17953682",
     "username": "hohi",
+    "kills": 8
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 8
   },
   {
@@ -822,11 +827,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {
