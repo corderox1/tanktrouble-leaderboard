@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 46122
+    "kills": 46193
   },
   {
     "playerId": "13173087",
@@ -35,14 +35,14 @@
     "kills": 1409
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 1166
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 1157
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 1123
   },
   {
     "playerId": "10794529",
@@ -140,6 +140,11 @@
     "kills": 374
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 355
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 351
@@ -148,11 +153,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 335
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 331
   },
   {
     "playerId": "19138057",
@@ -175,13 +175,13 @@
     "kills": 312
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 301
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
+    "kills": 302
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
     "kills": 301
   },
   {
