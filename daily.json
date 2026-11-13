@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 942,
-    "lastKill": "2026-11-13 03:57:26"
+    "kills": 1159,
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 188,
-    "lastKill": "2026-11-13 03:57:26"
+    "kills": 223,
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
     "playerId": "10523030",
@@ -24,22 +24,46 @@
     "lastKill": "2026-11-13 03:57:26"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 63,
+    "lastKill": "2026-11-13 04:52:24"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 56,
+    "lastKill": "2026-11-13 04:52:24"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 52,
+    "lastKill": "2026-11-13 04:52:24"
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 47,
     "lastKill": "2026-11-13 02:02:22"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 40,
-    "lastKill": "2026-11-13 03:57:26"
-  },
-  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 39,
     "lastKill": "2026-11-13 01:03:00"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 28,
+    "lastKill": "2026-11-13 04:52:24"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 22,
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
     "playerId": "22105718",
@@ -66,10 +90,10 @@
     "lastKill": "2026-11-13 01:03:00"
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 13,
-    "lastKill": "2026-11-13 03:57:26"
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 14,
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
     "playerId": "21452912",
@@ -78,22 +102,16 @@
     "lastKill": "2026-11-13 01:03:00"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 6,
-    "lastKill": "2026-11-13 03:57:26"
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 8,
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
     "kills": 2,
-    "lastKill": "2026-11-13 03:57:26"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 2,
-    "lastKill": "2026-11-13 02:59:05"
+    "lastKill": "2026-11-13 04:52:24"
   },
   {
     "playerId": "22710399",
@@ -294,12 +312,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -386,12 +398,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
     "kills": 0,
     "lastKill": null
   },
@@ -536,12 +542,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
