@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 689,
-    "lastKill": "2026-11-13 02:59:05"
+    "kills": 942,
+    "lastKill": "2026-11-13 03:57:26"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 188,
+    "lastKill": "2026-11-13 03:57:26"
   },
   {
     "playerId": "10523030",
@@ -12,16 +18,10 @@
     "lastKill": "2026-11-13 02:02:22"
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 63,
-    "lastKill": "2026-11-13 02:59:05"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 62,
-    "lastKill": "2026-11-13 02:59:05"
+    "kills": 109,
+    "lastKill": "2026-11-13 03:57:26"
   },
   {
     "playerId": "8408190",
@@ -30,10 +30,22 @@
     "lastKill": "2026-11-13 02:02:22"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 40,
+    "lastKill": "2026-11-13 03:57:26"
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 39,
     "lastKill": "2026-11-13 01:03:00"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 21,
+    "lastKill": "2026-11-13 03:57:26"
   },
   {
     "playerId": "3923647",
@@ -54,21 +66,33 @@
     "lastKill": "2026-11-13 01:03:00"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 13,
+    "lastKill": "2026-11-13 03:57:26"
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 9,
     "lastKill": "2026-11-13 01:03:00"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 6,
+    "lastKill": "2026-11-13 03:57:26"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 2,
+    "lastKill": "2026-11-13 03:57:26"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 2,
-    "lastKill": "2026-11-13 02:59:05"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 1,
     "lastKill": "2026-11-13 02:59:05"
   },
   {
@@ -816,12 +840,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 0,
@@ -878,12 +896,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
@@ -990,12 +1002,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0,
@@ -1028,12 +1034,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },

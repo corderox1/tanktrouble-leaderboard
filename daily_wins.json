@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 529
+    "kills": 801
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 100
   },
   {
     "playerId": "10523030",
@@ -10,14 +15,9 @@
     "kills": 54
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 35
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 26
+    "kills": 46
   },
   {
     "playerId": "8408190",
@@ -30,9 +30,19 @@
     "kills": 18
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 17
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 13
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 10
   },
   {
     "playerId": "3923647",
@@ -48,6 +58,26 @@
     "playerId": "21452912",
     "username": "x",
     "kills": 3
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 2
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 2
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 1
   },
   {
     "playerId": "22757188",
@@ -425,11 +455,6 @@
     "kills": 0
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 0
@@ -675,11 +700,6 @@
     "kills": 0
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 0
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 0
@@ -720,11 +740,6 @@
     "kills": 0
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0
@@ -732,11 +747,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0
   },
   {
@@ -825,11 +835,6 @@
     "kills": 0
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0
@@ -857,11 +862,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0
   },
   {
