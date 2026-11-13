@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19332
+    "kills": 19472
   },
   {
     "playerId": "17629928",
@@ -20,14 +20,14 @@
     "kills": 519
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 517
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 487
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 474
   },
   {
     "playerId": "13173087",
@@ -70,6 +70,11 @@
     "kills": 263
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 263
+  },
+  {
     "playerId": "2885724",
     "username": "Tankyy",
     "kills": 258
@@ -85,11 +90,6 @@
     "kills": 218
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 212
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 204
@@ -102,7 +102,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 166
+    "kills": 169
   },
   {
     "playerId": "4381511",
@@ -145,6 +145,11 @@
     "kills": 142
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 139
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 138
@@ -163,6 +168,11 @@
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 116
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 115
   },
   {
     "playerId": "21465536",
@@ -185,14 +195,14 @@
     "kills": 106
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 105
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 100
   },
   {
     "playerId": "2574833",
@@ -200,19 +210,14 @@
     "kills": 99
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 99
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 97
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 95
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 95
   },
   {
     "playerId": "11769746",
@@ -228,11 +233,6 @@
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 89
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 82
   },
   {
     "playerId": "22757188",
@@ -447,6 +447,11 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
+    "kills": 2
+  },
+  {
+    "playerId": "13825931",
+    "username": "Tigers786",
     "kills": 2
   },
   {
@@ -742,11 +747,6 @@
   {
     "playerId": "21528366",
     "username": "killermax",
-    "kills": 0
-  },
-  {
-    "playerId": "13825931",
-    "username": "Tigers786",
     "kills": 0
   },
   {
