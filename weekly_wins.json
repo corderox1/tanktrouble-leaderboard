@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20766
+    "kills": 21026
   },
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 992
+    "kills": 1010
   },
   {
     "playerId": "17629928",
@@ -17,7 +17,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 587
+    "kills": 589
   },
   {
     "playerId": "13173087",
@@ -25,19 +25,19 @@
     "kills": 575
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 569
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 519
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 500
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 487
+    "kills": 492
   },
   {
     "playerId": "22472796",
@@ -85,6 +85,11 @@
     "kills": 238
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 229
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 218
@@ -93,11 +98,6 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 204
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 197
   },
   {
     "playerId": "22706369",
@@ -138,6 +138,11 @@
     "playerId": "21452912",
     "username": "x",
     "kills": 154
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 146
   },
   {
     "playerId": "22716354",
@@ -195,11 +200,6 @@
     "kills": 109
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 106
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
@@ -232,7 +232,7 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 89
+    "kills": 90
   },
   {
     "playerId": "22757188",
@@ -315,6 +315,11 @@
     "kills": 37
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 36
+  },
+  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 35
@@ -327,11 +332,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 29
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 29
   },
   {
@@ -477,6 +477,11 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 1
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
     "kills": 1
   },
   {
@@ -1052,11 +1057,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 0
   },
   {
