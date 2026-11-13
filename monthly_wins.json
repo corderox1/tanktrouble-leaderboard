@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 50466
+    "kills": 50553
   },
   {
     "playerId": "22710399",
@@ -85,6 +85,11 @@
     "kills": 536
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 525
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 521
@@ -103,11 +108,6 @@
     "playerId": "21452912",
     "username": "x",
     "kills": 510
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 486
   },
   {
     "playerId": "22757188",
@@ -145,14 +145,14 @@
     "kills": 406
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 392
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 369
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 367
   },
   {
     "playerId": "14617724",
@@ -162,7 +162,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 326
+    "kills": 343
   },
   {
     "playerId": "13773720",
@@ -173,6 +173,11 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 322
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 321
   },
   {
     "playerId": "21465536",
@@ -195,11 +200,6 @@
     "kills": 289
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 284
-  },
-  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 273
@@ -218,6 +218,11 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 255
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 235
   },
   {
     "playerId": "21700920",
@@ -240,6 +245,11 @@
     "kills": 200
   },
   {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 199
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 196
@@ -248,11 +258,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 194
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 193
   },
   {
     "playerId": "20011985",
@@ -268,11 +273,6 @@
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 186
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 182
   },
   {
     "playerId": "19932455",
