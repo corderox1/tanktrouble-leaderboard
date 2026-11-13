@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18123
+    "kills": 18257
   },
   {
     "playerId": "17629928",
@@ -67,17 +67,17 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 222
+    "kills": 245
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 238
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 218
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 210
   },
   {
     "playerId": "22077521",
@@ -110,6 +110,11 @@
     "kills": 160
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 156
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 156
@@ -117,12 +122,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 147
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 146
+    "kills": 151
   },
   {
     "playerId": "20270104",
@@ -180,6 +180,11 @@
     "kills": 105
   },
   {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 105
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
@@ -225,11 +230,6 @@
     "kills": 69
   },
   {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 68
-  },
-  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 63
@@ -250,13 +250,13 @@
     "kills": 62
   },
   {
-    "playerId": "18969891",
-    "username": "AlmaMater",
-    "kills": 57
-  },
-  {
     "playerId": "21516705",
     "username": "AriX",
+    "kills": 58
+  },
+  {
+    "playerId": "18969891",
+    "username": "AlmaMater",
     "kills": 57
   },
   {
@@ -360,6 +360,11 @@
     "kills": 16
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 15
+  },
+  {
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 15
@@ -393,11 +398,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 8
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 7
   },
   {
     "playerId": "1185396",

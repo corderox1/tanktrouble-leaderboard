@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 50777
+    "kills": 50911
   },
   {
     "playerId": "22710399",
@@ -87,7 +87,7 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 543
+    "kills": 553
   },
   {
     "playerId": "20269995",
@@ -107,7 +107,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 511
+    "kills": 515
   },
   {
     "playerId": "22757188",
@@ -118,6 +118,11 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 448
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 443
   },
   {
     "playerId": "22706369",
@@ -140,11 +145,6 @@
     "kills": 424
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 415
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 406
@@ -155,14 +155,14 @@
     "kills": 404
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 373
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 369
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 350
   },
   {
     "playerId": "8408190",
@@ -220,6 +220,11 @@
     "kills": 258
   },
   {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 255
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 255
@@ -228,11 +233,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 223
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
-    "kills": 218
   },
   {
     "playerId": "3990108",
@@ -292,7 +292,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 157
+    "kills": 158
   },
   {
     "playerId": "18969891",
@@ -445,6 +445,11 @@
     "kills": 32
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 24
+  },
+  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 23
@@ -467,11 +472,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 16
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 16
   },
   {
