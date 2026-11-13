@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 25908,
-    "lastKill": "2026-11-13 15:18:34"
+    "kills": 26033,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "22710399",
@@ -32,14 +32,14 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1024,
-    "lastKill": "2026-11-12 17:29:13"
+    "kills": 1052,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 806,
-    "lastKill": "2026-11-13 14:23:25"
+    "kills": 868,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "13173087",
@@ -110,8 +110,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 429,
-    "lastKill": "2026-11-13 15:18:34"
+    "kills": 430,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "3660774",
@@ -162,6 +162,12 @@
     "lastKill": "2026-11-13 15:18:34"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 284,
+    "lastKill": "2026-11-13 16:13:27"
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 276,
@@ -180,12 +186,6 @@
     "lastKill": "2026-11-13 01:03:00"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 261,
-    "lastKill": "2026-11-12 15:38:19"
-  },
-  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 259,
@@ -202,6 +202,12 @@
     "username": "Escape",
     "kills": 244,
     "lastKill": "2026-11-13 13:27:39"
+  },
+  {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 232,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "19726920",
@@ -226,12 +232,6 @@
     "username": "Palestinene",
     "kills": 213,
     "lastKill": "2026-11-11 11:07:27"
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 192,
-    "lastKill": "2026-11-12 11:43:43"
   },
   {
     "playerId": "21516705",
@@ -398,8 +398,8 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 45,
-    "lastKill": "2026-11-13 15:18:34"
+    "kills": 47,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "18985660",
@@ -460,6 +460,12 @@
     "username": "FATAI169",
     "kills": 31,
     "lastKill": "2026-11-12 12:43:33"
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 28,
+    "lastKill": "2026-11-13 16:13:27"
   },
   {
     "playerId": "13783887",
@@ -1208,12 +1214,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0,
     "lastKill": null
   },

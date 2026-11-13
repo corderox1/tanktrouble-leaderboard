@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21519
+    "kills": 21622
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 832
+    "kills": 843
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 557
+    "kills": 587
   },
   {
     "playerId": "21708970",
@@ -82,7 +82,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 249
+    "kills": 250
   },
   {
     "playerId": "13773720",
@@ -110,6 +110,11 @@
     "kills": 188
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 179
+  },
+  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 176
@@ -123,11 +128,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 165
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 163
   },
   {
     "playerId": "3923647",
@@ -190,6 +190,11 @@
     "kills": 131
   },
   {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 117
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 116
@@ -213,11 +218,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 100
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 97
   },
   {
     "playerId": "16736853",
@@ -265,14 +265,14 @@
     "kills": 62
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 61
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 57
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 56
   },
   {
     "playerId": "22809750",
@@ -398,6 +398,11 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 14
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 12
   },
   {
     "playerId": "17794648",
@@ -1012,11 +1017,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {

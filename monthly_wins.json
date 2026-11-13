@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 54173
+    "kills": 54276
   },
   {
     "playerId": "22710399",
@@ -17,12 +17,12 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 1921
+    "kills": 1932
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1794
+    "kills": 1824
   },
   {
     "playerId": "22472796",
@@ -72,7 +72,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 610
+    "kills": 626
   },
   {
     "playerId": "20984454",
@@ -132,7 +132,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 454
+    "kills": 455
   },
   {
     "playerId": "2574833",
@@ -187,7 +187,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 326
+    "kills": 331
   },
   {
     "playerId": "21465536",
@@ -205,6 +205,11 @@
     "kills": 296
   },
   {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 282
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 273
@@ -213,11 +218,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 270
-  },
-  {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 262
   },
   {
     "playerId": "2885724",
@@ -493,6 +493,11 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 13
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 12
   },
   {
     "playerId": "17794648",
@@ -1017,11 +1022,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {
