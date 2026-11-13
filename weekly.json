@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22276,
-    "lastKill": "2026-11-13 02:02:22"
+    "kills": 22568,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "22710399",
@@ -32,8 +32,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 673,
-    "lastKill": "2026-11-13 02:02:22"
+    "kills": 700,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "13173087",
@@ -102,6 +102,12 @@
     "lastKill": "2026-11-12 15:38:19"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 385,
+    "lastKill": "2026-11-13 02:59:05"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 361,
@@ -118,12 +124,6 @@
     "username": "soso_boy",
     "kills": 328,
     "lastKill": "2026-11-12 11:43:43"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 322,
-    "lastKill": "2026-11-12 09:53:27"
   },
   {
     "playerId": "10523030",
@@ -290,8 +290,8 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 110,
-    "lastKill": "2026-11-12 08:58:09"
+    "kills": 112,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "20111777",
@@ -556,6 +556,12 @@
     "username": "RDCGAMER",
     "kills": 1,
     "lastKill": "2026-11-12 17:29:13"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "10132007",
@@ -1028,12 +1034,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },

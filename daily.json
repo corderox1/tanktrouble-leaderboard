@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 397,
-    "lastKill": "2026-11-13 02:02:22"
+    "kills": 689,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 113,
     "lastKill": "2026-11-13 02:02:22"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 63,
+    "lastKill": "2026-11-13 02:59:05"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 62,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "8408190",
@@ -22,12 +34,6 @@
     "username": "Crip",
     "kills": 39,
     "lastKill": "2026-11-13 01:03:00"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 35,
-    "lastKill": "2026-11-13 02:02:22"
   },
   {
     "playerId": "3923647",
@@ -52,6 +58,18 @@
     "username": "x",
     "kills": 9,
     "lastKill": "2026-11-13 01:03:00"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 2,
+    "lastKill": "2026-11-13 02:59:05"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1,
+    "lastKill": "2026-11-13 02:59:05"
   },
   {
     "playerId": "22710399",
@@ -158,12 +176,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
@@ -858,12 +870,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0,
@@ -1232,12 +1238,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },
