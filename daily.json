@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4642,
-    "lastKill": "2026-11-12 17:29:13"
+    "kills": 4829,
+    "lastKill": "2026-11-12 18:28:09"
   },
   {
     "playerId": "22710399",
@@ -48,6 +48,12 @@
     "lastKill": "2026-11-12 09:53:27"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 116,
+    "lastKill": "2026-11-12 18:28:09"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 111,
@@ -70,12 +76,6 @@
     "username": "interpreneur",
     "kills": 88,
     "lastKill": "2026-11-12 15:38:19"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 86,
-    "lastKill": "2026-11-12 16:33:13"
   },
   {
     "playerId": "21508277",
@@ -204,6 +204,12 @@
     "lastKill": "2026-11-12 07:03:11"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 23,
+    "lastKill": "2026-11-12 18:28:09"
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 19,
@@ -220,6 +226,12 @@
     "username": "Orc-T72",
     "kills": 12,
     "lastKill": "2026-11-12 15:38:19"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 12,
+    "lastKill": "2026-11-12 18:28:09"
   },
   {
     "playerId": "21700920",
@@ -256,12 +268,6 @@
     "username": "RDCGAMER",
     "kills": 1,
     "lastKill": "2026-11-12 17:29:13"
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 0,
-    "lastKill": null
   },
   {
     "playerId": "10132007",
@@ -1124,12 +1130,6 @@
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 0,
     "lastKill": null
   },
