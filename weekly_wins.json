@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 21622
+    "kills": 21761
   },
   {
     "playerId": "22710399",
@@ -12,7 +12,17 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 843
+    "kills": 869
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 607
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 606
   },
   {
     "playerId": "14892840",
@@ -23,16 +33,6 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 589
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 589
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 587
   },
   {
     "playerId": "21708970",
@@ -62,7 +62,7 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 326
+    "kills": 345
   },
   {
     "playerId": "19138057",
@@ -95,6 +95,11 @@
     "kills": 218
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 205
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 204
@@ -108,11 +113,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 188
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 179
   },
   {
     "playerId": "21102229",
@@ -132,17 +132,22 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 162
+    "kills": 163
   },
   {
     "playerId": "3660774",
     "username": "Sc4r",
-    "kills": 160
+    "kills": 162
   },
   {
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 159
+  },
+  {
+    "playerId": "1001669",
+    "username": "Mud",
+    "kills": 155
   },
   {
     "playerId": "21452912",
@@ -190,19 +195,14 @@
     "kills": 131
   },
   {
-    "playerId": "1001669",
-    "username": "Mud",
-    "kills": 117
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 124
   },
   {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 116
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 111
   },
   {
     "playerId": "3147484",
@@ -295,6 +295,11 @@
     "kills": 49
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 48
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 46
@@ -303,11 +308,6 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 45
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 44
   },
   {
     "playerId": "19173281",
