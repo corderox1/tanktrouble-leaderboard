@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 551,
-    "lastKill": "2026-11-14 03:43:25"
+    "kills": 772,
+    "lastKill": "2026-11-14 04:42:34"
   },
   {
     "playerId": "19173281",
@@ -24,10 +24,22 @@
     "lastKill": "2026-11-14 02:42:26"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 79,
+    "lastKill": "2026-11-14 04:42:34"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 45,
-    "lastKill": "2026-11-14 03:43:25"
+    "kills": 76,
+    "lastKill": "2026-11-14 04:42:34"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 39,
+    "lastKill": "2026-11-14 04:42:34"
   },
   {
     "playerId": "22757188",
@@ -60,6 +72,12 @@
     "lastKill": "2026-11-14 01:47:43"
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 7,
+    "lastKill": "2026-11-14 04:42:34"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 6,
@@ -70,6 +88,12 @@
     "username": "Tigers786",
     "kills": 4,
     "lastKill": "2026-11-14 01:47:43"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-11-14 04:42:34"
   },
   {
     "playerId": "22710399",
@@ -104,12 +128,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0,
     "lastKill": null
   },
@@ -524,12 +542,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
@@ -954,12 +966,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0,
@@ -1232,12 +1238,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0,
     "lastKill": null
   },

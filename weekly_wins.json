@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23545
+    "kills": 23730
   },
   {
     "playerId": "22710399",
@@ -110,6 +110,11 @@
     "kills": 247
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 247
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 229
@@ -118,6 +123,11 @@
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 224
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 223
   },
   {
     "playerId": "20269995",
@@ -130,18 +140,8 @@
     "kills": 217
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 211
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 204
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
     "kills": 204
   },
   {
@@ -220,6 +220,11 @@
     "kills": 109
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 105
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
@@ -238,11 +243,6 @@
     "playerId": "22845692",
     "username": "vincible",
     "kills": 97
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 91
   },
   {
     "playerId": "20011985",
@@ -345,13 +345,13 @@
     "kills": 29
   },
   {
-    "playerId": "21609912",
-    "username": "-BarnFindAlly-",
-    "kills": 23
-  },
-  {
     "playerId": "4201869",
     "username": "dvi9311",
+    "kills": 28
+  },
+  {
+    "playerId": "21609912",
+    "username": "-BarnFindAlly-",
     "kills": 23
   },
   {
