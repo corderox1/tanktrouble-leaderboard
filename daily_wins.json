@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2869
+    "kills": 3004
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 519
+    "kills": 565
   },
   {
     "playerId": "20666777",
@@ -25,6 +25,11 @@
     "kills": 173
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 134
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 85
@@ -35,11 +40,6 @@
     "kills": 82
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 82
-  },
-  {
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 69
@@ -47,7 +47,12 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 66
+    "kills": 67
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 62
   },
   {
     "playerId": "4201869",
@@ -57,7 +62,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 57
+    "kills": 58
   },
   {
     "playerId": "22757188",
@@ -72,7 +77,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 44
+    "kills": 45
   },
   {
     "playerId": "22077521",
@@ -82,7 +87,7 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "kills": 34
+    "kills": 35
   },
   {
     "playerId": "19138057",
@@ -97,7 +102,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 17
+    "kills": 20
   },
   {
     "playerId": "21673346",
@@ -113,6 +118,11 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 11
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 10
   },
   {
     "playerId": "21508277",
@@ -150,8 +160,18 @@
     "kills": 2
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 1
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
+    "kills": 1
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 1
   },
   {
@@ -173,11 +193,6 @@
     "playerId": "20843843",
     "username": "SPEED_XD",
     "kills": 1
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "1145079",
@@ -332,11 +347,6 @@
   {
     "playerId": "20297710",
     "username": "KD419",
-    "kills": 0
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 0
   },
   {
@@ -672,11 +682,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
@@ -1067,11 +1072,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 0
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 0
   },
   {
