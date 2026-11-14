@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 57703
+    "kills": 57756
   },
   {
     "playerId": "22710399",
@@ -32,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1650
+    "kills": 1653
   },
   {
     "playerId": "21601349",
@@ -47,7 +47,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1266
+    "kills": 1273
   },
   {
     "playerId": "10794529",
@@ -85,6 +85,11 @@
     "kills": 620
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 603
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 579
@@ -115,9 +120,9 @@
     "kills": 550
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 531
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 543
   },
   {
     "playerId": "14617724",
@@ -145,11 +150,6 @@
     "kills": 498
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 484
-  },
-  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 469
@@ -157,7 +157,7 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 455
+    "kills": 457
   },
   {
     "playerId": "2574833",
@@ -325,14 +325,14 @@
     "kills": 127
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
+    "playerId": "11769746",
+    "username": "boogiemaster22",
     "kills": 124
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 123
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 124
   },
   {
     "playerId": "4191643",
@@ -352,7 +352,12 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 108
+    "kills": 109
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 103
   },
   {
     "playerId": "21103294",
@@ -428,11 +433,6 @@
     "playerId": "3162693",
     "username": "commander",
     "kills": 48
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 45
   },
   {
     "playerId": "20644558",
