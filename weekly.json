@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30373,
-    "lastKill": "2026-11-14 10:18:25"
+    "kills": 30594,
+    "lastKill": "2026-11-14 11:17:12"
   },
   {
     "playerId": "22710399",
@@ -20,8 +20,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1524,
-    "lastKill": "2026-11-14 10:18:25"
+    "kills": 1550,
+    "lastKill": "2026-11-14 11:17:12"
   },
   {
     "playerId": "22472796",
@@ -198,6 +198,12 @@
     "lastKill": "2026-11-14 03:43:25"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 307,
+    "lastKill": "2026-11-14 11:17:12"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 298,
@@ -214,12 +220,6 @@
     "username": "AlmaMater",
     "kills": 259,
     "lastKill": "2026-11-10 22:48:16"
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 253,
-    "lastKill": "2026-11-14 10:18:25"
   },
   {
     "playerId": "21178768",
@@ -286,6 +286,12 @@
     "username": "Mandilindors",
     "kills": 174,
     "lastKill": "2026-11-12 15:38:19"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 163,
+    "lastKill": "2026-11-14 11:17:12"
   },
   {
     "playerId": "22845692",
@@ -366,12 +372,6 @@
     "lastKill": "2026-11-11 10:08:37"
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 85,
-    "lastKill": "2026-11-14 08:28:01"
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 79,
@@ -426,16 +426,16 @@
     "lastKill": "2026-11-13 11:28:24"
   },
   {
+    "playerId": "21103294",
+    "username": "FATAI169",
+    "kills": 40,
+    "lastKill": "2026-11-14 11:17:12"
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 39,
     "lastKill": "2026-11-12 05:13:04"
-  },
-  {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 36,
-    "lastKill": "2026-11-14 09:23:15"
   },
   {
     "playerId": "17794648",
@@ -592,6 +592,12 @@
     "username": "RDCGAMER",
     "kills": 1,
     "lastKill": "2026-11-12 17:29:13"
+  },
+  {
+    "playerId": "16735132",
+    "username": "heckerwastaken",
+    "kills": 1,
+    "lastKill": "2026-11-14 11:17:12"
   },
   {
     "playerId": "10132007",
@@ -944,12 +950,6 @@
   {
     "playerId": "673237",
     "username": "Dare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "16735132",
-    "username": "heckerwastaken",
     "kills": 0,
     "lastKill": null
   },
