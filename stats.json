@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35373056,
-    "kills": 44509635,
-    "deaths": 42005768,
-    "suicides": 9429958,
+    "victories": 35373328,
+    "kills": 44509959,
+    "deaths": 42006096,
+    "suicides": 9430042,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 77546,
-    "kills": 136987,
-    "deaths": 108235,
-    "suicides": 24981,
+    "victories": 77617,
+    "kills": 137088,
+    "deaths": 108302,
+    "suicides": 24991,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1023,7 +1023,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1619733600,
-    "lastLogin": 1794628693,
+    "lastLogin": 1794682399,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1276,10 +1276,10 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "victories": 45253,
-    "kills": 66667,
-    "deaths": 75784,
-    "suicides": 17991,
+    "victories": 45318,
+    "kills": 66756,
+    "deaths": 75868,
+    "suicides": 18018,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1766,9 +1766,9 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "victories": 39365,
-    "kills": 74126,
-    "deaths": 60734,
+    "victories": 39366,
+    "kills": 74128,
+    "deaths": 60737,
     "suicides": 13723,
     "experience": 0,
     "surrenders": 0,
@@ -1807,7 +1807,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1630850226,
-    "lastLogin": 1794417814,
+    "lastLogin": 1794682614,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2795,10 +2795,10 @@
   {
     "playerId": "2574833",
     "username": "voloding",
-    "victories": 115323,
-    "kills": 220440,
-    "deaths": 148812,
-    "suicides": 38875,
+    "victories": 115357,
+    "kills": 220501,
+    "deaths": 148842,
+    "suicides": 38883,
     "experience": 29487,
     "surrenders": 0,
     "turretColour": {
@@ -2836,7 +2836,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1497888536,
-    "lastLogin": 1794594438,
+    "lastLogin": 1794680325,
     "banned": false,
     "usernameApproved": true,
     "country": "RU"
@@ -2895,8 +2895,8 @@
     "username": "FATAI169",
     "victories": 13241,
     "kills": 21533,
-    "deaths": 22944,
-    "suicides": 7644,
+    "deaths": 22956,
+    "suicides": 7648,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2991,10 +2991,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 10319,
-    "kills": 12795,
-    "deaths": 22289,
-    "suicides": 4658,
+    "victories": 10331,
+    "kills": 12807,
+    "deaths": 22320,
+    "suicides": 4664,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3032,7 +3032,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1794662289,
+    "lastLogin": 1794680395,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -5090,7 +5090,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1766500201,
-    "lastLogin": 1791100735,
+    "lastLogin": 1794680291,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -5825,7 +5825,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1730812379,
-    "lastLogin": 1794428094,
+    "lastLogin": 1794682367,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7107,10 +7107,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 4162,
-    "kills": 8490,
-    "deaths": 10515,
-    "suicides": 3578,
+    "victories": 4163,
+    "kills": 8514,
+    "deaths": 10543,
+    "suicides": 3605,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1794670762,
+    "lastLogin": 1794681962,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9059,7 +9059,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1609604193,
-    "lastLogin": 1794658281,
+    "lastLogin": 1794682952,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10048,9 +10048,9 @@
     "playerId": "4201869",
     "username": "dvi9311",
     "victories": 50168,
-    "kills": 71192,
-    "deaths": 62209,
-    "suicides": 20007,
+    "kills": 71196,
+    "deaths": 62213,
+    "suicides": 20008,
     "experience": 4775,
     "surrenders": 0,
     "turretColour": {
@@ -10529,7 +10529,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1511583932,
-    "lastLogin": 1794610049,
+    "lastLogin": 1794683049,
     "banned": false,
     "usernameApproved": true,
     "country": "MX"

@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3083,
-    "lastKill": "2026-11-14 12:12:35"
+    "kills": 3407,
+    "lastKill": "2026-11-14 13:08:23"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 793,
-    "lastKill": "2026-11-14 12:12:35"
+    "kills": 894,
+    "lastKill": "2026-11-14 13:08:23"
   },
   {
     "playerId": "20666777",
@@ -32,14 +32,26 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 152,
-    "lastKill": "2026-11-14 12:12:35"
+    "kills": 156,
+    "lastKill": "2026-11-14 13:08:23"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 134,
     "lastKill": "2026-11-14 08:28:01"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 129,
+    "lastKill": "2026-11-14 13:08:23"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 114,
+    "lastKill": "2026-11-14 13:08:23"
   },
   {
     "playerId": "22757188",
@@ -60,12 +72,6 @@
     "lastKill": "2026-11-14 10:18:25"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 90,
-    "lastKill": "2026-11-14 08:28:01"
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 79,
@@ -84,22 +90,22 @@
     "lastKill": "2026-11-14 10:18:25"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 65,
+    "lastKill": "2026-11-14 13:08:23"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 61,
+    "lastKill": "2026-11-14 13:08:23"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 56,
     "lastKill": "2026-11-14 10:18:25"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 53,
-    "lastKill": "2026-11-14 08:28:01"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 40,
-    "lastKill": "2026-11-14 12:12:35"
   },
   {
     "playerId": "19138057",
@@ -184,6 +190,12 @@
     "username": "SPEED_XD",
     "kills": 3,
     "lastKill": "2026-11-14 12:12:35"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 2,
+    "lastKill": "2026-11-14 13:08:23"
   },
   {
     "playerId": "21797119",
@@ -390,12 +402,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -500,12 +506,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0,
     "lastKill": null
   },
