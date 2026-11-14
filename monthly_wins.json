@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 59432
+    "kills": 59537
   },
   {
     "playerId": "22710399",
@@ -12,17 +12,17 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 2369
+    "kills": 2373
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 2034
+    "kills": 2057
   },
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 1940
+    "kills": 1963
   },
   {
     "playerId": "21601349",
@@ -57,7 +57,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 972
+    "kills": 981
   },
   {
     "playerId": "22716354",
@@ -65,14 +65,14 @@
     "kills": 962
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 709
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 675
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 671
   },
   {
     "playerId": "3923647",
@@ -167,7 +167,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 465
+    "kills": 485
   },
   {
     "playerId": "10502780",
@@ -202,7 +202,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 345
+    "kills": 356
   },
   {
     "playerId": "10523030",
@@ -212,7 +212,7 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "kills": 320
+    "kills": 322
   },
   {
     "playerId": "22809750",
@@ -245,6 +245,11 @@
     "kills": 213
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 212
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 208
@@ -253,11 +258,6 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 205
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 200
   },
   {
     "playerId": "1185396",
@@ -345,6 +345,11 @@
     "kills": 114
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 113
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 111
@@ -363,11 +368,6 @@
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 103
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 100
   },
   {
     "playerId": "20101050",
@@ -523,6 +523,11 @@
     "playerId": "17794648",
     "username": "Quser",
     "kills": 11
+  },
+  {
+    "playerId": "10251396",
+    "username": "vinus",
+    "kills": 9
   },
   {
     "playerId": "22651240",
@@ -922,11 +927,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "10251396",
-    "username": "vinus",
     "kills": 0
   },
   {
