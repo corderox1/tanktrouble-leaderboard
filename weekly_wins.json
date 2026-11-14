@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 26322
+    "kills": 26539
   },
   {
     "playerId": "14892840",
@@ -12,7 +12,12 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 1078
+    "kills": 1103
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 917
   },
   {
     "playerId": "20666777",
@@ -20,19 +25,14 @@
     "kills": 883
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 869
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 649
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 636
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 612
   },
   {
     "playerId": "22472796",
@@ -45,14 +45,14 @@
     "kills": 519
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 485
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 420
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 401
   },
   {
     "playerId": "8590474",
@@ -77,7 +77,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 341
+    "kills": 342
   },
   {
     "playerId": "19173281",
@@ -162,7 +162,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 191
+    "kills": 192
   },
   {
     "playerId": "8408190",
@@ -260,6 +260,11 @@
     "kills": 81
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 69
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 66
@@ -273,11 +278,6 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 63
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 62
   },
   {
     "playerId": "706234",
