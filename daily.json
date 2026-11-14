@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4720,
-    "lastKill": "2026-11-13 19:08:06"
+    "kills": 4927,
+    "lastKill": "2026-11-13 20:07:36"
   },
   {
     "playerId": "14892840",
@@ -310,6 +310,12 @@
     "username": "purup",
     "kills": 4,
     "lastKill": "2026-11-13 10:33:24"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 2,
+    "lastKill": "2026-11-13 20:07:36"
   },
   {
     "playerId": "15931599",
@@ -662,12 +668,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },
