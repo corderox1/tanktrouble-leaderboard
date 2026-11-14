@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2204
+    "kills": 2597
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 400
+    "kills": 448
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 223
+    "kills": 235
   },
   {
     "playerId": "22105718",
@@ -40,6 +40,11 @@
     "kills": 69
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 61
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 57
@@ -53,11 +58,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 54
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 49
   },
   {
     "playerId": "22472796",
@@ -85,6 +85,21 @@
     "kills": 20
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 17
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 17
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 12
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 11
@@ -95,18 +110,23 @@
     "kills": 11
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 8
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 8
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 5
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
+    "kills": 7
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 5
   },
   {
@@ -125,6 +145,11 @@
     "kills": 2
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 1
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 1
@@ -132,6 +157,11 @@
   {
     "playerId": "13825931",
     "username": "Tigers786",
+    "kills": 1
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
     "kills": 1
   },
   {
@@ -237,11 +267,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -465,11 +490,6 @@
     "kills": 0
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 0
-  },
-  {
     "playerId": "21012136",
     "username": "small-li",
     "kills": 0
@@ -487,11 +507,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0
   },
   {
@@ -960,11 +975,6 @@
     "kills": 0
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 0
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0
@@ -1022,16 +1032,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0
   },
   {
