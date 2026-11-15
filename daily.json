@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1448,
-    "lastKill": "2026-11-15 08:08:23"
+    "kills": 1665,
+    "lastKill": "2026-11-15 09:08:26"
   },
   {
     "playerId": "22472796",
@@ -68,20 +68,26 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 13,
-    "lastKill": "2026-11-15 07:12:50"
+    "kills": 23,
+    "lastKill": "2026-11-15 09:08:26"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 13,
-    "lastKill": "2026-11-15 06:18:07"
+    "kills": 14,
+    "lastKill": "2026-11-15 09:08:26"
   },
   {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 8,
     "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 8,
+    "lastKill": "2026-11-15 09:08:26"
   },
   {
     "playerId": "15931599",
@@ -100,6 +106,12 @@
     "username": "YahyatheBest",
     "kills": 4,
     "lastKill": "2026-11-15 03:27:42"
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 3,
+    "lastKill": "2026-11-15 09:08:26"
   },
   {
     "playerId": "22056849",
@@ -212,12 +224,6 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17953682",
-    "username": "hohi",
     "kills": 0,
     "lastKill": null
   },
@@ -530,12 +536,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0,
     "lastKill": null
   },
