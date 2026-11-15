@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35378487,
-    "kills": 44516928,
-    "deaths": 42014248,
-    "suicides": 9431710,
+    "victories": 35378621,
+    "kills": 44517067,
+    "deaths": 42014498,
+    "suicides": 9431759,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 19,
+    "rank": 25,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 29373,
-    "kills": 45868,
-    "deaths": 51042,
-    "suicides": 10664,
+    "victories": 29400,
+    "kills": 45923,
+    "deaths": 51102,
+    "suicides": 10676,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -872,11 +872,11 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": true,
-    "lastForumPost": 1794774063,
+    "lastForumPost": 1794779732,
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1794778695,
+    "lastLogin": 1794779499,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1325,10 +1325,10 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "victories": 16557,
-    "kills": 35256,
-    "deaths": 29404,
-    "suicides": 5908,
+    "victories": 16562,
+    "kills": 35282,
+    "deaths": 29427,
+    "suicides": 5910,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1366,7 +1366,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1670460598,
-    "lastLogin": 1794773142,
+    "lastLogin": 1794779940,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1913,7 +1913,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 30207,
+    "victories": 30208,
     "kills": 29875,
     "deaths": 47173,
     "suicides": 14340,
@@ -1927,9 +1927,9 @@
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x333333 42",
-      "numericValue": "0x333333",
-      "imageValue": "42"
+      "rawValue": "0xd0e2ee 109",
+      "numericValue": "0xd0e2ee",
+      "imageValue": "109"
     },
     "baseColour": {
       "type": "image",
@@ -2991,10 +2991,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 10596,
-    "kills": 13160,
-    "deaths": 22899,
-    "suicides": 4743,
+    "victories": 10607,
+    "kills": 13181,
+    "deaths": 22943,
+    "suicides": 4746,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -5784,10 +5784,10 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "victories": 2604,
-    "kills": 4030,
-    "deaths": 7147,
-    "suicides": 1589,
+    "victories": 2608,
+    "kills": 4047,
+    "deaths": 7177,
+    "suicides": 1591,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -5817,7 +5817,7 @@
     "badge": "0",
     "premium": true,
     "rank": 303,
-    "xp": 171200,
+    "xp": 171570,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -7891,10 +7891,10 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "victories": 51984,
-    "kills": 101253,
-    "deaths": 106095,
-    "suicides": 24649,
+    "victories": 52004,
+    "kills": 101288,
+    "deaths": 106162,
+    "suicides": 24664,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7928,7 +7928,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794699324,
+    "lastForumPost": 1794779679,
     "guest": false,
     "gmLevel": null,
     "created": 1678062783,
