@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28329
+    "kills": 28448
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1187
+    "kills": 1255
   },
   {
     "playerId": "22710399",
@@ -22,7 +22,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 902
+    "kills": 949
   },
   {
     "playerId": "4142755",
@@ -75,6 +75,11 @@
     "kills": 420
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 381
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 381
@@ -85,14 +90,14 @@
     "kills": 375
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 361
-  },
-  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 350
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 333
   },
   {
     "playerId": "2885724",
@@ -103,11 +108,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 311
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 302
   },
   {
     "playerId": "20269995",
@@ -290,6 +290,11 @@
     "kills": 62
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 58
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 57
@@ -353,11 +358,6 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 29
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 25
   },
   {
     "playerId": "21609912",
