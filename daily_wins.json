@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2476
+    "kills": 2613
   },
   {
     "playerId": "22472796",
@@ -10,9 +10,24 @@
     "kills": 220
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 167
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 167
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 155
+    "kills": 163
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 157
   },
   {
     "playerId": "20666777",
@@ -20,29 +35,14 @@
     "kills": 153
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 148
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 148
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 150
   },
   {
     "playerId": "10251396",
     "username": "vinus",
-    "kills": 141
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 123
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 103
+    "kills": 146
   },
   {
     "playerId": "14892840",
@@ -65,6 +65,16 @@
     "kills": 77
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 63
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 61
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 54
@@ -78,11 +88,6 @@
     "playerId": "2574833",
     "username": "voloding",
     "kills": 48
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 44
   },
   {
     "playerId": "21452912",
@@ -100,6 +105,11 @@
     "kills": 27
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 23
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 20
@@ -110,13 +120,13 @@
     "kills": 19
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 15
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 16
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
+    "playerId": "20269995",
+    "username": "Rapid",
     "kills": 15
   },
   {
@@ -130,14 +140,14 @@
     "kills": 10
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 7
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 6
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 4
   },
   {
     "playerId": "17953682",
@@ -155,19 +165,24 @@
     "kills": 3
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 2
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 2
+  },
+  {
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 2
   },
   {
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 2
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 1
   },
   {
     "playerId": "8408190",
@@ -267,11 +282,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0
   },
   {
@@ -485,11 +495,6 @@
     "kills": 0
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 0
-  },
-  {
     "playerId": "1609300",
     "username": "Turbo-Rambo",
     "kills": 0
@@ -657,11 +662,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {
