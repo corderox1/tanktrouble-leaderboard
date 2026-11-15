@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28448
+    "kills": 28535
   },
   {
     "playerId": "14892840",
@@ -15,14 +15,14 @@
     "kills": 1103
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 973
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 968
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 949
   },
   {
     "playerId": "4142755",
@@ -147,7 +147,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 237
+    "kills": 239
   },
   {
     "playerId": "13773720",
@@ -167,7 +167,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 183
+    "kills": 184
   },
   {
     "playerId": "21102229",
@@ -235,6 +235,11 @@
     "kills": 109
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 108
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 104
@@ -288,11 +293,6 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 62
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 58
   },
   {
     "playerId": "18969891",
@@ -440,6 +440,11 @@
     "kills": 11
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 10
+  },
+  {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 9
@@ -447,11 +452,6 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 8
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 8
   },
   {
@@ -470,14 +470,14 @@
     "kills": 4
   },
   {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 4
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 3
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 4
   },
   {
     "playerId": "15878197",

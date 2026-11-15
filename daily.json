@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 184,
-    "lastKill": "2026-11-15 01:28:07"
+    "kills": 376,
+    "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 165,
+    "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 83,
+    "lastKill": "2026-11-15 02:28:24"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 74,
-    "lastKill": "2026-11-15 01:28:07"
+    "kills": 76,
+    "lastKill": "2026-11-15 02:28:24"
   },
   {
     "playerId": "14892840",
@@ -18,22 +30,34 @@
     "lastKill": "2026-11-15 01:28:07"
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 49,
-    "lastKill": "2026-11-15 01:28:07"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 49,
-    "lastKill": "2026-11-15 01:28:07"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 46,
     "lastKill": "2026-11-15 01:28:07"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 15,
+    "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 8,
+    "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 6,
+    "lastKill": "2026-11-15 02:28:24"
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 2,
+    "lastKill": "2026-11-15 02:28:24"
   },
   {
     "playerId": "22757188",
@@ -170,12 +194,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": null
   },
@@ -390,12 +408,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -488,12 +500,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
@@ -872,12 +878,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
