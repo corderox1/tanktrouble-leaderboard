@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 376,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 498,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "1185396",
@@ -14,20 +14,32 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 83,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 130,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 76,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 130,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 70,
     "lastKill": "2026-11-15 01:28:07"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 58,
+    "lastKill": "2026-11-15 03:27:42"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 54,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "14617724",
@@ -38,8 +50,8 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 15,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 22,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "8408190",
@@ -54,10 +66,22 @@
     "lastKill": "2026-11-15 02:28:24"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 4,
+    "lastKill": "2026-11-15 03:27:42"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 4,
+    "lastKill": "2026-11-15 03:27:42"
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
     "kills": 2,
-    "lastKill": "2026-11-15 02:28:24"
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "22757188",
@@ -194,12 +218,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
@@ -1032,12 +1050,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0,
@@ -1116,12 +1128,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21231891",
-    "username": "ColdFlare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 0,
@@ -1160,12 +1166,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 34931,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 35053,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "14892840",
@@ -20,8 +20,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1690,
-    "lastKill": "2026-11-15 02:28:24"
+    "kills": 1737,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "17629928",
@@ -32,8 +32,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1148,
-    "lastKill": "2026-11-14 09:23:15"
+    "kills": 1202,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "4142755",
@@ -44,8 +44,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 900,
-    "lastKill": "2026-11-15 00:28:17"
+    "kills": 904,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "13173087",
@@ -78,16 +78,22 @@
     "lastKill": "2026-11-14 19:47:30"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 655,
+    "lastKill": "2026-11-15 03:27:42"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 654,
     "lastKill": "2026-11-15 01:28:07"
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 648,
-    "lastKill": "2026-11-15 02:28:24"
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 646,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "21452912",
@@ -96,10 +102,10 @@
     "lastKill": "2026-11-14 00:52:31"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 592,
-    "lastKill": "2026-11-15 02:28:24"
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 563,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "20984454",
@@ -130,12 +136,6 @@
     "username": "interpreneur",
     "kills": 511,
     "lastKill": "2026-11-14 18:52:01"
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 505,
-    "lastKill": "2026-11-14 06:32:29"
   },
   {
     "playerId": "21708970",
@@ -576,16 +576,16 @@
     "lastKill": "2026-11-13 08:38:22"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 7,
+    "lastKill": "2026-11-15 03:27:42"
+  },
+  {
     "playerId": "13825931",
     "username": "Tigers786",
     "kills": 6,
     "lastKill": "2026-11-14 01:47:43"
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 5,
-    "lastKill": "2026-11-15 02:28:24"
   },
   {
     "playerId": "22047175",
@@ -610,6 +610,12 @@
     "username": "Reverend",
     "kills": 2,
     "lastKill": "2026-11-11 12:03:08"
+  },
+  {
+    "playerId": "21231891",
+    "username": "ColdFlare",
+    "kills": 2,
+    "lastKill": "2026-11-15 03:27:42"
   },
   {
     "playerId": "16874545",
@@ -1232,12 +1238,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21231891",
-    "username": "ColdFlare",
     "kills": 0,
     "lastKill": null
   },

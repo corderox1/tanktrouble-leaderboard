@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 206
+    "kills": 324
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 94
   },
   {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 83
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 71
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,12 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 31
+    "kills": 60
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 28
   },
   {
     "playerId": "14617724",
@@ -30,18 +35,33 @@
     "kills": 20
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 15
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 5
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 2
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "21231891",
+    "username": "ColdFlare",
     "kills": 2
   },
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 1
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
     "kills": 1
   },
   {
@@ -157,11 +177,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -855,11 +870,6 @@
     "kills": 0
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0
@@ -925,11 +935,6 @@
     "kills": 0
   },
   {
-    "playerId": "21231891",
-    "username": "ColdFlare",
-    "kills": 0
-  },
-  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 0
@@ -962,11 +967,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
