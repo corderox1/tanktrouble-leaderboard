@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35380394,
-    "kills": 44519387,
-    "deaths": 42017414,
-    "suicides": 9432357,
+    "victories": 35380659,
+    "kills": 44519706,
+    "deaths": 42017737,
+    "suicides": 9432432,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 14,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 6956,
-    "kills": 9878,
-    "deaths": 4480,
-    "suicides": 928,
+    "victories": 7003,
+    "kills": 9936,
+    "deaths": 4499,
+    "suicides": 934,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7107,10 +7107,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 4331,
-    "kills": 8897,
-    "deaths": 10901,
-    "suicides": 3722,
+    "victories": 4338,
+    "kills": 8914,
+    "deaths": 10904,
+    "suicides": 3724,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1794768190,
+    "lastLogin": 1794822487,
     "banned": false,
     "usernameApproved": true,
     "country": null

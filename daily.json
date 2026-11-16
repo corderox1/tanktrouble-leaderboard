@@ -2,19 +2,19 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 622,
-    "lastKill": "2026-11-16 02:59:54"
+    "kills": 941,
+    "lastKill": "2026-11-16 03:57:09"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 176,
+    "lastKill": "2026-11-16 03:57:09"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 121,
-    "lastKill": "2026-11-16 02:59:54"
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 118,
     "lastKill": "2026-11-16 02:59:54"
   },
   {
@@ -40,6 +40,12 @@
     "username": "Crip",
     "kills": 31,
     "lastKill": "2026-11-16 01:08:08"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 17,
+    "lastKill": "2026-11-16 03:57:09"
   },
   {
     "playerId": "8899024",
@@ -884,12 +890,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
