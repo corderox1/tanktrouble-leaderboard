@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2691
+    "kills": 2759
   },
   {
     "playerId": "14892840",
@@ -17,7 +17,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 219
+    "kills": 221
   },
   {
     "playerId": "22716354",
@@ -25,14 +25,19 @@
     "kills": 162
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 128
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 97
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 95
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 89
   },
   {
     "playerId": "22472796",
@@ -60,9 +65,9 @@
     "kills": 59
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 50
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 51
   },
   {
     "playerId": "20666777",
@@ -85,9 +90,14 @@
     "kills": 41
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 38
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 41
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 32
   },
   {
     "playerId": "20869330",
@@ -98,6 +108,11 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 30
+  },
+  {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 29
   },
   {
     "playerId": "21178768",
@@ -120,19 +135,9 @@
     "kills": 14
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 12
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 12
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
-    "kills": 10
   },
   {
     "playerId": "21452912",
@@ -150,6 +155,11 @@
     "kills": 8
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 5
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 5
@@ -165,6 +175,11 @@
     "kills": 5
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 3
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 2
@@ -173,11 +188,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 2
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 1
   },
   {
     "playerId": "20843843",
@@ -345,11 +355,6 @@
     "kills": 0
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 0
@@ -502,11 +507,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
