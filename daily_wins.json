@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3157
+    "kills": 3375
   },
   {
     "playerId": "14892840",
@@ -20,6 +20,11 @@
     "kills": 221
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 201
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 193
@@ -30,9 +35,9 @@
     "kills": 162
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 150
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 146
   },
   {
     "playerId": "8590474",
@@ -55,9 +60,9 @@
     "kills": 82
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 81
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 68
   },
   {
     "playerId": "20269995",
@@ -78,11 +83,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 59
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 57
   },
   {
     "playerId": "21614515",
@@ -120,6 +120,11 @@
     "kills": 38
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 36
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 31
@@ -132,7 +137,12 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 28
+    "kills": 29
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 26
   },
   {
     "playerId": "21178768",
@@ -140,13 +150,13 @@
     "kills": 25
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 24
-  },
-  {
     "playerId": "20111777",
     "username": "Trizz",
+    "kills": 14
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
     "kills": 14
   },
   {
@@ -177,11 +187,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 5
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 5
   },
   {
@@ -277,11 +282,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
