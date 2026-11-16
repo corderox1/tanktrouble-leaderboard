@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2759
+    "kills": 2960
   },
   {
     "playerId": "14892840",
@@ -12,7 +12,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 225
+    "kills": 240
   },
   {
     "playerId": "22706369",
@@ -30,14 +30,19 @@
     "kills": 128
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 97
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 120
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 89
+    "kills": 107
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 97
   },
   {
     "playerId": "22472796",
@@ -60,6 +65,11 @@
     "kills": 65
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 60
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 59
@@ -67,7 +77,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 51
+    "kills": 55
   },
   {
     "playerId": "20666777",
@@ -97,7 +107,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 32
+    "kills": 38
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 37
   },
   {
     "playerId": "20869330",
@@ -110,14 +125,14 @@
     "kills": 30
   },
   {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 29
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 25
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 22
   },
   {
     "playerId": "12517909",
@@ -155,11 +170,6 @@
     "kills": 8
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 5
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 5
@@ -173,11 +183,6 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 5
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 3
   },
   {
     "playerId": "6776098",
@@ -297,11 +302,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0
   },
   {

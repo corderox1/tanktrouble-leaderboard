@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 67979
+    "kills": 68180
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 2407
+    "kills": 2422
   },
   {
     "playerId": "4142755",
@@ -27,7 +27,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2098
+    "kills": 2215
   },
   {
     "playerId": "22472796",
@@ -77,7 +77,12 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 801
+    "kills": 807
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 780
   },
   {
     "playerId": "12517909",
@@ -85,14 +90,9 @@
     "kills": 778
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 762
-  },
-  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 707
+    "kills": 738
   },
   {
     "playerId": "20269995",
@@ -170,6 +170,11 @@
     "kills": 543
   },
   {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 535
+  },
+  {
     "playerId": "21708970",
     "username": "Ayanokoji",
     "kills": 520
@@ -178,11 +183,6 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 519
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 498
   },
   {
     "playerId": "10502780",
@@ -195,14 +195,14 @@
     "kills": 431
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 408
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 399
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 391
   },
   {
     "playerId": "1001669",
@@ -257,7 +257,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 228
+    "kills": 232
   },
   {
     "playerId": "3990108",
