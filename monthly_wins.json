@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 64739
+    "kills": 64911
   },
   {
     "playerId": "13173087",
@@ -37,12 +37,12 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 1855
+    "kills": 1912
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1589
+    "kills": 1606
   },
   {
     "playerId": "8590474",
@@ -72,7 +72,12 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 689
+    "kills": 740
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 703
   },
   {
     "playerId": "22706369",
@@ -80,14 +85,14 @@
     "kills": 687
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 681
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 678
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 676
   },
   {
     "playerId": "21465536",
@@ -98,11 +103,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 668
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 665
   },
   {
     "playerId": "3923647",
@@ -122,7 +122,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 586
+    "kills": 590
   },
   {
     "playerId": "20984454",
@@ -197,7 +197,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 391
+    "kills": 398
   },
   {
     "playerId": "12222122",
@@ -415,6 +415,11 @@
     "kills": 68
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 63
+  },
+  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 62
@@ -428,11 +433,6 @@
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 59
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 56
   },
   {
     "playerId": "9184666",
@@ -510,13 +510,13 @@
     "kills": 16
   },
   {
-    "playerId": "22735235",
-    "username": "wo0",
-    "kills": 15
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
+    "kills": 16
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
     "kills": 15
   },
   {
