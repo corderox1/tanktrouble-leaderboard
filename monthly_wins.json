@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 66698
+    "kills": 66893
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 2275
+    "kills": 2282
   },
   {
     "playerId": "21601349",
@@ -42,7 +42,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1876
+    "kills": 1946
   },
   {
     "playerId": "8590474",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 1229
+    "kills": 1247
   },
   {
     "playerId": "21508277",
@@ -67,7 +67,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 840
+    "kills": 870
   },
   {
     "playerId": "21452912",
@@ -127,7 +127,12 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 584
+    "kills": 587
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 579
   },
   {
     "playerId": "22757188",
@@ -153,11 +158,6 @@
     "playerId": "22105718",
     "username": "Escape",
     "kills": 543
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 533
   },
   {
     "playerId": "2574833",
@@ -227,7 +227,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 295
+    "kills": 303
   },
   {
     "playerId": "21609912",
@@ -310,6 +310,11 @@
     "kills": 163
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 159
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 157
@@ -320,14 +325,9 @@
     "kills": 157
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 152
-  },
-  {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 146
+    "kills": 153
   },
   {
     "playerId": "17149251",
@@ -342,7 +342,7 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 130
+    "kills": 135
   },
   {
     "playerId": "21956820",
@@ -440,14 +440,14 @@
     "kills": 54
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 53
+  },
+  {
     "playerId": "8146384",
     "username": "itachi",
     "kills": 50
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 48
   },
   {
     "playerId": "20644558",
