@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2548,
-    "lastKill": "2026-11-16 09:33:10"
+    "kills": 2802,
+    "lastKill": "2026-11-16 10:38:32"
   },
   {
     "playerId": "14892840",
@@ -24,16 +24,16 @@
     "lastKill": "2026-11-16 09:33:10"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 224,
-    "lastKill": "2026-11-16 09:33:10"
-  },
-  {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 199,
-    "lastKill": "2026-11-16 08:37:46"
+    "kills": 266,
+    "lastKill": "2026-11-16 10:38:32"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 233,
+    "lastKill": "2026-11-16 10:38:32"
   },
   {
     "playerId": "13773720",
@@ -72,6 +72,18 @@
     "lastKill": "2026-11-16 02:03:27"
   },
   {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 61,
+    "lastKill": "2026-11-16 10:38:32"
+  },
+  {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 55,
+    "lastKill": "2026-11-16 10:38:32"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 51,
@@ -82,12 +94,6 @@
     "username": "Rlyc4n",
     "kills": 43,
     "lastKill": "2026-11-16 08:37:46"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 42,
-    "lastKill": "2026-11-16 09:33:10"
   },
   {
     "playerId": "22809750",
@@ -150,16 +156,16 @@
     "lastKill": "2026-11-16 04:53:08"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 12,
+    "lastKill": "2026-11-16 10:38:32"
+  },
+  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 7,
     "lastKill": "2026-11-16 02:59:54"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 3,
-    "lastKill": "2026-11-16 09:33:10"
   },
   {
     "playerId": "12745227",
@@ -278,12 +284,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
