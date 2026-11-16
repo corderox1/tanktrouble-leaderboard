@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 308,
-    "lastKill": "2026-11-16 01:08:08"
+    "kills": 445,
+    "lastKill": "2026-11-16 02:03:27"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 82,
+    "lastKill": "2026-11-16 02:03:27"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 48,
-    "lastKill": "2026-11-16 01:08:08"
+    "kills": 72,
+    "lastKill": "2026-11-16 02:03:27"
   },
   {
     "playerId": "22809750",
@@ -34,6 +40,12 @@
     "username": "x",
     "kills": 14,
     "lastKill": "2026-11-16 01:08:08"
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 1,
+    "lastKill": "2026-11-16 02:03:27"
   },
   {
     "playerId": "22710399",
@@ -408,12 +420,6 @@
     "lastKill": null
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 0,
@@ -500,12 +506,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },

@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35380204,
-    "kills": 44519073,
-    "deaths": 42017067,
-    "suicides": 9432287,
+    "victories": 35380264,
+    "kills": 44519210,
+    "deaths": 42017212,
+    "suicides": 9432323,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 12,
+    "rank": 14,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 22126,
-    "kills": 32136,
-    "deaths": 26392,
-    "suicides": 6833,
+    "victories": 22147,
+    "kills": 32218,
+    "deaths": 26441,
+    "suicides": 6849,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1794519690,
+    "lastLogin": 1794814318,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 17450,
-    "kills": 31593,
-    "deaths": 51271,
-    "suicides": 13553,
+    "victories": 17462,
+    "kills": 31617,
+    "deaths": 51293,
+    "suicides": 13556,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3972,9 +3972,9 @@
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "victories": 18211,
-    "kills": 31851,
-    "deaths": 29677,
-    "suicides": 11389,
+    "kills": 31852,
+    "deaths": 29679,
+    "suicides": 11390,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6560,7 +6560,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1783540811,
-    "lastLogin": 1794748205,
+    "lastLogin": 1794814972,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8226,7 +8226,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1589476617,
-    "lastLogin": 1794467376,
+    "lastLogin": 1794815918,
     "banned": false,
     "usernameApproved": true,
     "country": null
