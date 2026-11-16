@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 445,
-    "lastKill": "2026-11-16 02:03:27"
+    "kills": 622,
+    "lastKill": "2026-11-16 02:59:54"
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 82,
-    "lastKill": "2026-11-16 02:03:27"
+    "kills": 121,
+    "lastKill": "2026-11-16 02:59:54"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 118,
+    "lastKill": "2026-11-16 02:59:54"
   },
   {
     "playerId": "20666777",
@@ -22,6 +28,12 @@
     "username": "zRok",
     "kills": 41,
     "lastKill": "2026-11-16 01:08:08"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 35,
+    "lastKill": "2026-11-16 02:59:54"
   },
   {
     "playerId": "12517909",
@@ -42,10 +54,22 @@
     "lastKill": "2026-11-16 01:08:08"
   },
   {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 7,
+    "lastKill": "2026-11-16 02:59:54"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 1,
     "lastKill": "2026-11-16 02:03:27"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1,
+    "lastKill": "2026-11-16 02:59:54"
   },
   {
     "playerId": "22710399",
@@ -156,12 +180,6 @@
     "lastKill": null
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0,
@@ -176,12 +194,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0,
     "lastKill": null
   },
@@ -470,12 +482,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
@@ -1010,12 +1016,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0,
     "lastKill": null
   },

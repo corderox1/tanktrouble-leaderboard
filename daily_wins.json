@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 352
+    "kills": 482
   },
   {
     "playerId": "20666777",
@@ -10,9 +10,19 @@
     "kills": 50
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 48
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 21
+    "kills": 45
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 44
   },
   {
     "playerId": "12517909",
@@ -33,6 +43,16 @@
     "playerId": "21452912",
     "username": "x",
     "kills": 9
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
+    "kills": 3
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -125,11 +145,6 @@
     "kills": 0
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 0
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0
@@ -142,11 +157,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 0
-  },
-  {
-    "playerId": "20270104",
-    "username": "3w0n",
     "kills": 0
   },
   {
@@ -387,11 +397,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -842,11 +847,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {
