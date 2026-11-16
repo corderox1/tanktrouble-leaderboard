@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 31413
+    "kills": 31587
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 1310
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1140
   },
   {
     "playerId": "22710399",
@@ -20,11 +25,6 @@
     "kills": 1093
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1073
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 1055
@@ -32,7 +32,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 787
+    "kills": 796
   },
   {
     "playerId": "22472796",
@@ -42,7 +42,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 742
+    "kills": 745
   },
   {
     "playerId": "21508277",
@@ -80,14 +80,14 @@
     "kills": 428
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 425
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 420
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 411
   },
   {
     "playerId": "22706369",
@@ -202,7 +202,7 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 153
+    "kills": 154
   },
   {
     "playerId": "21700920",
@@ -317,7 +317,7 @@
   {
     "playerId": "8146384",
     "username": "itachi",
-    "kills": 49
+    "kills": 50
   },
   {
     "playerId": "21940268",
@@ -403,6 +403,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 18
+  },
+  {
+    "playerId": "8084329",
+    "username": "Cicada3301",
+    "kills": 17
   },
   {
     "playerId": "13783887",
@@ -907,11 +912,6 @@
   {
     "playerId": "13327781",
     "username": "rickgrimes",
-    "kills": 0
-  },
-  {
-    "playerId": "8084329",
-    "username": "Cicada3301",
     "kills": 0
   },
   {

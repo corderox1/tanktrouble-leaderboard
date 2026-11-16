@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 38766,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 38945,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "14892840",
@@ -24,16 +24,16 @@
     "lastKill": "2026-11-15 11:56:55"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1636,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 1592,
     "lastKill": "2026-11-15 12:52:14"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1566,
-    "lastKill": "2026-11-15 18:28:52"
   },
   {
     "playerId": "17629928",
@@ -44,14 +44,14 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 1136,
-    "lastKill": "2026-11-15 14:43:14"
+    "kills": 1160,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1000,
-    "lastKill": "2026-11-15 10:58:21"
+    "kills": 1005,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22706369",
@@ -86,8 +86,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 718,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 749,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22077521",
@@ -224,8 +224,8 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 320,
-    "lastKill": "2026-11-15 11:56:55"
+    "kills": 328,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22757188",
@@ -502,6 +502,12 @@
     "username": "notnothing",
     "kills": 32,
     "lastKill": "2026-11-11 05:28:04"
+  },
+  {
+    "playerId": "8084329",
+    "username": "Cicada3301",
+    "kills": 28,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "20869330",
@@ -1076,12 +1082,6 @@
   {
     "playerId": "13327781",
     "username": "rickgrimes",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8084329",
-    "username": "Cicada3301",
     "kills": 0,
     "lastKill": null
   },

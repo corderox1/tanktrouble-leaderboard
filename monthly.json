@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 79274,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 79453,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22710399",
@@ -20,8 +20,8 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3283,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 3353,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "17629928",
@@ -44,20 +44,20 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 2765,
-    "lastKill": "2026-11-15 10:58:21"
+    "kills": 2770,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 2736,
-    "lastKill": "2026-11-15 14:43:14"
+    "kills": 2760,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 1946,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 1977,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "8590474",
@@ -324,16 +324,16 @@
     "lastKill": "2026-11-15 13:48:22"
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 355,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 347,
     "lastKill": "2026-11-13 17:13:27"
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 347,
-    "lastKill": "2026-11-15 11:56:55"
   },
   {
     "playerId": "19726920",
@@ -598,6 +598,12 @@
     "username": "fyrenado",
     "kills": 31,
     "lastKill": "2026-11-08 23:48:08"
+  },
+  {
+    "playerId": "8084329",
+    "username": "Cicada3301",
+    "kills": 28,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "20869330",
@@ -1100,12 +1106,6 @@
   {
     "playerId": "13327781",
     "username": "rickgrimes",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8084329",
-    "username": "Cicada3301",
     "kills": 0,
     "lastKill": null
   },

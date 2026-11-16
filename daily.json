@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4211,
-    "lastKill": "2026-11-15 18:28:52"
+    "kills": 4390,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 491,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 444,
     "lastKill": "2026-11-15 12:52:14"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 421,
-    "lastKill": "2026-11-15 18:28:52"
   },
   {
     "playerId": "22706369",
@@ -38,20 +38,20 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 236,
-    "lastKill": "2026-11-15 14:43:14"
+    "kills": 260,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 233,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 210,
     "lastKill": "2026-11-15 11:56:55"
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 202,
-    "lastKill": "2026-11-15 18:28:52"
   },
   {
     "playerId": "14892840",
@@ -86,8 +86,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 123,
-    "lastKill": "2026-11-15 10:58:21"
+    "kills": 128,
+    "lastKill": "2026-11-15 19:23:25"
   },
   {
     "playerId": "2574833",
@@ -162,6 +162,18 @@
     "lastKill": "2026-11-15 15:42:47"
   },
   {
+    "playerId": "8084329",
+    "username": "Cicada3301",
+    "kills": 28,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 26,
+    "lastKill": "2026-11-15 19:23:25"
+  },
+  {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 26,
@@ -190,12 +202,6 @@
     "username": "Rapid",
     "kills": 21,
     "lastKill": "2026-11-15 10:58:21"
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 18,
-    "lastKill": "2026-11-15 11:56:55"
   },
   {
     "playerId": "21102229",
@@ -920,12 +926,6 @@
   {
     "playerId": "13327781",
     "username": "rickgrimes",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8084329",
-    "username": "Cicada3301",
     "kills": 0,
     "lastKill": null
   },
