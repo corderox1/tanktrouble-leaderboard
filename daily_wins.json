@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2487
+    "kills": 2691
   },
   {
     "playerId": "14892840",
@@ -17,7 +17,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 213
+    "kills": 219
   },
   {
     "playerId": "22716354",
@@ -27,21 +27,31 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 87
+    "kills": 97
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 95
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 78
+    "kills": 87
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 70
+    "kills": 82
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 65
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
     "kills": 65
   },
   {
@@ -70,16 +80,6 @@
     "kills": 46
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 45
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 45
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 41
@@ -88,6 +88,11 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 38
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 31
   },
   {
     "playerId": "11769746",
@@ -165,13 +170,13 @@
     "kills": 2
   },
   {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 2
   },
   {
-    "playerId": "8779272",
-    "username": "Reverend",
+    "playerId": "21601349",
+    "username": "Lokirss",
     "kills": 1
   },
   {
@@ -282,11 +287,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
