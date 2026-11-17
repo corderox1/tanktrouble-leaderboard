@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7948
+    "kills": 8251
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 332
+    "kills": 381
   },
   {
     "playerId": "22706369",
@@ -35,14 +35,14 @@
     "kills": 262
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 255
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 243
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 188
   },
   {
     "playerId": "17136803",
@@ -53,6 +53,16 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 176
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 166
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 155
   },
   {
     "playerId": "22077521",
@@ -75,11 +85,6 @@
     "kills": 130
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 129
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 129
@@ -93,11 +98,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 124
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 120
   },
   {
     "playerId": "4381511",
@@ -130,13 +130,13 @@
     "kills": 82
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 78
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
+    "kills": 80
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
     "kills": 78
   },
   {
@@ -187,7 +187,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 33
+    "kills": 34
   },
   {
     "playerId": "20869330",
@@ -205,14 +205,14 @@
     "kills": 25
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 20
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 19
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 20
   },
   {
     "playerId": "3990108",
