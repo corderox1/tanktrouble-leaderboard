@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 259592
+    "kills": 259886
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 6808
+    "kills": 6833
   },
   {
     "playerId": "4142755",
@@ -32,7 +32,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 6039
+    "kills": 6040
   },
   {
     "playerId": "22710399",
@@ -157,7 +157,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1754
+    "kills": 1759
   },
   {
     "playerId": "8408190",
@@ -167,17 +167,17 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 1506
+    "kills": 1514
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 1487
   },
   {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1485
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 1470
   },
   {
     "playerId": "21516705",
@@ -202,7 +202,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 1261
+    "kills": 1264
   },
   {
     "playerId": "21103294",
@@ -237,7 +237,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 1101
+    "kills": 1115
   },
   {
     "playerId": "21956820",
@@ -250,14 +250,14 @@
     "kills": 1054
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 1038
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 1033
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 1014
   },
   {
     "playerId": "8502796",
@@ -297,7 +297,7 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 793
+    "kills": 810
   },
   {
     "playerId": "19068893",
@@ -312,7 +312,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 770
+    "kills": 781
   },
   {
     "playerId": "10502780",
@@ -730,6 +730,11 @@
     "kills": 9
   },
   {
+    "playerId": "1177269",
+    "username": "Redwind",
+    "kills": 9
+  },
+  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 8
@@ -1092,11 +1097,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "1177269",
-    "username": "Redwind",
     "kills": 0
   },
   {

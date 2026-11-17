@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 7404,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 7742,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 964,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 1022,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "17629928",
@@ -32,8 +32,8 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 360,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 365,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "17136803",
@@ -74,14 +74,14 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 200,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 224,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 196,
-    "lastKill": "2026-11-16 21:08:41"
+    "kills": 212,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "21452912",
@@ -116,8 +116,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 149,
-    "lastKill": "2026-11-17 00:57:38"
+    "kills": 166,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "22077521",
@@ -132,28 +132,28 @@
     "lastKill": "2026-11-17 07:33:42"
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 127,
+    "lastKill": "2026-11-17 08:33:28"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 102,
+    "lastKill": "2026-11-17 08:33:28"
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 96,
-    "lastKill": "2026-11-16 12:32:51"
+    "kills": 100,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 89,
     "lastKill": "2026-11-16 13:29:15"
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 82,
-    "lastKill": "2026-11-16 09:33:10"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 79,
-    "lastKill": "2026-11-17 07:33:42"
   },
   {
     "playerId": "6776098",
@@ -166,6 +166,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 72,
     "lastKill": "2026-11-16 21:08:41"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 68,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "20269995",
@@ -190,12 +196,6 @@
     "username": "Preww",
     "kills": 62,
     "lastKill": "2026-11-16 17:18:34"
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 61,
-    "lastKill": "2026-11-17 07:33:42"
   },
   {
     "playerId": "3923647",
@@ -228,6 +228,12 @@
     "lastKill": "2026-11-16 14:24:15"
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 38,
+    "lastKill": "2026-11-17 08:33:28"
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 35,
@@ -238,6 +244,18 @@
     "username": "Trizz",
     "kills": 32,
     "lastKill": "2026-11-16 09:33:10"
+  },
+  {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 27,
+    "lastKill": "2026-11-17 08:33:28"
+  },
+  {
+    "playerId": "1177269",
+    "username": "Redwind",
+    "kills": 21,
+    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "3990108",
@@ -378,12 +396,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 0,
@@ -512,12 +524,6 @@
   {
     "playerId": "9881740",
     "username": "lichens",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 0,
     "lastKill": null
   },
@@ -1214,12 +1220,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1177269",
-    "username": "Redwind",
     "kills": 0,
     "lastKill": null
   },
