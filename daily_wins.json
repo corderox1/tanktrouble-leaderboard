@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3365
+    "kills": 3534
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 226
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 192
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 182
   },
   {
     "playerId": "22472796",
@@ -22,7 +22,12 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 131
+    "kills": 148
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 139
   },
   {
     "playerId": "21508277",
@@ -40,13 +45,13 @@
     "kills": 99
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 91
-  },
-  {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 85
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
     "kills": 85
   },
   {
@@ -58,11 +63,6 @@
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 78
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 70
   },
   {
     "playerId": "22077521",
@@ -95,6 +95,11 @@
     "kills": 56
   },
   {
+    "playerId": "20111777",
+    "username": "Trizz",
+    "kills": 54
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 52
@@ -103,11 +108,6 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 37
-  },
-  {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 36
   },
   {
     "playerId": "21614515",
@@ -122,7 +122,12 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 28
+    "kills": 33
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 22
   },
   {
     "playerId": "19932455",
@@ -262,11 +267,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0
   },
   {
