@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 259886
+    "kills": 260091
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 10343
+    "kills": 10344
   },
   {
     "playerId": "13173087",
@@ -57,7 +57,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 4104
+    "kills": 4141
   },
   {
     "playerId": "20297710",
@@ -190,6 +190,11 @@
     "kills": 1321
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 1286
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 1276
@@ -200,14 +205,9 @@
     "kills": 1272
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 1264
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
-    "kills": 1234
+    "kills": 1245
   },
   {
     "playerId": "21708970",
@@ -237,7 +237,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 1115
+    "kills": 1145
   },
   {
     "playerId": "21956820",
@@ -252,7 +252,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 1038
+    "kills": 1046
   },
   {
     "playerId": "22757188",
@@ -290,14 +290,14 @@
     "kills": 847
   },
   {
-    "playerId": "20011985",
-    "username": "BroUrDed",
+    "playerId": "19425584",
+    "username": "_Eddie_",
     "kills": 815
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 810
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 815
   },
   {
     "playerId": "19068893",
@@ -437,7 +437,7 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 286
+    "kills": 288
   },
   {
     "playerId": "21609912",
@@ -680,6 +680,11 @@
     "kills": 32
   },
   {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
+    "kills": 30
+  },
+  {
     "playerId": "4501113",
     "username": "feed",
     "kills": 29
@@ -688,11 +693,6 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 27
-  },
-  {
-    "playerId": "22651240",
-    "username": "WiIlyWonkaBar",
-    "kills": 20
   },
   {
     "playerId": "793356",
