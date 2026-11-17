@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3749
+    "kills": 3913
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 182
+    "kills": 186
   },
   {
     "playerId": "22716354",
@@ -45,6 +45,11 @@
     "kills": 128
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 111
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 108
@@ -52,7 +57,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 101
+    "kills": 107
   },
   {
     "playerId": "13773720",
@@ -77,7 +82,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 71
+    "kills": 78
   },
   {
     "playerId": "12222122",
@@ -125,13 +130,13 @@
     "kills": 48
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 46
-  },
-  {
     "playerId": "20270104",
     "username": "3w0n",
+    "kills": 41
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
     "kills": 41
   },
   {
@@ -168,11 +173,6 @@
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 17
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 15
   },
   {
     "playerId": "20111777",
@@ -223,6 +223,11 @@
     "playerId": "17953682",
     "username": "hohi",
     "kills": 4
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 3
   },
   {
     "playerId": "8779272",
@@ -322,11 +327,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
