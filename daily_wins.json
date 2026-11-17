@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1764
+    "kills": 1919
   },
   {
     "playerId": "14892840",
@@ -15,9 +15,19 @@
     "kills": 126
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 120
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 87
+    "kills": 96
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 82
   },
   {
     "playerId": "22716354",
@@ -25,29 +35,19 @@
     "kills": 81
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 49
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 37
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
+    "kills": 34
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 34
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 31
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 25
   },
   {
     "playerId": "19425584",
@@ -65,6 +65,11 @@
     "kills": 16
   },
   {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
+    "kills": 13
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 11
@@ -80,9 +85,9 @@
     "kills": 10
   },
   {
-    "playerId": "22651240",
-    "username": "WiIlyWonkaBar",
-    "kills": 10
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 9
   },
   {
     "playerId": "1177269",
@@ -972,11 +977,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
     "kills": 0
   },
   {
