@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2290
+    "kills": 2569
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 121
   },
   {
     "playerId": "14617724",
@@ -35,24 +40,24 @@
     "kills": 62
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 53
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 46
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 38
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 33
+    "kills": 40
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 28
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 33
   },
   {
     "playerId": "20666777",
@@ -60,14 +65,24 @@
     "kills": 26
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
+    "playerId": "22472796",
+    "username": "-_zenin_-",
     "kills": 26
+  },
+  {
+    "playerId": "3617624",
+    "username": "Envy",
+    "kills": 24
   },
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 22
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 13
   },
   {
     "playerId": "17629928",
@@ -80,14 +95,14 @@
     "kills": 13
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 11
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 8
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 6
   },
   {
     "playerId": "13173087",
@@ -100,19 +115,9 @@
     "kills": 3
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 3
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 3
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "1145079",
@@ -517,11 +522,6 @@
   {
     "playerId": "4067875",
     "username": "NelFusion",
-    "kills": 0
-  },
-  {
-    "playerId": "3617624",
-    "username": "Envy",
     "kills": 0
   },
   {

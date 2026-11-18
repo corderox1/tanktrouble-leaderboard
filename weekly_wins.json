@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11751
+    "kills": 12030
   },
   {
     "playerId": "14892840",
@@ -30,14 +30,14 @@
     "kills": 360
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 321
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 318
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 314
   },
   {
     "playerId": "21452912",
@@ -52,7 +52,12 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 265
+    "kills": 288
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 259
   },
   {
     "playerId": "8899024",
@@ -78,11 +83,6 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 187
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 176
   },
   {
     "playerId": "19138057",
@@ -137,7 +137,12 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 108
+    "kills": 115
+  },
+  {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 103
   },
   {
     "playerId": "3660774",
@@ -153,11 +158,6 @@
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 80
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 78
   },
   {
     "playerId": "22809750",
@@ -230,6 +230,11 @@
     "kills": 26
   },
   {
+    "playerId": "3617624",
+    "username": "Envy",
+    "kills": 24
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 20
@@ -265,9 +270,19 @@
     "kills": 13
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 13
+  },
+  {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 13
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 11
   },
   {
     "playerId": "1177269",
@@ -287,11 +302,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 6
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 6
   },
   {
@@ -353,11 +363,6 @@
     "playerId": "12745227",
     "username": "Sr",
     "kills": 1
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "10132007",
@@ -597,11 +602,6 @@
   {
     "playerId": "4067875",
     "username": "NelFusion",
-    "kills": 0
-  },
-  {
-    "playerId": "3617624",
-    "username": "Envy",
     "kills": 0
   },
   {
