@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 93835,
-    "lastKill": "2026-11-18 04:47:04"
+    "kills": 94170,
+    "lastKill": "2026-11-18 05:42:39"
   },
   {
     "playerId": "22710399",
@@ -68,8 +68,8 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 2027,
-    "lastKill": "2026-11-18 04:47:04"
+    "kills": 2052,
+    "lastKill": "2026-11-18 05:42:39"
   },
   {
     "playerId": "21452912",
@@ -134,14 +134,14 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1240,
-    "lastKill": "2026-11-18 04:47:04"
+    "kills": 1245,
+    "lastKill": "2026-11-18 05:42:39"
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1169,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 1174,
+    "lastKill": "2026-11-18 05:42:39"
   },
   {
     "playerId": "13773720",
@@ -568,6 +568,12 @@
     "username": "Gentleman",
     "kills": 68,
     "lastKill": "2026-11-08 10:33:09"
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 66,
+    "lastKill": "2026-11-18 05:42:39"
   },
   {
     "playerId": "20843843",
@@ -1340,12 +1346,6 @@
   {
     "playerId": "3447584",
     "username": "Will-Men",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
     "kills": 0,
     "lastKill": null
   },
