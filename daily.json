@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4971,
-    "lastKill": "2026-11-17 18:13:38"
+    "kills": 5072,
+    "lastKill": "2026-11-17 19:13:33"
   },
   {
     "playerId": "22472796",
@@ -120,6 +120,12 @@
     "lastKill": "2026-11-17 13:24:12"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 88,
+    "lastKill": "2026-11-17 19:13:33"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 80,
@@ -130,12 +136,6 @@
     "username": "Trizz",
     "kills": 79,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 76,
-    "lastKill": "2026-11-17 18:13:38"
   },
   {
     "playerId": "21614515",
@@ -234,6 +234,12 @@
     "lastKill": "2026-11-17 14:25:01"
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 16,
+    "lastKill": "2026-11-17 19:13:33"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 14,
@@ -262,6 +268,12 @@
     "username": "Novocaine",
     "kills": 2,
     "lastKill": "2026-11-17 09:33:31"
+  },
+  {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 1,
+    "lastKill": "2026-11-17 19:13:33"
   },
   {
     "playerId": "22735235",
@@ -1146,12 +1158,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21940268",
-    "username": "nownow",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 0,
@@ -1238,12 +1244,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0,
     "lastKill": null
   },
