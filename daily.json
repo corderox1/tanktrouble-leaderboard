@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 737,
-    "lastKill": "2026-11-18 03:49:21"
+    "kills": 1038,
+    "lastKill": "2026-11-18 04:47:04"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 121,
-    "lastKill": "2026-11-18 03:49:21"
+    "kills": 135,
+    "lastKill": "2026-11-18 04:47:04"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 76,
+    "lastKill": "2026-11-18 04:47:04"
   },
   {
     "playerId": "14617724",
@@ -18,10 +24,16 @@
     "lastKill": "2026-11-18 01:53:32"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 16,
+    "lastKill": "2026-11-18 04:47:04"
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "kills": 10,
-    "lastKill": "2026-11-18 03:49:21"
+    "kills": 15,
+    "lastKill": "2026-11-18 04:47:04"
   },
   {
     "playerId": "22710399",
@@ -876,12 +888,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1160,12 +1166,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },

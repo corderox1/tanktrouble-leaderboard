@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35389837,
-    "kills": 44531635,
-    "deaths": 42032248,
-    "suicides": 9435364,
+    "victories": 35390089,
+    "kills": 44531936,
+    "deaths": 42032538,
+    "suicides": 9435426,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 23,
+    "rank": 26,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 78460,
-    "kills": 138653,
-    "deaths": 109569,
-    "suicides": 25261,
+    "victories": 78469,
+    "kills": 138667,
+    "deaths": 109578,
+    "suicides": 25264,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7107,10 +7107,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 4612,
-    "kills": 9348,
-    "deaths": 11333,
-    "suicides": 3880,
+    "victories": 4620,
+    "kills": 9364,
+    "deaths": 11341,
+    "suicides": 3881,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1794995015,
+    "lastLogin": 1794998504,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1794971057,
+    "lastLogin": 1794998018,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 8379,
-    "kills": 16266,
-    "deaths": 14773,
-    "suicides": 4326,
+    "victories": 8407,
+    "kills": 16342,
+    "deaths": 14838,
+    "suicides": 4347,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10137,7 +10137,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790519714,
-    "lastLogin": 1794920563,
+    "lastLogin": 1794998662,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10880,9 +10880,9 @@
   {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "victories": 20723,
-    "kills": 44610,
-    "deaths": 40866,
+    "victories": 20724,
+    "kills": 44615,
+    "deaths": 40870,
     "suicides": 11899,
     "experience": 0,
     "surrenders": 0,
@@ -11019,7 +11019,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781623317,
-    "lastLogin": 1794979060,
+    "lastLogin": 1794998771,
     "banned": false,
     "usernameApproved": true,
     "country": null
