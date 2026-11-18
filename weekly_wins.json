@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 8947
+    "kills": 9007
   },
   {
     "playerId": "14892840",
@@ -25,9 +25,19 @@
     "kills": 381
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 311
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 297
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 289
   },
   {
     "playerId": "22706369",
@@ -40,11 +50,6 @@
     "kills": 262
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 257
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 243
@@ -53,11 +58,6 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 234
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 233
   },
   {
     "playerId": "17136803",
@@ -87,7 +87,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 135
+    "kills": 138
   },
   {
     "playerId": "2574833",
@@ -125,14 +125,14 @@
     "kills": 97
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 94
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 90
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 85
   },
   {
     "playerId": "21700920",
@@ -195,6 +195,11 @@
     "kills": 41
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 35
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 34
@@ -205,14 +210,14 @@
     "kills": 31
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 28
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 26
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 25
   },
   {
     "playerId": "1185396",
@@ -223,6 +228,11 @@
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 20
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 19
   },
   {
     "playerId": "3990108",
@@ -293,11 +303,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 3
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 2
   },
   {
     "playerId": "8779272",
@@ -372,11 +377,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {

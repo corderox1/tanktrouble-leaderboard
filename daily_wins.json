@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4533
+    "kills": 4593
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 226
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 204
   },
   {
     "playerId": "13173087",
@@ -25,14 +30,14 @@
     "kills": 188
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 181
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 171
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 149
   },
   {
     "playerId": "21601349",
@@ -47,12 +52,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 135
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 126
+    "kills": 138
   },
   {
     "playerId": "20666777",
@@ -85,14 +85,14 @@
     "kills": 78
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 77
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 69
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 68
   },
   {
     "playerId": "2574833",
@@ -135,6 +135,11 @@
     "kills": 39
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 35
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 35
@@ -155,9 +160,14 @@
     "kills": 20
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 19
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 16
+    "kills": 19
   },
   {
     "playerId": "21103294",
@@ -240,11 +250,6 @@
     "kills": 3
   },
   {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 2
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 1
@@ -317,11 +322,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
