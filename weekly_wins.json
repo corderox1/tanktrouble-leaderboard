@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10554
+    "kills": 10817
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 600
+    "kills": 606
   },
   {
     "playerId": "17629928",
@@ -37,7 +37,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 298
+    "kills": 307
   },
   {
     "playerId": "13173087",
@@ -47,7 +47,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 293
+    "kills": 294
   },
   {
     "playerId": "22472796",
@@ -62,7 +62,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 196
+    "kills": 202
   },
   {
     "playerId": "17136803",
@@ -70,13 +70,18 @@
     "kills": 187
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 155
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 162
   },
   {
     "playerId": "21178768",
     "username": "ISAH",
+    "kills": 161
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 155
   },
   {
@@ -88,11 +93,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 150
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 144
   },
   {
     "playerId": "21508277",
@@ -142,7 +142,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 82
+    "kills": 83
   },
   {
     "playerId": "20011985",
@@ -185,13 +185,13 @@
     "kills": 57
   },
   {
-    "playerId": "20270104",
-    "username": "3w0n",
-    "kills": 50
-  },
-  {
     "playerId": "4201869",
     "username": "dvi9311",
+    "kills": 54
+  },
+  {
+    "playerId": "20270104",
+    "username": "3w0n",
     "kills": 50
   },
   {
@@ -287,6 +287,11 @@
   {
     "playerId": "1145079",
     "username": "purup",
+    "kills": 6
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 6
   },
   {
@@ -797,11 +802,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0
   },
   {
