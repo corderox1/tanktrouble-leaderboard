@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11026,
-    "lastKill": "2026-11-17 20:12:10"
+    "kills": 11286,
+    "lastKill": "2026-11-17 21:06:48"
   },
   {
     "playerId": "14892840",
@@ -78,16 +78,16 @@
     "lastKill": "2026-11-16 21:08:41"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 299,
-    "lastKill": "2026-11-17 20:12:10"
-  },
-  {
     "playerId": "21452912",
     "username": "x",
-    "kills": 270,
-    "lastKill": "2026-11-17 20:12:10"
+    "kills": 334,
+    "lastKill": "2026-11-17 21:06:48"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 312,
+    "lastKill": "2026-11-17 21:06:48"
   },
   {
     "playerId": "8590474",
@@ -126,6 +126,12 @@
     "lastKill": "2026-11-17 08:33:28"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 192,
+    "lastKill": "2026-11-17 21:06:48"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 191,
@@ -142,12 +148,6 @@
     "username": "voloding",
     "kills": 186,
     "lastKill": "2026-11-17 13:24:12"
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 176,
-    "lastKill": "2026-11-17 20:12:10"
   },
   {
     "playerId": "4381511",
@@ -198,10 +198,22 @@
     "lastKill": "2026-11-17 17:17:00"
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 101,
+    "lastKill": "2026-11-17 21:06:48"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 80,
     "lastKill": "2026-11-17 17:17:00"
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 80,
+    "lastKill": "2026-11-17 21:06:48"
   },
   {
     "playerId": "20270104",
@@ -214,12 +226,6 @@
     "username": "frogcatchflies",
     "kills": 72,
     "lastKill": "2026-11-17 05:37:43"
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 72,
-    "lastKill": "2026-11-16 21:08:41"
   },
   {
     "playerId": "20984454",
@@ -240,6 +246,12 @@
     "lastKill": "2026-11-16 17:18:34"
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 60,
+    "lastKill": "2026-11-17 21:06:48"
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 59,
@@ -250,18 +262,6 @@
     "username": "WillyWonkaBar",
     "kills": 56,
     "lastKill": "2026-11-17 11:29:05"
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 54,
-    "lastKill": "2026-11-17 20:12:10"
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 50,
-    "lastKill": "2026-11-17 20:12:10"
   },
   {
     "playerId": "20869330",
@@ -324,10 +324,22 @@
     "lastKill": "2026-11-17 20:12:10"
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 10,
+    "lastKill": "2026-11-17 21:06:48"
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 10,
     "lastKill": "2026-11-17 18:13:38"
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 9,
+    "lastKill": "2026-11-17 21:06:48"
   },
   {
     "playerId": "1145079",
@@ -410,12 +422,6 @@
   {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12107881",
-    "username": "Jaw",
     "kills": 0,
     "lastKill": null
   },
@@ -1202,12 +1208,6 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0,
     "lastKill": null
   },

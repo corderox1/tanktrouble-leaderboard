@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4265
+    "kills": 4533
   },
   {
     "playerId": "17629928",
@@ -30,6 +30,11 @@
     "kills": 171
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 149
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 148
@@ -42,17 +47,17 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 131
+    "kills": 135
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 126
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 126
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 113
   },
   {
     "playerId": "21178768",
@@ -70,11 +75,6 @@
     "kills": 85
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 81
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 81
@@ -88,6 +88,11 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 69
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 68
   },
   {
     "playerId": "2574833",
@@ -122,7 +127,7 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 45
+    "kills": 46
   },
   {
     "playerId": "20011985",
@@ -153,11 +158,6 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 13
   },
   {
     "playerId": "21103294",
@@ -195,6 +195,11 @@
     "kills": 9
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 8
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 8
@@ -220,9 +225,29 @@
     "kills": 5
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 4
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 3
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 3
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 2
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 1
   },
   {
     "playerId": "8590474",
@@ -280,11 +305,6 @@
     "kills": 0
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 0
-  },
-  {
     "playerId": "19691813",
     "username": "Jhxjan",
     "kills": 0
@@ -320,11 +340,6 @@
     "kills": 0
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 0
-  },
-  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 0
@@ -342,11 +357,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {
@@ -507,11 +517,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 0
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
     "kills": 0
   },
   {
@@ -992,11 +997,6 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 0
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0
   },
   {
