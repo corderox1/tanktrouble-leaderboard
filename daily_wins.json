@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2774
+    "kills": 3036
   },
   {
     "playerId": "21508277",
@@ -40,14 +40,14 @@
     "kills": 62
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 59
+  },
+  {
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 55
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 47
   },
   {
     "playerId": "19138057",
@@ -55,13 +55,13 @@
     "kills": 46
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 33
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 37
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 33
   },
   {
@@ -80,9 +80,19 @@
     "kills": 22
   },
   {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 20
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 19
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 18
   },
   {
     "playerId": "18625144",
@@ -90,19 +100,9 @@
     "kills": 14
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 13
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 13
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 11
   },
   {
     "playerId": "9066291",
@@ -113,6 +113,11 @@
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 5
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 4
   },
   {
     "playerId": "6776098",
@@ -417,11 +422,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0
   },
   {
