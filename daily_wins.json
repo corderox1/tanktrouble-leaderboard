@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3155
+    "kills": 3271
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 128
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 109
   },
   {
     "playerId": "14617724",
@@ -27,7 +32,12 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 75
+    "kills": 79
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 76
   },
   {
     "playerId": "22757188",
@@ -50,9 +60,9 @@
     "kills": 59
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 52
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 54
   },
   {
     "playerId": "19138057",
@@ -60,24 +70,19 @@
     "kills": 46
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 41
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 37
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 34
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 33
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 29
   },
   {
     "playerId": "20666777",
@@ -93,6 +98,11 @@
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 22
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 20
   },
   {
     "playerId": "21614515",
@@ -115,11 +125,6 @@
     "kills": 8
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 7
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 5
@@ -135,8 +140,8 @@
     "kills": 3
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
+    "playerId": "20011985",
+    "username": "BroUrDed",
     "kills": 2
   },
   {
@@ -657,11 +662,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0
   },
   {

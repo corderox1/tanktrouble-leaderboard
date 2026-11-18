@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4272,
-    "lastKill": "2026-11-18 14:28:08"
+    "kills": 4390,
+    "lastKill": "2026-11-18 15:23:49"
   },
   {
     "playerId": "21178768",
@@ -16,6 +16,12 @@
     "username": "L_Shy_P",
     "kills": 199,
     "lastKill": "2026-11-18 07:38:21"
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 195,
+    "lastKill": "2026-11-18 15:23:49"
   },
   {
     "playerId": "21508277",
@@ -32,20 +38,14 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 164,
-    "lastKill": "2026-11-18 14:28:08"
+    "kills": 174,
+    "lastKill": "2026-11-18 15:23:49"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 147,
     "lastKill": "2026-11-18 09:33:45"
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 145,
-    "lastKill": "2026-11-18 14:28:08"
   },
   {
     "playerId": "19138057",
@@ -78,6 +78,18 @@
     "lastKill": "2026-11-18 13:29:03"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 90,
+    "lastKill": "2026-11-18 15:23:49"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 89,
+    "lastKill": "2026-11-18 15:23:49"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 66,
@@ -90,22 +102,16 @@
     "lastKill": "2026-11-18 07:38:21"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 62,
+    "lastKill": "2026-11-18 15:23:49"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 61,
     "lastKill": "2026-11-18 09:33:45"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 56,
-    "lastKill": "2026-11-18 14:28:08"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 49,
-    "lastKill": "2026-11-18 14:28:08"
   },
   {
     "playerId": "3617624",
@@ -118,6 +124,12 @@
     "username": "Corderox1",
     "kills": 37,
     "lastKill": "2026-11-18 13:29:03"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 28,
+    "lastKill": "2026-11-18 15:23:49"
   },
   {
     "playerId": "13773720",
@@ -144,16 +156,10 @@
     "lastKill": "2026-11-18 04:47:04"
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 14,
-    "lastKill": "2026-11-18 14:28:08"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 6,
-    "lastKill": "2026-11-18 14:28:08"
+    "playerId": "20011985",
+    "username": "BroUrDed",
+    "kills": 10,
+    "lastKill": "2026-11-18 15:23:49"
   },
   {
     "playerId": "13173087",
@@ -782,12 +788,6 @@
   {
     "playerId": "17794648",
     "username": "Quser",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20011985",
-    "username": "BroUrDed",
     "kills": 0,
     "lastKill": null
   },
