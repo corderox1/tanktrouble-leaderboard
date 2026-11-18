@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4619,
-    "lastKill": "2026-11-18 16:23:35"
+    "kills": 4796,
+    "lastKill": "2026-11-18 17:21:58"
   },
   {
     "playerId": "17629928",
@@ -90,16 +90,16 @@
     "lastKill": "2026-11-18 15:23:49"
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 88,
+    "lastKill": "2026-11-18 17:21:58"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 66,
     "lastKill": "2026-11-18 12:29:50"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 63,
-    "lastKill": "2026-11-18 16:23:35"
   },
   {
     "playerId": "20666777",
@@ -120,6 +120,12 @@
     "lastKill": "2026-11-18 09:33:45"
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 52,
+    "lastKill": "2026-11-18 17:21:58"
+  },
+  {
     "playerId": "3617624",
     "username": "Envy",
     "kills": 44,
@@ -130,12 +136,6 @@
     "username": "Corderox1",
     "kills": 37,
     "lastKill": "2026-11-18 13:29:03"
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 31,
-    "lastKill": "2026-11-18 16:23:35"
   },
   {
     "playerId": "13773720",
@@ -162,6 +162,12 @@
     "lastKill": "2026-11-18 06:42:04"
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 21,
+    "lastKill": "2026-11-18 17:21:58"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 16,
@@ -176,8 +182,14 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 6,
-    "lastKill": "2026-11-18 09:33:45"
+    "kills": 8,
+    "lastKill": "2026-11-18 17:21:58"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 5,
+    "lastKill": "2026-11-18 17:21:58"
   },
   {
     "playerId": "8590474",
@@ -190,6 +202,12 @@
     "username": "SilentSpaceSergeant",
     "kills": 2,
     "lastKill": "2026-11-18 14:28:08"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 1,
+    "lastKill": "2026-11-18 17:21:58"
   },
   {
     "playerId": "3808011",
@@ -278,18 +296,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": null
   },
@@ -446,12 +452,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": null
   },
