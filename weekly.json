@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12012,
-    "lastKill": "2026-11-17 23:57:51"
+    "kills": 12133,
+    "lastKill": "2026-11-18 00:53:25"
   },
   {
     "playerId": "14892840",
@@ -30,16 +30,16 @@
     "lastKill": "2026-11-17 18:13:38"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 541,
+    "lastKill": "2026-11-18 00:53:25"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 524,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 518,
-    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "22706369",
@@ -60,6 +60,12 @@
     "lastKill": "2026-11-17 22:58:45"
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 382,
+    "lastKill": "2026-11-18 00:53:25"
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 374,
@@ -76,12 +82,6 @@
     "username": "ISAH",
     "kills": 364,
     "lastKill": "2026-11-17 11:29:05"
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 360,
-    "lastKill": "2026-11-17 22:03:33"
   },
   {
     "playerId": "17136803",
@@ -106,6 +106,12 @@
     "username": "Hafiz-Muhammad",
     "kills": 245,
     "lastKill": "2026-11-16 13:29:15"
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 228,
+    "lastKill": "2026-11-18 00:53:25"
   },
   {
     "playerId": "12517909",
@@ -172,12 +178,6 @@
     "username": "III__E-74__III",
     "kills": 131,
     "lastKill": "2026-11-17 15:21:53"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 120,
-    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "19425584",
@@ -306,6 +306,12 @@
     "lastKill": "2026-11-17 11:29:05"
   },
   {
+    "playerId": "18985660",
+    "username": "volodymyr77",
+    "kills": 21,
+    "lastKill": "2026-11-18 00:53:25"
+  },
+  {
     "playerId": "1177269",
     "username": "Redwind",
     "kills": 21,
@@ -370,6 +376,12 @@
     "username": "hohi",
     "kills": 3,
     "lastKill": "2026-11-16 18:18:21"
+  },
+  {
+    "playerId": "10502780",
+    "username": "No_Ammo",
+    "kills": 3,
+    "lastKill": "2026-11-18 00:53:25"
   },
   {
     "playerId": "3808011",
@@ -482,12 +494,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10502780",
-    "username": "No_Ammo",
     "kills": 0,
     "lastKill": null
   },
@@ -878,12 +884,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18985660",
-    "username": "volodymyr77",
     "kills": 0,
     "lastKill": null
   },
