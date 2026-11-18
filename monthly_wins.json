@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 77717
+    "kills": 77836
   },
   {
     "playerId": "13173087",
@@ -10,14 +10,14 @@
     "kills": 2843
   },
   {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 2708
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 2695
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 2676
   },
   {
     "playerId": "22710399",
@@ -65,14 +65,14 @@
     "kills": 1122
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 1088
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1069
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 1054
   },
   {
     "playerId": "22706369",
@@ -92,7 +92,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 885
+    "kills": 887
   },
   {
     "playerId": "14617724",
@@ -170,14 +170,14 @@
     "kills": 562
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 548
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 543
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 541
   },
   {
     "playerId": "21708970",
@@ -247,7 +247,7 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 293
+    "kills": 313
   },
   {
     "playerId": "20011985",
@@ -327,7 +327,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 160
+    "kills": 161
   },
   {
     "playerId": "16736853",
@@ -465,6 +465,11 @@
     "kills": 43
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 42
+  },
+  {
     "playerId": "20644558",
     "username": "x",
     "kills": 41
@@ -498,11 +503,6 @@
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 29
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 27
   },
   {
     "playerId": "8084329",

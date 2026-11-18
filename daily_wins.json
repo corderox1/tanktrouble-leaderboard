@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3036
+    "kills": 3155
   },
   {
     "playerId": "21508277",
@@ -25,6 +25,11 @@
     "kills": 83
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 75
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 68
@@ -45,9 +50,9 @@
     "kills": 59
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 55
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 52
   },
   {
     "playerId": "19138057",
@@ -60,9 +65,19 @@
     "kills": 37
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 34
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 33
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 29
   },
   {
     "playerId": "20666777",
@@ -80,11 +95,6 @@
     "kills": 22
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 20
-  },
-  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 19
@@ -95,11 +105,6 @@
     "kills": 18
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 14
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 13
@@ -108,6 +113,11 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 8
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 7
   },
   {
     "playerId": "13173087",
@@ -123,6 +133,16 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 3
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 2
+  },
+  {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 1
   },
   {
     "playerId": "20843843",
@@ -300,11 +320,6 @@
     "kills": 0
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 0
@@ -410,11 +425,6 @@
     "kills": 0
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 0
@@ -480,18 +490,8 @@
     "kills": 0
   },
   {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 0
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {

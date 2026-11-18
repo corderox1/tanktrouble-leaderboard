@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12497
+    "kills": 12616
   },
   {
     "playerId": "14892840",
@@ -12,17 +12,17 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 494
+    "kills": 526
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 415
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 395
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 381
   },
   {
     "playerId": "22716354",
@@ -85,14 +85,14 @@
     "kills": 187
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
+    "playerId": "12222122",
+    "username": "--Eddie--",
     "kills": 162
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 155
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 162
   },
   {
     "playerId": "22077521",
@@ -125,6 +125,11 @@
     "kills": 125
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 125
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 119
@@ -132,7 +137,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 116
+    "kills": 118
   },
   {
     "playerId": "21700920",
@@ -143,11 +148,6 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 109
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 105
   },
   {
     "playerId": "3660774",
@@ -197,7 +197,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 45
+    "kills": 46
   },
   {
     "playerId": "11769746",
@@ -223,6 +223,11 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 30
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 29
   },
   {
     "playerId": "22056849",
@@ -263,11 +268,6 @@
     "playerId": "18985660",
     "username": "volodymyr77",
     "kills": 15
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 14
   },
   {
     "playerId": "20984454",
