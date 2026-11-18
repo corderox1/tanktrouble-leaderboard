@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 74390
+    "kills": 74580
   },
   {
     "playerId": "13173087",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 1328
+    "kills": 1364
   },
   {
     "playerId": "21508277",
@@ -112,7 +112,7 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 694
+    "kills": 698
   },
   {
     "playerId": "17136803",
@@ -130,14 +130,14 @@
     "kills": 657
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 653
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 641
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 639
   },
   {
     "playerId": "22077521",
@@ -212,7 +212,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 364
+    "kills": 365
   },
   {
     "playerId": "21700920",
@@ -1107,6 +1107,36 @@
   {
     "playerId": "21317975",
     "username": "NovaCore",
+    "kills": 0
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 0
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 0
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 0
+  },
+  {
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 0
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 0
+  },
+  {
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
     "kills": 0
   }
 ]

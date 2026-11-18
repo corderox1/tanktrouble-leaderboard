@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6079,
-    "lastKill": "2026-11-17 22:58:45"
+    "kills": 6329,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "22472796",
@@ -60,6 +60,12 @@
     "lastKill": "2026-11-17 22:58:45"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 209,
+    "lastKill": "2026-11-17 23:57:51"
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 196,
@@ -78,12 +84,6 @@
     "lastKill": "2026-11-17 22:03:33"
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 149,
-    "lastKill": "2026-11-17 07:33:42"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 129,
@@ -100,6 +100,12 @@
     "username": "seyi-vibez-jr",
     "kills": 123,
     "lastKill": "2026-11-17 10:29:22"
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 120,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "19425584",
@@ -130,12 +136,6 @@
     "username": "voloding",
     "kills": 97,
     "lastKill": "2026-11-17 13:24:12"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 80,
-    "lastKill": "2026-11-17 17:17:00"
   },
   {
     "playerId": "20111777",
@@ -176,8 +176,8 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 51,
-    "lastKill": "2026-11-17 22:58:45"
+    "kills": 55,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "12517909",
@@ -186,16 +186,16 @@
     "lastKill": "2026-11-17 20:12:10"
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 47,
+    "lastKill": "2026-11-17 23:57:51"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 46,
     "lastKill": "2026-11-17 12:28:03"
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 46,
-    "lastKill": "2026-11-17 22:58:45"
   },
   {
     "playerId": "12331664",
@@ -1328,6 +1328,42 @@
   {
     "playerId": "21890228",
     "username": "tsk",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
     "kills": 0,
     "lastKill": null
   }

@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 92426,
-    "lastKill": "2026-11-17 22:58:45"
+    "kills": 92676,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "22710399",
@@ -56,8 +56,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 2435,
-    "lastKill": "2026-11-17 07:33:42"
+    "kills": 2495,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "8590474",
@@ -126,6 +126,12 @@
     "lastKill": "2026-11-17 17:17:00"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 1173,
+    "lastKill": "2026-11-17 23:57:51"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 1169,
@@ -148,12 +154,6 @@
     "username": "voloding",
     "kills": 1155,
     "lastKill": "2026-11-17 13:24:12"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 1133,
-    "lastKill": "2026-11-17 17:17:00"
   },
   {
     "playerId": "3923647",
@@ -194,8 +194,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 840,
-    "lastKill": "2026-11-17 22:58:45"
+    "kills": 841,
+    "lastKill": "2026-11-17 23:57:51"
   },
   {
     "playerId": "21178768",
@@ -210,16 +210,16 @@
     "lastKill": "2026-11-10 12:17:13"
   },
   {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 743,
+    "lastKill": "2026-11-17 23:57:51"
+  },
+  {
     "playerId": "10523030",
     "username": "DIMIG0D",
     "kills": 739,
     "lastKill": "2026-11-14 00:52:31"
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 739,
-    "lastKill": "2026-11-17 22:58:45"
   },
   {
     "playerId": "22105718",
@@ -1328,6 +1328,42 @@
   {
     "playerId": "21890228",
     "username": "tsk",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 0,
+    "lastKill": null
+  },
+  {
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
     "kills": 0,
     "lastKill": null
   }

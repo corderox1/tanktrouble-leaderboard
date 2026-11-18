@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9170
+    "kills": 9360
   },
   {
     "playerId": "14892840",
@@ -45,14 +45,14 @@
     "kills": 281
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 279
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 262
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 243
   },
   {
     "playerId": "8899024",
@@ -155,13 +155,13 @@
     "kills": 68
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 62
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
+    "kills": 63
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
     "kills": 62
   },
   {
@@ -185,6 +185,11 @@
     "kills": 50
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 48
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 45
@@ -200,14 +205,14 @@
     "kills": 35
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 34
-  },
-  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 31
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 30
   },
   {
     "playerId": "6776098",
@@ -217,11 +222,6 @@
   {
     "playerId": "22056849",
     "username": "Preww",
-    "kills": 26
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 26
   },
   {
@@ -1107,6 +1107,36 @@
   {
     "playerId": "21890228",
     "username": "tsk",
+    "kills": 0
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 0
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 0
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 0
+  },
+  {
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 0
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 0
+  },
+  {
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
     "kills": 0
   }
 ]
