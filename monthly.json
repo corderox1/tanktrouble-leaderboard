@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 93210,
-    "lastKill": "2026-11-18 02:53:25"
+    "kills": 93534,
+    "lastKill": "2026-11-18 03:49:21"
   },
   {
     "playerId": "22710399",
@@ -18,16 +18,16 @@
     "lastKill": "2026-11-17 12:28:03"
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 4044,
+    "lastKill": "2026-11-18 03:49:21"
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 3933,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 3923,
-    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "4142755",
@@ -684,6 +684,12 @@
     "lastKill": "2026-11-04 12:33:55"
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 10,
+    "lastKill": "2026-11-18 03:49:21"
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 8,
@@ -1328,12 +1334,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
     "kills": 0,
     "lastKill": null
   },
