@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1864
+    "kills": 2227
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 221
   },
   {
     "playerId": "19138057",
@@ -10,14 +15,9 @@
     "kills": 209
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 203
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 167
+    "kills": 197
   },
   {
     "playerId": "14892840",
@@ -70,6 +70,11 @@
     "kills": 36
   },
   {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 34
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 34
@@ -85,9 +90,9 @@
     "kills": 30
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 29
+    "playerId": "3617624",
+    "username": "Envy",
+    "kills": 25
   },
   {
     "playerId": "22053927",
@@ -98,6 +103,11 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 19
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 17
   },
   {
     "playerId": "19425584",
@@ -120,6 +130,11 @@
     "kills": 10
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 10
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 8
@@ -135,6 +150,11 @@
     "kills": 6
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 6
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 6
@@ -147,11 +167,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 3
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 3
   },
   {
@@ -257,11 +272,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {
@@ -465,11 +475,6 @@
     "kills": 0
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 0
@@ -542,11 +547,6 @@
   {
     "playerId": "4067875",
     "username": "NelFusion",
-    "kills": 0
-  },
-  {
-    "playerId": "3617624",
-    "username": "Envy",
     "kills": 0
   },
   {
