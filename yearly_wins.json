@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 269227
+    "kills": 269389
   },
   {
     "playerId": "8590474",
@@ -52,7 +52,7 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 4347
+    "kills": 4362
   },
   {
     "playerId": "22472796",
@@ -67,7 +67,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 3539
+    "kills": 3541
   },
   {
     "playerId": "20297710",
@@ -87,7 +87,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 2957
+    "kills": 2959
   },
   {
     "playerId": "22077521",
@@ -122,7 +122,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 2237
+    "kills": 2238
   },
   {
     "playerId": "21796745",
@@ -140,14 +140,14 @@
     "kills": 1942
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 1941
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 1926
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 1878
   },
   {
     "playerId": "13773720",
@@ -195,14 +195,14 @@
     "kills": 1321
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 1287
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 1276
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 1274
   },
   {
     "playerId": "3923647",
@@ -247,7 +247,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1104
+    "kills": 1108
   },
   {
     "playerId": "21956820",
@@ -275,6 +275,11 @@
     "kills": 945
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 931
+  },
+  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 912
@@ -288,11 +293,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 893
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 882
   },
   {
     "playerId": "20011985",
@@ -357,7 +357,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 489
+    "kills": 498
   },
   {
     "playerId": "16092601",
@@ -377,7 +377,7 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 413
+    "kills": 422
   },
   {
     "playerId": "20375730",
@@ -545,13 +545,13 @@
     "kills": 145
   },
   {
-    "playerId": "8478955",
-    "username": "Boagrius",
-    "kills": 143
-  },
-  {
     "playerId": "22053927",
     "username": "Cozy",
+    "kills": 144
+  },
+  {
+    "playerId": "8478955",
+    "username": "Boagrius",
     "kills": 143
   },
   {
@@ -573,6 +573,11 @@
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 103
+  },
+  {
+    "playerId": "15878197",
+    "username": "kamarov",
+    "kills": 99
   },
   {
     "playerId": "9184666",
@@ -598,11 +603,6 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 86
-  },
-  {
-    "playerId": "15878197",
-    "username": "kamarov",
-    "kills": 85
   },
   {
     "playerId": "21967085",
