@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 267040
+    "kills": 267195
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 8695
+    "kills": 8696
   },
   {
     "playerId": "21601349",
@@ -27,7 +27,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 6431
+    "kills": 6433
   },
   {
     "playerId": "17629928",
@@ -102,17 +102,17 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 2282
+    "kills": 2283
+  },
+  {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 2280
   },
   {
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 2273
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 2261
   },
   {
     "playerId": "22694251",
@@ -162,7 +162,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1609
+    "kills": 1630
   },
   {
     "playerId": "22809750",
@@ -287,7 +287,7 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 885
+    "kills": 893
   },
   {
     "playerId": "20011985",
@@ -340,14 +340,14 @@
     "kills": 620
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 610
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 596
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 590
   },
   {
     "playerId": "21940268",
@@ -425,14 +425,14 @@
     "kills": 344
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 344
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 340
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 327
   },
   {
     "playerId": "21462355",
@@ -575,6 +575,11 @@
     "kills": 94
   },
   {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 91
+  },
+  {
     "playerId": "10689052",
     "username": "TankDestroyah52",
     "kills": 87
@@ -588,11 +593,6 @@
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 85
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
-    "kills": 82
   },
   {
     "playerId": "21967085",
@@ -655,6 +655,11 @@
     "kills": 52
   },
   {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 51
+  },
+  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 44
@@ -662,11 +667,6 @@
   {
     "playerId": "15164705",
     "username": "Glitter56371",
-    "kills": 40
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
     "kills": 40
   },
   {

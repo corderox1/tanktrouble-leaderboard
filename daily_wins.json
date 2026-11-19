@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3666
+    "kills": 3821
   },
   {
     "playerId": "17629928",
@@ -15,6 +15,11 @@
     "kills": 128
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 107
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 98
@@ -23,11 +28,6 @@
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 96
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 87
   },
   {
     "playerId": "14892840",
@@ -42,7 +42,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 69
+    "kills": 71
   },
   {
     "playerId": "22757188",
@@ -75,6 +75,11 @@
     "kills": 54
   },
   {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 47
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 46
@@ -85,14 +90,14 @@
     "kills": 41
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 40
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 37
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 36
   },
   {
     "playerId": "21700920",
@@ -100,9 +105,9 @@
     "kills": 33
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 32
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 27
   },
   {
     "playerId": "20666777",
@@ -125,6 +130,11 @@
     "kills": 22
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 19
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 19
@@ -135,6 +145,11 @@
     "kills": 18
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 17
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 13
@@ -143,6 +158,11 @@
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 11
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 9
   },
   {
     "playerId": "9066291",
@@ -160,14 +180,9 @@
     "kills": 7
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 6
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 6
+    "kills": 7
   },
   {
     "playerId": "8590474",
@@ -183,6 +198,11 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 3
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 1
   },
   {
     "playerId": "21797119",
@@ -310,11 +330,6 @@
     "kills": 0
   },
   {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 0
-  },
-  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 0
@@ -322,11 +337,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {
@@ -357,11 +367,6 @@
   {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
-    "kills": 0
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
     "kills": 0
   },
   {
@@ -1077,11 +1082,6 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 0
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 0
   },
   {
