@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3826,
-    "lastKill": "2026-11-19 15:08:56"
+    "kills": 3982,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 542,
-    "lastKill": "2026-11-19 15:08:56"
+    "kills": 575,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "19138057",
@@ -42,22 +42,22 @@
     "lastKill": "2026-11-19 11:22:49"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 150,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 149,
     "lastKill": "2026-11-19 07:32:06"
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 149,
-    "lastKill": "2026-11-19 04:38:35"
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 125,
-    "lastKill": "2026-11-19 15:08:56"
+    "kills": 142,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "4142755",
@@ -132,6 +132,18 @@
     "lastKill": "2026-11-19 09:24:25"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 50,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 46,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 45,
@@ -148,6 +160,12 @@
     "username": "III__E-74__III",
     "kills": 40,
     "lastKill": "2026-11-19 14:12:48"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 38,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "8590474",
@@ -180,12 +198,6 @@
     "lastKill": "2026-11-19 05:37:42"
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 25,
-    "lastKill": "2026-11-19 14:12:48"
-  },
-  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 23,
@@ -198,10 +210,10 @@
     "lastKill": "2026-11-19 12:18:30"
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 18,
-    "lastKill": "2026-11-19 11:22:49"
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 20,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "22056849",
@@ -226,6 +238,12 @@
     "username": "N-A",
     "kills": 10,
     "lastKill": "2026-11-19 13:17:28"
+  },
+  {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 10,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "878689",
@@ -276,10 +294,16 @@
     "lastKill": "2026-11-19 08:29:23"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 2,
-    "lastKill": "2026-11-19 06:37:15"
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 1,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "14617724",
@@ -486,12 +510,6 @@
     "lastKill": null
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22479485",
     "username": "-_purup_-",
     "kills": 0,
@@ -624,12 +642,6 @@
     "lastKill": null
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1609300",
     "username": "Turbo-Rambo",
     "kills": 0,
@@ -644,12 +656,6 @@
   {
     "playerId": "14677783",
     "username": "GGGGG1706",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
     "kills": 0,
     "lastKill": null
   },
@@ -1250,12 +1256,6 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
     "kills": 0,
     "lastKill": null
   },

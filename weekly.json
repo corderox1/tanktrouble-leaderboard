@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22497,
-    "lastKill": "2026-11-19 15:08:56"
+    "kills": 22653,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "14892840",
@@ -68,8 +68,14 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 644,
-    "lastKill": "2026-11-19 15:08:56"
+    "kills": 677,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 553,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "20666777",
@@ -82,12 +88,6 @@
     "username": "Lokirss",
     "kills": 524,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 517,
-    "lastKill": "2026-11-19 06:37:15"
   },
   {
     "playerId": "14617724",
@@ -104,8 +104,8 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 401,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 402,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "21508277",
@@ -120,16 +120,22 @@
     "lastKill": "2026-11-19 12:18:30"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 339,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 335,
     "lastKill": "2026-11-16 21:08:41"
   },
   {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 322,
-    "lastKill": "2026-11-19 15:08:56"
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 325,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "4201869",
@@ -141,12 +147,6 @@
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 308,
-    "lastKill": "2026-11-19 14:12:48"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 304,
     "lastKill": "2026-11-19 14:12:48"
   },
   {
@@ -176,8 +176,8 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 233,
-    "lastKill": "2026-11-18 15:23:49"
+    "kills": 235,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "22053927",
@@ -234,6 +234,12 @@
     "lastKill": "2026-11-18 19:13:21"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 140,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 136,
@@ -268,12 +274,6 @@
     "username": "Trizz",
     "kills": 111,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 108,
-    "lastKill": "2026-11-19 11:22:49"
   },
   {
     "playerId": "17953682",
@@ -328,6 +328,12 @@
     "username": "citicaca",
     "kills": 55,
     "lastKill": "2026-11-17 23:57:51"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 48,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "1177269",
@@ -396,12 +402,6 @@
     "lastKill": "2026-11-19 05:37:42"
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 28,
-    "lastKill": "2026-11-17 11:29:05"
-  },
-  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 26,
@@ -456,6 +456,12 @@
     "lastKill": "2026-11-18 16:23:35"
   },
   {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 12,
+    "lastKill": "2026-11-19 16:09:30"
+  },
+  {
     "playerId": "160470",
     "username": "bbc",
     "kills": 10,
@@ -504,12 +510,6 @@
     "lastKill": "2026-11-16 13:29:15"
   },
   {
-    "playerId": "793356",
-    "username": "Antiserum",
-    "kills": 2,
-    "lastKill": "2026-11-18 21:07:10"
-  },
-  {
     "playerId": "12745227",
     "username": "Sr",
     "kills": 2,
@@ -520,6 +520,12 @@
     "username": "Sir-Nightmare",
     "kills": 1,
     "lastKill": "2026-11-16 23:02:48"
+  },
+  {
+    "playerId": "10523030",
+    "username": "DIMIG0D",
+    "kills": 1,
+    "lastKill": "2026-11-19 16:09:30"
   },
   {
     "playerId": "10132007",
@@ -746,12 +752,6 @@
   {
     "playerId": "14677783",
     "username": "GGGGG1706",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "10523030",
-    "username": "DIMIG0D",
     "kills": 0,
     "lastKill": null
   },
