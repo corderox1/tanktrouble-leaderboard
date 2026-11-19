@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1553
+    "kills": 1864
   },
   {
     "playerId": "19138057",
@@ -12,12 +12,12 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 201
+    "kills": 203
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 146
+    "kills": 167
   },
   {
     "playerId": "14892840",
@@ -37,7 +37,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 48
+    "kills": 51
   },
   {
     "playerId": "22727575",
@@ -80,6 +80,16 @@
     "kills": 30
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 30
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 29
+  },
+  {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 24
@@ -95,14 +105,14 @@
     "kills": 15
   },
   {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
-    "kills": 12
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 11
+    "kills": 15
+  },
+  {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 15
   },
   {
     "playerId": "1145079",
@@ -110,14 +120,19 @@
     "kills": 10
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 9
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 8
   },
   {
     "playerId": "3162693",
     "username": "commander",
     "kills": 7
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 6
   },
   {
     "playerId": "22056849",
@@ -130,6 +145,11 @@
     "kills": 5
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 3
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 3
@@ -138,16 +158,6 @@
     "playerId": "1177269",
     "username": "Redwind",
     "kills": 3
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 2
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 2
   },
   {
     "playerId": "21452912",
@@ -905,11 +915,6 @@
     "kills": 0
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0
@@ -962,11 +967,6 @@
   {
     "playerId": "21231891",
     "username": "ColdFlare",
-    "kills": 0
-  },
-  {
-    "playerId": "22042037",
-    "username": "N-A",
     "kills": 0
   },
   {
