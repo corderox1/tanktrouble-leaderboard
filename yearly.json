@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 341987,
-    "lastKill": "2026-11-19 00:53:30"
+    "kills": 342187,
+    "lastKill": "2026-11-19 01:51:51"
   },
   {
     "playerId": "8590474",
@@ -360,6 +360,12 @@
     "lastKill": "2026-11-15 03:27:42"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 1359,
+    "lastKill": "2026-11-19 01:51:51"
+  },
+  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 1338,
@@ -370,12 +376,6 @@
     "username": "BroUrDed",
     "kills": 1300,
     "lastKill": "2026-11-18 16:23:35"
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 1295,
-    "lastKill": "2026-11-17 08:33:28"
   },
   {
     "playerId": "21614515",
@@ -874,6 +874,12 @@
     "username": "killermax",
     "kills": 31,
     "lastKill": "2026-11-11 12:57:32"
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 24,
+    "lastKill": "2026-11-19 01:51:51"
   },
   {
     "playerId": "1177269",
@@ -1376,12 +1382,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 0,
     "lastKill": null
   },

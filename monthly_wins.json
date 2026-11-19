@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 79777
+    "kills": 79901
   },
   {
     "playerId": "13173087",
@@ -305,6 +305,11 @@
     "kills": 194
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 193
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 192
@@ -313,11 +318,6 @@
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 188
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 165
   },
   {
     "playerId": "10251396",
@@ -553,6 +553,11 @@
     "playerId": "1341685",
     "username": "supervolcano",
     "kills": 13
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 12
   },
   {
     "playerId": "17794648",
@@ -1127,11 +1132,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 0
   },
   {
