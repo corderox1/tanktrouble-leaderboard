@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 19400,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 19674,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "14892840",
@@ -48,16 +48,16 @@
     "lastKill": "2026-11-18 21:07:10"
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 606,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 572,
     "lastKill": "2026-11-18 21:07:10"
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 570,
-    "lastKill": "2026-11-18 10:28:42"
   },
   {
     "playerId": "21601349",
@@ -70,6 +70,12 @@
     "username": "Alternator",
     "kills": 515,
     "lastKill": "2026-11-18 15:23:49"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 459,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "14617724",
@@ -88,12 +94,6 @@
     "username": "x",
     "kills": 414,
     "lastKill": "2026-11-19 00:53:30"
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 411,
-    "lastKill": "2026-11-19 03:43:01"
   },
   {
     "playerId": "22077521",
@@ -126,6 +126,12 @@
     "lastKill": "2026-11-18 22:03:52"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 286,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 279,
@@ -144,12 +150,6 @@
     "lastKill": "2026-11-18 09:33:45"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 264,
-    "lastKill": "2026-11-19 04:38:35"
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 264,
@@ -164,14 +164,20 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 227,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 228,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 222,
     "lastKill": "2026-11-17 20:12:10"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 214,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "8408190",
@@ -184,12 +190,6 @@
     "username": "III__E-74__III",
     "kills": 197,
     "lastKill": "2026-11-18 12:29:50"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 195,
-    "lastKill": "2026-11-18 09:33:45"
   },
   {
     "playerId": "1950197",
@@ -360,6 +360,12 @@
     "lastKill": "2026-11-17 12:28:03"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 30,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 28,
@@ -426,6 +432,12 @@
     "lastKill": "2026-11-18 16:23:35"
   },
   {
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 10,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 10,
@@ -438,12 +450,6 @@
     "lastKill": "2026-11-17 18:13:38"
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 6,
-    "lastKill": "2026-11-19 03:43:01"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 5,
@@ -454,6 +460,12 @@
     "username": "hohi",
     "kills": 3,
     "lastKill": "2026-11-16 18:18:21"
+  },
+  {
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
+    "kills": 3,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "8779272",
@@ -488,12 +500,6 @@
   {
     "playerId": "21443824",
     "username": "FLICK",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "160470",
-    "username": "bbc",
     "kills": 0,
     "lastKill": null
   },
@@ -1358,12 +1364,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22899152",
-    "username": "Mithrajeeth",
     "kills": 0,
     "lastKill": null
   }

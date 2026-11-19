@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 729,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 1003,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 162,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 184,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "22077521",
@@ -30,6 +30,12 @@
     "lastKill": "2026-11-19 03:43:01"
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 62,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 57,
@@ -38,14 +44,32 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 54,
-    "lastKill": "2026-11-19 04:38:35"
+    "kills": 55,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 14,
-    "lastKill": "2026-11-19 03:43:01"
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 36,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 25,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 19,
+    "lastKill": "2026-11-19 05:37:42"
+  },
+  {
+    "playerId": "160470",
+    "username": "bbc",
+    "kills": 10,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "8590474",
@@ -60,10 +84,10 @@
     "lastKill": "2026-11-19 04:38:35"
   },
   {
-    "playerId": "1145079",
-    "username": "purup",
-    "kills": 1,
-    "lastKill": "2026-11-19 03:43:01"
+    "playerId": "22899152",
+    "username": "Mithrajeeth",
+    "kills": 3,
+    "lastKill": "2026-11-19 05:37:42"
   },
   {
     "playerId": "22710399",
@@ -92,12 +116,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "160470",
-    "username": "bbc",
     "kills": 0,
     "lastKill": null
   },
@@ -1008,12 +1026,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0,
@@ -1254,12 +1266,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 0,
@@ -1358,12 +1364,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22899152",
-    "username": "Mithrajeeth",
     "kills": 0,
     "lastKill": null
   }
