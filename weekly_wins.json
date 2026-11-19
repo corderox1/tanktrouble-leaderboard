@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13567
+    "kills": 13820
   },
   {
     "playerId": "17629928",
@@ -20,19 +20,19 @@
     "kills": 457
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 420
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 411
+    "kills": 412
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 395
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 372
   },
   {
     "playerId": "22716354",
@@ -47,7 +47,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 313
+    "kills": 315
   },
   {
     "playerId": "22472796",
@@ -65,14 +65,14 @@
     "kills": 234
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 230
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 220
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 210
   },
   {
     "playerId": "12222122",
@@ -92,7 +92,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 162
+    "kills": 187
   },
   {
     "playerId": "4381511",
@@ -160,14 +160,14 @@
     "kills": 87
   },
   {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 86
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 76
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 70
   },
   {
     "playerId": "20111777",
@@ -215,6 +215,11 @@
     "kills": 50
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 48
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 46
@@ -223,11 +228,6 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 41
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 37
   },
   {
     "playerId": "12331664",
@@ -372,6 +372,11 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
+    "kills": 1
+  },
+  {
+    "playerId": "793356",
+    "username": "Antiserum",
     "kills": 1
   },
   {
@@ -1052,11 +1057,6 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
     "kills": 0
   },
   {

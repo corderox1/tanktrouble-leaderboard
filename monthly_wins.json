@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 78787
+    "kills": 79040
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 2913
+    "kills": 2961
   },
   {
     "playerId": "17629928",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 2788
+    "kills": 2789
   },
   {
     "playerId": "22710399",
@@ -67,7 +67,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1123
+    "kills": 1125
   },
   {
     "playerId": "10794529",
@@ -97,7 +97,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 815
+    "kills": 835
   },
   {
     "playerId": "3660774",
@@ -108,6 +108,11 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 768
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 712
   },
   {
     "playerId": "3923647",
@@ -123,11 +128,6 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 697
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 687
   },
   {
     "playerId": "17136803",
@@ -190,14 +190,14 @@
     "kills": 519
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 447
+  },
+  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 445
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 436
   },
   {
     "playerId": "21180646",
@@ -390,6 +390,11 @@
     "kills": 91
   },
   {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 90
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 78
@@ -398,11 +403,6 @@
     "playerId": "22042037",
     "username": "N-A",
     "kills": 76
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 74
   },
   {
     "playerId": "19583686",
@@ -535,13 +535,13 @@
     "kills": 20
   },
   {
-    "playerId": "13783887",
-    "username": "EPIC_GIRL",
-    "kills": 16
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
+    "kills": 17
+  },
+  {
+    "playerId": "13783887",
+    "username": "EPIC_GIRL",
     "kills": 16
   },
   {
