@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 79542
+    "kills": 79777
   },
   {
     "playerId": "13173087",
@@ -30,14 +30,14 @@
     "kills": 2490
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 2307
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 2290
+    "kills": 2313
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 2312
   },
   {
     "playerId": "20666777",
@@ -45,14 +45,14 @@
     "kills": 2132
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 1489
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 1476
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 1475
   },
   {
     "playerId": "21508277",
@@ -62,17 +62,17 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 1149
+    "kills": 1154
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 1150
   },
   {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 1130
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 1125
   },
   {
     "playerId": "10794529",
@@ -197,7 +197,7 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 445
+    "kills": 465
   },
   {
     "playerId": "21180646",
@@ -207,7 +207,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 391
+    "kills": 396
   },
   {
     "playerId": "21700920",
@@ -370,6 +370,11 @@
     "kills": 120
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 120
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 116
@@ -432,11 +437,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 66
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
     "kills": 66
   },
   {
@@ -570,13 +570,13 @@
     "kills": 9
   },
   {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 8
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
+    "kills": 9
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
     "kills": 8
   },
   {

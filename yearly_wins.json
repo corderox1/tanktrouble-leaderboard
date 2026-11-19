@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 268235
+    "kills": 268470
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 6962
+    "kills": 6967
   },
   {
     "playerId": "4142755",
@@ -52,17 +52,17 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 4333
+    "kills": 4347
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 4316
+    "kills": 4339
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 3622
+    "kills": 3627
   },
   {
     "playerId": "21465536",
@@ -100,14 +100,14 @@
     "kills": 2711
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 2310
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 2287
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 2285
   },
   {
     "playerId": "20270104",
@@ -167,7 +167,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 1556
+    "kills": 1561
   },
   {
     "playerId": "12107881",
@@ -317,7 +317,7 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 685
+    "kills": 705
   },
   {
     "playerId": "18985660",
@@ -560,6 +560,11 @@
     "kills": 123
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 120
+  },
+  {
     "playerId": "20101050",
     "username": "Brainrot",
     "kills": 111
@@ -628,11 +633,6 @@
     "playerId": "21231891",
     "username": "ColdFlare",
     "kills": 67
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 66
   },
   {
     "playerId": "878689",
@@ -750,6 +750,11 @@
     "kills": 9
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 9
+  },
+  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 8
@@ -757,11 +762,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 8
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
     "kills": 8
   },
   {
