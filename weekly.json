@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17807,
-    "lastKill": "2026-11-18 21:07:10"
+    "kills": 17942,
+    "lastKill": "2026-11-18 22:03:52"
   },
   {
     "playerId": "14892840",
@@ -68,8 +68,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 440,
-    "lastKill": "2026-11-18 21:07:10"
+    "kills": 453,
+    "lastKill": "2026-11-18 22:03:52"
   },
   {
     "playerId": "20666777",
@@ -78,10 +78,16 @@
     "lastKill": "2026-11-18 07:38:21"
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 398,
+    "lastKill": "2026-11-18 22:03:52"
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 393,
-    "lastKill": "2026-11-18 21:07:10"
+    "kills": 397,
+    "lastKill": "2026-11-18 22:03:52"
   },
   {
     "playerId": "21452912",
@@ -94,12 +100,6 @@
     "username": "Sangpi",
     "kills": 388,
     "lastKill": "2026-11-18 12:29:50"
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
-    "kills": 374,
-    "lastKill": "2026-11-17 20:12:10"
   },
   {
     "playerId": "21700920",
@@ -116,8 +116,8 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 307,
-    "lastKill": "2026-11-18 19:13:21"
+    "kills": 310,
+    "lastKill": "2026-11-18 22:03:52"
   },
   {
     "playerId": "12222122",
@@ -162,6 +162,12 @@
     "lastKill": "2026-11-18 10:28:42"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 197,
+    "lastKill": "2026-11-18 22:03:52"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 197,
@@ -174,6 +180,12 @@
     "lastKill": "2026-11-18 09:33:45"
   },
   {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 192,
+    "lastKill": "2026-11-18 22:03:52"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 188,
@@ -184,18 +196,6 @@
     "username": "voloding",
     "kills": 186,
     "lastKill": "2026-11-17 13:24:12"
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 185,
-    "lastKill": "2026-11-18 21:07:10"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 167,
-    "lastKill": "2026-11-18 21:07:10"
   },
   {
     "playerId": "3660774",
@@ -228,16 +228,16 @@
     "lastKill": "2026-11-18 17:21:58"
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 112,
+    "lastKill": "2026-11-18 22:03:52"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 111,
     "lastKill": "2026-11-17 16:18:34"
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 104,
-    "lastKill": "2026-11-18 06:42:04"
   },
   {
     "playerId": "11769746",
@@ -370,6 +370,12 @@
     "username": "Redwind",
     "kills": 21,
     "lastKill": "2026-11-17 08:33:28"
+  },
+  {
+    "playerId": "20621274",
+    "username": "ttw",
+    "kills": 16,
+    "lastKill": "2026-11-18 22:03:52"
   },
   {
     "playerId": "21609912",
@@ -506,12 +512,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
     "kills": 0,
     "lastKill": null
   },

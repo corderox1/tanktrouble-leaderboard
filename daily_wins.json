@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4359
+    "kills": 4512
   },
   {
     "playerId": "17629928",
@@ -15,19 +15,19 @@
     "kills": 128
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 126
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 123
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 119
-  },
-  {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 107
+    "kills": 108
   },
   {
     "playerId": "21178768",
@@ -42,7 +42,7 @@
   {
     "playerId": "1950197",
     "username": "Spiros04",
-    "kills": 86
+    "kills": 89
   },
   {
     "playerId": "14892840",
@@ -55,9 +55,14 @@
     "kills": 76
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 74
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 71
+    "kills": 73
   },
   {
     "playerId": "22757188",
@@ -88,11 +93,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 54
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 44
   },
   {
     "playerId": "4381511",
@@ -150,6 +150,11 @@
     "kills": 18
   },
   {
+    "playerId": "8899024",
+    "username": "PurpleSpaceBaboon",
+    "kills": 17
+  },
+  {
     "playerId": "2885724",
     "username": "Tankyy",
     "kills": 17
@@ -158,6 +163,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 13
+  },
+  {
+    "playerId": "20621274",
+    "username": "ttw",
+    "kills": 12
   },
   {
     "playerId": "8478955",
@@ -185,6 +195,11 @@
     "kills": 7
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 5
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 4
@@ -192,11 +207,6 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 3
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 3
   },
   {
@@ -297,11 +307,6 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 0
-  },
-  {
-    "playerId": "20621274",
-    "username": "ttw",
     "kills": 0
   },
   {
@@ -917,11 +922,6 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 0
-  },
-  {
-    "playerId": "8899024",
-    "username": "PurpleSpaceBaboon",
     "kills": 0
   },
   {
