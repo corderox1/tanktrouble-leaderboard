@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15036
+    "kills": 15132
   },
   {
     "playerId": "14892840",
@@ -47,7 +47,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 341
+    "kills": 379
   },
   {
     "playerId": "21452912",
@@ -63,6 +63,11 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 266
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 247
   },
   {
     "playerId": "14617724",
@@ -90,11 +95,6 @@
     "kills": 195
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 192
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 187
@@ -117,7 +117,7 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 140
+    "kills": 141
   },
   {
     "playerId": "22757188",
@@ -127,7 +127,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 133
+    "kills": 136
   },
   {
     "playerId": "2574833",
@@ -135,14 +135,14 @@
     "kills": 130
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 126
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 125
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 124
   },
   {
     "playerId": "3660774",
@@ -325,13 +325,13 @@
     "kills": 11
   },
   {
-    "playerId": "1177269",
-    "username": "Redwind",
-    "kills": 9
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
+    "kills": 10
+  },
+  {
+    "playerId": "1177269",
+    "username": "Redwind",
     "kills": 9
   },
   {
