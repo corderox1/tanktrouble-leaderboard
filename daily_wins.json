@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2963
+    "kills": 3076
   },
   {
     "playerId": "11769746",
@@ -10,24 +10,24 @@
     "kills": 278
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 217
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 209
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 197
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 146
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 104
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 96
   },
   {
     "playerId": "17629928",
@@ -52,7 +52,12 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 49
+    "kills": 60
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 56
   },
   {
     "playerId": "22727575",
@@ -90,11 +95,6 @@
     "kills": 36
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 34
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 34
@@ -107,6 +107,11 @@
   {
     "playerId": "3147484",
     "username": "Lichen",
+    "kills": 30
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
     "kills": 30
   },
   {
@@ -215,13 +220,13 @@
     "kills": 3
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 2
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 3
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
+    "playerId": "21452912",
+    "username": "x",
     "kills": 2
   },
   {
@@ -237,6 +242,11 @@
   {
     "playerId": "22809750",
     "username": "zRok",
+    "kills": 1
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 1
   },
   {
@@ -1045,11 +1055,6 @@
     "kills": 0
   },
   {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 0
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 0
@@ -1082,11 +1087,6 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 0
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 0
   },
   {
