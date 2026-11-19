@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35394593,
-    "kills": 44537636,
-    "deaths": 42039585,
-    "suicides": 9436817,
+    "victories": 35394698,
+    "kills": 44537798,
+    "deaths": 42039767,
+    "suicides": 9436859,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19447,
-    "kills": 37305,
-    "deaths": 46064,
-    "suicides": 8957,
+    "victories": 19493,
+    "kills": 37372,
+    "deaths": 46146,
+    "suicides": 8972,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1072,7 +1072,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1736517443,
-    "lastLogin": 1794990561,
+    "lastLogin": 1795076802,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7108,9 +7108,9 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "victories": 4671,
-    "kills": 9527,
-    "deaths": 11597,
-    "suicides": 3947,
+    "kills": 9528,
+    "deaths": 11606,
+    "suicides": 3951,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1795025891,
+    "lastLogin": 1795075677,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8283,10 +8283,10 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 8276,
-    "kills": 13043,
-    "deaths": 10710,
-    "suicides": 3139,
+    "victories": 8301,
+    "kills": 13094,
+    "deaths": 10748,
+    "suicides": 3149,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8302,14 +8302,14 @@
       "imageValue": "165"
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x173677 152",
-      "numericValue": "0x173677",
-      "imageValue": "152"
+      "type": "numeric",
+      "rawValue": "0x010243",
+      "numericValue": "0x010243",
+      "imageValue": ""
     },
     "turretAccessory": "74",
     "barrelAccessory": "102",
-    "frontAccessory": "116",
+    "frontAccessory": "8",
     "backAccessory": "0",
     "treadAccessory": "0",
     "backgroundAccessory": "0",
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1794998018,
+    "lastLogin": 1795076448,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10978,10 +10978,10 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "victories": 8892,
-    "kills": 14484,
-    "deaths": 16679,
-    "suicides": 4264,
+    "victories": 8898,
+    "kills": 14504,
+    "deaths": 16705,
+    "suicides": 4269,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -11019,7 +11019,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781623317,
-    "lastLogin": 1795068959,
+    "lastLogin": 1795077048,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -11076,10 +11076,10 @@
   {
     "playerId": "22727575",
     "username": "Magestic",
-    "victories": 371,
-    "kills": 723,
-    "deaths": 845,
-    "suicides": 215,
+    "victories": 403,
+    "kills": 773,
+    "deaths": 911,
+    "suicides": 235,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -11109,7 +11109,7 @@
     "badge": "0",
     "premium": false,
     "rank": 11,
-    "xp": 25880,
+    "xp": 27980,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,

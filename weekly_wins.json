@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14681
+    "kills": 14786
   },
   {
     "playerId": "14892840",
@@ -130,6 +130,11 @@
     "kills": 130
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 126
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 125
@@ -140,14 +145,14 @@
     "kills": 120
   },
   {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 120
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 119
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 115
   },
   {
     "playerId": "21700920",
@@ -178,11 +183,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 78
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 69
   },
   {
     "playerId": "20111777",
@@ -230,6 +230,11 @@
     "kills": 46
   },
   {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 44
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 35
@@ -253,6 +258,11 @@
     "playerId": "3808011",
     "username": "gg",
     "kills": 28
+  },
+  {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 25
   },
   {
     "playerId": "3617624",
@@ -307,11 +317,6 @@
   {
     "playerId": "20621274",
     "username": "ttw",
-    "kills": 12
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 12
   },
   {
@@ -962,11 +967,6 @@
   {
     "playerId": "21727981",
     "username": "YHWH",
-    "kills": 0
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
     "kills": 0
   },
   {
