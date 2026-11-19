@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4796,
-    "lastKill": "2026-11-18 17:21:58"
+    "kills": 4958,
+    "lastKill": "2026-11-18 18:18:21"
   },
   {
     "playerId": "17629928",
@@ -72,6 +72,12 @@
     "lastKill": "2026-11-18 06:42:04"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 99,
+    "lastKill": "2026-11-18 18:18:21"
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 99,
@@ -94,6 +100,12 @@
     "username": "--Eddie--",
     "kills": 88,
     "lastKill": "2026-11-18 17:21:58"
+  },
+  {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 70,
+    "lastKill": "2026-11-18 18:18:21"
   },
   {
     "playerId": "21614515",
@@ -126,6 +138,12 @@
     "lastKill": "2026-11-18 17:21:58"
   },
   {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 44,
+    "lastKill": "2026-11-18 18:18:21"
+  },
+  {
     "playerId": "3617624",
     "username": "Envy",
     "kills": 44,
@@ -154,6 +172,12 @@
     "username": "Boagrius",
     "kills": 23,
     "lastKill": "2026-11-18 16:23:35"
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 22,
+    "lastKill": "2026-11-18 18:18:21"
   },
   {
     "playerId": "6776098",
@@ -186,12 +210,6 @@
     "lastKill": "2026-11-18 17:21:58"
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 5,
-    "lastKill": "2026-11-18 17:21:58"
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 4,
@@ -202,12 +220,6 @@
     "username": "SilentSpaceSergeant",
     "kills": 2,
     "lastKill": "2026-11-18 14:28:08"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 1,
-    "lastKill": "2026-11-18 17:21:58"
   },
   {
     "playerId": "3808011",
@@ -332,12 +344,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0,
     "lastKill": null
   },
@@ -656,12 +662,6 @@
   {
     "playerId": "6694888",
     "username": "Jellican",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1950197",
-    "username": "Spiros04",
     "kills": 0,
     "lastKill": null
   },
