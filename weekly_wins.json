@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 13282
+    "kills": 13567
   },
   {
     "playerId": "17629928",
@@ -20,14 +20,19 @@
     "kills": 457
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 411
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 395
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 389
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 372
   },
   {
     "playerId": "22716354",
@@ -45,14 +50,9 @@
     "kills": 313
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 304
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 299
+    "kills": 303
   },
   {
     "playerId": "21508277",
@@ -72,7 +72,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 209
+    "kills": 210
   },
   {
     "playerId": "12222122",
@@ -135,6 +135,11 @@
     "kills": 125
   },
   {
+    "playerId": "3660774",
+    "username": "Sc4r",
+    "kills": 120
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 119
@@ -143,11 +148,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 115
-  },
-  {
-    "playerId": "3660774",
-    "username": "Sc4r",
-    "kills": 113
   },
   {
     "playerId": "21614515",
@@ -163,6 +163,11 @@
     "playerId": "22809750",
     "username": "zRok",
     "kills": 76
+  },
+  {
+    "playerId": "1950197",
+    "username": "Spiros04",
+    "kills": 70
   },
   {
     "playerId": "20111777",
@@ -210,11 +215,6 @@
     "kills": 50
   },
   {
-    "playerId": "1950197",
-    "username": "Spiros04",
-    "kills": 47
-  },
-  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 46
@@ -225,14 +225,14 @@
     "kills": 41
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 37
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 35
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 31
   },
   {
     "playerId": "6776098",
