@@ -2,10 +2,10 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "victories": 8426,
-    "kills": 17153,
-    "deaths": 5858,
-    "suicides": 1355,
+    "victories": 8445,
+    "kills": 17189,
+    "deaths": 5919,
+    "suicides": 1372,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -39,7 +39,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1795194137,
+    "lastForumPost": 1795201742,
     "guest": false,
     "gmLevel": null,
     "created": 1788876266,
@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35401141,
-    "kills": 44546119,
-    "deaths": 42050858,
-    "suicides": 9438908,
+    "victories": 35401242,
+    "kills": 44546340,
+    "deaths": 42051165,
+    "suicides": 9438953,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 8,
+    "rank": 16,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 19712,
-    "kills": 37863,
-    "deaths": 46751,
-    "suicides": 9115,
+    "victories": 19721,
+    "kills": 37869,
+    "deaths": 46773,
+    "suicides": 9117,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -386,7 +386,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1616212639,
-    "lastLogin": 1795125842,
+    "lastLogin": 1795204110,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -435,7 +435,7 @@
     "guest": false,
     "gmLevel": 9,
     "created": 1218585544,
-    "lastLogin": 1795163085,
+    "lastLogin": 1795204035,
     "banned": false,
     "usernameApproved": true,
     "country": "DK"
@@ -6568,10 +6568,10 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "victories": 60650,
-    "kills": 112723,
-    "deaths": 109601,
-    "suicides": 27032,
+    "victories": 60673,
+    "kills": 112759,
+    "deaths": 109627,
+    "suicides": 27037,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6960,10 +6960,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 3911,
-    "kills": 9475,
-    "deaths": 7564,
-    "suicides": 2103,
+    "victories": 3919,
+    "kills": 9531,
+    "deaths": 7583,
+    "suicides": 2109,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7001,7 +7001,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788279741,
-    "lastLogin": 1795190054,
+    "lastLogin": 1795201969,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7254,10 +7254,10 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "victories": 53437,
-    "kills": 88670,
-    "deaths": 76235,
-    "suicides": 14929,
+    "victories": 53484,
+    "kills": 88718,
+    "deaths": 76268,
+    "suicides": 14937,
     "experience": 19648,
     "surrenders": 0,
     "turretColour": {
@@ -7295,7 +7295,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1351415255,
-    "lastLogin": 1795190862,
+    "lastLogin": 1795202202,
     "banned": false,
     "usernameApproved": true,
     "country": "GB"
@@ -7940,10 +7940,10 @@
   {
     "playerId": "21251653",
     "username": "Antikure",
-    "victories": 41171,
-    "kills": 54219,
-    "deaths": 45639,
-    "suicides": 10286,
+    "victories": 41186,
+    "kills": 54252,
+    "deaths": 45675,
+    "suicides": 10294,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
