@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35398016,
-    "kills": 44542206,
-    "deaths": 42045823,
-    "suicides": 9438020,
+    "victories": 35398162,
+    "kills": 44542334,
+    "deaths": 42045971,
+    "suicides": 9438046,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 17,
+    "rank": 29,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140342,
-    "kills": 193694,
-    "deaths": 191823,
-    "suicides": 49012,
+    "victories": 140351,
+    "kills": 193722,
+    "deaths": 191869,
+    "suicides": 49020,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1795053620,
+    "lastLogin": 1795143210,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1227,10 +1227,10 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "victories": 82452,
+    "victories": 82453,
     "kills": 123823,
-    "deaths": 143353,
-    "suicides": 30713,
+    "deaths": 143363,
+    "suicides": 30714,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -1268,7 +1268,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1585761105,
-    "lastLogin": 1795129178,
+    "lastLogin": 1795146200,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1513,7 +1513,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1526083311,
-    "lastLogin": 1795054326,
+    "lastLogin": 1795143861,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "victories": 10862,
-    "kills": 18511,
-    "deaths": 20571,
-    "suicides": 4531,
+    "victories": 10894,
+    "kills": 18605,
+    "deaths": 20621,
+    "suicides": 4544,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3922,10 +3922,10 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "victories": 8526,
-    "kills": 12826,
-    "deaths": 11642,
-    "suicides": 2134,
+    "victories": 8533,
+    "kills": 12837,
+    "deaths": 11650,
+    "suicides": 2135,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3959,7 +3959,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1795141739,
+    "lastForumPost": 1795144228,
     "guest": false,
     "gmLevel": null,
     "created": 1774390385,
@@ -4069,10 +4069,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 6684,
-    "kills": 9989,
-    "deaths": 7967,
-    "suicides": 1705,
+    "victories": 6716,
+    "kills": 10022,
+    "deaths": 8017,
+    "suicides": 1717,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4110,7 +4110,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1766801701,
-    "lastLogin": 1795137029,
+    "lastLogin": 1795144603,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8332,10 +8332,10 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "victories": 49325,
-    "kills": 86354,
-    "deaths": 90027,
-    "suicides": 23454,
+    "victories": 49367,
+    "kills": 86419,
+    "deaths": 90070,
+    "suicides": 23467,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8373,7 +8373,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1590515111,
-    "lastLogin": 1795059803,
+    "lastLogin": 1795146387,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10439,10 +10439,10 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "victories": 42296,
-    "kills": 65911,
-    "deaths": 58812,
-    "suicides": 14688,
+    "victories": 42337,
+    "kills": 65975,
+    "deaths": 58861,
+    "suicides": 14709,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
