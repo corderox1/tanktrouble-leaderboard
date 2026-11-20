@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2964
+    "kills": 3123
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 323
+    "kills": 392
   },
   {
     "playerId": "13173087",
@@ -27,7 +27,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 115
+    "kills": 133
   },
   {
     "playerId": "22472796",
@@ -62,7 +62,12 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 45
+    "kills": 65
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 52
   },
   {
     "playerId": "20984454",
@@ -70,13 +75,13 @@
     "kills": 44
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 39
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 41
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
     "kills": 39
   },
   {
@@ -88,11 +93,6 @@
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 37
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 34
   },
   {
     "playerId": "20269995",
@@ -115,6 +115,11 @@
     "kills": 21
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 20
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 19
@@ -123,11 +128,6 @@
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 15
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 13
   },
   {
     "playerId": "22757188",
@@ -160,9 +160,19 @@
     "kills": 7
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 7
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 7
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 6
   },
   {
     "playerId": "8899024",
@@ -540,11 +550,6 @@
     "kills": 0
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 0
-  },
-  {
     "playerId": "1609300",
     "username": "Turbo-Rambo",
     "kills": 0
@@ -902,11 +907,6 @@
   {
     "playerId": "635946",
     "username": "iNf4MouS",
-    "kills": 0
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
     "kills": 0
   },
   {
