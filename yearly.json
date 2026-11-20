@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 348333,
-    "lastKill": "2026-11-20 05:28:16"
+    "kills": 348577,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "8590474",
@@ -62,8 +62,8 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 7391,
-    "lastKill": "2026-11-19 07:32:06"
+    "kills": 7430,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "10794529",
@@ -92,8 +92,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 5824,
-    "lastKill": "2026-11-20 04:32:27"
+    "kills": 5855,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "4381511",
@@ -110,8 +110,8 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 4522,
-    "lastKill": "2026-11-19 08:29:23"
+    "kills": 4549,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "21465536",
@@ -200,8 +200,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 2742,
-    "lastKill": "2026-11-19 09:24:25"
+    "kills": 2759,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "19932455",
@@ -624,16 +624,16 @@
     "lastKill": "2026-10-18 09:12:49"
   },
   {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 310,
+    "lastKill": "2026-11-20 06:23:25"
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 307,
     "lastKill": "2026-11-19 14:12:48"
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 306,
-    "lastKill": "2026-11-11 05:28:04"
   },
   {
     "playerId": "21932847",
@@ -982,6 +982,12 @@
     "username": "Sr",
     "kills": 2,
     "lastKill": "2026-11-16 07:42:47"
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 2,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "13819102",
@@ -1382,12 +1388,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 0,
     "lastKill": null
   }

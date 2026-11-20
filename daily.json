@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 953,
-    "lastKill": "2026-11-20 05:28:16"
+    "kills": 1197,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "13773720",
@@ -36,10 +36,28 @@
     "lastKill": "2026-11-20 05:28:16"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 47,
+    "lastKill": "2026-11-20 06:23:25"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 39,
+    "lastKill": "2026-11-20 06:23:25"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 33,
     "lastKill": "2026-11-20 04:32:27"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 27,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "22757188",
@@ -48,10 +66,10 @@
     "lastKill": "2026-11-20 02:37:41"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 16,
-    "lastKill": "2026-11-20 04:32:27"
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 17,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "22053927",
@@ -76,6 +94,18 @@
     "username": "The_Mayank",
     "kills": 11,
     "lastKill": "2026-11-20 01:39:16"
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 4,
+    "lastKill": "2026-11-20 06:23:25"
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 2,
+    "lastKill": "2026-11-20 06:23:25"
   },
   {
     "playerId": "20962476",
@@ -378,12 +408,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 0,
@@ -500,12 +524,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
@@ -1194,12 +1212,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 0,
@@ -1214,12 +1226,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0,
     "lastKill": null
   },
@@ -1346,12 +1352,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 0,
     "lastKill": null
   },

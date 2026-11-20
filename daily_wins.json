@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 771
+    "kills": 887
   },
   {
     "playerId": "13773720",
@@ -35,6 +35,11 @@
     "kills": 27
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 19
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 13
@@ -45,14 +50,14 @@
     "kills": 13
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 10
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 9
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 8
   },
   {
     "playerId": "21956820",
@@ -60,9 +65,29 @@
     "kills": 7
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 6
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 6
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 6
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 5
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 3
   },
   {
     "playerId": "22710399",
@@ -310,11 +335,6 @@
     "kills": 0
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 0
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 0
@@ -412,11 +432,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -990,11 +1005,6 @@
     "kills": 0
   },
   {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 0
-  },
-  {
     "playerId": "22754085",
     "username": "Tuan_AZ_Tank_Gaming_VN",
     "kills": 0
@@ -1007,11 +1017,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 0
   },
   {
@@ -1117,11 +1122,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 0
   },
   {
