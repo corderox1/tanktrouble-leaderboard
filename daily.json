@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 633,
-    "lastKill": "2026-11-20 03:33:12"
+    "kills": 850,
+    "lastKill": "2026-11-20 04:32:27"
   },
   {
     "playerId": "13773720",
@@ -14,14 +14,26 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 61,
-    "lastKill": "2026-11-20 03:33:12"
+    "kills": 63,
+    "lastKill": "2026-11-20 04:32:27"
   },
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 61,
     "lastKill": "2026-11-20 02:37:41"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 58,
+    "lastKill": "2026-11-20 04:32:27"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 33,
+    "lastKill": "2026-11-20 04:32:27"
   },
   {
     "playerId": "22757188",
@@ -38,8 +50,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 14,
-    "lastKill": "2026-11-20 03:33:12"
+    "kills": 16,
+    "lastKill": "2026-11-20 04:32:27"
   },
   {
     "playerId": "22053927",
@@ -54,16 +66,16 @@
     "lastKill": "2026-11-20 02:37:41"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 11,
+    "lastKill": "2026-11-20 04:32:27"
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 11,
     "lastKill": "2026-11-20 01:39:16"
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 4,
-    "lastKill": "2026-11-20 03:33:12"
   },
   {
     "playerId": "20962476",
@@ -906,12 +918,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 0,
@@ -1058,12 +1064,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },
