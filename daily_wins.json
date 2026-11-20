@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3160
+    "kills": 3315
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 371
+    "kills": 429
   },
   {
     "playerId": "11769746",
@@ -35,14 +35,14 @@
     "kills": 96
   },
   {
-    "playerId": "17953682",
-    "username": "hohi",
-    "kills": 82
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 80
+    "kills": 84
+  },
+  {
+    "playerId": "17953682",
+    "username": "hohi",
+    "kills": 83
   },
   {
     "playerId": "21178768",
@@ -52,7 +52,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 61
+    "kills": 64
   },
   {
     "playerId": "12222122",
@@ -90,6 +90,11 @@
     "kills": 37
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 36
+  },
+  {
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 36
@@ -108,6 +113,11 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 33
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 31
   },
   {
     "playerId": "3147484",
@@ -135,11 +145,6 @@
     "kills": 27
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 25
-  },
-  {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 24
@@ -148,11 +153,6 @@
     "playerId": "1185396",
     "username": "rhak",
     "kills": 22
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 20
   },
   {
     "playerId": "3990108",
@@ -170,6 +170,11 @@
     "kills": 18
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 17
+  },
+  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 15
@@ -185,9 +190,9 @@
     "kills": 10
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 10
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 9
   },
   {
     "playerId": "22042037",
@@ -197,11 +202,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 7
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 7
   },
   {
@@ -243,6 +243,11 @@
     "playerId": "4201869",
     "username": "dvi9311",
     "kills": 3
+  },
+  {
+    "playerId": "3808011",
+    "username": "gg",
+    "kills": 2
   },
   {
     "playerId": "793356",
@@ -377,11 +382,6 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "kills": 0
-  },
-  {
-    "playerId": "3808011",
-    "username": "gg",
     "kills": 0
   },
   {
