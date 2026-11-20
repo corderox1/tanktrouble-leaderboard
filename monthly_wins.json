@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 83640
+    "kills": 83800
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 2416
+    "kills": 2438
   },
   {
     "playerId": "22472796",
@@ -62,7 +62,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1249
+    "kills": 1266
   },
   {
     "playerId": "8899024",
@@ -92,17 +92,17 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 947
+    "kills": 960
   },
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 892
+    "kills": 898
   },
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 858
+    "kills": 880
   },
   {
     "playerId": "3660774",
@@ -122,12 +122,12 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 750
+    "kills": 753
   },
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 714
+    "kills": 725
   },
   {
     "playerId": "19173281",
@@ -167,7 +167,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 569
+    "kills": 571
   },
   {
     "playerId": "12107881",
@@ -260,6 +260,11 @@
     "kills": 311
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 310
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 304
@@ -273,11 +278,6 @@
     "playerId": "17953682",
     "username": "hohi",
     "kills": 277
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 276
   },
   {
     "playerId": "19726920",
@@ -315,6 +315,11 @@
     "kills": 192
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 192
+  },
+  {
     "playerId": "21102229",
     "username": "Palestinene",
     "kills": 188
@@ -325,9 +330,9 @@
     "kills": 178
   },
   {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 177
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 171
   },
   {
     "playerId": "10251396",
@@ -363,11 +368,6 @@
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 144
   },
   {
     "playerId": "18625144",
@@ -543,6 +543,11 @@
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 19
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 17
   },
   {
     "playerId": "13783887",
@@ -1092,11 +1097,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
     "kills": 0
   },
   {

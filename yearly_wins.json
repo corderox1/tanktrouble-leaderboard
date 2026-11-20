@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 272333
+    "kills": 272493
   },
   {
     "playerId": "8590474",
@@ -22,7 +22,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 7071
+    "kills": 7093
   },
   {
     "playerId": "4142755",
@@ -82,7 +82,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 3049
+    "kills": 3071
   },
   {
     "playerId": "22706369",
@@ -102,7 +102,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 2409
+    "kills": 2426
   },
   {
     "playerId": "3660774",
@@ -127,7 +127,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 2065
+    "kills": 2078
   },
   {
     "playerId": "21796745",
@@ -162,7 +162,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1769
+    "kills": 1771
   },
   {
     "playerId": "22809750",
@@ -182,7 +182,7 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "kills": 1359
+    "kills": 1393
   },
   {
     "playerId": "21700920",
@@ -202,7 +202,7 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 1280
+    "kills": 1291
   },
   {
     "playerId": "16736853",
@@ -247,7 +247,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1154
+    "kills": 1157
   },
   {
     "playerId": "21956820",
@@ -272,7 +272,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 952
+    "kills": 958
   },
   {
     "playerId": "6776098",
@@ -520,14 +520,19 @@
     "kills": 201
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 192
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 179
   },
   {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 177
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 171
   },
   {
     "playerId": "10251396",
@@ -548,11 +553,6 @@
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 144
   },
   {
     "playerId": "8478955",
@@ -722,6 +722,11 @@
   {
     "playerId": "21528366",
     "username": "killermax",
+    "kills": 17
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
     "kills": 17
   },
   {
@@ -1112,11 +1117,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
     "kills": 0
   },
   {

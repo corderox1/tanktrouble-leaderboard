@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23723,
-    "lastKill": "2026-11-19 22:52:40"
+    "kills": 23894,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1518,
-    "lastKill": "2026-11-19 10:24:28"
+    "kills": 1570,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "17629928",
@@ -38,14 +38,20 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 819,
-    "lastKill": "2026-11-19 22:52:40"
+    "kills": 850,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 773,
     "lastKill": "2026-11-19 21:53:26"
+  },
+  {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 749,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "21178768",
@@ -58,12 +64,6 @@
     "username": "-Trippy-",
     "kills": 720,
     "lastKill": "2026-11-19 19:58:40"
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 702,
-    "lastKill": "2026-11-19 22:52:40"
   },
   {
     "playerId": "22706369",
@@ -90,6 +90,12 @@
     "lastKill": "2026-11-19 21:53:26"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 535,
+    "lastKill": "2026-11-19 23:47:48"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 526,
@@ -102,12 +108,6 @@
     "lastKill": "2026-11-17 16:18:34"
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 492,
-    "lastKill": "2026-11-19 21:53:26"
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 467,
@@ -116,8 +116,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 377,
-    "lastKill": "2026-11-19 20:53:17"
+    "kills": 381,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "21700920",
@@ -152,14 +152,20 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 297,
-    "lastKill": "2026-11-19 19:58:40"
+    "kills": 302,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 294,
     "lastKill": "2026-11-19 18:02:50"
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 294,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "13773720",
@@ -176,20 +182,14 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 244,
-    "lastKill": "2026-11-19 22:52:40"
+    "kills": 266,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 237,
     "lastKill": "2026-11-19 14:12:48"
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 233,
-    "lastKill": "2026-11-19 06:37:15"
   },
   {
     "playerId": "2885724",
@@ -246,6 +246,12 @@
     "lastKill": "2026-11-18 20:08:44"
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 160,
+    "lastKill": "2026-11-19 23:47:48"
+  },
+  {
     "playerId": "17953682",
     "username": "hohi",
     "kills": 149,
@@ -264,10 +270,16 @@
     "lastKill": "2026-11-19 07:32:06"
   },
   {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 121,
-    "lastKill": "2026-11-19 22:52:40"
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 130,
+    "lastKill": "2026-11-19 23:47:48"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 129,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "15878197",
@@ -304,18 +316,6 @@
     "username": "KringeKing",
     "kills": 100,
     "lastKill": "2026-11-19 18:57:54"
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 80,
-    "lastKill": "2026-11-19 22:52:40"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 76,
-    "lastKill": "2026-11-19 07:32:06"
   },
   {
     "playerId": "20270104",
@@ -424,6 +424,12 @@
     "username": "Boagrius",
     "kills": 23,
     "lastKill": "2026-11-18 16:23:35"
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 23,
+    "lastKill": "2026-11-19 23:47:48"
   },
   {
     "playerId": "18985660",
@@ -1310,12 +1316,6 @@
   {
     "playerId": "21180646",
     "username": "Havamal",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
     "kills": 0,
     "lastKill": null
   },
