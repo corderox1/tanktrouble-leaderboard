@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 83800
+    "kills": 84007
   },
   {
     "playerId": "13173087",
@@ -25,14 +25,14 @@
     "kills": 2528
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 2495
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 2490
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 2438
   },
   {
     "playerId": "22472796",
@@ -62,7 +62,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1266
+    "kills": 1270
   },
   {
     "playerId": "8899024",
@@ -95,14 +95,14 @@
     "kills": 960
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 898
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 880
+    "kills": 952
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 903
   },
   {
     "playerId": "3660774",
@@ -122,12 +122,12 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 753
+    "kills": 765
   },
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 725
+    "kills": 740
   },
   {
     "playerId": "19173281",
@@ -157,7 +157,7 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 636
+    "kills": 642
   },
   {
     "playerId": "20984454",
@@ -290,6 +290,11 @@
     "kills": 250
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 231
+  },
+  {
     "playerId": "3147484",
     "username": "Lichen",
     "kills": 226
@@ -310,13 +315,13 @@
     "kills": 204
   },
   {
-    "playerId": "20111777",
-    "username": "Trizz",
-    "kills": 192
-  },
-  {
     "playerId": "8870546",
     "username": "Bleed",
+    "kills": 203
+  },
+  {
+    "playerId": "20111777",
+    "username": "Trizz",
     "kills": 192
   },
   {
@@ -328,11 +333,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 178
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 171
   },
   {
     "playerId": "10251396",
