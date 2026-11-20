@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 347558,
-    "lastKill": "2026-11-20 01:39:16"
+    "kills": 347837,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "8590474",
@@ -134,8 +134,8 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 4010,
-    "lastKill": "2026-11-19 18:57:54"
+    "kills": 4022,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "21452912",
@@ -164,8 +164,8 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 3658,
-    "lastKill": "2026-11-20 01:39:16"
+    "kills": 3666,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "2574833",
@@ -278,8 +278,8 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1905,
-    "lastKill": "2026-11-20 01:39:16"
+    "kills": 1926,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "1185396",
@@ -486,6 +486,12 @@
     "lastKill": "2026-11-05 05:37:05"
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 608,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 606,
@@ -514,12 +520,6 @@
     "username": "Preww",
     "kills": 570,
     "lastKill": "2026-11-19 07:32:06"
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 569,
-    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "1145079",
@@ -558,16 +558,16 @@
     "lastKill": "2026-11-17 14:25:01"
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 401,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 399,
     "lastKill": "2026-11-10 22:48:16"
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 396,
-    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "22042037",
@@ -1008,6 +1008,12 @@
     "lastKill": "2026-11-14 11:17:12"
   },
   {
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 1,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
     "playerId": "21443824",
     "username": "FLICK",
     "kills": 0,
@@ -1382,12 +1388,6 @@
   {
     "playerId": "3447584",
     "username": "Will-Men",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20962476",
-    "username": "Mittu",
     "kills": 0,
     "lastKill": null
   }

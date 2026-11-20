@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 178,
-    "lastKill": "2026-11-20 01:39:16"
+    "kills": 457,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 93,
-    "lastKill": "2026-11-20 01:39:16"
+    "kills": 101,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 61,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 26,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "19138057",
@@ -18,10 +30,16 @@
     "lastKill": "2026-11-20 01:39:16"
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 22,
-    "lastKill": "2026-11-20 01:39:16"
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 13,
+    "lastKill": "2026-11-20 02:37:41"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 12,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "9066291",
@@ -30,16 +48,10 @@
     "lastKill": "2026-11-20 01:39:16"
   },
   {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 8,
-    "lastKill": "2026-11-20 01:39:16"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 5,
-    "lastKill": "2026-11-20 01:39:16"
+    "playerId": "20962476",
+    "username": "Mittu",
+    "kills": 1,
+    "lastKill": "2026-11-20 02:37:41"
   },
   {
     "playerId": "22710399",
@@ -308,12 +320,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": null
   },
@@ -1346,12 +1352,6 @@
   {
     "playerId": "3447584",
     "username": "Will-Men",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20962476",
-    "username": "Mittu",
     "kills": 0,
     "lastKill": null
   },
