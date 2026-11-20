@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35398162,
-    "kills": 44542334,
-    "deaths": 42045971,
-    "suicides": 9438046,
+    "victories": 35398332,
+    "kills": 44542488,
+    "deaths": 42046186,
+    "suicides": 9438083,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1229,8 +1229,8 @@
     "username": "Invader",
     "victories": 82453,
     "kills": 123823,
-    "deaths": 143363,
-    "suicides": 30714,
+    "deaths": 143372,
+    "suicides": 30717,
     "experience": 1222,
     "surrenders": 0,
     "turretColour": {
@@ -2060,10 +2060,10 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "victories": 10894,
-    "kills": 18605,
-    "deaths": 20621,
-    "suicides": 4544,
+    "victories": 10908,
+    "kills": 18647,
+    "deaths": 20666,
+    "suicides": 4555,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2207,10 +2207,10 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "victories": 62183,
-    "kills": 111919,
-    "deaths": 76567,
-    "suicides": 17082,
+    "victories": 62191,
+    "kills": 111940,
+    "deaths": 76589,
+    "suicides": 17085,
     "experience": 2452,
     "surrenders": 0,
     "turretColour": {
@@ -2248,7 +2248,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1529802256,
-    "lastLogin": 1794875173,
+    "lastLogin": 1795148325,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -4363,10 +4363,10 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "victories": 31441,
-    "kills": 47892,
-    "deaths": 58767,
-    "suicides": 15525,
+    "victories": 31445,
+    "kills": 47914,
+    "deaths": 58789,
+    "suicides": 15531,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4404,7 +4404,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1620859696,
-    "lastLogin": 1794986084,
+    "lastLogin": 1795148298,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 8676,
-    "kills": 16859,
-    "deaths": 15342,
-    "suicides": 4519,
+    "victories": 8685,
+    "kills": 16873,
+    "deaths": 15360,
+    "suicides": 4527,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10439,10 +10439,10 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "victories": 42337,
-    "kills": 65975,
-    "deaths": 58861,
-    "suicides": 14709,
+    "victories": 42370,
+    "kills": 66032,
+    "deaths": 58934,
+    "suicides": 14722,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10529,7 +10529,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1511583932,
-    "lastLogin": 1795136317,
+    "lastLogin": 1795148188,
     "banned": false,
     "usernameApproved": true,
     "country": "MX"

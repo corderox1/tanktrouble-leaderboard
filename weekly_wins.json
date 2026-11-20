@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18250
+    "kills": 18420
   },
   {
     "playerId": "13173087",
@@ -42,12 +42,12 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 425
+    "kills": 439
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 413
+    "kills": 422
   },
   {
     "playerId": "21601349",
@@ -150,6 +150,11 @@
     "kills": 130
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 129
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 127
@@ -157,11 +162,6 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 125
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 125
   },
   {
@@ -210,6 +210,16 @@
     "kills": 79
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 74
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 70
+  },
+  {
     "playerId": "20111777",
     "username": "Trizz",
     "kills": 68
@@ -218,11 +228,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 63
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 62
   },
   {
     "playerId": "19726920",
@@ -253,11 +258,6 @@
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 44
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 41
   },
   {
     "playerId": "3990108",

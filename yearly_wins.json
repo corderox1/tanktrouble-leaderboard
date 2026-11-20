@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 272163
+    "kills": 272333
   },
   {
     "playerId": "8590474",
@@ -102,7 +102,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 2395
+    "kills": 2409
   },
   {
     "playerId": "3660774",
@@ -125,14 +125,14 @@
     "kills": 2243
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 2065
+  },
+  {
     "playerId": "21796745",
     "username": "Sleeze",
     "kills": 2061
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 2056
   },
   {
     "playerId": "3990108",
@@ -200,14 +200,14 @@
     "kills": 1321
   },
   {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 1280
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 1276
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 1272
   },
   {
     "playerId": "21103294",
@@ -272,7 +272,7 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 948
+    "kills": 952
   },
   {
     "playerId": "6776098",
@@ -525,6 +525,11 @@
     "kills": 179
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 177
+  },
+  {
     "playerId": "10251396",
     "username": "vinus",
     "kills": 166
@@ -543,11 +548,6 @@
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 144
   },
   {
     "playerId": "22053927",
