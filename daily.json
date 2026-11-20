@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 457,
-    "lastKill": "2026-11-20 02:37:41"
+    "kills": 633,
+    "lastKill": "2026-11-20 03:33:12"
   },
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 101,
     "lastKill": "2026-11-20 02:37:41"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 61,
+    "lastKill": "2026-11-20 03:33:12"
   },
   {
     "playerId": "19726920",
@@ -30,6 +36,12 @@
     "lastKill": "2026-11-20 01:39:16"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 14,
+    "lastKill": "2026-11-20 03:33:12"
+  },
+  {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 13,
@@ -46,6 +58,12 @@
     "username": "The_Mayank",
     "kills": 11,
     "lastKill": "2026-11-20 01:39:16"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 4,
+    "lastKill": "2026-11-20 03:33:12"
   },
   {
     "playerId": "20962476",
@@ -86,12 +104,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0,
     "lastKill": null
   },
@@ -158,12 +170,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
@@ -884,12 +890,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },
