@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18787
+    "kills": 18952
   },
   {
     "playerId": "13173087",
@@ -40,14 +40,14 @@
     "kills": 460
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 453
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 447
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 435
   },
   {
     "playerId": "21601349",
@@ -95,19 +95,19 @@
     "kills": 269
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 236
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 235
   },
   {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 231
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 205
+    "kills": 209
   },
   {
     "playerId": "4381511",
@@ -123,6 +123,11 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 177
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 175
   },
   {
     "playerId": "8408190",
@@ -148,11 +153,6 @@
     "playerId": "2885724",
     "username": "Tankyy",
     "kills": 132
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 131
   },
   {
     "playerId": "2574833",
@@ -220,6 +220,11 @@
     "kills": 79
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 72
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 71
@@ -233,11 +238,6 @@
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 63
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 60
   },
   {
     "playerId": "22056849",
@@ -340,6 +340,11 @@
     "kills": 15
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 15
+  },
+  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 13
@@ -368,11 +373,6 @@
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 11
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
-    "kills": 10
   },
   {
     "playerId": "12107881",

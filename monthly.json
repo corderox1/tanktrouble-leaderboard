@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 104728,
-    "lastKill": "2026-11-20 00:43:49"
+    "kills": 104906,
+    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "22710399",
@@ -92,8 +92,8 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1802,
-    "lastKill": "2026-11-19 23:47:48"
+    "kills": 1825,
+    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "3660774",
@@ -128,14 +128,20 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1357,
-    "lastKill": "2026-11-20 00:43:49"
+    "kills": 1362,
+    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 1342,
     "lastKill": "2026-11-16 21:08:41"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 1302,
+    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "22077521",
@@ -148,12 +154,6 @@
     "username": "interstellar",
     "kills": 1254,
     "lastKill": "2026-11-08 18:08:19"
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 1209,
-    "lastKill": "2026-11-20 00:43:49"
   },
   {
     "playerId": "3923647",
@@ -348,6 +348,12 @@
     "lastKill": "2026-11-19 18:57:54"
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 417,
+    "lastKill": "2026-11-20 01:39:16"
+  },
+  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 399,
@@ -366,16 +372,10 @@
     "lastKill": "2026-11-13 14:23:25"
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 395,
-    "lastKill": "2026-11-17 11:29:05"
-  },
-  {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 388,
-    "lastKill": "2026-11-20 00:43:49"
+    "kills": 396,
+    "lastKill": "2026-11-20 01:39:16"
   },
   {
     "playerId": "8870546",
@@ -660,6 +660,12 @@
     "lastKill": "2026-11-08 23:48:08"
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 31,
+    "lastKill": "2026-11-20 01:39:16"
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 27,
@@ -694,12 +700,6 @@
     "username": "Antikure",
     "kills": 20,
     "lastKill": "2026-11-08 20:03:26"
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
-    "kills": 20,
-    "lastKill": "2026-11-19 04:38:35"
   },
   {
     "playerId": "19068893",
