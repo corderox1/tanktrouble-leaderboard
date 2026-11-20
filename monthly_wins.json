@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 83251
+    "kills": 83324
   },
   {
     "playerId": "13173087",
@@ -57,12 +57,12 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1443
+    "kills": 1446
   },
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1187
+    "kills": 1203
   },
   {
     "playerId": "8899024",
@@ -92,7 +92,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 928
+    "kills": 938
   },
   {
     "playerId": "12517909",
@@ -102,7 +102,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 842
+    "kills": 849
   },
   {
     "playerId": "3660774",
@@ -167,7 +167,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 566
+    "kills": 568
   },
   {
     "playerId": "12107881",
@@ -200,6 +200,11 @@
     "kills": 465
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 459
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 445
@@ -208,11 +213,6 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 443
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 432
   },
   {
     "playerId": "21180646",
@@ -320,14 +320,14 @@
     "kills": 188
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 171
+  },
+  {
     "playerId": "10251396",
     "username": "vinus",
     "kills": 164
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 161
   },
   {
     "playerId": "16736853",
@@ -365,6 +365,11 @@
     "kills": 144
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 132
+  },
+  {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 123
@@ -373,11 +378,6 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 120
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 119
   },
   {
     "playerId": "21103294",

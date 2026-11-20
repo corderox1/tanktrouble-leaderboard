@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18031
+    "kills": 18104
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 403
+    "kills": 413
   },
   {
     "playerId": "21601349",
@@ -50,19 +50,19 @@
     "kills": 395
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 393
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 381
   },
   {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 377
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 357
+    "kills": 360
   },
   {
     "playerId": "22472796",
@@ -92,7 +92,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 237
+    "kills": 244
   },
   {
     "playerId": "20666777",
@@ -122,7 +122,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 167
+    "kills": 169
   },
   {
     "playerId": "4201869",
@@ -138,6 +138,11 @@
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 144
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 132
   },
   {
     "playerId": "2574833",
@@ -172,16 +177,11 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 106
+    "kills": 119
   },
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 105
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 105
   },
   {
@@ -225,6 +225,11 @@
     "kills": 60
   },
   {
+    "playerId": "21797119",
+    "username": "SilentSpaceSergeant",
+    "kills": 56
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 56
@@ -243,11 +248,6 @@
     "playerId": "20270104",
     "username": "3w0n",
     "kills": 50
-  },
-  {
-    "playerId": "21797119",
-    "username": "SilentSpaceSergeant",
-    "kills": 46
   },
   {
     "playerId": "22727575",
