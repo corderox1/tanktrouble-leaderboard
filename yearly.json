@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 352471,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 352639,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "8590474",
@@ -32,8 +32,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 10763,
-    "lastKill": "2026-11-17 16:18:34"
+    "kills": 10765,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "17629928",
@@ -104,8 +104,8 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 5586,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 5652,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "20984454",
@@ -134,8 +134,8 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 4034,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 4037,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "21452912",
@@ -188,8 +188,8 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 3211,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 3266,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "21178768",
@@ -254,8 +254,8 @@
   {
     "playerId": "3923647",
     "username": "slayer",
-    "kills": 2104,
-    "lastKill": "2026-11-20 00:43:49"
+    "kills": 2120,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "6776098",
@@ -272,8 +272,8 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1986,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 1995,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "22725175",
@@ -308,8 +308,8 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 1787,
-    "lastKill": "2026-11-17 21:06:48"
+    "kills": 1790,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "22744888",
@@ -324,16 +324,16 @@
     "lastKill": "2026-11-10 12:17:13"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 1670,
+    "lastKill": "2026-11-20 22:28:34"
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 1659,
     "lastKill": "2026-10-13 18:33:22"
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 1643,
-    "lastKill": "2026-11-20 19:43:35"
   },
   {
     "playerId": "21940268",
@@ -486,6 +486,12 @@
     "lastKill": "2026-11-05 05:37:05"
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 613,
+    "lastKill": "2026-11-20 22:28:34"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 608,
@@ -528,12 +534,6 @@
     "lastKill": "2026-11-19 05:37:42"
   },
   {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 553,
-    "lastKill": "2026-11-20 21:33:22"
-  },
-  {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
     "kills": 541,
@@ -566,8 +566,14 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 419,
-    "lastKill": "2026-11-20 21:33:22"
+    "kills": 432,
+    "lastKill": "2026-11-20 22:28:34"
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 420,
+    "lastKill": "2026-11-20 22:28:34"
   },
   {
     "playerId": "22053927",
@@ -592,12 +598,6 @@
     "username": "KaneKalon",
     "kills": 384,
     "lastKill": "2026-11-14 12:12:35"
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
-    "kills": 375,
-    "lastKill": "2026-11-17 06:33:32"
   },
   {
     "playerId": "19768925",

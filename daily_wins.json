@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3740
+    "kills": 3852
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 585
+    "kills": 609
   },
   {
     "playerId": "13173087",
@@ -15,14 +15,14 @@
     "kills": 358
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 230
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 188
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 163
   },
   {
     "playerId": "22706369",
@@ -32,7 +32,7 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 126
+    "kills": 152
   },
   {
     "playerId": "21251653",
@@ -87,7 +87,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 47
+    "kills": 53
   },
   {
     "playerId": "20984454",
@@ -115,6 +115,11 @@
     "kills": 37
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 36
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 33
@@ -122,7 +127,12 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 27
+    "kills": 30
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 29
   },
   {
     "playerId": "793356",
@@ -148,11 +158,6 @@
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 19
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 15
   },
   {
     "playerId": "19173281",
@@ -188,6 +193,11 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 9
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 8
   },
   {
     "playerId": "15878197",
@@ -230,6 +240,11 @@
     "kills": 6
   },
   {
+    "playerId": "12107881",
+    "username": "Jaw",
+    "kills": 5
+  },
+  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 5
@@ -247,6 +262,11 @@
   {
     "playerId": "8408190",
     "username": "Invader",
+    "kills": 3
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
     "kills": 3
   },
   {
@@ -330,11 +350,6 @@
     "kills": 0
   },
   {
-    "playerId": "12107881",
-    "username": "Jaw",
-    "kills": 0
-  },
-  {
     "playerId": "19691813",
     "username": "Jhxjan",
     "kills": 0
@@ -372,11 +387,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -447,11 +457,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0
   },
   {
@@ -1047,11 +1052,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
     "kills": 0
   },
   {
