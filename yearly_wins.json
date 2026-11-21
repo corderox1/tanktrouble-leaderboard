@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 277709
+    "kills": 277830
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 9634
+    "kills": 9645
   },
   {
     "playerId": "21601349",
@@ -50,14 +50,14 @@
     "kills": 5033
   },
   {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 4484
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 4483
+    "kills": 4517
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 4512
   },
   {
     "playerId": "8899024",
@@ -67,7 +67,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 3615
+    "kills": 3628
   },
   {
     "playerId": "4381511",
@@ -92,7 +92,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 2888
+    "kills": 2942
   },
   {
     "playerId": "21508277",
@@ -107,7 +107,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2447
+    "kills": 2450
   },
   {
     "playerId": "20984454",
@@ -127,7 +127,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 2209
+    "kills": 2238
   },
   {
     "playerId": "21796745",
@@ -137,7 +137,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1986
+    "kills": 1994
   },
   {
     "playerId": "3990108",
@@ -247,7 +247,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 1168
+    "kills": 1172
   },
   {
     "playerId": "22725175",
@@ -340,14 +340,14 @@
     "kills": 665
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 654
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 648
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 639
   },
   {
     "playerId": "22105718",
@@ -457,7 +457,7 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 275
+    "kills": 276
   },
   {
     "playerId": "22053927",
@@ -750,6 +750,11 @@
     "kills": 15
   },
   {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 14
+  },
+  {
     "playerId": "10132007",
     "username": "scientistt",
     "kills": 13
@@ -792,11 +797,6 @@
   {
     "playerId": "16202507",
     "username": "DaveMadeByDave",
-    "kills": 6
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 6
   },
   {
