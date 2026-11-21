@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22876
+    "kills": 23074
   },
   {
     "playerId": "13173087",
@@ -40,6 +40,11 @@
     "kills": 562
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 542
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 540
@@ -53,11 +58,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 516
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 488
   },
   {
     "playerId": "21465536",
@@ -107,7 +107,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 275
+    "kills": 286
   },
   {
     "playerId": "22053927",
@@ -167,7 +167,7 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 179
+    "kills": 184
   },
   {
     "playerId": "3923647",
@@ -347,12 +347,17 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 26
+    "kills": 29
   },
   {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 23
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 20
   },
   {
     "playerId": "4126899",
@@ -445,6 +450,11 @@
     "kills": 5
   },
   {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 5
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 5
@@ -472,11 +482,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 1
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 1
   },
   {
@@ -1007,11 +1012,6 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
-    "kills": 0
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
     "kills": 0
   },
   {

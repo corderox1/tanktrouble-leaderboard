@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 110224,
-    "lastKill": "2026-11-21 00:23:47"
+    "kills": 110470,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "22710399",
@@ -68,8 +68,8 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 2257,
-    "lastKill": "2026-11-21 00:23:47"
+    "kills": 2315,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "8590474",
@@ -122,8 +122,8 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1472,
-    "lastKill": "2026-11-21 00:23:47"
+    "kills": 1498,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "21465536",
@@ -188,8 +188,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 1103,
-    "lastKill": "2026-11-21 00:23:47"
+    "kills": 1108,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "20269995",
@@ -242,8 +242,8 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 825,
-    "lastKill": "2026-11-20 22:28:34"
+    "kills": 832,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "1185396",
@@ -504,6 +504,12 @@
     "lastKill": "2026-11-19 19:58:40"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 163,
+    "lastKill": "2026-11-21 01:22:12"
+  },
+  {
     "playerId": "19583686",
     "username": "Raxlyr",
     "kills": 161,
@@ -532,12 +538,6 @@
     "username": "itachi",
     "kills": 136,
     "lastKill": "2026-11-10 23:48:20"
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 135,
-    "lastKill": "2026-11-17 04:42:50"
   },
   {
     "playerId": "3162693",
@@ -742,6 +742,12 @@
     "username": "SavageAimbot",
     "kills": 10,
     "lastKill": "2026-11-04 12:33:55"
+  },
+  {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 10,
+    "lastKill": "2026-11-21 01:22:12"
   },
   {
     "playerId": "21957440",
@@ -1268,12 +1274,6 @@
   {
     "playerId": "21739597",
     "username": "Illuminate",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
     "kills": 0,
     "lastKill": null
   },
