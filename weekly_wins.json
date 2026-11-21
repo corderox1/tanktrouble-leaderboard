@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22414
+    "kills": 22527
   },
   {
     "playerId": "13173087",
@@ -18,6 +18,11 @@
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 725
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 585
   },
   {
     "playerId": "4142755",
@@ -40,19 +45,14 @@
     "kills": 522
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 508
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 504
+    "kills": 516
   },
   {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 476
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 510
   },
   {
     "playerId": "21465536",
@@ -62,7 +62,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 460
+    "kills": 461
   },
   {
     "playerId": "22472796",
@@ -112,7 +112,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 245
+    "kills": 252
   },
   {
     "playerId": "20666777",
@@ -125,6 +125,11 @@
     "kills": 231
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 226
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 215
@@ -133,11 +138,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 210
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 207
   },
   {
     "playerId": "18625144",
@@ -187,7 +187,7 @@
   {
     "playerId": "21614515",
     "username": "III__E-74__III",
-    "kills": 127
+    "kills": 130
   },
   {
     "playerId": "3660774",
@@ -270,6 +270,11 @@
     "kills": 63
   },
   {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 62
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 58
@@ -310,9 +315,9 @@
     "kills": 37
   },
   {
-    "playerId": "12331664",
-    "username": "Reds",
-    "kills": 36
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 34
   },
   {
     "playerId": "3808011",
@@ -335,14 +340,9 @@
     "kills": 30
   },
   {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
-    "kills": 29
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 24
+    "kills": 26
   },
   {
     "playerId": "10502780",
