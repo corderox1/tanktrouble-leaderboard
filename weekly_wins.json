@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24134
+    "kills": 24403
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 1314
+    "kills": 1317
   },
   {
     "playerId": "14892840",
@@ -20,14 +20,14 @@
     "kills": 725
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 632
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 611
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 609
   },
   {
     "playerId": "19138057",
@@ -57,7 +57,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 546
+    "kills": 561
   },
   {
     "playerId": "22706369",
@@ -67,7 +67,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 504
+    "kills": 505
   },
   {
     "playerId": "11769746",
@@ -75,14 +75,14 @@
     "kills": 432
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 419
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 398
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 393
   },
   {
     "playerId": "22077521",
@@ -90,14 +90,19 @@
     "kills": 382
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 312
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 307
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 306
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 307
   },
   {
     "playerId": "4381511",
@@ -115,9 +120,9 @@
     "kills": 275
   },
   {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 255
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 241
   },
   {
     "playerId": "20666777",
@@ -135,19 +140,14 @@
     "kills": 229
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 224
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 222
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 222
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 219
   },
   {
     "playerId": "8590474",
@@ -170,14 +170,14 @@
     "kills": 189
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 148
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 140
-  },
-  {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 132
   },
   {
     "playerId": "2885724",
@@ -205,6 +205,11 @@
     "kills": 129
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 122
+  },
+  {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 120
@@ -220,14 +225,9 @@
     "kills": 112
   },
   {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 111
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 103
+    "kills": 105
   },
   {
     "playerId": "21516705",
@@ -290,13 +290,13 @@
     "kills": 50
   },
   {
-    "playerId": "19173281",
-    "username": "citicaca",
-    "kills": 45
-  },
-  {
     "playerId": "20843843",
     "username": "SPEED_XD",
+    "kills": 46
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
     "kills": 45
   },
   {
@@ -323,6 +323,11 @@
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 40
+  },
+  {
+    "playerId": "22651240",
+    "username": "WiIlyWonkaBar",
+    "kills": 39
   },
   {
     "playerId": "6776098",
@@ -422,11 +427,6 @@
   {
     "playerId": "21528366",
     "username": "killermax",
-    "kills": 13
-  },
-  {
-    "playerId": "22651240",
-    "username": "WiIlyWonkaBar",
     "kills": 13
   },
   {
