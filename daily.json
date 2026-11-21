@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3322,
-    "lastKill": "2026-11-21 15:18:31"
+    "kills": 3497,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "22694251",
@@ -12,27 +12,27 @@
     "lastKill": "2026-11-21 12:32:35"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 357,
+    "lastKill": "2026-11-21 16:13:18"
+  },
+  {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 355,
     "lastKill": "2026-11-21 15:18:31"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 354,
-    "lastKill": "2026-11-21 15:18:31"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 347,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 288,
-    "lastKill": "2026-11-21 12:32:35"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 285,
     "lastKill": "2026-11-21 12:32:35"
   },
   {
@@ -102,10 +102,22 @@
     "lastKill": "2026-11-21 11:37:24"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 85,
+    "lastKill": "2026-11-21 16:13:18"
+  },
+  {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 82,
     "lastKill": "2026-11-21 12:32:35"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 78,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "21673346",
@@ -164,8 +176,8 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 52,
-    "lastKill": "2026-11-21 12:32:35"
+    "kills": 53,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "13773720",
@@ -180,22 +192,16 @@
     "lastKill": "2026-11-21 15:18:31"
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 50,
-    "lastKill": "2026-11-21 06:03:11"
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 49,
     "lastKill": "2026-11-21 08:47:17"
   },
   {
-    "playerId": "3990108",
-    "username": "Mandilindors",
-    "kills": 48,
-    "lastKill": "2026-11-21 15:18:31"
+    "playerId": "17136803",
+    "username": "Slatt",
+    "kills": 42,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "22472796",
@@ -240,6 +246,12 @@
     "lastKill": "2026-11-21 06:03:11"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 18,
+    "lastKill": "2026-11-21 16:13:18"
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 13,
@@ -262,6 +274,12 @@
     "username": "Antiserum",
     "kills": 6,
     "lastKill": "2026-11-21 11:37:24"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 5,
+    "lastKill": "2026-11-21 16:13:18"
   },
   {
     "playerId": "13825931",
@@ -354,12 +372,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 0,
@@ -398,12 +410,6 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17136803",
-    "username": "Slatt",
     "kills": 0,
     "lastKill": null
   },
@@ -506,12 +512,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": null
   },
