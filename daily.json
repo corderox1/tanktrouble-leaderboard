@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 662,
-    "lastKill": "2026-11-21 03:12:28"
+    "kills": 852,
+    "lastKill": "2026-11-21 04:12:08"
   },
   {
     "playerId": "21452912",
@@ -24,16 +24,28 @@
     "lastKill": "2026-11-21 02:17:29"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 58,
+    "lastKill": "2026-11-21 04:12:08"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 28,
     "lastKill": "2026-11-21 01:22:12"
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 19,
-    "lastKill": "2026-11-21 02:17:29"
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 24,
+    "lastKill": "2026-11-21 04:12:08"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 18,
+    "lastKill": "2026-11-21 04:12:08"
   },
   {
     "playerId": "8408190",
@@ -54,22 +66,22 @@
     "lastKill": "2026-11-21 03:12:28"
   },
   {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 7,
-    "lastKill": "2026-11-21 03:12:28"
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 5,
-    "lastKill": "2026-11-21 03:12:28"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 4,
     "lastKill": "2026-11-21 03:12:28"
+  },
+  {
+    "playerId": "13825931",
+    "username": "Tigers786",
+    "kills": 3,
+    "lastKill": "2026-11-21 04:12:08"
+  },
+  {
+    "playerId": "21890228",
+    "username": "tsk",
+    "kills": 2,
+    "lastKill": "2026-11-21 04:12:08"
   },
   {
     "playerId": "22710399",
@@ -702,12 +714,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13825931",
-    "username": "Tigers786",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "9284633",
     "username": "Batrizxya",
     "kills": 0,
@@ -1328,12 +1334,6 @@
   {
     "playerId": "21317975",
     "username": "NovaCore",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21890228",
-    "username": "tsk",
     "kills": 0,
     "lastKill": null
   },

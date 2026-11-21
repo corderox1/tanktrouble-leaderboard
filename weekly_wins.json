@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23377
+    "kills": 23545
   },
   {
     "playerId": "13173087",
@@ -310,6 +310,11 @@
     "kills": 40
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 38
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 37
@@ -328,11 +333,6 @@
     "playerId": "3808011",
     "username": "gg",
     "kills": 32
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 31
   },
   {
     "playerId": "20869330",
@@ -415,6 +415,11 @@
     "kills": 12
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 12
+  },
+  {
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 11
@@ -425,24 +430,19 @@
     "kills": 11
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 8
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 11
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
+    "playerId": "22042037",
+    "username": "N-A",
     "kills": 8
   },
   {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 8
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 7
   },
   {
     "playerId": "22081323",
@@ -478,6 +478,11 @@
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 3
+  },
+  {
+    "playerId": "13825931",
+    "username": "Tigers786",
+    "kills": 2
   },
   {
     "playerId": "8779272",
@@ -782,11 +787,6 @@
   {
     "playerId": "7559374",
     "username": "Catalyst",
-    "kills": 0
-  },
-  {
-    "playerId": "13825931",
-    "username": "Tigers786",
     "kills": 0
   },
   {

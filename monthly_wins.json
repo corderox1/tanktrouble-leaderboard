@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 88597
+    "kills": 88765
   },
   {
     "playerId": "13173087",
@@ -350,14 +350,14 @@
     "kills": 188
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 168
+  },
+  {
     "playerId": "10251396",
     "username": "vinus",
     "kills": 164
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 161
   },
   {
     "playerId": "16736853",
@@ -442,7 +442,7 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 75
+    "kills": 79
   },
   {
     "playerId": "19583686",
@@ -520,13 +520,13 @@
     "kills": 41
   },
   {
-    "playerId": "878689",
-    "username": "Gentleman",
-    "kills": 37
-  },
-  {
     "playerId": "21673346",
     "username": "KaneKalon",
+    "kills": 41
+  },
+  {
+    "playerId": "878689",
+    "username": "Gentleman",
     "kills": 37
   },
   {
@@ -600,6 +600,11 @@
     "kills": 8
   },
   {
+    "playerId": "13825931",
+    "username": "Tigers786",
+    "kills": 7
+  },
+  {
     "playerId": "21890228",
     "username": "tsk",
     "kills": 7
@@ -618,11 +623,6 @@
     "playerId": "3447584",
     "username": "Will-Men",
     "kills": 6
-  },
-  {
-    "playerId": "13825931",
-    "username": "Tigers786",
-    "kills": 5
   },
   {
     "playerId": "19768925",
