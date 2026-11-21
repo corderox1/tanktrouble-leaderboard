@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35402131,
-    "kills": 44547552,
-    "deaths": 42052665,
-    "suicides": 9439235,
+    "victories": 35402326,
+    "kills": 44547734,
+    "deaths": 42052865,
+    "suicides": 9439284,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140605,
-    "kills": 194125,
-    "deaths": 192107,
-    "suicides": 49079,
+    "victories": 140606,
+    "kills": 194127,
+    "deaths": 192108,
+    "suicides": 49080,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2101,7 +2101,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765340933,
-    "lastLogin": 1795155017,
+    "lastLogin": 1795228334,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2697,10 +2697,10 @@
   {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
-    "victories": 12550,
-    "kills": 24388,
-    "deaths": 24447,
-    "suicides": 5136,
+    "victories": 12556,
+    "kills": 24408,
+    "deaths": 24479,
+    "suicides": 5139,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2738,7 +2738,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1728937767,
-    "lastLogin": 1795137199,
+    "lastLogin": 1795227136,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 22286,
-    "kills": 32444,
-    "deaths": 26564,
-    "suicides": 6878,
+    "victories": 22289,
+    "kills": 32448,
+    "deaths": 26566,
+    "suicides": 6879,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1795118652,
+    "lastLogin": 1795226927,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66569,
-    "kills": 140470,
-    "deaths": 99725,
-    "suicides": 30974,
+    "victories": 66573,
+    "kills": 140478,
+    "deaths": 99737,
+    "suicides": 30981,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7254,10 +7254,10 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "victories": 53728,
-    "kills": 89099,
-    "deaths": 76496,
-    "suicides": 14984,
+    "victories": 53767,
+    "kills": 89142,
+    "deaths": 76584,
+    "suicides": 14997,
     "experience": 19648,
     "surrenders": 0,
     "turretColour": {
@@ -10096,10 +10096,10 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "victories": 2805,
-    "kills": 4206,
-    "deaths": 4144,
-    "suicides": 1058,
+    "victories": 2824,
+    "kills": 4232,
+    "deaths": 4158,
+    "suicides": 1060,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10439,10 +10439,10 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "victories": 42432,
-    "kills": 66182,
-    "deaths": 59082,
-    "suicides": 14759,
+    "victories": 42503,
+    "kills": 66260,
+    "deaths": 59143,
+    "suicides": 14777,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10480,7 +10480,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1590271251,
-    "lastLogin": 1795221183,
+    "lastLogin": 1795228663,
     "banned": false,
     "usernameApproved": true,
     "country": null

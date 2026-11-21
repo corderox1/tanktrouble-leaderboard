@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 22219
+    "kills": 22414
   },
   {
     "playerId": "13173087",
@@ -42,12 +42,17 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 507
+    "kills": 508
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 504
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 476
   },
   {
     "playerId": "21465536",
@@ -63,11 +68,6 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 447
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 437
   },
   {
     "playerId": "21601349",
@@ -110,6 +110,11 @@
     "kills": 269
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 245
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 235
@@ -120,11 +125,6 @@
     "kills": 231
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 226
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 215
@@ -133,6 +133,11 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 210
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 207
   },
   {
     "playerId": "18625144",
@@ -157,17 +162,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 160
+    "kills": 163
   },
   {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 155
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 136
   },
   {
     "playerId": "2885724",
@@ -305,14 +305,14 @@
     "kills": 40
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 37
+  },
+  {
     "playerId": "12331664",
     "username": "Reds",
     "kills": 36
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 33
   },
   {
     "playerId": "3808011",
@@ -335,6 +335,11 @@
     "kills": 30
   },
   {
+    "playerId": "19932455",
+    "username": "MACHOSOLTERO",
+    "kills": 29
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 24
@@ -342,11 +347,6 @@
   {
     "playerId": "10502780",
     "username": "No_Ammo",
-    "kills": 23
-  },
-  {
-    "playerId": "19932455",
-    "username": "MACHOSOLTERO",
     "kills": 23
   },
   {
