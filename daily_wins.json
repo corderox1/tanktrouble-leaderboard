@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 806
+    "kills": 920
   },
   {
     "playerId": "21452912",
@@ -10,14 +10,39 @@
     "kills": 123
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 69
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 62
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 39
+    "kills": 50
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 50
+  },
+  {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 43
   },
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 33
+    "kills": 39
+  },
+  {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 31
   },
   {
     "playerId": "22757188",
@@ -25,14 +50,14 @@
     "kills": 31
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 26
-  },
-  {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 22
+    "kills": 25
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 23
   },
   {
     "playerId": "22716354",
@@ -40,9 +65,19 @@
     "kills": 19
   },
   {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
-    "kills": 19
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 17
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 16
+  },
+  {
+    "playerId": "22081323",
+    "username": "WifiSciFi",
+    "kills": 15
   },
   {
     "playerId": "8408190",
@@ -57,12 +92,7 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 13
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 12
+    "kills": 14
   },
   {
     "playerId": "21890228",
@@ -73,21 +103,6 @@
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 8
-  },
-  {
-    "playerId": "22081323",
-    "username": "WifiSciFi",
-    "kills": 6
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 4
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 4
   },
   {
     "playerId": "9066291",
@@ -377,11 +392,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
@@ -810,11 +820,6 @@
     "kills": 0
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0
@@ -987,11 +992,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {
