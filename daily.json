@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 246,
-    "lastKill": "2026-11-21 01:22:12"
+    "kills": 463,
+    "lastKill": "2026-11-21 02:17:29"
   },
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 58,
-    "lastKill": "2026-11-21 01:22:12"
+    "kills": 118,
+    "lastKill": "2026-11-21 02:17:29"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 87,
+    "lastKill": "2026-11-21 02:17:29"
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 78,
+    "lastKill": "2026-11-21 02:17:29"
   },
   {
     "playerId": "15931599",
@@ -18,28 +30,34 @@
     "lastKill": "2026-11-21 01:22:12"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 26,
-    "lastKill": "2026-11-21 01:22:12"
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 19,
+    "lastKill": "2026-11-21 02:17:29"
   },
   {
     "playerId": "22081323",
     "username": "WifiSciFi",
-    "kills": 10,
-    "lastKill": "2026-11-21 01:22:12"
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 7,
-    "lastKill": "2026-11-21 01:22:12"
+    "kills": 13,
+    "lastKill": "2026-11-21 02:17:29"
   },
   {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 5,
     "lastKill": "2026-11-21 01:22:12"
+  },
+  {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 5,
+    "lastKill": "2026-11-21 02:17:29"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 2,
+    "lastKill": "2026-11-21 02:17:29"
   },
   {
     "playerId": "22710399",
@@ -464,12 +482,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0,
     "lastKill": null
   },
@@ -1214,18 +1226,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0,
     "lastKill": null
   },
