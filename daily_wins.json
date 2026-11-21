@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1041
+    "kills": 1258
   },
   {
     "playerId": "21452912",
@@ -30,6 +30,11 @@
     "kills": 73
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 72
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 57
@@ -52,7 +57,17 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 40
+    "kills": 43
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 35
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 34
   },
   {
     "playerId": "22757188",
@@ -63,11 +78,6 @@
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 25
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 19
   },
   {
     "playerId": "20984454",
@@ -100,23 +110,18 @@
     "kills": 14
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 11
-  },
-  {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 10
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 8
+    "kills": 14
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
+    "kills": 12
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
     "kills": 8
   },
   {
@@ -132,6 +137,11 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 3
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
     "kills": 3
   },
   {
@@ -985,11 +995,6 @@
     "kills": 0
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 0
-  },
-  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 0
@@ -1077,11 +1082,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 0
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
     "kills": 0
   },
   {

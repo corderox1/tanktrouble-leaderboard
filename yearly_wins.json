@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 277830
+    "kills": 278047
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 9645
+    "kills": 9706
   },
   {
     "playerId": "21601349",
@@ -107,7 +107,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 2450
+    "kills": 2465
   },
   {
     "playerId": "20984454",
@@ -137,7 +137,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1994
+    "kills": 1998
   },
   {
     "playerId": "3990108",
@@ -390,6 +390,11 @@
     "kills": 429
   },
   {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 423
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 405
@@ -410,18 +415,13 @@
     "kills": 388
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 388
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 358
   },
   {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
-    "kills": 355
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
     "kills": 355
   },
   {
@@ -457,7 +457,7 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 276
+    "kills": 279
   },
   {
     "playerId": "22053927",
@@ -725,6 +725,11 @@
     "kills": 27
   },
   {
+    "playerId": "21890228",
+    "username": "tsk",
+    "kills": 21
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 19
@@ -732,11 +737,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 17
-  },
-  {
-    "playerId": "21890228",
-    "username": "tsk",
     "kills": 17
   },
   {
