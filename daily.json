@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3179,
-    "lastKill": "2026-11-21 14:22:41"
+    "kills": 3322,
+    "lastKill": "2026-11-21 15:18:31"
   },
   {
     "playerId": "22694251",
@@ -14,14 +14,14 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 354,
-    "lastKill": "2026-11-21 14:22:41"
+    "kills": 355,
+    "lastKill": "2026-11-21 15:18:31"
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 351,
-    "lastKill": "2026-11-21 14:22:41"
+    "kills": 354,
+    "lastKill": "2026-11-21 15:18:31"
   },
   {
     "playerId": "8870546",
@@ -90,16 +90,16 @@
     "lastKill": "2026-11-21 06:58:23"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 106,
+    "lastKill": "2026-11-21 15:18:31"
+  },
+  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
     "kills": 94,
     "lastKill": "2026-11-21 11:37:24"
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 85,
-    "lastKill": "2026-11-21 14:22:41"
   },
   {
     "playerId": "22651240",
@@ -120,16 +120,16 @@
     "lastKill": "2026-11-21 11:37:24"
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 66,
+    "lastKill": "2026-11-21 15:18:31"
+  },
+  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 65,
     "lastKill": "2026-11-21 05:08:40"
-  },
-  {
-    "playerId": "21251653",
-    "username": "Antikure",
-    "kills": 61,
-    "lastKill": "2026-11-21 09:43:28"
   },
   {
     "playerId": "8590474",
@@ -174,22 +174,28 @@
     "lastKill": "2026-11-21 13:27:37"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 50,
+    "lastKill": "2026-11-21 15:18:31"
+  },
+  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 50,
     "lastKill": "2026-11-21 06:03:11"
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 49,
-    "lastKill": "2026-11-21 14:22:41"
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 49,
     "lastKill": "2026-11-21 08:47:17"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 48,
+    "lastKill": "2026-11-21 15:18:31"
   },
   {
     "playerId": "22472796",
@@ -506,12 +512,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },
