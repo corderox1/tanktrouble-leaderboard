@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 90195
+    "kills": 90443
   },
   {
     "playerId": "13173087",
@@ -20,9 +20,14 @@
     "kills": 2907
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 2630
+  },
+  {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 2565
+    "kills": 2589
   },
   {
     "playerId": "22710399",
@@ -30,14 +35,9 @@
     "kills": 2547
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 2539
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 2492
+    "kills": 2493
   },
   {
     "playerId": "20666777",
@@ -72,7 +72,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 1235
+    "kills": 1248
   },
   {
     "playerId": "22706369",
@@ -105,14 +105,14 @@
     "kills": 992
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 881
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 872
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 861
   },
   {
     "playerId": "20269995",
@@ -170,6 +170,11 @@
     "kills": 657
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 604
+  },
+  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 592
@@ -183,11 +188,6 @@
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 567
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 563
   },
   {
     "playerId": "22105718",
@@ -250,6 +250,11 @@
     "kills": 383
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 378
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 377
@@ -270,24 +275,19 @@
     "kills": 340
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 337
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 318
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 315
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 307
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 296
   },
   {
     "playerId": "21609912",
@@ -370,6 +370,11 @@
     "kills": 150
   },
   {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 150
+  },
+  {
     "playerId": "21251653",
     "username": "Antikure",
     "kills": 147
@@ -388,11 +393,6 @@
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 136
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 128
   },
   {
     "playerId": "21940268",
@@ -418,6 +418,11 @@
     "playerId": "15878197",
     "username": "kamarov",
     "kills": 116
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 99
   },
   {
     "playerId": "20101050",
@@ -485,11 +490,6 @@
     "kills": 54
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 54
-  },
-  {
     "playerId": "3617624",
     "username": "Envy",
     "kills": 52
@@ -507,7 +507,7 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 46
+    "kills": 48
   },
   {
     "playerId": "22727575",
@@ -585,6 +585,11 @@
     "kills": 14
   },
   {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 13
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 13
@@ -608,11 +613,6 @@
     "playerId": "8478955",
     "username": "Boagrius",
     "kills": 11
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 10
   },
   {
     "playerId": "13825931",

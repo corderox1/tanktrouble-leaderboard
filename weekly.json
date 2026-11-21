@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 31641,
-    "lastKill": "2026-11-21 09:43:28"
+    "kills": 32025,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1781,
-    "lastKill": "2026-11-21 09:43:28"
+    "kills": 1828,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "13173087",
@@ -44,14 +44,20 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 1150,
-    "lastKill": "2026-11-21 08:47:17"
+    "kills": 1154,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 977,
     "lastKill": "2026-11-20 23:23:41"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 954,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "21452912",
@@ -78,46 +84,40 @@
     "lastKill": "2026-11-21 00:23:47"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 875,
-    "lastKill": "2026-11-21 09:43:28"
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 785,
     "lastKill": "2026-11-21 06:03:11"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 682,
-    "lastKill": "2026-11-21 09:43:28"
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 675,
-    "lastKill": "2026-11-21 09:43:28"
+    "kills": 767,
+    "lastKill": "2026-11-21 10:42:32"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 721,
+    "lastKill": "2026-11-21 10:42:32"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 671,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 595,
-    "lastKill": "2026-11-21 06:58:23"
+    "kills": 632,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 591,
     "lastKill": "2026-11-21 08:47:17"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 585,
-    "lastKill": "2026-11-21 09:43:28"
   },
   {
     "playerId": "8870546",
@@ -234,6 +234,12 @@
     "lastKill": "2026-11-21 09:43:28"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 244,
+    "lastKill": "2026-11-21 10:42:32"
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 244,
@@ -270,12 +276,6 @@
     "lastKill": "2026-11-18 22:03:52"
   },
   {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 188,
-    "lastKill": "2026-11-20 23:23:41"
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 186,
@@ -300,6 +300,12 @@
     "lastKill": "2026-11-18 20:08:44"
   },
   {
+    "playerId": "20843843",
+    "username": "SPEED_XD",
+    "kills": 154,
+    "lastKill": "2026-11-21 10:42:32"
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 153,
@@ -322,12 +328,6 @@
     "username": "SilentSpaceSergeant",
     "kills": 132,
     "lastKill": "2026-11-20 14:55:47"
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
-    "kills": 130,
-    "lastKill": "2026-11-21 09:43:28"
   },
   {
     "playerId": "6776098",
@@ -378,6 +378,12 @@
     "lastKill": "2026-11-20 22:28:34"
   },
   {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 77,
+    "lastKill": "2026-11-21 10:42:32"
+  },
+  {
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 77,
@@ -420,22 +426,16 @@
     "lastKill": "2026-11-21 06:03:11"
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 53,
-    "lastKill": "2026-11-21 06:03:11"
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 55,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 51,
     "lastKill": "2026-11-21 06:03:11"
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
-    "kills": 51,
-    "lastKill": "2026-11-20 18:43:41"
   },
   {
     "playerId": "1177269",
@@ -484,6 +484,12 @@
     "username": "purup",
     "kills": 30,
     "lastKill": "2026-11-19 05:37:42"
+  },
+  {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 30,
+    "lastKill": "2026-11-21 10:42:32"
   },
   {
     "playerId": "21940268",
@@ -562,12 +568,6 @@
     "username": "RDCGAMER",
     "kills": 10,
     "lastKill": "2026-11-17 18:13:38"
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 10,
-    "lastKill": "2026-11-21 09:43:28"
   },
   {
     "playerId": "22042037",
