@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4315,
-    "lastKill": "2026-11-21 20:57:39"
+    "kills": 4437,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 439,
-    "lastKill": "2026-11-21 20:57:39"
+    "kills": 442,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 402,
-    "lastKill": "2026-11-21 20:57:39"
+    "kills": 442,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "11769746",
@@ -48,10 +48,16 @@
     "lastKill": "2026-11-21 19:03:35"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 268,
+    "lastKill": "2026-11-21 21:53:35"
+  },
+  {
     "playerId": "2885724",
     "username": "Tankyy",
-    "kills": 248,
-    "lastKill": "2026-11-21 20:57:39"
+    "kills": 251,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "21465536",
@@ -72,10 +78,16 @@
     "lastKill": "2026-11-21 12:32:35"
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 195,
-    "lastKill": "2026-11-21 20:57:39"
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 187,
+    "lastKill": "2026-11-21 21:53:35"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 185,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "20843843",
@@ -84,22 +96,10 @@
     "lastKill": "2026-11-21 11:37:24"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 171,
-    "lastKill": "2026-11-21 20:57:39"
-  },
-  {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
     "kills": 148,
     "lastKill": "2026-11-21 20:02:44"
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 148,
-    "lastKill": "2026-11-21 20:57:39"
   },
   {
     "playerId": "22716354",
@@ -162,16 +162,16 @@
     "lastKill": "2026-11-21 12:32:35"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 81,
+    "lastKill": "2026-11-21 21:53:35"
+  },
+  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 78,
     "lastKill": "2026-11-21 16:13:18"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 78,
-    "lastKill": "2026-11-21 20:57:39"
   },
   {
     "playerId": "21673346",
@@ -184,6 +184,12 @@
     "username": "Sangpi",
     "kills": 75,
     "lastKill": "2026-11-21 20:57:39"
+  },
+  {
+    "playerId": "19173281",
+    "username": "citicaca",
+    "kills": 69,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "20984454",
@@ -222,6 +228,12 @@
     "lastKill": "2026-11-21 14:22:41"
   },
   {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 53,
+    "lastKill": "2026-11-21 21:53:35"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 50,
@@ -238,12 +250,6 @@
     "username": "frogcatchflies",
     "kills": 48,
     "lastKill": "2026-11-21 19:03:35"
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
-    "kills": 45,
-    "lastKill": "2026-11-21 20:57:39"
   },
   {
     "playerId": "22472796",
@@ -290,8 +296,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 10,
-    "lastKill": "2026-11-21 08:47:17"
+    "kills": 12,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "4201869",
@@ -328,6 +334,12 @@
     "username": "III__E-74__III",
     "kills": 2,
     "lastKill": "2026-11-21 20:57:39"
+  },
+  {
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 1,
+    "lastKill": "2026-11-21 21:53:35"
   },
   {
     "playerId": "3447584",
@@ -422,12 +434,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0,
     "lastKill": null
   },
@@ -1232,12 +1238,6 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19173281",
-    "username": "citicaca",
     "kills": 0,
     "lastKill": null
   },
