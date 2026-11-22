@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 589,
-    "lastKill": "2026-11-22 03:34:16"
+    "kills": 840,
+    "lastKill": "2026-11-22 04:32:53"
   },
   {
     "playerId": "14617724",
@@ -24,10 +24,22 @@
     "lastKill": "2026-11-22 02:38:26"
   },
   {
+    "playerId": "22845692",
+    "username": "vincible",
+    "kills": 57,
+    "lastKill": "2026-11-22 04:32:53"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 55,
+    "lastKill": "2026-11-22 04:32:53"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 46,
-    "lastKill": "2026-11-22 03:34:16"
+    "kills": 55,
+    "lastKill": "2026-11-22 04:32:53"
   },
   {
     "playerId": "22716354",
@@ -42,12 +54,6 @@
     "lastKill": "2026-11-22 03:34:16"
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 33,
-    "lastKill": "2026-11-22 01:43:12"
-  },
-  {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 28,
@@ -60,15 +66,15 @@
     "lastKill": "2026-11-22 03:34:16"
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 24,
+    "lastKill": "2026-11-22 04:32:53"
+  },
+  {
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 15,
-    "lastKill": "2026-11-22 03:34:16"
-  },
-  {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 12,
     "lastKill": "2026-11-22 03:34:16"
   },
   {
@@ -76,6 +82,12 @@
     "username": "YahyatheBest",
     "kills": 10,
     "lastKill": "2026-11-22 02:38:26"
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 8,
+    "lastKill": "2026-11-22 04:32:53"
   },
   {
     "playerId": "9066291",
@@ -1224,12 +1236,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22735235",
-    "username": "wo0",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1177269",
     "username": "Redwind",
     "kills": 0,
@@ -1256,12 +1262,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22845692",
-    "username": "vincible",
     "kills": 0,
     "lastKill": null
   },
