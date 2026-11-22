@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 840,
-    "lastKill": "2026-11-22 04:32:53"
+    "kills": 1119,
+    "lastKill": "2026-11-22 05:27:44"
   },
   {
     "playerId": "14617724",
@@ -24,10 +24,16 @@
     "lastKill": "2026-11-22 02:38:26"
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 75,
+    "lastKill": "2026-11-22 05:27:44"
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 57,
-    "lastKill": "2026-11-22 04:32:53"
+    "kills": 62,
+    "lastKill": "2026-11-22 05:27:44"
   },
   {
     "playerId": "22809750",
@@ -52,12 +58,6 @@
     "username": "KringeKing",
     "kills": 40,
     "lastKill": "2026-11-22 03:34:16"
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 28,
-    "lastKill": "2026-11-22 01:43:12"
   },
   {
     "playerId": "15931599",
@@ -96,6 +96,18 @@
     "lastKill": "2026-11-22 03:34:16"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 1,
+    "lastKill": "2026-11-22 05:27:44"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1,
+    "lastKill": "2026-11-22 05:27:44"
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 0,
@@ -122,12 +134,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0,
     "lastKill": null
   },
@@ -890,12 +896,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 623
+    "kills": 832
   },
   {
     "playerId": "12517909",
@@ -22,7 +22,12 @@
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 51
+    "kills": 55
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 52
   },
   {
     "playerId": "22716354",
@@ -55,11 +60,6 @@
     "kills": 16
   },
   {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 9
-  },
-  {
     "playerId": "21956820",
     "username": "KringeKing",
     "kills": 8
@@ -83,6 +83,11 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 2
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -747,11 +752,6 @@
   {
     "playerId": "20101050",
     "username": "Brainrot",
-    "kills": 0
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
     "kills": 0
   },
   {
