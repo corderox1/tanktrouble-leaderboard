@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 28345
+    "kills": 28487
   },
   {
     "playerId": "13173087",
@@ -50,6 +50,11 @@
     "kills": 628
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 623
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 611
@@ -58,11 +63,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 606
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 595
   },
   {
     "playerId": "8899024",
@@ -122,12 +122,12 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "kills": 307
+    "kills": 317
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 299
+    "kills": 300
   },
   {
     "playerId": "12222122",
@@ -145,13 +145,13 @@
     "kills": 259
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 253
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 257
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 253
   },
   {
@@ -207,7 +207,7 @@
   {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
-    "kills": 150
+    "kills": 152
   },
   {
     "playerId": "3923647",
@@ -232,7 +232,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 126
+    "kills": 128
   },
   {
     "playerId": "20011985",
@@ -252,7 +252,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 117
+    "kills": 119
   },
   {
     "playerId": "20843843",
@@ -405,6 +405,11 @@
     "kills": 21
   },
   {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 21
+  },
+  {
     "playerId": "4126899",
     "username": "Tankerous",
     "kills": 17
@@ -423,11 +428,6 @@
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 15
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
-    "kills": 14
   },
   {
     "playerId": "12107881",
