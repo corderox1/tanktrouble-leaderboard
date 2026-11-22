@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3500,
-    "lastKill": "2026-11-22 15:48:34"
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 359,
-    "lastKill": "2026-11-22 14:52:54"
+    "kills": 3730,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 319,
-    "lastKill": "2026-11-22 15:48:34"
+    "kills": 380,
+    "lastKill": "2026-11-22 16:47:42"
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 361,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "13173087",
@@ -40,6 +40,12 @@
     "username": "Astra",
     "kills": 171,
     "lastKill": "2026-11-22 02:38:26"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 167,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "22845692",
@@ -72,12 +78,6 @@
     "lastKill": "2026-11-22 02:38:26"
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 112,
-    "lastKill": "2026-11-22 15:48:34"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 107,
@@ -92,8 +92,14 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 84,
-    "lastKill": "2026-11-22 15:48:34"
+    "kills": 87,
+    "lastKill": "2026-11-22 16:47:42"
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 78,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "8502796",
@@ -130,6 +136,12 @@
     "username": "Master_T-54",
     "kills": 55,
     "lastKill": "2026-11-22 04:32:53"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 53,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "20269995",
@@ -204,16 +216,16 @@
     "lastKill": "2026-11-22 12:03:23"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 17,
-    "lastKill": "2026-11-22 11:07:43"
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 16,
     "lastKill": "2026-11-22 10:08:22"
+  },
+  {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 15,
+    "lastKill": "2026-11-22 16:47:42"
   },
   {
     "playerId": "22727575",
@@ -222,16 +234,16 @@
     "lastKill": "2026-11-22 03:34:16"
   },
   {
+    "playerId": "17794648",
+    "username": "Quser",
+    "kills": 12,
+    "lastKill": "2026-11-22 16:47:42"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 11,
     "lastKill": "2026-11-22 13:57:43"
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 10,
-    "lastKill": "2026-11-22 15:48:34"
   },
   {
     "playerId": "12478286",
@@ -828,12 +840,6 @@
     "lastKill": null
   },
   {
-    "playerId": "17794648",
-    "username": "Quser",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 0,
@@ -1208,12 +1214,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0,
     "lastKill": null
   },

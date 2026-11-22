@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29915
+    "kills": 30118
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 885
+    "kills": 906
   },
   {
     "playerId": "17629928",
@@ -35,14 +35,14 @@
     "kills": 774
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 707
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 695
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 675
   },
   {
     "playerId": "12517909",
@@ -62,7 +62,7 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 626
+    "kills": 627
   },
   {
     "playerId": "21452912",
@@ -75,14 +75,14 @@
     "kills": 606
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 597
+  },
+  {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 587
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 577
   },
   {
     "playerId": "22706369",
@@ -107,7 +107,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 456
+    "kills": 460
   },
   {
     "playerId": "22694251",
@@ -165,14 +165,14 @@
     "kills": 253
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 251
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 244
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 217
   },
   {
     "playerId": "8408190",
@@ -475,6 +475,11 @@
     "kills": 9
   },
   {
+    "playerId": "17794648",
+    "username": "Quser",
+    "kills": 9
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 8
@@ -482,6 +487,11 @@
   {
     "playerId": "22042037",
     "username": "N-A",
+    "kills": 8
+  },
+  {
+    "playerId": "9184666",
+    "username": "-I-",
     "kills": 8
   },
   {
@@ -820,11 +830,6 @@
     "kills": 0
   },
   {
-    "playerId": "17794648",
-    "username": "Quser",
-    "kills": 0
-  },
-  {
     "playerId": "16735132",
     "username": "heckerwastaken",
     "kills": 0
@@ -1072,11 +1077,6 @@
   {
     "playerId": "20645553",
     "username": "999",
-    "kills": 0
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 0
   },
   {
