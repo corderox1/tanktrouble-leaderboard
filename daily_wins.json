@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2802
+    "kills": 2862
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 226
+    "kills": 244
   },
   {
     "playerId": "8870546",
@@ -30,6 +30,11 @@
     "kills": 146
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 115
+  },
+  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 110
@@ -40,9 +45,9 @@
     "kills": 94
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 92
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 90
   },
   {
     "playerId": "17629928",
@@ -63,6 +68,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 67
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 60
   },
   {
     "playerId": "22716354",
@@ -95,19 +105,9 @@
     "kills": 46
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 42
-  },
-  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 35
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 33
   },
   {
     "playerId": "21508277",
@@ -135,6 +135,11 @@
     "kills": 24
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 24
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 22
@@ -155,6 +160,11 @@
     "kills": 20
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 20
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 19
@@ -163,11 +173,6 @@
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 18
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 15
   },
   {
     "playerId": "21940268",
@@ -192,11 +197,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 8
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
     "kills": 8
   },
   {
