@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1412,
-    "lastKill": "2026-11-22 06:22:22"
+    "kills": 1512,
+    "lastKill": "2026-11-22 07:17:21"
   },
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 173,
-    "lastKill": "2026-11-22 06:22:22"
+    "kills": 200,
+    "lastKill": "2026-11-22 07:17:21"
   },
   {
     "playerId": "14617724",
@@ -24,16 +24,16 @@
     "lastKill": "2026-11-22 03:34:16"
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 131,
+    "lastKill": "2026-11-22 07:17:21"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 126,
     "lastKill": "2026-11-22 02:38:26"
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 104,
-    "lastKill": "2026-11-22 06:22:22"
   },
   {
     "playerId": "22845692",
@@ -78,22 +78,28 @@
     "lastKill": "2026-11-22 04:32:53"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 21,
+    "lastKill": "2026-11-22 07:17:21"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 15,
     "lastKill": "2026-11-22 06:22:22"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 15,
+    "lastKill": "2026-11-22 07:17:21"
+  },
+  {
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 15,
     "lastKill": "2026-11-22 03:34:16"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 11,
-    "lastKill": "2026-11-22 06:22:22"
   },
   {
     "playerId": "19068893",
@@ -860,12 +866,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },
