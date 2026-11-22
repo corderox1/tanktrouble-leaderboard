@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 118186,
-    "lastKill": "2026-11-22 13:57:43"
+    "kills": 118360,
+    "lastKill": "2026-11-22 14:52:54"
   },
   {
     "playerId": "13173087",
@@ -30,16 +30,16 @@
     "lastKill": "2026-11-21 10:42:32"
   },
   {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 4594,
-    "lastKill": "2026-11-22 13:57:43"
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 4584,
-    "lastKill": "2026-11-22 13:57:43"
+    "kills": 4648,
+    "lastKill": "2026-11-22 14:52:54"
+  },
+  {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 4645,
+    "lastKill": "2026-11-22 14:52:54"
   },
   {
     "playerId": "20666777",
@@ -116,8 +116,8 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 1814,
-    "lastKill": "2026-11-22 11:07:43"
+    "kills": 1819,
+    "lastKill": "2026-11-22 14:52:54"
   },
   {
     "playerId": "3660774",
@@ -174,6 +174,12 @@
     "lastKill": "2026-11-22 12:03:23"
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 1260,
+    "lastKill": "2026-11-22 14:52:54"
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1254,
@@ -190,12 +196,6 @@
     "username": "ISAH",
     "kills": 1251,
     "lastKill": "2026-11-22 10:08:22"
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 1194,
-    "lastKill": "2026-11-22 13:57:43"
   },
   {
     "playerId": "8408190",
@@ -216,16 +216,16 @@
     "lastKill": "2026-11-22 11:07:43"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1036,
+    "lastKill": "2026-11-22 14:52:54"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 1026,
     "lastKill": "2026-11-22 09:08:31"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 1021,
-    "lastKill": "2026-11-22 13:57:43"
   },
   {
     "playerId": "2885724",
