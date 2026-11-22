@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2348
+    "kills": 2599
   },
   {
     "playerId": "8870546",
@@ -10,14 +10,14 @@
     "kills": 218
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 194
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 166
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 160
   },
   {
     "playerId": "22053927",
@@ -37,12 +37,12 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 91
+    "kills": 94
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 86
+    "kills": 87
   },
   {
     "playerId": "14617724",
@@ -55,6 +55,11 @@
     "kills": 75
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 71
+  },
+  {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 67
@@ -65,14 +70,14 @@
     "kills": 59
   },
   {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 57
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 52
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 49
   },
   {
     "playerId": "20269995",
@@ -150,6 +155,11 @@
     "kills": 18
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 15
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 13
@@ -160,9 +170,19 @@
     "kills": 13
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 12
+  },
+  {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
     "kills": 9
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 8
   },
   {
     "playerId": "21956820",
@@ -213,11 +233,6 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 2
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -277,11 +292,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 0
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
     "kills": 0
   },
   {
@@ -532,11 +542,6 @@
   {
     "playerId": "21012136",
     "username": "small-li",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {
@@ -822,11 +827,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0
   },
   {
