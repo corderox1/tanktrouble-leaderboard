@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 424,
-    "lastKill": "2026-11-22 02:38:26"
+    "kills": 589,
+    "lastKill": "2026-11-22 03:34:16"
   },
   {
     "playerId": "14617724",
@@ -12,16 +12,22 @@
     "lastKill": "2026-11-22 02:38:26"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 145,
+    "lastKill": "2026-11-22 03:34:16"
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 126,
     "lastKill": "2026-11-22 02:38:26"
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 89,
-    "lastKill": "2026-11-22 02:38:26"
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 46,
+    "lastKill": "2026-11-22 03:34:16"
   },
   {
     "playerId": "22716354",
@@ -30,16 +36,16 @@
     "lastKill": "2026-11-22 02:38:26"
   },
   {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 40,
+    "lastKill": "2026-11-22 03:34:16"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 33,
     "lastKill": "2026-11-22 01:43:12"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 32,
-    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "22053927",
@@ -48,22 +54,34 @@
     "lastKill": "2026-11-22 01:43:12"
   },
   {
+    "playerId": "15931599",
+    "username": "SoftMagmaDriver",
+    "kills": 27,
+    "lastKill": "2026-11-22 03:34:16"
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 15,
+    "lastKill": "2026-11-22 03:34:16"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 12,
+    "lastKill": "2026-11-22 03:34:16"
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 10,
     "lastKill": "2026-11-22 02:38:26"
   },
   {
-    "playerId": "22727575",
-    "username": "Magestic",
-    "kills": 8,
-    "lastKill": "2026-11-22 01:43:12"
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "kills": 2,
-    "lastKill": "2026-11-22 02:38:26"
+    "kills": 6,
+    "lastKill": "2026-11-22 03:34:16"
   },
   {
     "playerId": "22710399",
@@ -336,12 +354,6 @@
     "lastKill": null
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "3990108",
     "username": "Mandilindors",
     "kills": 0,
@@ -468,12 +480,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 0,
@@ -518,12 +524,6 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "15931599",
-    "username": "SoftMagmaDriver",
     "kills": 0,
     "lastKill": null
   },
