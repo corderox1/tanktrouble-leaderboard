@@ -2,26 +2,32 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 311,
-    "lastKill": "2026-11-22 01:43:12"
+    "kills": 424,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 154,
-    "lastKill": "2026-11-22 01:43:12"
+    "kills": 171,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 92,
-    "lastKill": "2026-11-22 01:43:12"
+    "kills": 126,
+    "lastKill": "2026-11-22 02:38:26"
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 89,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "kills": 38,
-    "lastKill": "2026-11-22 01:43:12"
+    "kills": 44,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "22809750",
@@ -32,8 +38,8 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 28,
-    "lastKill": "2026-11-22 01:43:12"
+    "kills": 32,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "22053927",
@@ -42,10 +48,22 @@
     "lastKill": "2026-11-22 01:43:12"
   },
   {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 10,
+    "lastKill": "2026-11-22 02:38:26"
+  },
+  {
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 8,
     "lastKill": "2026-11-22 01:43:12"
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 2,
+    "lastKill": "2026-11-22 02:38:26"
   },
   {
     "playerId": "22710399",
@@ -402,12 +420,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -554,12 +566,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0,
     "lastKill": null
   },
@@ -1340,12 +1346,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
     "kills": 0,
     "lastKill": null
   },
