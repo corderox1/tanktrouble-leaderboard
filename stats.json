@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35406264,
-    "kills": 44552134,
-    "deaths": 42059171,
-    "suicides": 9440464,
+    "victories": 35406442,
+    "kills": 44552353,
+    "deaths": 42059583,
+    "suicides": 9440538,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 15,
+    "rank": 27,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 30148,
-    "kills": 47081,
-    "deaths": 52288,
-    "suicides": 10939,
+    "victories": 30188,
+    "kills": 47128,
+    "deaths": 52325,
+    "suicides": 10951,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -872,7 +872,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": true,
-    "lastForumPost": 1795121811,
+    "lastForumPost": 1795305955,
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
@@ -1023,7 +1023,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1619733600,
-    "lastLogin": 1795228739,
+    "lastLogin": 1795308010,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1795296807,
+    "lastLogin": 1795308531,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1366,7 +1366,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1670460598,
-    "lastLogin": 1795297479,
+    "lastLogin": 1795308365,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2305,10 +2305,10 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "victories": 5037,
-    "kills": 11326,
-    "deaths": 10258,
-    "suicides": 2169,
+    "victories": 5038,
+    "kills": 11349,
+    "deaths": 10286,
+    "suicides": 2178,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2337,7 +2337,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": true,
-    "rank": 45,
+    "rank": 30,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -2689,7 +2689,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1753784242,
-    "lastLogin": 1795280176,
+    "lastLogin": 1795306949,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66573,
-    "kills": 140478,
-    "deaths": 99737,
-    "suicides": 30981,
+    "victories": 66576,
+    "kills": 140526,
+    "deaths": 99792,
+    "suicides": 30997,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3971,10 +3971,10 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "victories": 18306,
-    "kills": 31960,
-    "deaths": 29766,
-    "suicides": 11413,
+    "victories": 18318,
+    "kills": 31978,
+    "deaths": 29777,
+    "suicides": 11421,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4020,10 +4020,10 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "victories": 61405,
-    "kills": 104993,
-    "deaths": 107084,
-    "suicides": 27997,
+    "victories": 61468,
+    "kills": 105090,
+    "deaths": 107164,
+    "suicides": 28024,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4363,29 +4363,29 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "victories": 31656,
-    "kills": 48176,
-    "deaths": 59064,
-    "suicides": 15600,
+    "victories": 31675,
+    "kills": 48194,
+    "deaths": 59096,
+    "suicides": 15605,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0x712f57 50",
-      "numericValue": "0x712f57",
-      "imageValue": "50"
+      "type": "numeric",
+      "rawValue": "0x017e7e",
+      "numericValue": "0x017e7e",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "image",
-      "rawValue": "0x712f57 50",
-      "numericValue": "0x712f57",
-      "imageValue": "50"
+      "rawValue": "0x7f7f7f 14",
+      "numericValue": "0x7f7f7f",
+      "imageValue": "14"
     },
     "baseColour": {
-      "type": "image",
-      "rawValue": "0x712f57 50",
-      "numericValue": "0x712f57",
-      "imageValue": "50"
+      "type": "numeric",
+      "rawValue": "0x003b3a",
+      "numericValue": "0x003b3a",
+      "imageValue": ""
     },
     "turretAccessory": "5",
     "barrelAccessory": "53",
@@ -4404,7 +4404,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1620859696,
-    "lastLogin": 1795298862,
+    "lastLogin": 1795305894,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -5825,7 +5825,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1730812379,
-    "lastLogin": 1795303017,
+    "lastLogin": 1795308782,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7548,10 +7548,10 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "victories": 8895,
-    "kills": 14927,
-    "deaths": 16958,
-    "suicides": 3928,
+    "victories": 8912,
+    "kills": 14947,
+    "deaths": 16986,
+    "suicides": 3931,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7585,7 +7585,7 @@
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
-    "lastForumPost": 1794334065,
+    "lastForumPost": 1795306031,
     "guest": false,
     "gmLevel": null,
     "created": 1782462061,
@@ -10488,8 +10488,8 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "victories": 60497,
-    "kills": 86630,
+    "victories": 60500,
+    "kills": 86636,
     "deaths": 67278,
     "suicides": 24381,
     "experience": 71485,
@@ -10529,7 +10529,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1511583932,
-    "lastLogin": 1795299540,
+    "lastLogin": 1795308846,
     "banned": false,
     "usernameApproved": true,
     "country": "MX"
