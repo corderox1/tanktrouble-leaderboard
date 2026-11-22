@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 93911
+    "kills": 94039
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 4188
+    "kills": 4297
   },
   {
     "playerId": "4142755",
@@ -100,14 +100,14 @@
     "kills": 1155
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1103
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1069
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1044
   },
   {
     "playerId": "706234",
@@ -122,12 +122,17 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 890
+    "kills": 895
   },
   {
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 801
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 792
   },
   {
     "playerId": "19173281",
@@ -140,24 +145,19 @@
     "kills": 784
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 783
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 742
   },
   {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 709
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 700
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 698
   },
   {
     "playerId": "12222122",
@@ -177,12 +177,12 @@
   {
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
-    "kills": 640
+    "kills": 643
   },
   {
     "playerId": "22845692",
     "username": "vincible",
-    "kills": 625
+    "kills": 636
   },
   {
     "playerId": "8408190",
@@ -210,6 +210,11 @@
     "kills": 520
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 511
+  },
+  {
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 511
@@ -218,11 +223,6 @@
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 508
-  },
-  {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 478
   },
   {
     "playerId": "10502780",
@@ -352,7 +352,7 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 202
+    "kills": 210
   },
   {
     "playerId": "21797119",
