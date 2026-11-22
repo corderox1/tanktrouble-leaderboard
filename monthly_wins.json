@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 94454
+    "kills": 94660
   },
   {
     "playerId": "13173087",
@@ -12,12 +12,12 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3191
+    "kills": 3193
   },
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 2913
+    "kills": 2950
   },
   {
     "playerId": "21601349",
@@ -57,7 +57,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1529
+    "kills": 1542
   },
   {
     "playerId": "21452912",
@@ -155,6 +155,11 @@
     "kills": 725
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 703
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 701
@@ -170,9 +175,9 @@
     "kills": 676
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 667
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 662
   },
   {
     "playerId": "20270104",
@@ -183,11 +188,6 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 643
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 642
   },
   {
     "playerId": "8408190",
@@ -257,17 +257,17 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 423
+    "kills": 424
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 415
   },
   {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 383
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 374
   },
   {
     "playerId": "19726920",
@@ -585,14 +585,14 @@
     "kills": 16
   },
   {
+    "playerId": "21957440",
+    "username": "JAGUNJAGUN",
+    "kills": 16
+  },
+  {
     "playerId": "22081323",
     "username": "WifiSciFi",
     "kills": 15
-  },
-  {
-    "playerId": "21957440",
-    "username": "JAGUNJAGUN",
-    "kills": 13
   },
   {
     "playerId": "21528366",
