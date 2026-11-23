@@ -2,17 +2,22 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2192
+    "kills": 2393
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 173
+    "kills": 185
   },
   {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 117
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 105
   },
   {
     "playerId": "13773720",
@@ -25,8 +30,18 @@
     "kills": 97
   },
   {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 87
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
+    "kills": 71
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
     "kills": 70
   },
   {
@@ -35,19 +50,24 @@
     "kills": 68
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 67
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 66
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 59
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 55
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 48
   },
   {
     "playerId": "22056849",
@@ -58,21 +78,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 38
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 38
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 36
   },
   {
     "playerId": "20984454",
@@ -125,6 +130,16 @@
     "kills": 14
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 12
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 12
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 9
@@ -135,14 +150,14 @@
     "kills": 7
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 7
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 5
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 7
   },
   {
     "playerId": "6776098",
@@ -155,11 +170,6 @@
     "kills": 3
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 2
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 2
@@ -168,6 +178,11 @@
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 2
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1
   },
   {
     "playerId": "15878197",
@@ -265,11 +280,6 @@
     "kills": 0
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 0
-  },
-  {
     "playerId": "20621274",
     "username": "ttw",
     "kills": 0
@@ -287,11 +297,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0
   },
   {
@@ -437,11 +442,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
