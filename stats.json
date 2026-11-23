@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35411145,
-    "kills": 44558390,
-    "deaths": 42067460,
-    "suicides": 9442069,
+    "victories": 35411223,
+    "kills": 44558559,
+    "deaths": 42067588,
+    "suicides": 9442111,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -737,10 +737,10 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "victories": 20737,
-    "kills": 38561,
-    "deaths": 36249,
-    "suicides": 6029,
+    "victories": 20765,
+    "kills": 38594,
+    "deaths": 36284,
+    "suicides": 6031,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -778,7 +778,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1739056728,
-    "lastLogin": 1795408885,
+    "lastLogin": 1795418396,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3522,7 +3522,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1745175868,
-    "lastLogin": 1795367858,
+    "lastLogin": 1795419222,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9361,10 +9361,10 @@
   {
     "playerId": "9184666",
     "username": "-I-",
-    "victories": 15248,
-    "kills": 30699,
-    "deaths": 19105,
-    "suicides": 4362,
+    "victories": 15260,
+    "kills": 30722,
+    "deaths": 19127,
+    "suicides": 4370,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10880,9 +10880,9 @@
   {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "victories": 20739,
-    "kills": 44646,
-    "deaths": 40893,
+    "victories": 20754,
+    "kills": 44666,
+    "deaths": 40895,
     "suicides": 11906,
     "experience": 0,
     "surrenders": 0,
@@ -10921,7 +10921,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1592061769,
-    "lastLogin": 1795417995,
+    "lastLogin": 1795418550,
     "banned": false,
     "usernameApproved": true,
     "country": null
