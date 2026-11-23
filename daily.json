@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2996,
-    "lastKill": "2026-11-23 13:39:42"
+    "kills": 3331,
+    "lastKill": "2026-11-23 14:39:30"
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 412,
-    "lastKill": "2026-11-23 13:39:42"
+    "kills": 483,
+    "lastKill": "2026-11-23 14:39:30"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 284,
+    "lastKill": "2026-11-23 14:39:30"
   },
   {
     "playerId": "22706369",
@@ -28,12 +34,6 @@
     "username": "Hafiz-Muhammad",
     "kills": 178,
     "lastKill": "2026-11-23 12:40:10"
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 156,
-    "lastKill": "2026-11-23 13:39:42"
   },
   {
     "playerId": "22716354",
@@ -70,6 +70,12 @@
     "username": "voloding",
     "kills": 100,
     "lastKill": "2026-11-23 13:39:42"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 97,
+    "lastKill": "2026-11-23 14:39:30"
   },
   {
     "playerId": "22053927",
@@ -112,6 +118,18 @@
     "username": "Astra",
     "kills": 42,
     "lastKill": "2026-11-23 11:42:52"
+  },
+  {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 37,
+    "lastKill": "2026-11-23 14:39:30"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 35,
+    "lastKill": "2026-11-23 14:39:30"
   },
   {
     "playerId": "793356",
@@ -162,12 +180,6 @@
     "lastKill": "2026-11-23 08:48:41"
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 19,
-    "lastKill": "2026-11-23 11:42:52"
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 16,
@@ -202,12 +214,6 @@
     "username": "kai-cj7",
     "kills": 9,
     "lastKill": "2026-11-23 09:47:09"
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 7,
-    "lastKill": "2026-11-23 13:39:42"
   },
   {
     "playerId": "22472796",
@@ -614,12 +620,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0,
     "lastKill": null
   },
