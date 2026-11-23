@@ -2,14 +2,26 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 436,
-    "lastKill": "2026-11-23 03:09:18"
+    "kills": 670,
+    "lastKill": "2026-11-23 04:08:22"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 61,
+    "lastKill": "2026-11-23 04:08:22"
   },
   {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 54,
     "lastKill": "2026-11-23 01:17:36"
+  },
+  {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 35,
+    "lastKill": "2026-11-23 04:08:22"
   },
   {
     "playerId": "9184666",
@@ -24,16 +36,28 @@
     "lastKill": "2026-11-23 02:13:16"
   },
   {
-    "playerId": "793356",
-    "username": "Antiserum",
-    "kills": 21,
-    "lastKill": "2026-11-23 03:09:18"
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "kills": 21,
-    "lastKill": "2026-11-23 02:13:16"
+    "kills": 32,
+    "lastKill": "2026-11-23 04:08:22"
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 12,
+    "lastKill": "2026-11-23 04:08:22"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 10,
+    "lastKill": "2026-11-23 04:08:22"
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 4,
+    "lastKill": "2026-11-23 04:08:22"
   },
   {
     "playerId": "22710399",
@@ -134,12 +158,6 @@
   {
     "playerId": "17953682",
     "username": "hohi",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
     "kills": 0,
     "lastKill": null
   },
@@ -260,12 +278,6 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
     "kills": 0,
     "lastKill": null
   },
@@ -1170,12 +1182,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
     "kills": 0,
@@ -1340,12 +1346,6 @@
   {
     "playerId": "3447584",
     "username": "Will-Men",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
     "kills": 0,
     "lastKill": null
   },
