@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 97979
+    "kills": 98283
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 2242
+    "kills": 2244
   },
   {
     "playerId": "22716354",
@@ -52,7 +52,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1661
+    "kills": 1686
   },
   {
     "playerId": "21508277",
@@ -70,14 +70,14 @@
     "kills": 1413
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 1315
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 1314
+    "kills": 1353
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 1316
   },
   {
     "playerId": "21465536",
@@ -95,14 +95,14 @@
     "kills": 1265
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1239
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 1229
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1215
   },
   {
     "playerId": "10794529",
@@ -115,6 +115,11 @@
     "kills": 961
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 906
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 906
@@ -123,11 +128,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 895
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 881
   },
   {
     "playerId": "13773720",
@@ -322,7 +322,7 @@
   {
     "playerId": "22056849",
     "username": "Preww",
-    "kills": 239
+    "kills": 259
   },
   {
     "playerId": "15931599",
@@ -390,19 +390,24 @@
     "kills": 164
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 163
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 157
   },
   {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 146
-  },
-  {
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 138
   },
   {
     "playerId": "21940268",
@@ -415,13 +420,13 @@
     "kills": 123
   },
   {
-    "playerId": "21103294",
-    "username": "FATAI169",
-    "kills": 116
-  },
-  {
     "playerId": "15878197",
     "username": "kamarov",
+    "kills": 117
+  },
+  {
+    "playerId": "21103294",
+    "username": "FATAI169",
     "kills": 116
   },
   {
@@ -545,11 +550,6 @@
     "kills": 37
   },
   {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 37
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
     "kills": 36
@@ -640,6 +640,11 @@
     "kills": 6
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 5
+  },
+  {
     "playerId": "19768925",
     "username": "Lil_May",
     "kills": 4
@@ -647,11 +652,6 @@
   {
     "playerId": "7559374",
     "username": "Catalyst",
-    "kills": 4
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 4
   },
   {
