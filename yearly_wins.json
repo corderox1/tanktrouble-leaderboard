@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 287684
+    "kills": 287922
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 10723
+    "kills": 10785
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "17629928",
     "username": "Atomic",
-    "kills": 6409
+    "kills": 6464
   },
   {
     "playerId": "20666777",
@@ -62,7 +62,7 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 3782
+    "kills": 3801
   },
   {
     "playerId": "8899024",
@@ -72,7 +72,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 3600
+    "kills": 3601
   },
   {
     "playerId": "14617724",
@@ -82,7 +82,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 3364
+    "kills": 3382
   },
   {
     "playerId": "20297710",
@@ -162,7 +162,7 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 1854
+    "kills": 1862
   },
   {
     "playerId": "8408190",
@@ -172,7 +172,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 1640
+    "kills": 1660
   },
   {
     "playerId": "22809750",
@@ -227,7 +227,7 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 1276
+    "kills": 1280
   },
   {
     "playerId": "21103294",
@@ -277,7 +277,7 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 1010
+    "kills": 1059
   },
   {
     "playerId": "1185396",
@@ -317,7 +317,7 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 800
+    "kills": 829
   },
   {
     "playerId": "8870546",
@@ -715,6 +715,11 @@
     "kills": 32
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 32
+  },
+  {
     "playerId": "21528366",
     "username": "killermax",
     "kills": 30
@@ -722,11 +727,6 @@
   {
     "playerId": "4501113",
     "username": "feed",
-    "kills": 29
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 29
   },
   {
