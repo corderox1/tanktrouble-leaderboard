@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 96206
+    "kills": 96402
   },
   {
     "playerId": "13173087",
@@ -245,14 +245,14 @@
     "kills": 445
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 445
+  },
+  {
     "playerId": "22694251",
     "username": "CHITO",
     "kills": 436
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 433
   },
   {
     "playerId": "21180646",
@@ -545,14 +545,14 @@
     "kills": 36
   },
   {
+    "playerId": "16092601",
+    "username": "fyrenado",
+    "kills": 30
+  },
+  {
     "playerId": "8084329",
     "username": "Cicada3301",
     "kills": 27
-  },
-  {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 23
   },
   {
     "playerId": "21890228",
@@ -563,6 +563,11 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 22
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 21
   },
   {
     "playerId": "3447584",
@@ -672,11 +677,6 @@
   {
     "playerId": "4128764",
     "username": "Bulletio",
-    "kills": 1
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 1
   },
   {
