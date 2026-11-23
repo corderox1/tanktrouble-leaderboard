@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 98283
+    "kills": 98594
   },
   {
     "playerId": "13173087",
@@ -52,7 +52,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1686
+    "kills": 1728
   },
   {
     "playerId": "21508277",
@@ -80,6 +80,11 @@
     "kills": 1316
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1283
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 1279
@@ -93,11 +98,6 @@
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 1265
-  },
-  {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1239
   },
   {
     "playerId": "4381511",
@@ -117,7 +117,12 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 906
+    "kills": 945
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 915
   },
   {
     "playerId": "22757188",
@@ -128,11 +133,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 895
-  },
-  {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 879
   },
   {
     "playerId": "3660774",
@@ -152,7 +152,12 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 753
+    "kills": 755
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 745
   },
   {
     "playerId": "17136803",
@@ -163,11 +168,6 @@
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 730
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 709
   },
   {
     "playerId": "22845692",
@@ -255,14 +255,14 @@
     "kills": 441
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 433
+  },
+  {
     "playerId": "21180646",
     "username": "Havamal",
     "kills": 431
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 424
   },
   {
     "playerId": "20375730",
@@ -322,7 +322,7 @@
   {
     "playerId": "22056849",
     "username": "Preww",
-    "kills": 259
+    "kills": 263
   },
   {
     "playerId": "15931599",
@@ -465,6 +465,11 @@
     "kills": 84
   },
   {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 81
+  },
+  {
     "playerId": "22651240",
     "username": "WiIlyWonkaBar",
     "kills": 80
@@ -523,11 +528,6 @@
     "playerId": "8146384",
     "username": "itachi",
     "kills": 50
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
-    "kills": 43
   },
   {
     "playerId": "1145079",
@@ -642,7 +642,7 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 5
+    "kills": 6
   },
   {
     "playerId": "19768925",
