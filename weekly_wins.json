@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 30178
+    "kills": 30315
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 929
+    "kills": 983
   },
   {
     "playerId": "17629928",
@@ -37,12 +37,17 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 725
+    "kills": 736
   },
   {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 695
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 648
   },
   {
     "playerId": "12517909",
@@ -63,11 +68,6 @@
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 627
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 624
   },
   {
     "playerId": "21452912",
@@ -120,6 +120,11 @@
     "kills": 359
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 357
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 339
@@ -133,11 +138,6 @@
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 300
-  },
-  {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 299
   },
   {
     "playerId": "12222122",
@@ -307,7 +307,7 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 66
+    "kills": 67
   },
   {
     "playerId": "22056849",
