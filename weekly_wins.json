@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 668
+    "kills": 882
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 58
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 38
   },
   {
     "playerId": "22716354",
@@ -20,14 +25,14 @@
     "kills": 28
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 22
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 20
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 19
   },
   {
     "playerId": "9184666",
@@ -40,13 +45,18 @@
     "kills": 15
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 8
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 12
   },
   {
     "playerId": "22053927",
     "username": "Cozy",
+    "kills": 8
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
     "kills": 7
   },
   {
@@ -55,19 +65,9 @@
     "kills": 6
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 4
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 3
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 2
   },
   {
     "playerId": "1051525",
@@ -75,8 +75,18 @@
     "kills": 1
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 1
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
+    "kills": 1
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
     "kills": 1
   },
   {
@@ -1015,11 +1025,6 @@
     "kills": 0
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 0
-  },
-  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 0
@@ -1117,11 +1122,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 0
   },
   {
