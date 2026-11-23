@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2999
+    "kills": 3106
   },
   {
     "playerId": "22077521",
@@ -22,7 +22,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 166
+    "kills": 167
   },
   {
     "playerId": "22053927",
@@ -95,6 +95,11 @@
     "kills": 48
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 47
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 46
@@ -122,7 +127,7 @@
   {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
-    "kills": 28
+    "kills": 29
   },
   {
     "playerId": "19068893",
@@ -170,11 +175,6 @@
     "kills": 19
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 18
-  },
-  {
     "playerId": "21940268",
     "username": "nownow",
     "kills": 13
@@ -208,6 +208,11 @@
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 7
+  },
+  {
+    "playerId": "8408190",
+    "username": "Invader",
+    "kills": 5
   },
   {
     "playerId": "22472796",
@@ -332,11 +337,6 @@
   {
     "playerId": "20270104",
     "username": "3w0n",
-    "kills": 0
-  },
-  {
-    "playerId": "8408190",
-    "username": "Invader",
     "kills": 0
   },
   {
