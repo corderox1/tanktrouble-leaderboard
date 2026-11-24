@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4091
+    "kills": 4225
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 305
+    "kills": 349
   },
   {
     "playerId": "11769746",
@@ -28,6 +28,11 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 128
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 122
   },
   {
     "playerId": "22047175",
@@ -70,11 +75,6 @@
     "kills": 87
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 73
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 71
@@ -100,6 +100,16 @@
     "kills": 48
   },
   {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 47
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 45
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 42
@@ -113,11 +123,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 34
   },
   {
     "playerId": "17136803",
@@ -145,6 +150,11 @@
     "kills": 28
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 28
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 25
@@ -155,18 +165,8 @@
     "kills": 20
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 19
-  },
-  {
     "playerId": "9184666",
     "username": "-I-",
-    "kills": 19
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
     "kills": 19
   },
   {
@@ -222,7 +222,7 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 5
+    "kills": 6
   },
   {
     "playerId": "21940268",
