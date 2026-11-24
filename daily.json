@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 373,
-    "lastKill": "2026-11-24 02:08:47"
+    "kills": 562,
+    "lastKill": "2026-11-24 03:03:22"
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 151,
+    "lastKill": "2026-11-24 03:03:22"
   },
   {
     "playerId": "14892840",
@@ -12,22 +18,22 @@
     "lastKill": "2026-11-24 02:08:47"
   },
   {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 67,
-    "lastKill": "2026-11-24 02:08:47"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 51,
-    "lastKill": "2026-11-24 02:08:47"
+    "kills": 60,
+    "lastKill": "2026-11-24 03:03:22"
   },
   {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 49,
     "lastKill": "2026-11-24 02:08:47"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 14,
+    "lastKill": "2026-11-24 03:03:22"
   },
   {
     "playerId": "1185396",
@@ -1238,12 +1244,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },
