@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6247,
-    "lastKill": "2026-11-24 05:03:37"
+    "kills": 6363,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "11769746",
@@ -20,8 +20,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 374,
-    "lastKill": "2026-11-24 02:08:47"
+    "kills": 408,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "22053927",
@@ -58,6 +58,12 @@
     "username": "Alternator",
     "kills": 185,
     "lastKill": "2026-11-23 17:37:15"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 185,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "13773720",
@@ -108,12 +114,6 @@
     "lastKill": "2026-11-23 11:42:52"
   },
   {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 134,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 132,
@@ -136,6 +136,12 @@
     "username": "voloding",
     "kills": 100,
     "lastKill": "2026-11-23 13:39:42"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 80,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "19932455",
@@ -180,16 +186,16 @@
     "lastKill": "2026-11-23 20:28:51"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 45,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 42,
     "lastKill": "2026-11-23 11:42:52"
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 38,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "17149251",
@@ -210,6 +216,12 @@
     "lastKill": "2026-11-23 15:39:02"
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 34,
+    "lastKill": "2026-11-24 06:02:01"
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 34,
@@ -228,12 +240,6 @@
     "lastKill": "2026-11-23 16:38:35"
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 30,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
     "playerId": "21452912",
     "username": "x",
     "kills": 29,
@@ -244,12 +250,6 @@
     "username": "Crip",
     "kills": 21,
     "lastKill": "2026-11-23 08:48:41"
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 15,
-    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "21700920",
@@ -274,6 +274,12 @@
     "username": "nownow",
     "kills": 8,
     "lastKill": "2026-11-23 20:28:51"
+  },
+  {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 7,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "20269995",
@@ -320,12 +326,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
     "kills": 0,
     "lastKill": null
   },

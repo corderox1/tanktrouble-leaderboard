@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 920,
-    "lastKill": "2026-11-24 05:03:37"
+    "kills": 1036,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "22053927",
@@ -14,14 +14,26 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 67,
-    "lastKill": "2026-11-24 02:08:47"
+    "kills": 101,
+    "lastKill": "2026-11-24 06:02:01"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 63,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 60,
     "lastKill": "2026-11-24 03:03:22"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 55,
+    "lastKill": "2026-11-24 06:02:01"
   },
   {
     "playerId": "22757188",
@@ -36,6 +48,12 @@
     "lastKill": "2026-11-24 02:08:47"
   },
   {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 38,
+    "lastKill": "2026-11-24 06:02:01"
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 27,
@@ -48,28 +66,10 @@
     "lastKill": "2026-11-24 04:02:58"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 20,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
-    "kills": 15,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 12,
     "lastKill": "2026-11-24 02:08:47"
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 12,
-    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "19138057",
@@ -84,26 +84,26 @@
     "lastKill": "2026-11-24 01:09:24"
   },
   {
+    "playerId": "1145079",
+    "username": "purup",
+    "kills": 7,
+    "lastKill": "2026-11-24 06:02:01"
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 7,
+    "lastKill": "2026-11-24 06:02:01"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 5,
     "lastKill": "2026-11-24 05:03:37"
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 3,
-    "lastKill": "2026-11-24 05:03:37"
-  },
-  {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
     "kills": 0,
     "lastKill": null
   },
