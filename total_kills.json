@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 44562553,
-    "lastKill": "2026-11-23 18:34:11"
+    "kills": 44562762,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "878689",
@@ -92,8 +92,8 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 123909,
-    "lastKill": "2026-11-22 19:47:16"
+    "kills": 123949,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "13327781",
@@ -108,16 +108,16 @@
     "lastKill": "2026-11-18 20:08:44"
   },
   {
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 112978,
+    "lastKill": "2026-11-23 19:33:07"
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 112961,
     "lastKill": "2026-11-22 19:47:16"
-  },
-  {
-    "playerId": "793356",
-    "username": "Antiserum",
-    "kills": 112960,
-    "lastKill": "2026-11-23 04:08:22"
   },
   {
     "playerId": "3923647",
@@ -284,8 +284,8 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 68681,
-    "lastKill": "2026-11-23 18:34:11"
+    "kills": 68686,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "19635407",
@@ -524,8 +524,8 @@
   {
     "playerId": "17136803",
     "username": "Slatt",
-    "kills": 35809,
-    "lastKill": "2026-11-21 17:08:24"
+    "kills": 35888,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "20111777",
@@ -794,8 +794,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 19559,
-    "lastKill": "2026-11-23 18:34:11"
+    "kills": 19562,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "21839393",
@@ -806,8 +806,8 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 18896,
-    "lastKill": "2026-11-21 03:12:28"
+    "kills": 18916,
+    "lastKill": "2026-11-23 19:33:07"
   },
   {
     "playerId": "20621274",
@@ -1168,6 +1168,12 @@
     "username": "JAGUNJAGUN",
     "kills": 3841,
     "lastKill": "2026-11-22 12:58:26"
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 3832,
+    "lastKill": "2026-11-23 13:39:42"
   },
   {
     "playerId": "673237",
