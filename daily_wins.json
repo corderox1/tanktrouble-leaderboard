@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1264
+    "kills": 1554
   },
   {
     "playerId": "22053927",
@@ -17,7 +17,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 65
+    "kills": 66
   },
   {
     "playerId": "19138057",
@@ -25,9 +25,14 @@
     "kills": 63
   },
   {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 55
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 40
+    "kills": 47
   },
   {
     "playerId": "20666777",
@@ -37,22 +42,17 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 36
+    "kills": 38
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 34
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 33
+    "kills": 36
   },
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 30
+    "kills": 32
   },
   {
     "playerId": "22056849",
@@ -67,6 +67,11 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
+    "kills": 16
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
     "kills": 16
   },
   {
@@ -85,6 +90,11 @@
     "kills": 3
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 3
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 2
@@ -100,8 +110,8 @@
     "kills": 1
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 1
   },
   {
@@ -432,11 +442,6 @@
   {
     "playerId": "21796745",
     "username": "Sleeze",
-    "kills": 0
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
     "kills": 0
   },
   {
@@ -877,11 +882,6 @@
   {
     "playerId": "1265805",
     "username": "sheep",
-    "kills": 0
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 0
   },
   {
