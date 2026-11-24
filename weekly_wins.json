@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5051
+    "kills": 5239
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 361
+    "kills": 362
   },
   {
     "playerId": "11769746",
@@ -17,22 +17,22 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 184
+    "kills": 231
+  },
+  {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 214
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 187
   },
   {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 166
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 164
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 162
   },
   {
     "playerId": "21465536",
@@ -85,6 +85,11 @@
     "kills": 85
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 82
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 75
@@ -95,13 +100,13 @@
     "kills": 71
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 66
-  },
-  {
     "playerId": "22056849",
     "username": "Preww",
+    "kills": 70
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 66
   },
   {
@@ -120,11 +125,6 @@
     "kills": 49
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 49
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 41
@@ -135,13 +135,18 @@
     "kills": 39
   },
   {
-    "playerId": "17136803",
-    "username": "Slatt",
-    "kills": 30
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 35
   },
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
+    "kills": 32
+  },
+  {
+    "playerId": "17136803",
+    "username": "Slatt",
     "kills": 30
   },
   {
@@ -163,11 +168,6 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 25
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 22
   },
   {
     "playerId": "21839393",
