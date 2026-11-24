@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4682,
-    "lastKill": "2026-11-23 20:28:51"
+    "kills": 4823,
+    "lastKill": "2026-11-23 21:23:29"
   },
   {
     "playerId": "11769746",
@@ -20,8 +20,8 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 251,
-    "lastKill": "2026-11-23 20:28:51"
+    "kills": 252,
+    "lastKill": "2026-11-23 21:23:29"
   },
   {
     "playerId": "22077521",
@@ -144,6 +144,12 @@
     "lastKill": "2026-11-23 20:28:51"
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 48,
+    "lastKill": "2026-11-23 21:23:29"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 44,
@@ -154,12 +160,6 @@
     "username": "Astra",
     "kills": 42,
     "lastKill": "2026-11-23 11:42:52"
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 39,
-    "lastKill": "2026-11-23 20:28:51"
   },
   {
     "playerId": "17149251",
@@ -244,6 +244,12 @@
     "username": "seyi-vibez-jr",
     "kills": 13,
     "lastKill": "2026-11-23 12:40:10"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 13,
+    "lastKill": "2026-11-23 21:23:29"
   },
   {
     "playerId": "21940268",
@@ -914,12 +920,6 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
     "kills": 0,
     "lastKill": null
   },
