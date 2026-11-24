@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 6981
+    "kills": 7183
   },
   {
     "playerId": "8590474",
@@ -15,14 +15,14 @@
     "kills": 402
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 348
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 312
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 303
   },
   {
     "playerId": "14892840",
@@ -50,14 +50,14 @@
     "kills": 148
   },
   {
+    "playerId": "17629928",
+    "username": "Atomic",
+    "kills": 130
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 128
-  },
-  {
-    "playerId": "17629928",
-    "username": "Atomic",
-    "kills": 119
   },
   {
     "playerId": "22047175",
@@ -140,6 +140,11 @@
     "kills": 64
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 50
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 49
@@ -153,11 +158,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
-    "kills": 33
   },
   {
     "playerId": "17136803",
