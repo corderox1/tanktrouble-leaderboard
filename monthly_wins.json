@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 103826
+    "kills": 104069
   },
   {
     "playerId": "13173087",
@@ -57,7 +57,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1644
+    "kills": 1645
   },
   {
     "playerId": "21452912",
@@ -80,6 +80,11 @@
     "kills": 1385
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 1355
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 1353
@@ -90,14 +95,9 @@
     "kills": 1348
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 1328
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1273
+    "kills": 1306
   },
   {
     "playerId": "8899024",
@@ -282,7 +282,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 353
+    "kills": 354
   },
   {
     "playerId": "19425584",
@@ -365,6 +365,11 @@
     "kills": 192
   },
   {
+    "playerId": "21251653",
+    "username": "Antikure",
+    "kills": 191
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 189
@@ -372,11 +377,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 186
-  },
-  {
-    "playerId": "21251653",
-    "username": "Antikure",
     "kills": 186
   },
   {
