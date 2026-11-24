@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35415535,
-    "kills": 44563840,
-    "deaths": 42074652,
-    "suicides": 9443453,
+    "victories": 35415581,
+    "kills": 44563983,
+    "deaths": 42074809,
+    "suicides": 9443488,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 79037,
-    "kills": 139812,
-    "deaths": 110390,
-    "suicides": 25440,
+    "victories": 79048,
+    "kills": 139824,
+    "deaths": 110397,
+    "suicides": 25443,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -2354,8 +2354,8 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "victories": 143134,
-    "kills": 300709,
+    "victories": 143135,
+    "kills": 300710,
     "deaths": 206584,
     "suicides": 52127,
     "experience": 165259,
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 17759,
-    "kills": 32263,
-    "deaths": 52214,
-    "suicides": 13793,
+    "victories": 17790,
+    "kills": 32314,
+    "deaths": 52276,
+    "suicides": 13810,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8422,7 +8422,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1785003941,
-    "lastLogin": 1795451420,
+    "lastLogin": 1795505326,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9753,10 +9753,10 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "victories": 1847,
-    "kills": 3421,
-    "deaths": 3254,
-    "suicides": 949,
+    "victories": 1867,
+    "kills": 3465,
+    "deaths": 3301,
+    "suicides": 962,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9786,7 +9786,7 @@
     "badge": "0",
     "premium": false,
     "rank": 118,
-    "xp": 132460,
+    "xp": 134000,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -10978,10 +10978,10 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "victories": 9309,
-    "kills": 15190,
-    "deaths": 17444,
-    "suicides": 4444,
+    "victories": 9340,
+    "kills": 15257,
+    "deaths": 17492,
+    "suicides": 4460,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -11019,7 +11019,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781623317,
-    "lastLogin": 1795493650,
+    "lastLogin": 1795505378,
     "banned": false,
     "usernameApproved": true,
     "country": null
