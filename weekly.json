@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5327,
-    "lastKill": "2026-11-24 00:13:30"
+    "kills": 5557,
+    "lastKill": "2026-11-24 01:09:24"
   },
   {
     "playerId": "11769746",
@@ -14,14 +14,14 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 509,
-    "lastKill": "2026-11-24 00:13:30"
+    "kills": 519,
+    "lastKill": "2026-11-24 01:09:24"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 307,
-    "lastKill": "2026-11-24 00:13:30"
+    "kills": 362,
+    "lastKill": "2026-11-24 01:09:24"
   },
   {
     "playerId": "19138057",
@@ -158,8 +158,8 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 57,
-    "lastKill": "2026-11-24 00:13:30"
+    "kills": 62,
+    "lastKill": "2026-11-24 01:09:24"
   },
   {
     "playerId": "793356",
@@ -256,6 +256,12 @@
     "username": "Orc-T72",
     "kills": 13,
     "lastKill": "2026-11-23 21:23:29"
+  },
+  {
+    "playerId": "1185396",
+    "username": "rhak",
+    "kills": 11,
+    "lastKill": "2026-11-24 01:09:24"
   },
   {
     "playerId": "21940268",
@@ -500,12 +506,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1185396",
-    "username": "rhak",
     "kills": 0,
     "lastKill": null
   },
