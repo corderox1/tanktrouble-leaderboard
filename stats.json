@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35415754,
-    "kills": 44564172,
-    "deaths": 42075044,
-    "suicides": 9443543,
+    "victories": 35415962,
+    "kills": 44564386,
+    "deaths": 42075346,
+    "suicides": 9443592,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 21,
+    "rank": 9,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 20322,
-    "kills": 39037,
-    "deaths": 48254,
-    "suicides": 9437,
+    "victories": 20338,
+    "kills": 39064,
+    "deaths": 48277,
+    "suicides": 9440,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6960,10 +6960,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 4188,
-    "kills": 10174,
-    "deaths": 8121,
-    "suicides": 2236,
+    "victories": 4198,
+    "kills": 10192,
+    "deaths": 8149,
+    "suicides": 2240,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7001,7 +7001,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788279741,
-    "lastLogin": 1795508247,
+    "lastLogin": 1795513737,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 9060,
-    "kills": 17532,
-    "deaths": 15961,
-    "suicides": 4853,
+    "victories": 9070,
+    "kills": 17544,
+    "deaths": 15964,
+    "suicides": 4854,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10096,10 +10096,10 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "victories": 2971,
-    "kills": 4591,
-    "deaths": 4600,
-    "suicides": 1173,
+    "victories": 2986,
+    "kills": 4621,
+    "deaths": 4638,
+    "suicides": 1181,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10137,7 +10137,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1790519714,
-    "lastLogin": 1795508022,
+    "lastLogin": 1795513079,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10880,10 +10880,10 @@
   {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "victories": 20758,
-    "kills": 44677,
-    "deaths": 40903,
-    "suicides": 11908,
+    "victories": 20767,
+    "kills": 44700,
+    "deaths": 40920,
+    "suicides": 11913,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10978,10 +10978,10 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "victories": 9393,
-    "kills": 15341,
-    "deaths": 17562,
-    "suicides": 4475,
+    "victories": 9401,
+    "kills": 15360,
+    "deaths": 17575,
+    "suicides": 4476,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -11019,7 +11019,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781623317,
-    "lastLogin": 1795505378,
+    "lastLogin": 1795514066,
     "banned": false,
     "usernameApproved": true,
     "country": null
