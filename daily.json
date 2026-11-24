@@ -2,14 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 776,
-    "lastKill": "2026-11-24 04:02:58"
+    "kills": 920,
+    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 170,
-    "lastKill": "2026-11-24 04:02:58"
+    "kills": 234,
+    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "14892840",
@@ -24,16 +24,16 @@
     "lastKill": "2026-11-24 03:03:22"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 54,
+    "lastKill": "2026-11-24 05:03:37"
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 49,
     "lastKill": "2026-11-24 02:08:47"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 44,
-    "lastKill": "2026-11-24 04:02:58"
   },
   {
     "playerId": "11769746",
@@ -50,14 +50,26 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 18,
-    "lastKill": "2026-11-24 04:02:58"
+    "kills": 20,
+    "lastKill": "2026-11-24 05:03:37"
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 15,
+    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 12,
     "lastKill": "2026-11-24 02:08:47"
+  },
+  {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 12,
+    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "19138057",
@@ -70,6 +82,18 @@
     "username": "Novocaine",
     "kills": 10,
     "lastKill": "2026-11-24 01:09:24"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 5,
+    "lastKill": "2026-11-24 05:03:37"
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 3,
+    "lastKill": "2026-11-24 05:03:37"
   },
   {
     "playerId": "22710399",
@@ -176,12 +200,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -464,12 +482,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0,
     "lastKill": null
   },
@@ -1086,12 +1098,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "3810608",
     "username": "Zeus",
     "kills": 0,
@@ -1190,12 +1196,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0,
     "lastKill": null
   },

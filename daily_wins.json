@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 643
+    "kills": 780
   },
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 92
+    "kills": 135
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 23
+    "kills": 30
   },
   {
     "playerId": "22809750",
@@ -42,11 +42,16 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 10
+    "kills": 11
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
+    "kills": 10
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
     "kills": 10
   },
   {
@@ -55,9 +60,29 @@
     "kills": 9
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 7
+  },
+  {
     "playerId": "1185396",
     "username": "rhak",
     "kills": 6
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 2
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1
+  },
+  {
+    "playerId": "20869330",
+    "username": "-Blackjack-",
+    "kills": 1
   },
   {
     "playerId": "22710399",
@@ -147,11 +172,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {
@@ -387,11 +407,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0
   },
   {
@@ -905,11 +920,6 @@
     "kills": 0
   },
   {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 0
-  },
-  {
     "playerId": "3810608",
     "username": "Zeus",
     "kills": 0
@@ -922,11 +932,6 @@
   {
     "playerId": "21077567",
     "username": "Runner",
-    "kills": 0
-  },
-  {
-    "playerId": "20869330",
-    "username": "-Blackjack-",
     "kills": 0
   },
   {
@@ -992,11 +997,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0
   },
   {

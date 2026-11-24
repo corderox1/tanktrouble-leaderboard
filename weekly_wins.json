@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4868
+    "kills": 5005
   },
   {
     "playerId": "8590474",
@@ -25,6 +25,11 @@
     "kills": 166
   },
   {
+    "playerId": "22053927",
+    "username": "Cozy",
+    "kills": 164
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 162
@@ -33,11 +38,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 128
-  },
-  {
-    "playerId": "22053927",
-    "username": "Cozy",
-    "kills": 121
   },
   {
     "playerId": "22047175",
@@ -85,14 +85,14 @@
     "kills": 85
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 75
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 71
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 68
   },
   {
     "playerId": "21508277",
@@ -110,19 +110,19 @@
     "kills": 59
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
+    "playerId": "22056849",
+    "username": "Preww",
     "kills": 49
   },
   {
     "playerId": "20869330",
     "username": "-Blackjack-",
-    "kills": 48
+    "kills": 49
   },
   {
-    "playerId": "22056849",
-    "username": "Preww",
-    "kills": 42
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 49
   },
   {
     "playerId": "19932455",
@@ -170,14 +170,14 @@
     "kills": 19
   },
   {
-    "playerId": "793356",
-    "username": "Antiserum",
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 18
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 17
+    "playerId": "793356",
+    "username": "Antiserum",
+    "kills": 18
   },
   {
     "playerId": "8408190",
@@ -190,6 +190,11 @@
     "kills": 16
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 13
+  },
+  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 12
@@ -200,9 +205,9 @@
     "kills": 12
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 11
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 10
   },
   {
     "playerId": "21700920",
@@ -242,7 +247,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 1
+    "kills": 2
   },
   {
     "playerId": "15878197",
@@ -1002,11 +1007,6 @@
   {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0
   },
   {
