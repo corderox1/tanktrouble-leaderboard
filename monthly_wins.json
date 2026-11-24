@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 102835
+    "kills": 103264
   },
   {
     "playerId": "13173087",
@@ -37,7 +37,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 2541
+    "kills": 2542
   },
   {
     "playerId": "20666777",
@@ -87,7 +87,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1335
+    "kills": 1343
   },
   {
     "playerId": "22077521",
@@ -132,7 +132,7 @@
   {
     "playerId": "20269995",
     "username": "Rapid",
-    "kills": 897
+    "kills": 900
   },
   {
     "playerId": "20984454",
@@ -143,6 +143,11 @@
     "playerId": "3660774",
     "username": "Sc4r",
     "kills": 801
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 789
   },
   {
     "playerId": "19173281",
@@ -160,11 +165,6 @@
     "kills": 772
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 768
-  },
-  {
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 730
@@ -173,6 +173,11 @@
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 722
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 718
   },
   {
     "playerId": "12222122",
@@ -198,11 +203,6 @@
     "playerId": "8408190",
     "username": "Invader",
     "kills": 635
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 613
   },
   {
     "playerId": "2885724",
@@ -262,7 +262,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 443
+    "kills": 446
   },
   {
     "playerId": "21180646",
@@ -292,7 +292,7 @@
   {
     "playerId": "20011985",
     "username": "BroUrDed",
-    "kills": 334
+    "kills": 337
   },
   {
     "playerId": "18625144",
@@ -655,6 +655,11 @@
     "kills": 4
   },
   {
+    "playerId": "499659",
+    "username": "foxter",
+    "kills": 3
+  },
+  {
     "playerId": "19168800",
     "username": "ImmortalSteelPistol",
     "kills": 2
@@ -977,11 +982,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0
-  },
-  {
-    "playerId": "499659",
-    "username": "foxter",
     "kills": 0
   },
   {
