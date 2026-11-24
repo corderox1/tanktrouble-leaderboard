@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5239
+    "kills": 5489
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 362
+    "kills": 382
   },
   {
     "playerId": "11769746",
@@ -17,7 +17,12 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 231
+    "kills": 265
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 215
   },
   {
     "playerId": "22053927",
@@ -25,14 +30,14 @@
     "kills": 214
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 187
-  },
-  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 166
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 146
   },
   {
     "playerId": "21465536",
@@ -55,11 +60,6 @@
     "kills": 110
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 110
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 99
@@ -68,6 +68,11 @@
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 97
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 93
   },
   {
     "playerId": "4142755",
@@ -85,11 +90,6 @@
     "kills": 85
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 82
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 75
@@ -97,7 +97,12 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 71
+    "kills": 72
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 70
   },
   {
     "playerId": "22056849",
@@ -130,19 +135,14 @@
     "kills": 41
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 41
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 35
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 32
   },
   {
     "playerId": "17136803",
@@ -210,13 +210,13 @@
     "kills": 12
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 9
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 12
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
     "kills": 9
   },
   {
