@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 106865
+    "kills": 107061
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 4506
+    "kills": 4538
   },
   {
     "playerId": "4142755",
@@ -117,7 +117,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 997
+    "kills": 1010
   },
   {
     "playerId": "706234",
@@ -127,12 +127,17 @@
   {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 917
+    "kills": 933
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 900
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 850
   },
   {
     "playerId": "20984454",
@@ -148,11 +153,6 @@
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 813
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 802
   },
   {
     "playerId": "3660774",
@@ -217,7 +217,7 @@
   {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 559
+    "kills": 560
   },
   {
     "playerId": "20375730",
@@ -275,14 +275,14 @@
     "kills": 383
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
+    "playerId": "18625144",
+    "username": "Orc-T72",
     "kills": 360
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 359
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 360
   },
   {
     "playerId": "19425584",
