@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35419876,
-    "kills": 44569358,
-    "deaths": 42081642,
-    "suicides": 9444770,
+    "victories": 35419975,
+    "kills": 44569466,
+    "deaths": 42081811,
+    "suicides": 9444798,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 79200,
-    "kills": 140165,
-    "deaths": 110616,
-    "suicides": 25513,
+    "victories": 79220,
+    "kills": 140211,
+    "deaths": 110655,
+    "suicides": 25524,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3677,10 +3677,10 @@
   {
     "playerId": "22716354",
     "username": "Alrighty_",
-    "victories": 7642,
-    "kills": 11294,
-    "deaths": 5213,
-    "suicides": 1089,
+    "victories": 7690,
+    "kills": 11382,
+    "deaths": 5285,
+    "suicides": 1105,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8577,10 +8577,10 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "victories": 3753,
-    "kills": 6268,
-    "deaths": 10519,
-    "suicides": 2636,
+    "victories": 3771,
+    "kills": 6299,
+    "deaths": 10557,
+    "suicides": 2641,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10978,10 +10978,10 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "victories": 9494,
-    "kills": 15501,
-    "deaths": 17667,
-    "suicides": 4497,
+    "victories": 9517,
+    "kills": 15558,
+    "deaths": 17724,
+    "suicides": 4505,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -11019,7 +11019,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781623317,
-    "lastLogin": 1795548461,
+    "lastLogin": 1795588311,
     "banned": false,
     "usernameApproved": true,
     "country": null
