@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 12001,
-    "lastKill": "2026-11-25 04:48:14"
+    "kills": 12257,
+    "lastKill": "2026-11-25 05:47:29"
   },
   {
     "playerId": "14892840",
@@ -48,6 +48,12 @@
     "lastKill": "2026-11-25 03:53:18"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 395,
+    "lastKill": "2026-11-25 05:47:29"
+  },
+  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 354,
@@ -58,12 +64,6 @@
     "username": "Alrighty_",
     "kills": 335,
     "lastKill": "2026-11-25 02:03:30"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 322,
-    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "4142755",
@@ -102,6 +102,12 @@
     "lastKill": "2026-11-24 11:43:47"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 216,
+    "lastKill": "2026-11-25 05:47:29"
+  },
+  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 198,
@@ -112,12 +118,6 @@
     "username": "zRok",
     "kills": 195,
     "lastKill": "2026-11-25 00:12:33"
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 190,
-    "lastKill": "2026-11-24 09:48:47"
   },
   {
     "playerId": "2574833",
@@ -148,6 +148,12 @@
     "username": "Hafiz-Muhammad",
     "kills": 178,
     "lastKill": "2026-11-23 12:40:10"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 156,
+    "lastKill": "2026-11-25 05:47:29"
   },
   {
     "playerId": "20666777",
@@ -184,12 +190,6 @@
     "username": "Slatt",
     "kills": 102,
     "lastKill": "2026-11-23 20:28:51"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 102,
-    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "19932455",
@@ -394,6 +394,12 @@
     "username": "kamarov",
     "kills": 1,
     "lastKill": "2026-11-23 11:42:52"
+  },
+  {
+    "playerId": "22735235",
+    "username": "wo0",
+    "kills": 1,
+    "lastKill": "2026-11-25 05:47:29"
   },
   {
     "playerId": "10132007",
@@ -1232,12 +1238,6 @@
   {
     "playerId": "21102229",
     "username": "Palestinene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22735235",
-    "username": "wo0",
     "kills": 0,
     "lastKill": null
   },
