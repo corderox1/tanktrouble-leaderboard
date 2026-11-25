@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2451,
-    "lastKill": "2026-11-25 09:28:26"
+    "kills": 2823,
+    "lastKill": "2026-11-25 10:38:24"
   },
   {
     "playerId": "14892840",
@@ -24,6 +24,12 @@
     "lastKill": "2026-11-25 07:38:22"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 162,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 156,
@@ -42,16 +48,16 @@
     "lastKill": "2026-11-25 08:33:22"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 78,
-    "lastKill": "2026-11-25 09:28:26"
-  },
-  {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 62,
-    "lastKill": "2026-11-25 09:28:26"
+    "kills": 114,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 64,
+    "lastKill": "2026-11-25 10:38:24"
   },
   {
     "playerId": "22757188",
@@ -80,8 +86,8 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 24,
-    "lastKill": "2026-11-25 07:38:22"
+    "kills": 28,
+    "lastKill": "2026-11-25 10:38:24"
   },
   {
     "playerId": "13773720",
@@ -114,10 +120,40 @@
     "lastKill": "2026-11-25 08:33:22"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 11,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
+    "kills": 8,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 5,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
     "playerId": "13327781",
     "username": "rickgrimes",
     "kills": 3,
     "lastKill": "2026-11-25 04:48:14"
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 2,
+    "lastKill": "2026-11-25 10:38:24"
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 1,
+    "lastKill": "2026-11-25 10:38:24"
   },
   {
     "playerId": "22809750",
@@ -266,12 +302,6 @@
   {
     "playerId": "8408190",
     "username": "Invader",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
     "kills": 0,
     "lastKill": null
   },
@@ -432,12 +462,6 @@
     "lastKill": null
   },
   {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 0,
@@ -590,12 +614,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": null
   },
@@ -1170,12 +1188,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 0,
@@ -1238,18 +1250,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10659
+    "kills": 10878
   },
   {
     "playerId": "8590474",
@@ -15,14 +15,14 @@
     "kills": 477
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 441
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 425
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 414
   },
   {
     "playerId": "11769746",
@@ -43,6 +43,11 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 246
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 227
   },
   {
     "playerId": "4142755",
@@ -70,11 +75,6 @@
     "kills": 182
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 180
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 171
@@ -83,6 +83,11 @@
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 140
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 134
   },
   {
     "playerId": "17629928",
@@ -95,6 +100,11 @@
     "kills": 128
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 120
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 117
@@ -105,19 +115,9 @@
     "kills": 115
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 114
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 111
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 110
   },
   {
     "playerId": "2574833",
@@ -237,7 +237,7 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 14
+    "kills": 15
   },
   {
     "playerId": "1051525",
@@ -297,6 +297,16 @@
   {
     "playerId": "21940268",
     "username": "nownow",
+    "kills": 4
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 4
+  },
+  {
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
     "kills": 4
   },
   {
@@ -1042,16 +1052,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "SPEED_XD",
     "kills": 0
   },
   {
