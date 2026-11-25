@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 977
+    "kills": 1313
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 152
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 125
   },
   {
     "playerId": "22053927",
@@ -20,19 +25,14 @@
     "kills": 79
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 69
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 52
+    "kills": 69
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 24
+    "kills": 36
   },
   {
     "playerId": "22047175",
@@ -50,6 +50,16 @@
     "kills": 18
   },
   {
+    "playerId": "21890228",
+    "username": "tsk",
+    "kills": 14
+  },
+  {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 12
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 7
@@ -58,6 +68,11 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 7
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 2
   },
   {
     "playerId": "13327781",
@@ -432,11 +447,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
@@ -985,11 +995,6 @@
     "kills": 0
   },
   {
-    "playerId": "9184666",
-    "username": "-I-",
-    "kills": 0
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 0
@@ -1117,11 +1122,6 @@
   {
     "playerId": "21317975",
     "username": "NovaCore",
-    "kills": 0
-  },
-  {
-    "playerId": "21890228",
-    "username": "tsk",
     "kills": 0
   },
   {

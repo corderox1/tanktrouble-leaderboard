@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1327,
-    "lastKill": "2026-11-25 06:42:47"
+    "kills": 1673,
+    "lastKill": "2026-11-25 07:38:22"
   },
   {
     "playerId": "14892840",
@@ -18,28 +18,28 @@
     "lastKill": "2026-11-25 03:53:18"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 185,
+    "lastKill": "2026-11-25 07:38:22"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 139,
     "lastKill": "2026-11-25 02:03:30"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 131,
-    "lastKill": "2026-11-25 06:42:47"
-  },
-  {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 129,
-    "lastKill": "2026-11-25 06:42:47"
+    "kills": 139,
+    "lastKill": "2026-11-25 07:38:22"
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 91,
-    "lastKill": "2026-11-25 06:42:47"
+    "kills": 113,
+    "lastKill": "2026-11-25 07:38:22"
   },
   {
     "playerId": "22047175",
@@ -54,10 +54,28 @@
     "lastKill": "2026-11-25 03:53:18"
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 31,
+    "lastKill": "2026-11-25 07:38:22"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 26,
     "lastKill": "2026-11-25 05:47:29"
+  },
+  {
+    "playerId": "21890228",
+    "username": "tsk",
+    "kills": 24,
+    "lastKill": "2026-11-25 07:38:22"
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 21,
+    "lastKill": "2026-11-25 07:38:22"
   },
   {
     "playerId": "3447584",
@@ -66,16 +84,16 @@
     "lastKill": "2026-11-25 06:42:47"
   },
   {
-    "playerId": "9066291",
-    "username": "The_Mayank",
-    "kills": 14,
-    "lastKill": "2026-11-25 03:53:18"
-  },
-  {
     "playerId": "13327781",
     "username": "rickgrimes",
     "kills": 3,
     "lastKill": "2026-11-25 04:48:14"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 2,
+    "lastKill": "2026-11-25 07:38:22"
   },
   {
     "playerId": "22735235",
@@ -518,12 +536,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0,
     "lastKill": null
   },
@@ -1182,12 +1194,6 @@
     "lastKill": null
   },
   {
-    "playerId": "9184666",
-    "username": "-I-",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "19173281",
     "username": "citicaca",
     "kills": 0,
@@ -1340,12 +1346,6 @@
   {
     "playerId": "21317975",
     "username": "NovaCore",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21890228",
-    "username": "tsk",
     "kills": 0,
     "lastKill": null
   },

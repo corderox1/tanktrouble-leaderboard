@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9759
+    "kills": 10095
   },
   {
     "playerId": "8590474",
@@ -35,14 +35,14 @@
     "kills": 305
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 251
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 246
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 239
   },
   {
     "playerId": "4142755",
@@ -67,7 +67,12 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 154
+    "kills": 171
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 171
   },
   {
     "playerId": "13173087",
@@ -88,11 +93,6 @@
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 128
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 115
   },
   {
     "playerId": "21508277",
@@ -155,14 +155,14 @@
     "kills": 64
   },
   {
+    "playerId": "9184666",
+    "username": "-I-",
+    "kills": 62
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 55
-  },
-  {
-    "playerId": "9184666",
-    "username": "-I-",
-    "kills": 50
   },
   {
     "playerId": "20869330",
@@ -197,7 +197,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 22
+    "kills": 24
   },
   {
     "playerId": "21839393",
@@ -233,6 +233,11 @@
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16
+  },
+  {
+    "playerId": "21890228",
+    "username": "tsk",
+    "kills": 14
   },
   {
     "playerId": "1051525",
@@ -1117,11 +1122,6 @@
   {
     "playerId": "21317975",
     "username": "NovaCore",
-    "kills": 0
-  },
-  {
-    "playerId": "21890228",
-    "username": "tsk",
     "kills": 0
   },
   {
