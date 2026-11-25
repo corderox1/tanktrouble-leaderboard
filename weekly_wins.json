@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11496
+    "kills": 11650
   },
   {
     "playerId": "8590474",
@@ -22,12 +22,12 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 464
+    "kills": 465
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 331
+    "kills": 342
   },
   {
     "playerId": "21601349",
@@ -105,14 +105,14 @@
     "kills": 140
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 134
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 130
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 128
   },
   {
     "playerId": "20269995",
@@ -135,19 +135,24 @@
     "kills": 111
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 109
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 105
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 103
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 83
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 81
   },
   {
     "playerId": "21673346",
@@ -160,23 +165,18 @@
     "kills": 78
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 70
-  },
-  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 70
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 64
-  },
-  {
     "playerId": "18625144",
     "username": "Orc-T72",
+    "kills": 68
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 64
   },
   {
@@ -208,6 +208,11 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 30
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 28
   },
   {
     "playerId": "16736853",
@@ -245,11 +250,6 @@
     "kills": 17
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 16
-  },
-  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 16
@@ -278,6 +278,11 @@
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 10
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 9
   },
   {
     "playerId": "4201869",
@@ -542,11 +547,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0
   },
   {

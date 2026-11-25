@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3614,
-    "lastKill": "2026-11-25 14:28:33"
+    "kills": 3739,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "14892840",
@@ -48,6 +48,12 @@
     "lastKill": "2026-11-25 14:28:33"
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 156,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 139,
@@ -66,28 +72,22 @@
     "lastKill": "2026-11-25 10:38:24"
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 113,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 112,
     "lastKill": "2026-11-25 13:28:51"
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 108,
-    "lastKill": "2026-11-25 14:28:33"
-  },
-  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 100,
     "lastKill": "2026-11-25 12:34:00"
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 94,
-    "lastKill": "2026-11-25 13:28:51"
   },
   {
     "playerId": "13773720",
@@ -114,6 +114,12 @@
     "lastKill": "2026-11-25 13:28:51"
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 61,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 58,
@@ -132,10 +138,28 @@
     "lastKill": "2026-11-25 13:28:51"
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 50,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "20843843",
     "username": "Dark-Reaper99",
     "kills": 50,
     "lastKill": "2026-11-25 11:33:34"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 44,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 40,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "22042037",
@@ -150,12 +174,6 @@
     "lastKill": "2026-11-25 02:03:30"
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 34,
-    "lastKill": "2026-11-25 03:53:18"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 32,
@@ -168,12 +186,6 @@
     "lastKill": "2026-11-25 13:28:51"
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 25,
-    "lastKill": "2026-11-25 14:28:33"
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 21,
@@ -184,6 +196,18 @@
     "username": "SmellMySocks",
     "kills": 19,
     "lastKill": "2026-11-25 14:28:33"
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 18,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 17,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "3447584",
@@ -204,10 +228,10 @@
     "lastKill": "2026-11-25 14:28:33"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 4,
-    "lastKill": "2026-11-25 14:28:33"
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 6,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "13327781",
@@ -426,18 +450,6 @@
     "lastKill": null
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21462355",
     "username": "PrehistoricPyroGhost",
     "kills": 0,
@@ -522,12 +534,6 @@
     "lastKill": null
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 0,
@@ -536,12 +542,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0,
     "lastKill": null
   },

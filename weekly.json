@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 14689,
-    "lastKill": "2026-11-25 14:28:33"
+    "kills": 14814,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "14892840",
@@ -26,14 +26,14 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 953,
-    "lastKill": "2026-11-25 14:28:33"
+    "kills": 958,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 671,
-    "lastKill": "2026-11-25 03:53:18"
+    "kills": 698,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "22053927",
@@ -138,6 +138,12 @@
     "lastKill": "2026-11-24 16:32:36"
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 203,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 203,
@@ -156,16 +162,22 @@
     "lastKill": "2026-11-25 09:28:26"
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 185,
-    "lastKill": "2026-11-23 17:37:15"
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 178,
     "lastKill": "2026-11-25 11:33:34"
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 158,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 156,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "19932455",
@@ -176,8 +188,8 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 131,
-    "lastKill": "2026-11-25 14:28:33"
+    "kills": 146,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "20269995",
@@ -192,12 +204,6 @@
     "lastKill": "2026-11-25 00:12:33"
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 112,
-    "lastKill": "2026-11-25 14:28:33"
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 102,
@@ -210,16 +216,16 @@
     "lastKill": "2026-11-25 12:34:00"
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 94,
-    "lastKill": "2026-11-25 13:28:51"
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 79,
     "lastKill": "2026-11-25 07:38:22"
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 77,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "21700920",
@@ -282,6 +288,12 @@
     "lastKill": "2026-11-24 06:02:01"
   },
   {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 37,
+    "lastKill": "2026-11-25 15:27:41"
+  },
+  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 36,
@@ -292,12 +304,6 @@
     "username": "Crip",
     "kills": 34,
     "lastKill": "2026-11-24 23:13:35"
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 33,
-    "lastKill": "2026-11-24 09:48:47"
   },
   {
     "playerId": "19425584",
@@ -312,16 +318,16 @@
     "lastKill": "2026-11-24 10:47:55"
   },
   {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 31,
-    "lastKill": "2026-11-23 16:38:35"
-  },
-  {
     "playerId": "21890228",
     "username": "tsk",
     "kills": 31,
     "lastKill": "2026-11-25 13:28:51"
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 17,
+    "lastKill": "2026-11-25 15:27:41"
   },
   {
     "playerId": "3447584",
@@ -650,12 +656,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3162693",
-    "username": "commander",
     "kills": 0,
     "lastKill": null
   },

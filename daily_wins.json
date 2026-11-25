@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2714
+    "kills": 2868
   },
   {
     "playerId": "22694251",
@@ -35,6 +35,11 @@
     "kills": 109
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 103
+  },
+  {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 91
@@ -60,11 +65,6 @@
     "kills": 79
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 70
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 68
@@ -85,19 +85,29 @@
     "kills": 43
   },
   {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 40
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 40
   },
   {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 39
-  },
-  {
     "playerId": "2574833",
     "username": "voloding",
     "kills": 38
+  },
+  {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 32
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 30
   },
   {
     "playerId": "9184666",
@@ -125,11 +135,6 @@
     "kills": 20
   },
   {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 19
-  },
-  {
     "playerId": "3447584",
     "username": "Will-Men",
     "kills": 18
@@ -145,13 +150,23 @@
     "kills": 13
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 13
+  },
+  {
     "playerId": "22042037",
     "username": "N-A",
     "kills": 13
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 12
+  },
+  {
+    "playerId": "3162693",
+    "username": "commander",
     "kills": 9
   },
   {
@@ -165,14 +180,14 @@
     "kills": 7
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 6
+  },
+  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 5
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 4
   },
   {
     "playerId": "22845692",
@@ -355,11 +370,6 @@
     "kills": 0
   },
   {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 0
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 0
@@ -435,11 +445,6 @@
     "kills": 0
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 0
-  },
-  {
     "playerId": "21103294",
     "username": "FATAI169",
     "kills": 0
@@ -447,11 +452,6 @@
   {
     "playerId": "878689",
     "username": "Gentleman",
-    "kills": 0
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
     "kills": 0
   },
   {
