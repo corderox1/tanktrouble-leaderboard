@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2608
+    "kills": 2714
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 176
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 176
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 169
   },
   {
     "playerId": "14892840",
@@ -32,7 +32,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 106
+    "kills": 109
   },
   {
     "playerId": "22053927",
@@ -72,7 +72,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 56
+    "kills": 58
   },
   {
     "playerId": "19932455",
@@ -88,6 +88,11 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 40
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 39
   },
   {
     "playerId": "2574833",
@@ -137,7 +142,22 @@
   {
     "playerId": "17149251",
     "username": "SmellMySocks",
-    "kills": 11
+    "kills": 13
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 13
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 9
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 7
   },
   {
     "playerId": "9066291",
@@ -145,19 +165,14 @@
     "kills": 7
   },
   {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 6
-  },
-  {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 5
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 3
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 4
   },
   {
     "playerId": "22845692",
@@ -183,16 +198,6 @@
     "playerId": "22735235",
     "username": "wo0",
     "kills": 1
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
-    "kills": 1
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 0
   },
   {
     "playerId": "1145079",
@@ -527,11 +532,6 @@
   {
     "playerId": "15931599",
     "username": "SoftMagmaDriver",
-    "kills": 0
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
     "kills": 0
   },
   {

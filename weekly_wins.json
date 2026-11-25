@@ -2,17 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11390
+    "kills": 11496
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 637
+    "kills": 639
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 517
+    "kills": 524
   },
   {
     "playerId": "14892840",
@@ -22,7 +22,7 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 425
+    "kills": 464
   },
   {
     "playerId": "11769746",
@@ -67,7 +67,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 208
+    "kills": 211
   },
   {
     "playerId": "20375730",
@@ -145,6 +145,11 @@
     "kills": 83
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 81
+  },
+  {
     "playerId": "21673346",
     "username": "KaneKalon",
     "kills": 79
@@ -153,11 +158,6 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 78
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 77
   },
   {
     "playerId": "22105718",
@@ -177,7 +177,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 61
+    "kills": 64
   },
   {
     "playerId": "20869330",
@@ -190,14 +190,14 @@
     "kills": 43
   },
   {
+    "playerId": "17149251",
+    "username": "SmellMySocks",
+    "kills": 40
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 39
-  },
-  {
-    "playerId": "17149251",
-    "username": "SmellMySocks",
-    "kills": 38
   },
   {
     "playerId": "9066291",
@@ -255,6 +255,11 @@
     "kills": 16
   },
   {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 16
+  },
+  {
     "playerId": "21890228",
     "username": "tsk",
     "kills": 15
@@ -295,13 +300,13 @@
     "kills": 7
   },
   {
-    "playerId": "1185396",
-    "username": "rhak",
-    "kills": 6
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 7
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
+    "playerId": "1185396",
+    "username": "rhak",
     "kills": 6
   },
   {
@@ -357,11 +362,6 @@
   {
     "playerId": "22735235",
     "username": "wo0",
-    "kills": 1
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
     "kills": 1
   },
   {
