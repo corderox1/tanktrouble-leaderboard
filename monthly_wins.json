@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 105043
+    "kills": 105184
   },
   {
     "playerId": "13173087",
@@ -22,7 +22,12 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 3072
+    "kills": 3115
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 2975
   },
   {
     "playerId": "22710399",
@@ -30,14 +35,9 @@
     "kills": 2972
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 2937
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 2542
+    "kills": 2543
   },
   {
     "playerId": "20666777",
@@ -62,7 +62,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 1451
+    "kills": 1504
   },
   {
     "playerId": "12517909",
@@ -215,14 +215,14 @@
     "kills": 569
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 546
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
-    "kills": 545
+    "kills": 559
+  },
+  {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 553
   },
   {
     "playerId": "22105718",
@@ -385,6 +385,11 @@
     "kills": 185
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 185
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 173
@@ -408,11 +413,6 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 142
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 138
   },
   {
     "playerId": "9184666",
@@ -515,6 +515,11 @@
     "kills": 57
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 53
+  },
+  {
     "playerId": "3617624",
     "username": "Envy",
     "kills": 52
@@ -528,11 +533,6 @@
     "playerId": "22727575",
     "username": "Magestic",
     "kills": 52
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
-    "kills": 51
   },
   {
     "playerId": "8146384",
