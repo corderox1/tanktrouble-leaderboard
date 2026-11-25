@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2868
+    "kills": 3036
   },
   {
     "playerId": "22694251",
@@ -37,7 +37,12 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 103
+    "kills": 106
+  },
+  {
+    "playerId": "22716354",
+    "username": "Alrighty_",
+    "kills": 97
   },
   {
     "playerId": "22053927",
@@ -48,11 +53,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 81
-  },
-  {
-    "playerId": "22716354",
-    "username": "Alrighty_",
-    "kills": 79
   },
   {
     "playerId": "13173087",
@@ -100,6 +100,11 @@
     "kills": 38
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 34
+  },
+  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 32
@@ -140,6 +145,11 @@
     "kills": 18
   },
   {
+    "playerId": "3162693",
+    "username": "commander",
+    "kills": 16
+  },
+  {
     "playerId": "21890228",
     "username": "tsk",
     "kills": 15
@@ -165,9 +175,9 @@
     "kills": 12
   },
   {
-    "playerId": "3162693",
-    "username": "commander",
-    "kills": 9
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 12
   },
   {
     "playerId": "4126899",
@@ -178,11 +188,6 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 7
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 6
   },
   {
     "playerId": "21700920",
@@ -822,11 +827,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 0
   },
   {
