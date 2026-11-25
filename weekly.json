@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 10034,
-    "lastKill": "2026-11-24 18:23:46"
+    "kills": 10205,
+    "lastKill": "2026-11-24 19:22:36"
   },
   {
     "playerId": "22710399",
@@ -54,16 +54,22 @@
     "lastKill": "2026-11-24 13:38:38"
   },
   {
+    "playerId": "20375730",
+    "username": "Dangel",
+    "kills": 282,
+    "lastKill": "2026-11-24 19:22:36"
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 257,
     "lastKill": "2026-11-24 14:33:41"
   },
   {
-    "playerId": "20375730",
-    "username": "Dangel",
-    "kills": 226,
-    "lastKill": "2026-11-24 18:23:46"
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 223,
+    "lastKill": "2026-11-24 19:22:36"
   },
   {
     "playerId": "22077521",
@@ -88,6 +94,12 @@
     "username": "Alrighty_",
     "kills": 196,
     "lastKill": "2026-11-24 09:48:47"
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 191,
+    "lastKill": "2026-11-24 19:22:36"
   },
   {
     "playerId": "22757188",
@@ -120,12 +132,6 @@
     "lastKill": "2026-11-23 12:40:10"
   },
   {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 171,
-    "lastKill": "2026-11-24 18:23:46"
-  },
-  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 167,
@@ -135,12 +141,6 @@
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 150,
-    "lastKill": "2026-11-24 18:23:46"
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 148,
     "lastKill": "2026-11-24 18:23:46"
   },
   {
@@ -336,6 +336,12 @@
     "lastKill": "2026-11-24 12:43:09"
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 7,
+    "lastKill": "2026-11-24 19:22:36"
+  },
+  {
     "playerId": "21797119",
     "username": "SilentSpaceSergeant",
     "kills": 6,
@@ -376,6 +382,12 @@
     "username": "kamarov",
     "kills": 1,
     "lastKill": "2026-11-23 11:42:52"
+  },
+  {
+    "playerId": "12478286",
+    "username": "ANUIQUILATE",
+    "kills": 1,
+    "lastKill": "2026-11-24 19:22:36"
   },
   {
     "playerId": "10132007",
@@ -698,12 +710,6 @@
   {
     "playerId": "10523030",
     "username": "DIMIG0D",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12478286",
-    "username": "ANUIQUILATE",
     "kills": 0,
     "lastKill": null
   },
@@ -1250,12 +1256,6 @@
   {
     "playerId": "20843843",
     "username": "SPEED_XD",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0,
     "lastKill": null
   },
