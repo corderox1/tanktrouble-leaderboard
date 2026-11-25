@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 105462
+    "kills": 105685
   },
   {
     "playerId": "13173087",
@@ -15,6 +15,11 @@
     "kills": 3579
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 3127
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 3124
@@ -23,11 +28,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 3115
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 3098
   },
   {
     "playerId": "22710399",
@@ -77,7 +77,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1385
+    "kills": 1397
   },
   {
     "playerId": "22077521",
@@ -107,7 +107,7 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 1090
+    "kills": 1103
   },
   {
     "playerId": "10794529",
@@ -147,7 +147,7 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "kills": 807
+    "kills": 813
   },
   {
     "playerId": "3660774",
@@ -505,13 +505,13 @@
     "kills": 61
   },
   {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
-    "kills": 59
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
+    "kills": 60
+  },
+  {
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 59
   },
   {
