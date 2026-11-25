@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35420003,
-    "kills": 44569534,
-    "deaths": 42081856,
-    "suicides": 9444813,
+    "victories": 35420154,
+    "kills": 44569709,
+    "deaths": 42082055,
+    "suicides": 9444863,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 9,
+    "rank": 8,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -345,10 +345,10 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "victories": 20338,
-    "kills": 39064,
-    "deaths": 48277,
-    "suicides": 9440,
+    "victories": 20344,
+    "kills": 39074,
+    "deaths": 48291,
+    "suicides": 9442,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -386,7 +386,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1616212639,
-    "lastLogin": 1795475547,
+    "lastLogin": 1795596251,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 79279,
-    "kills": 140336,
-    "deaths": 110766,
-    "suicides": 25553,
+    "victories": 79323,
+    "kills": 140463,
+    "deaths": 110841,
+    "suicides": 25568,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10880,10 +10880,10 @@
   {
     "playerId": "9066291",
     "username": "The_Mayank",
-    "victories": 20769,
-    "kills": 44703,
-    "deaths": 40922,
-    "suicides": 11914,
+    "victories": 20775,
+    "kills": 44710,
+    "deaths": 40926,
+    "suicides": 11917,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10978,10 +10978,10 @@
   {
     "playerId": "22053927",
     "username": "Cozy",
-    "victories": 9548,
-    "kills": 15625,
-    "deaths": 17823,
-    "suicides": 4525,
+    "victories": 9579,
+    "kills": 15707,
+    "deaths": 17906,
+    "suicides": 4542,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
