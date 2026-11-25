@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 131892,
-    "lastKill": "2026-11-25 03:53:18"
+    "kills": 132183,
+    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "14892840",
@@ -30,16 +30,16 @@
     "lastKill": "2026-11-24 21:18:35"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 4919,
+    "lastKill": "2026-11-25 04:48:14"
+  },
+  {
     "playerId": "17629928",
     "username": "Atomic",
     "kills": 4903,
     "lastKill": "2026-11-24 14:33:41"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 4902,
-    "lastKill": "2026-11-24 12:43:09"
   },
   {
     "playerId": "21601349",
@@ -68,8 +68,8 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 3058,
-    "lastKill": "2026-11-24 13:38:38"
+    "kills": 3088,
+    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "19138057",
@@ -804,6 +804,12 @@
     "lastKill": "2026-11-07 18:28:04"
   },
   {
+    "playerId": "13327781",
+    "username": "rickgrimes",
+    "kills": 3,
+    "lastKill": "2026-11-25 04:48:14"
+  },
+  {
     "playerId": "499659",
     "username": "foxter",
     "kills": 3,
@@ -1178,12 +1184,6 @@
   {
     "playerId": "504460",
     "username": "FreeCandy-Tank",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "13327781",
-    "username": "rickgrimes",
     "kills": 0,
     "lastKill": null
   },

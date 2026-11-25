@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 11710,
-    "lastKill": "2026-11-25 03:53:18"
+    "kills": 12001,
+    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "14892840",
@@ -60,16 +60,16 @@
     "lastKill": "2026-11-25 02:03:30"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 322,
+    "lastKill": "2026-11-25 04:48:14"
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 297,
     "lastKill": "2026-11-24 21:18:35"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 292,
-    "lastKill": "2026-11-24 13:38:38"
   },
   {
     "playerId": "21601349",
@@ -186,16 +186,16 @@
     "lastKill": "2026-11-23 20:28:51"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 102,
+    "lastKill": "2026-11-25 04:48:14"
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 97,
     "lastKill": "2026-11-24 13:38:38"
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 85,
-    "lastKill": "2026-11-24 12:43:09"
   },
   {
     "playerId": "9066291",
@@ -370,6 +370,12 @@
     "username": "YahyatheBest",
     "kills": 3,
     "lastKill": "2026-11-23 15:39:02"
+  },
+  {
+    "playerId": "13327781",
+    "username": "rickgrimes",
+    "kills": 3,
+    "lastKill": "2026-11-25 04:48:14"
   },
   {
     "playerId": "499659",
@@ -986,12 +992,6 @@
   {
     "playerId": "1341685",
     "username": "supervolcano",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "13327781",
-    "username": "rickgrimes",
     "kills": 0,
     "lastKill": null
   },

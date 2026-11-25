@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 9283
+    "kills": 9515
   },
   {
     "playerId": "8590474",
@@ -85,6 +85,11 @@
     "kills": 128
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 125
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 114
@@ -103,11 +108,6 @@
     "playerId": "2574833",
     "username": "voloding",
     "kills": 105
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 102
   },
   {
     "playerId": "13773720",
@@ -150,6 +150,11 @@
     "kills": 64
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 59
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 55
@@ -163,11 +168,6 @@
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 49
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 46
   },
   {
     "playerId": "14617724",
@@ -317,6 +317,11 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
+    "kills": 1
+  },
+  {
+    "playerId": "13327781",
+    "username": "rickgrimes",
     "kills": 1
   },
   {
@@ -822,11 +827,6 @@
   {
     "playerId": "1341685",
     "username": "supervolcano",
-    "kills": 0
-  },
-  {
-    "playerId": "13327781",
-    "username": "rickgrimes",
     "kills": 0
   },
   {
