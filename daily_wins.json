@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2374
+    "kills": 2561
   },
   {
     "playerId": "22694251",
@@ -30,9 +30,24 @@
     "kills": 86
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 79
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 76
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 74
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 66
   },
   {
     "playerId": "13173087",
@@ -40,14 +55,14 @@
     "kills": 62
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 52
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 50
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 46
   },
   {
     "playerId": "19138057",
@@ -58,11 +73,6 @@
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 42
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 39
   },
   {
     "playerId": "17953682",
@@ -110,6 +120,11 @@
     "kills": 16
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 14
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 13
@@ -125,11 +140,6 @@
     "kills": 12
   },
   {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 11
-  },
-  {
     "playerId": "21508277",
     "username": "Sangpi",
     "kills": 11
@@ -137,6 +147,11 @@
   {
     "playerId": "22105718",
     "username": "Escape",
+    "kills": 11
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
     "kills": 11
   },
   {
@@ -148,6 +163,11 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 9
+  },
+  {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 7
   },
   {
     "playerId": "3990108",
@@ -185,13 +205,13 @@
     "kills": 3
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
+    "playerId": "21098942",
+    "username": "MoodyBlastGargoyle",
     "kills": 2
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
+    "playerId": "12517909",
+    "username": "Crip",
     "kills": 2
   },
   {
@@ -202,11 +222,6 @@
   {
     "playerId": "1051525",
     "username": "NoonooKJ",
-    "kills": 1
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
     "kills": 1
   },
   {
@@ -435,11 +450,6 @@
     "kills": 0
   },
   {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 0
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 0
@@ -447,11 +457,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0
-  },
-  {
-    "playerId": "21098942",
-    "username": "MoodyBlastGargoyle",
     "kills": 0
   },
   {
@@ -1047,11 +1052,6 @@
   {
     "playerId": "793356",
     "username": "Antiserum",
-    "kills": 0
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 0
   },
   {

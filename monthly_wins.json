@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 111639
+    "kills": 111826
   },
   {
     "playerId": "13173087",
@@ -12,7 +12,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 3626
+    "kills": 3661
   },
   {
     "playerId": "14892840",
@@ -70,6 +70,16 @@
     "kills": 1504
   },
   {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 1471
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 1462
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 1457
@@ -78,16 +88,6 @@
     "playerId": "12517909",
     "username": "Crip",
     "kills": 1428
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 1419
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 1394
   },
   {
     "playerId": "22077521",
@@ -120,6 +120,11 @@
     "kills": 1069
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 1061
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 1050
@@ -128,11 +133,6 @@
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 1049
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 1041
   },
   {
     "playerId": "13773720",
@@ -212,7 +212,7 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "kills": 605
+    "kills": 614
   },
   {
     "playerId": "22809750",
@@ -245,6 +245,11 @@
     "kills": 515
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 474
+  },
+  {
     "playerId": "10502780",
     "username": "No_Ammo",
     "kills": 465
@@ -257,11 +262,6 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 460
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 460
   },
   {
@@ -512,7 +512,7 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "kills": 59
+    "kills": 61
   },
   {
     "playerId": "21839393",
@@ -565,6 +565,11 @@
     "kills": 37
   },
   {
+    "playerId": "4126899",
+    "username": "Tankerous",
+    "kills": 31
+  },
+  {
     "playerId": "16092601",
     "username": "fyrenado",
     "kills": 30
@@ -573,11 +578,6 @@
     "playerId": "8084329",
     "username": "Cicada3301",
     "kills": 27
-  },
-  {
-    "playerId": "4126899",
-    "username": "Tankerous",
-    "kills": 25
   },
   {
     "playerId": "17794648",

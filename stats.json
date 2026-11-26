@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35426331,
-    "kills": 44577904,
-    "deaths": 42092780,
-    "suicides": 9446864,
+    "victories": 35426518,
+    "kills": 44578099,
+    "deaths": 42093018,
+    "suicides": 9446923,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 20,
+    "rank": 12,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140887,
-    "kills": 194560,
-    "deaths": 192407,
-    "suicides": 49158,
+    "victories": 140955,
+    "kills": 194649,
+    "deaths": 192488,
+    "suicides": 49176,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -835,10 +835,10 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "victories": 30776,
-    "kills": 47930,
-    "deaths": 53186,
-    "suicides": 11126,
+    "victories": 30811,
+    "kills": 47969,
+    "deaths": 53225,
+    "suicides": 11136,
     "experience": 907,
     "surrenders": 0,
     "turretColour": {
@@ -2991,10 +2991,10 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "victories": 11355,
-    "kills": 14210,
-    "deaths": 24337,
-    "suicides": 4982,
+    "victories": 11407,
+    "kills": 14266,
+    "deaths": 24449,
+    "suicides": 4999,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3032,7 +3032,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1765636468,
-    "lastLogin": 1795724381,
+    "lastLogin": 1795724698,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3187,10 +3187,10 @@
   {
     "playerId": "21098942",
     "username": "MoodyBlastGargoyle",
-    "victories": 2404,
-    "kills": 3647,
-    "deaths": 4134,
-    "suicides": 1120,
+    "victories": 2406,
+    "kills": 3652,
+    "deaths": 4145,
+    "suicides": 1124,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3220,7 +3220,7 @@
     "badge": "0",
     "premium": false,
     "rank": 223,
-    "xp": 167670,
+    "xp": 167820,
     "beta": false,
     "verified": true,
     "newsSubscriber": false,
@@ -3228,7 +3228,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1756999677,
-    "lastLogin": 1795724039,
+    "lastLogin": 1795724860,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -5825,7 +5825,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1730812379,
-    "lastLogin": 1795542785,
+    "lastLogin": 1795724850,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7254,10 +7254,10 @@
   {
     "playerId": "706234",
     "username": "yxngdebz",
-    "victories": 54175,
-    "kills": 89906,
-    "deaths": 77156,
-    "suicides": 15109,
+    "victories": 54195,
+    "kills": 89948,
+    "deaths": 77189,
+    "suicides": 15114,
     "experience": 19648,
     "surrenders": 0,
     "turretColour": {
@@ -10047,10 +10047,10 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "victories": 50528,
-    "kills": 71890,
-    "deaths": 62749,
-    "suicides": 20121,
+    "victories": 50542,
+    "kills": 71924,
+    "deaths": 62779,
+    "suicides": 20129,
     "experience": 4775,
     "surrenders": 0,
     "turretColour": {
@@ -10390,10 +10390,10 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "victories": 15718,
-    "kills": 31652,
-    "deaths": 18669,
-    "suicides": 4629,
+    "victories": 15724,
+    "kills": 31663,
+    "deaths": 18691,
+    "suicides": 4636,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -10488,10 +10488,10 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "victories": 60520,
-    "kills": 86699,
-    "deaths": 67369,
-    "suicides": 24401,
+    "victories": 60529,
+    "kills": 86731,
+    "deaths": 67410,
+    "suicides": 24405,
     "experience": 71485,
     "surrenders": 0,
     "turretColour": {
@@ -10529,7 +10529,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1511583932,
-    "lastLogin": 1795722126,
+    "lastLogin": 1795726212,
     "banned": false,
     "usernameApproved": true,
     "country": "MX"
