@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 17063,
-    "lastKill": "2026-11-26 04:51:59"
+    "kills": 17329,
+    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "22710399",
@@ -26,8 +26,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1069,
-    "lastKill": "2026-11-26 04:51:59"
+    "kills": 1117,
+    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "11769746",
@@ -56,8 +56,8 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 415,
-    "lastKill": "2026-11-25 13:28:51"
+    "kills": 417,
+    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "20666777",
@@ -96,22 +96,22 @@
     "lastKill": "2026-11-25 13:28:51"
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 328,
+    "lastKill": "2026-11-26 05:48:19"
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 323,
     "lastKill": "2026-11-25 19:13:33"
   },
   {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 303,
-    "lastKill": "2026-11-26 00:01:48"
-  },
-  {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 297,
-    "lastKill": "2026-11-25 22:08:18"
+    "kills": 319,
+    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "21508277",
@@ -436,6 +436,12 @@
     "username": "vincible",
     "kills": 3,
     "lastKill": "2026-11-25 11:33:34"
+  },
+  {
+    "playerId": "17794648",
+    "username": "Quser",
+    "kills": 2,
+    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "15878197",
@@ -926,12 +932,6 @@
   {
     "playerId": "673237",
     "username": "Dare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "17794648",
-    "username": "Quser",
     "kills": 0,
     "lastKill": null
   },
