@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2813,
-    "lastKill": "2026-11-26 11:33:18"
+    "kills": 3057,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "14892840",
@@ -14,8 +14,14 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 281,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 282,
+    "lastKill": "2026-11-26 12:28:22"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 239,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "20666777",
@@ -24,10 +30,10 @@
     "lastKill": "2026-11-26 08:47:39"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 188,
-    "lastKill": "2026-11-26 11:33:18"
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 146,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "19138057",
@@ -38,8 +44,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 85,
-    "lastKill": "2026-11-26 11:33:18"
+    "kills": 103,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "13173087",
@@ -48,22 +54,16 @@
     "lastKill": "2026-11-26 09:42:46"
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 79,
-    "lastKill": "2026-11-26 10:38:26"
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 64,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "4191643",
     "username": "Etxrnity",
     "kills": 59,
     "lastKill": "2026-11-26 10:38:26"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 53,
-    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "18625144",
@@ -82,6 +82,18 @@
     "username": "Master_T-54",
     "kills": 47,
     "lastKill": "2026-11-26 10:38:26"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 41,
+    "lastKill": "2026-11-26 12:28:22"
+  },
+  {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 32,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "6776098",
@@ -116,8 +128,8 @@
   {
     "playerId": "20843843",
     "username": "Dark-Reaper99",
-    "kills": 23,
-    "lastKill": "2026-11-26 11:33:18"
+    "kills": 24,
+    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "19726920",
@@ -142,12 +154,6 @@
     "username": "purup",
     "kills": 6,
     "lastKill": "2026-11-26 09:42:46"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 5,
-    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "8779272",
@@ -962,12 +968,6 @@
   {
     "playerId": "8427337",
     "username": "Iichen",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
     "kills": 0,
     "lastKill": null
   },
