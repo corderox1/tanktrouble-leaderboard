@@ -2,20 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4008,
-    "lastKill": "2026-11-25 17:18:27"
+    "kills": 4073,
+    "lastKill": "2026-11-25 18:13:20"
+  },
+  {
+    "playerId": "22710399",
+    "username": "Corderox1",
+    "kills": 469,
+    "lastKill": "2026-11-25 18:13:20"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 374,
     "lastKill": "2026-11-25 03:53:18"
-  },
-  {
-    "playerId": "22710399",
-    "username": "Corderox1",
-    "kills": 361,
-    "lastKill": "2026-11-25 17:18:27"
   },
   {
     "playerId": "22694251",
@@ -74,8 +74,8 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 114,
-    "lastKill": "2026-11-25 10:38:24"
+    "kills": 115,
+    "lastKill": "2026-11-25 18:13:20"
   },
   {
     "playerId": "20269995",
@@ -204,6 +204,18 @@
     "lastKill": "2026-11-25 07:38:22"
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 20,
+    "lastKill": "2026-11-25 18:13:20"
+  },
+  {
+    "playerId": "1051525",
+    "username": "NoonooKJ",
+    "kills": 19,
+    "lastKill": "2026-11-25 18:13:20"
+  },
+  {
     "playerId": "3162693",
     "username": "commander",
     "kills": 19,
@@ -234,10 +246,10 @@
     "lastKill": "2026-11-25 14:28:33"
   },
   {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
-    "kills": 6,
-    "lastKill": "2026-11-25 15:27:41"
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 10,
+    "lastKill": "2026-11-25 18:13:20"
   },
   {
     "playerId": "13327781",
@@ -344,12 +356,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
     "kills": 0,
     "lastKill": null
   },
@@ -596,12 +602,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0,
     "lastKill": null
   },
