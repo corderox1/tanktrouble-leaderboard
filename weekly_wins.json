@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15550
+    "kills": 15755
   },
   {
     "playerId": "8590474",
@@ -27,7 +27,12 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 561
+    "kills": 578
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 353
   },
   {
     "playerId": "11769746",
@@ -42,12 +47,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 327
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 319
+    "kills": 336
   },
   {
     "playerId": "22053927",
@@ -58,6 +58,11 @@
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 299
+  },
+  {
+    "playerId": "21465536",
+    "username": "Alternator",
+    "kills": 263
   },
   {
     "playerId": "22047175",
@@ -83,11 +88,6 @@
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 211
-  },
-  {
-    "playerId": "21465536",
-    "username": "Alternator",
-    "kills": 208
   },
   {
     "playerId": "22716354",
@@ -130,6 +130,11 @@
     "kills": 151
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 147
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 141
@@ -150,14 +155,9 @@
     "kills": 130
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 128
-  },
-  {
     "playerId": "706234",
     "username": "yxngdebz",
-    "kills": 121
+    "kills": 128
   },
   {
     "playerId": "19932455",
@@ -178,6 +178,11 @@
     "playerId": "9184666",
     "username": "-I-",
     "kills": 78
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 75
   },
   {
     "playerId": "21516705",
@@ -205,6 +210,11 @@
     "kills": 49
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 45
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 44
@@ -212,11 +222,6 @@
   {
     "playerId": "4191643",
     "username": "Etxrnity",
-    "kills": 42
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
     "kills": 42
   },
   {
@@ -240,6 +245,11 @@
     "kills": 32
   },
   {
+    "playerId": "8502796",
+    "username": "_-YourDestruction-_",
+    "kills": 32
+  },
+  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 30
@@ -257,11 +267,6 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 23
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
     "kills": 23
   },
   {
@@ -392,11 +397,6 @@
   {
     "playerId": "12107881",
     "username": "Jaw",
-    "kills": 2
-  },
-  {
-    "playerId": "8502796",
-    "username": "_-YourDestruction-_",
     "kills": 2
   },
   {
