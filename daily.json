@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 713,
-    "lastKill": "2026-11-26 03:53:58"
+    "kills": 878,
+    "lastKill": "2026-11-26 04:51:59"
   },
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 165,
-    "lastKill": "2026-11-26 03:53:58"
+    "kills": 196,
+    "lastKill": "2026-11-26 04:51:59"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 107,
+    "lastKill": "2026-11-26 04:51:59"
   },
   {
     "playerId": "14892840",
@@ -18,16 +24,16 @@
     "lastKill": "2026-11-26 01:57:48"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 89,
-    "lastKill": "2026-11-26 03:53:58"
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 62,
+    "lastKill": "2026-11-26 04:51:59"
   },
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 20,
-    "lastKill": "2026-11-26 03:53:58"
+    "kills": 30,
+    "lastKill": "2026-11-26 04:51:59"
   },
   {
     "playerId": "22809750",
@@ -410,12 +416,6 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8590474",
-    "username": "Novocaine",
     "kills": 0,
     "lastKill": null
   },
