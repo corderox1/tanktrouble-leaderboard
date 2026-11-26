@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3710
+    "kills": 3747
+  },
+  {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 311
   },
   {
     "playerId": "22710399",
@@ -10,13 +15,13 @@
     "kills": 226
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 176
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
+    "kills": 177
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
     "kills": 176
   },
   {
@@ -45,11 +50,6 @@
     "kills": 106
   },
   {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 99
-  },
-  {
     "playerId": "22716354",
     "username": "Alrighty_",
     "kills": 97
@@ -72,7 +72,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 74
+    "kills": 76
   },
   {
     "playerId": "13773720",
@@ -93,6 +93,11 @@
     "playerId": "20843843",
     "username": "Dark-Reaper99",
     "kills": 43
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 40
   },
   {
     "playerId": "2574833",
@@ -132,11 +137,6 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "kills": 20
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 20
   },
   {
@@ -180,6 +180,11 @@
     "kills": 12
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 12
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 8
@@ -198,11 +203,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 5
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 3
   },
   {
     "playerId": "22845692",
