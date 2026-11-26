@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35424077,
-    "kills": 44574549,
-    "deaths": 42088325,
-    "suicides": 9445993,
+    "victories": 35424158,
+    "kills": 44574841,
+    "deaths": 42088723,
+    "suicides": 9446076,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 79373,
-    "kills": 140594,
-    "deaths": 110950,
-    "suicides": 25593,
+    "victories": 79402,
+    "kills": 140638,
+    "deaths": 110978,
+    "suicides": 25599,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3481,10 +3481,10 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "victories": 17817,
-    "kills": 32355,
-    "deaths": 52332,
-    "suicides": 13821,
+    "victories": 17819,
+    "kills": 32358,
+    "deaths": 52338,
+    "suicides": 13824,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3522,7 +3522,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1745175868,
-    "lastLogin": 1795672081,
+    "lastLogin": 1795679211,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6960,10 +6960,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 4705,
-    "kills": 11210,
-    "deaths": 8683,
-    "suicides": 2451,
+    "victories": 4716,
+    "kills": 11277,
+    "deaths": 8774,
+    "suicides": 2464,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7001,7 +7001,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788279741,
-    "lastLogin": 1795633717,
+    "lastLogin": 1795677857,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -7989,9 +7989,9 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "victories": 10699,
+    "victories": 10702,
     "kills": 18242,
-    "deaths": 21633,
+    "deaths": 21635,
     "suicides": 6306,
     "experience": 0,
     "surrenders": 0,
@@ -8030,7 +8030,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1758805968,
-    "lastLogin": 1795666561,
+    "lastLogin": 1795676378,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9549,7 +9549,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1791878193,
-    "lastLogin": 1795621386,
+    "lastLogin": 1795678666,
     "banned": false,
     "usernameApproved": true,
     "country": null
