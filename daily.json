@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2539,
-    "lastKill": "2026-11-26 10:38:26"
+    "kills": 2813,
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "14892840",
@@ -26,14 +26,20 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 165,
-    "lastKill": "2026-11-26 06:47:50"
+    "kills": 188,
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 111,
     "lastKill": "2026-11-26 08:47:39"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 85,
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "13173087",
@@ -52,6 +58,12 @@
     "username": "Etxrnity",
     "kills": 59,
     "lastKill": "2026-11-26 10:38:26"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 53,
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "18625144",
@@ -102,10 +114,10 @@
     "lastKill": "2026-11-26 05:48:19"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
     "kills": 23,
-    "lastKill": "2026-11-26 10:38:26"
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "19726920",
@@ -132,22 +144,22 @@
     "lastKill": "2026-11-26 09:42:46"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 6,
-    "lastKill": "2026-11-26 10:38:26"
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 5,
+    "lastKill": "2026-11-26 11:33:18"
+  },
+  {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 4,
+    "lastKill": "2026-11-26 11:33:18"
   },
   {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 3,
     "lastKill": "2026-11-26 09:42:46"
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
-    "kills": 3,
-    "lastKill": "2026-11-26 06:47:50"
   },
   {
     "playerId": "17794648",
@@ -284,12 +296,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0,
     "lastKill": null
   },
@@ -1238,12 +1244,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
     "kills": 0,
     "lastKill": null
   },
