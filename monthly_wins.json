@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 110142
+    "kills": 110304
   },
   {
     "playerId": "13173087",
@@ -15,6 +15,11 @@
     "kills": 3587
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 3223
+  },
+  {
     "playerId": "22710399",
     "username": "Corderox1",
     "kills": 3198
@@ -23,11 +28,6 @@
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 3196
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 3188
   },
   {
     "playerId": "17629928",
@@ -57,7 +57,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 1708
+    "kills": 1710
   },
   {
     "playerId": "21452912",
@@ -67,7 +67,7 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 1461
+    "kills": 1496
   },
   {
     "playerId": "22706369",
@@ -110,6 +110,11 @@
     "kills": 1114
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 1079
+  },
+  {
     "playerId": "10794529",
     "username": "interstellar",
     "kills": 1069
@@ -117,17 +122,12 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1040
+    "kills": 1049
   },
   {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 1021
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 1017
   },
   {
     "playerId": "706234",
@@ -142,7 +142,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 962
+    "kills": 964
   },
   {
     "playerId": "2574833",
@@ -215,14 +215,14 @@
     "kills": 603
   },
   {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 580
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 569
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 565
   },
   {
     "playerId": "20375730",
@@ -270,14 +270,14 @@
     "kills": 431
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 385
+  },
+  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 383
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 370
   },
   {
     "playerId": "19726920",

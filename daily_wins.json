@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 877
+    "kills": 1039
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 119
   },
   {
     "playerId": "20666777",
@@ -10,19 +15,34 @@
     "kills": 104
   },
   {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 96
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 80
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 61
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 35
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 57
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 20
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 19
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 18
   },
   {
     "playerId": "22105718",
@@ -30,14 +50,14 @@
     "kills": 11
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 10
-  },
-  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 6
+  },
+  {
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 5
   },
   {
     "playerId": "22047175",
@@ -45,24 +65,14 @@
     "kills": 5
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 5
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 3
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 3
-  },
-  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 3
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 2
   },
   {
     "playerId": "8779272",
@@ -462,11 +472,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0
   },
   {
@@ -982,11 +987,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0
   },
   {

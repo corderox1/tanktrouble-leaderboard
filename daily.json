@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1411,
-    "lastKill": "2026-11-26 06:47:50"
+    "kills": 1608,
+    "lastKill": "2026-11-26 07:47:43"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 246,
+    "lastKill": "2026-11-26 07:47:43"
   },
   {
     "playerId": "20666777",
@@ -12,22 +18,34 @@
     "lastKill": "2026-11-26 06:47:50"
   },
   {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 201,
+    "lastKill": "2026-11-26 07:47:43"
+  },
+  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 165,
     "lastKill": "2026-11-26 06:47:50"
   },
   {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 130,
-    "lastKill": "2026-11-26 06:47:50"
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 98,
+    "lastKill": "2026-11-26 07:47:43"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 109,
-    "lastKill": "2026-11-26 06:47:50"
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 45,
+    "lastKill": "2026-11-26 07:47:43"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 43,
+    "lastKill": "2026-11-26 07:47:43"
   },
   {
     "playerId": "22105718",
@@ -36,40 +54,34 @@
     "lastKill": "2026-11-26 04:51:59"
   },
   {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 30,
+    "lastKill": "2026-11-26 07:47:43"
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 25,
     "lastKill": "2026-11-26 05:48:19"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 22,
-    "lastKill": "2026-11-26 05:48:19"
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 10,
+    "lastKill": "2026-11-26 07:47:43"
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 6,
-    "lastKill": "2026-11-26 00:58:37"
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 3,
-    "lastKill": "2026-11-26 06:47:50"
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 4,
+    "lastKill": "2026-11-26 07:47:43"
   },
   {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 3,
     "lastKill": "2026-11-26 06:47:50"
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 2,
-    "lastKill": "2026-11-26 05:48:19"
   },
   {
     "playerId": "17794648",
@@ -554,12 +566,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": null
   },
@@ -1178,12 +1184,6 @@
   {
     "playerId": "19173281",
     "username": "citicaca",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19138057",
-    "username": "Supernova-135",
     "kills": 0,
     "lastKill": null
   },
