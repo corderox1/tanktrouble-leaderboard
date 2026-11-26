@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1222
+    "kills": 1401
   },
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 143
+    "kills": 150
   },
   {
     "playerId": "14892840",
@@ -25,6 +25,16 @@
     "kills": 80
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 62
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 57
+  },
+  {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 46
@@ -32,7 +42,7 @@
   {
     "playerId": "18625144",
     "username": "Orc-T72",
-    "kills": 23
+    "kills": 31
   },
   {
     "playerId": "22809750",
@@ -45,39 +55,44 @@
     "kills": 19
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 17
+  },
+  {
+    "playerId": "19726920",
+    "username": "WillyWonkaBar",
+    "kills": 16
+  },
+  {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 13
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 12
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 11
+  },
+  {
     "playerId": "22105718",
     "username": "Escape",
     "kills": 11
   },
   {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 10
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 10
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 8
+    "playerId": "20984454",
+    "username": "Rlyc4n",
+    "kills": 9
   },
   {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 6
-  },
-  {
-    "playerId": "20984454",
-    "username": "Rlyc4n",
-    "kills": 5
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 5
   },
   {
     "playerId": "22047175",
@@ -90,18 +105,23 @@
     "kills": 3
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 2
+  },
+  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 2
   },
   {
-    "playerId": "1051525",
-    "username": "NoonooKJ",
+    "playerId": "1145079",
+    "username": "purup",
     "kills": 1
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
+    "playerId": "1051525",
+    "username": "NoonooKJ",
     "kills": 1
   },
   {
@@ -112,11 +132,6 @@
   {
     "playerId": "22710399",
     "username": "Corderox1",
-    "kills": 0
-  },
-  {
-    "playerId": "1145079",
-    "username": "purup",
     "kills": 0
   },
   {
@@ -975,11 +990,6 @@
     "kills": 0
   },
   {
-    "playerId": "19726920",
-    "username": "WillyWonkaBar",
-    "kills": 0
-  },
-  {
     "playerId": "9184666",
     "username": "-I-",
     "kills": 0
@@ -1025,11 +1035,6 @@
     "kills": 0
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
     "playerId": "20843843",
     "username": "Dark-Reaper99",
     "kills": 0
@@ -1052,11 +1057,6 @@
   {
     "playerId": "9156179",
     "username": "EHS",
-    "kills": 0
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
     "kills": 0
   },
   {

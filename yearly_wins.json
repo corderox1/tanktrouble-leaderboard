@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 299180
+    "kills": 299359
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 10676
+    "kills": 10730
   },
   {
     "playerId": "21601349",
@@ -92,7 +92,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 3306
+    "kills": 3313
   },
   {
     "playerId": "20297710",
@@ -102,7 +102,7 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 3103
+    "kills": 3109
   },
   {
     "playerId": "21452912",
@@ -117,7 +117,7 @@
   {
     "playerId": "20984454",
     "username": "Rlyc4n",
-    "kills": 2609
+    "kills": 2613
   },
   {
     "playerId": "3660774",
@@ -207,7 +207,7 @@
   {
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
-    "kills": 1396
+    "kills": 1397
   },
   {
     "playerId": "21178768",
@@ -232,7 +232,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 1272
+    "kills": 1275
   },
   {
     "playerId": "21103294",
@@ -317,17 +317,17 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "kills": 893
+    "kills": 895
+  },
+  {
+    "playerId": "18625144",
+    "username": "Orc-T72",
+    "kills": 820
   },
   {
     "playerId": "22053927",
     "username": "Cozy",
     "kills": 813
-  },
-  {
-    "playerId": "18625144",
-    "username": "Orc-T72",
-    "kills": 812
   },
   {
     "playerId": "8870546",
@@ -390,13 +390,18 @@
     "kills": 496
   },
   {
-    "playerId": "16092601",
-    "username": "fyrenado",
-    "kills": 443
-  },
-  {
     "playerId": "19726920",
     "username": "WillyWonkaBar",
+    "kills": 459
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 445
+  },
+  {
+    "playerId": "16092601",
+    "username": "fyrenado",
     "kills": 443
   },
   {
@@ -423,11 +428,6 @@
     "playerId": "1001669",
     "username": "Mud",
     "kills": 391
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 388
   },
   {
     "playerId": "20843843",
@@ -507,7 +507,7 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 238
+    "kills": 239
   },
   {
     "playerId": "22479485",
@@ -615,6 +615,11 @@
     "kills": 80
   },
   {
+    "playerId": "22688887",
+    "username": "WillyWonkaBarBodyguard",
+    "kills": 79
+  },
+  {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
     "kills": 78
@@ -653,11 +658,6 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 66
-  },
-  {
-    "playerId": "22688887",
-    "username": "WillyWonkaBarBodyguard",
-    "kills": 62
   },
   {
     "playerId": "13783887",
