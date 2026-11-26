@@ -2,8 +2,14 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 525,
-    "lastKill": "2026-11-26 02:53:13"
+    "kills": 713,
+    "lastKill": "2026-11-26 03:53:58"
+  },
+  {
+    "playerId": "20666777",
+    "username": "Invincible",
+    "kills": 165,
+    "lastKill": "2026-11-26 03:53:58"
   },
   {
     "playerId": "14892840",
@@ -12,16 +18,16 @@
     "lastKill": "2026-11-26 01:57:48"
   },
   {
-    "playerId": "20666777",
-    "username": "Invincible",
-    "kills": 92,
-    "lastKill": "2026-11-26 02:53:13"
-  },
-  {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 83,
-    "lastKill": "2026-11-26 02:53:13"
+    "kills": 89,
+    "lastKill": "2026-11-26 03:53:58"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 20,
+    "lastKill": "2026-11-26 03:53:58"
   },
   {
     "playerId": "22809750",
@@ -812,12 +818,6 @@
   {
     "playerId": "1873422",
     "username": "Kerosene",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 0,
     "lastKill": null
   },
