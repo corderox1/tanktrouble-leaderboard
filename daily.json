@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3057,
-    "lastKill": "2026-11-26 12:28:22"
+    "kills": 3305,
+    "lastKill": "2026-11-26 13:27:20"
   },
   {
     "playerId": "14892840",
@@ -14,8 +14,8 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 282,
-    "lastKill": "2026-11-26 12:28:22"
+    "kills": 302,
+    "lastKill": "2026-11-26 13:27:20"
   },
   {
     "playerId": "8590474",
@@ -48,10 +48,22 @@
     "lastKill": "2026-11-26 12:28:22"
   },
   {
+    "playerId": "706234",
+    "username": "yxngdebz",
+    "kills": 98,
+    "lastKill": "2026-11-26 13:27:20"
+  },
+  {
     "playerId": "13173087",
     "username": "kai-cj7",
     "kills": 83,
     "lastKill": "2026-11-26 09:42:46"
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 74,
+    "lastKill": "2026-11-26 13:27:20"
   },
   {
     "playerId": "21700920",
@@ -64,6 +76,18 @@
     "username": "Etxrnity",
     "kills": 59,
     "lastKill": "2026-11-26 10:38:26"
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 58,
+    "lastKill": "2026-11-26 13:27:20"
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 54,
+    "lastKill": "2026-11-26 13:27:20"
   },
   {
     "playerId": "18625144",
@@ -82,18 +106,6 @@
     "username": "Master_T-54",
     "kills": 47,
     "lastKill": "2026-11-26 10:38:26"
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 41,
-    "lastKill": "2026-11-26 12:28:22"
-  },
-  {
-    "playerId": "706234",
-    "username": "yxngdebz",
-    "kills": 32,
-    "lastKill": "2026-11-26 12:28:22"
   },
   {
     "playerId": "6776098",
@@ -378,12 +390,6 @@
     "lastKill": null
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21109495",
     "username": "Yaghoubi",
     "kills": 0,
@@ -476,12 +482,6 @@
   {
     "playerId": "16874545",
     "username": "RDCGAMER",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
     "kills": 0,
     "lastKill": null
   },
