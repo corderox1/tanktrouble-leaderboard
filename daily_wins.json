@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1401
+    "kills": 1613
   },
   {
     "playerId": "22694251",
@@ -32,12 +32,17 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 57
+    "kills": 58
   },
   {
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 46
+  },
+  {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 42
   },
   {
     "playerId": "18625144",
@@ -52,7 +57,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 19
+    "kills": 20
   },
   {
     "playerId": "22688887",
@@ -90,6 +95,21 @@
     "kills": 9
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 6
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 6
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 6
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 6
@@ -100,18 +120,23 @@
     "kills": 5
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 3
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 3
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
+    "playerId": "8779272",
+    "username": "Reverend",
     "kills": 2
   },
   {
-    "playerId": "8779272",
-    "username": "Reverend",
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
     "kills": 2
   },
   {
@@ -265,11 +290,6 @@
     "kills": 0
   },
   {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 0
-  },
-  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 0
@@ -342,11 +362,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0
   },
   {
@@ -442,11 +457,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0
   },
   {
@@ -905,11 +915,6 @@
     "kills": 0
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 0
-  },
-  {
     "playerId": "21739597",
     "username": "Illuminate",
     "kills": 0
@@ -1032,11 +1037,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
     "kills": 0
   },
   {

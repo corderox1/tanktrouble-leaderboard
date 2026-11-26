@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 18328,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 18724,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "14892840",
@@ -92,14 +92,14 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 342,
-    "lastKill": "2026-11-26 07:47:43"
+    "kills": 344,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 335,
-    "lastKill": "2026-11-25 13:28:51"
+    "kills": 341,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "22047175",
@@ -116,8 +116,8 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 311,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 312,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "13773720",
@@ -182,8 +182,8 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 174,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 179,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "19932455",
@@ -198,6 +198,12 @@
     "lastKill": "2026-11-25 15:27:41"
   },
   {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 137,
+    "lastKill": "2026-11-26 10:38:26"
+  },
+  {
     "playerId": "20269995",
     "username": "Rapid",
     "kills": 121,
@@ -210,28 +216,22 @@
     "lastKill": "2026-11-25 00:12:33"
   },
   {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 106,
-    "lastKill": "2026-11-25 22:08:18"
-  },
-  {
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 102,
     "lastKill": "2026-11-23 20:28:51"
   },
   {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 96,
+    "lastKill": "2026-11-26 10:38:26"
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 95,
     "lastKill": "2026-11-26 00:01:48"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 85,
-    "lastKill": "2026-11-26 09:42:46"
   },
   {
     "playerId": "9066291",
@@ -268,6 +268,12 @@
     "username": "-Blackjack-",
     "kills": 66,
     "lastKill": "2026-11-23 13:39:42"
+  },
+  {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 59,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "793356",
@@ -334,6 +340,12 @@
     "username": "tsk",
     "kills": 31,
     "lastKill": "2026-11-25 13:28:51"
+  },
+  {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 28,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "19726920",
@@ -570,12 +582,6 @@
     "lastKill": null
   },
   {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 0,
@@ -644,12 +650,6 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },

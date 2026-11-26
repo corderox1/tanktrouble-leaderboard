@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2143,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 2539,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "14892840",
@@ -44,8 +44,14 @@
   {
     "playerId": "21673346",
     "username": "KaneKalon",
-    "kills": 74,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 79,
+    "lastKill": "2026-11-26 10:38:26"
+  },
+  {
+    "playerId": "4191643",
+    "username": "Etxrnity",
+    "kills": 59,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "18625144",
@@ -62,8 +68,14 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 45,
-    "lastKill": "2026-11-26 07:47:43"
+    "kills": 47,
+    "lastKill": "2026-11-26 10:38:26"
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 31,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "22105718",
@@ -72,16 +84,28 @@
     "lastKill": "2026-11-26 04:51:59"
   },
   {
+    "playerId": "3990108",
+    "username": "Mandilindors",
+    "kills": 28,
+    "lastKill": "2026-11-26 10:38:26"
+  },
+  {
     "playerId": "21508277",
     "username": "Sangpi",
-    "kills": 25,
-    "lastKill": "2026-11-26 09:42:46"
+    "kills": 26,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 25,
     "lastKill": "2026-11-26 05:48:19"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 23,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "19726920",
@@ -102,16 +126,16 @@
     "lastKill": "2026-11-26 09:42:46"
   },
   {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 12,
-    "lastKill": "2026-11-26 09:42:46"
-  },
-  {
     "playerId": "1145079",
     "username": "purup",
     "kills": 6,
     "lastKill": "2026-11-26 09:42:46"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 6,
+    "lastKill": "2026-11-26 10:38:26"
   },
   {
     "playerId": "12222122",
@@ -318,12 +342,6 @@
     "lastKill": null
   },
   {
-    "playerId": "4191643",
-    "username": "Etxrnity",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "1001669",
     "username": "Mud",
     "kills": 0,
@@ -410,12 +428,6 @@
   {
     "playerId": "1185396",
     "username": "rhak",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3990108",
-    "username": "Mandilindors",
     "kills": 0,
     "lastKill": null
   },
@@ -530,12 +542,6 @@
   {
     "playerId": "21967085",
     "username": "Studdxr",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
     "kills": 0,
     "lastKill": null
   },
@@ -1082,12 +1088,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },
