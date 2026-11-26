@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3747
+    "kills": 3903
   },
   {
     "playerId": "13173087",
@@ -105,9 +105,19 @@
     "kills": 38
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 37
+  },
+  {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 34
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 33
   },
   {
     "playerId": "4381511",
@@ -125,18 +135,8 @@
     "kills": 28
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 27
-  },
-  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 20
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 20
   },
   {
@@ -153,6 +153,11 @@
     "playerId": "21890228",
     "username": "tsk",
     "kills": 15
+  },
+  {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 14
   },
   {
     "playerId": "17149251",
@@ -190,6 +195,11 @@
     "kills": 8
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 7
+  },
+  {
     "playerId": "4126899",
     "username": "Tankerous",
     "kills": 7
@@ -225,6 +235,11 @@
     "kills": 1
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 1
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 1
@@ -237,11 +252,6 @@
   {
     "playerId": "1145079",
     "username": "purup",
-    "kills": 0
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
     "kills": 0
   },
   {
@@ -900,11 +910,6 @@
     "kills": 0
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 0
-  },
-  {
     "playerId": "1178991",
     "username": "rehman",
     "kills": 0
@@ -927,11 +932,6 @@
   {
     "playerId": "21727981",
     "username": "YHWH",
-    "kills": 0
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
     "kills": 0
   },
   {

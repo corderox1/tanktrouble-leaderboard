@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 15802,
-    "lastKill": "2026-11-25 22:08:18"
+    "kills": 15982,
+    "lastKill": "2026-11-25 23:03:37"
   },
   {
     "playerId": "22710399",
@@ -104,8 +104,14 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
+    "kills": 286,
+    "lastKill": "2026-11-25 23:03:37"
+  },
+  {
+    "playerId": "22047175",
+    "username": "biscuit",
     "kills": 260,
-    "lastKill": "2026-11-25 11:33:34"
+    "lastKill": "2026-11-25 23:03:37"
   },
   {
     "playerId": "13773720",
@@ -124,12 +130,6 @@
     "username": "voloding",
     "kills": 243,
     "lastKill": "2026-11-25 13:28:51"
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 236,
-    "lastKill": "2026-11-25 02:03:30"
   },
   {
     "playerId": "21465536",
@@ -246,6 +246,12 @@
     "lastKill": "2026-11-25 08:33:22"
   },
   {
+    "playerId": "14617724",
+    "username": "Astra",
+    "kills": 71,
+    "lastKill": "2026-11-25 23:03:37"
+  },
+  {
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 70,
@@ -286,12 +292,6 @@
     "username": "N-A",
     "kills": 46,
     "lastKill": "2026-11-25 14:28:33"
-  },
-  {
-    "playerId": "14617724",
-    "username": "Astra",
-    "kills": 42,
-    "lastKill": "2026-11-23 11:42:52"
   },
   {
     "playerId": "21839393",
@@ -336,6 +336,12 @@
     "lastKill": "2026-11-25 16:22:47"
   },
   {
+    "playerId": "21516705",
+    "username": "AriX",
+    "kills": 17,
+    "lastKill": "2026-11-25 23:03:37"
+  },
+  {
     "playerId": "3447584",
     "username": "Will-Men",
     "kills": 17,
@@ -352,12 +358,6 @@
     "username": "rhak",
     "kills": 12,
     "lastKill": "2026-11-24 02:08:47"
-  },
-  {
-    "playerId": "21516705",
-    "username": "AriX",
-    "kills": 12,
-    "lastKill": "2026-11-24 09:48:47"
   },
   {
     "playerId": "8779272",

@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35423623,
-    "kills": 44574085,
-    "deaths": 42087616,
-    "suicides": 9445878,
+    "victories": 35423779,
+    "kills": 44574265,
+    "deaths": 42087862,
+    "suicides": 9445930,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 30,
+    "rank": 21,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140846,
-    "kills": 194485,
-    "deaths": 192359,
-    "suicides": 49149,
+    "victories": 140860,
+    "kills": 194514,
+    "deaths": 192365,
+    "suicides": 49150,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -876,7 +876,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1533842940,
-    "lastLogin": 1795568183,
+    "lastLogin": 1795666873,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -925,7 +925,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1682896010,
-    "lastLogin": 1795089775,
+    "lastLogin": 1795666635,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1795660630,
+    "lastLogin": 1795665895,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4069,10 +4069,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 6936,
-    "kills": 10413,
-    "deaths": 8311,
-    "suicides": 1782,
+    "victories": 6946,
+    "kills": 10439,
+    "deaths": 8324,
+    "suicides": 1783,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7989,9 +7989,9 @@
   {
     "playerId": "21178768",
     "username": "ISAH",
-    "victories": 10698,
+    "victories": 10699,
     "kills": 18242,
-    "deaths": 21632,
+    "deaths": 21633,
     "suicides": 6306,
     "experience": 0,
     "surrenders": 0,
@@ -8030,7 +8030,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1758805968,
-    "lastLogin": 1795664362,
+    "lastLogin": 1795666561,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8283,10 +8283,10 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 8489,
-    "kills": 13452,
-    "deaths": 10955,
-    "suicides": 3204,
+    "victories": 8496,
+    "kills": 13457,
+    "deaths": 10963,
+    "suicides": 3207,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1795611479,
+    "lastLogin": 1795668984,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8577,10 +8577,10 @@
   {
     "playerId": "22047175",
     "username": "biscuit",
-    "victories": 3773,
-    "kills": 6304,
-    "deaths": 10567,
-    "suicides": 2643,
+    "victories": 3786,
+    "kills": 6328,
+    "deaths": 10602,
+    "suicides": 2649,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8618,7 +8618,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1781376483,
-    "lastLogin": 1795621340,
+    "lastLogin": 1795668185,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9941,7 +9941,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1771181198,
-    "lastLogin": 1795626468,
+    "lastLogin": 1795666496,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9990,7 +9990,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1749562476,
-    "lastLogin": 1795627206,
+    "lastLogin": 1795668213,
     "banned": false,
     "usernameApproved": null,
     "country": null
