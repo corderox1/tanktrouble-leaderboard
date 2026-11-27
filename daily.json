@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4802,
-    "lastKill": "2026-11-26 22:53:32"
+    "kills": 4972,
+    "lastKill": "2026-11-26 23:53:27"
   },
   {
     "playerId": "14892840",
@@ -54,6 +54,12 @@
     "lastKill": "2026-11-26 17:12:02"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 164,
+    "lastKill": "2026-11-26 23:53:27"
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 155,
@@ -72,10 +78,10 @@
     "lastKill": "2026-11-26 18:08:35"
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 137,
-    "lastKill": "2026-11-26 22:53:32"
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 124,
+    "lastKill": "2026-11-26 23:53:27"
   },
   {
     "playerId": "19138057",
@@ -96,10 +102,10 @@
     "lastKill": "2026-11-26 21:53:21"
   },
   {
-    "playerId": "3923647",
-    "username": "slayer",
-    "kills": 83,
-    "lastKill": "2026-11-26 22:53:32"
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 77,
+    "lastKill": "2026-11-26 23:53:27"
   },
   {
     "playerId": "20269995",
@@ -252,6 +258,12 @@
     "lastKill": "2026-11-26 15:18:21"
   },
   {
+    "playerId": "22056849",
+    "username": "Preww",
+    "kills": 11,
+    "lastKill": "2026-11-26 23:53:27"
+  },
+  {
     "playerId": "21601349",
     "username": "Lokirss",
     "kills": 10,
@@ -280,12 +292,6 @@
     "username": "MoodyBlastGargoyle",
     "kills": 5,
     "lastKill": "2026-11-26 15:18:21"
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 4,
-    "lastKill": "2026-11-26 22:53:32"
   },
   {
     "playerId": "8779272",
@@ -1136,12 +1142,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22056849",
-    "username": "Preww",
     "kills": 0,
     "lastKill": null
   },
