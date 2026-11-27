@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2892
+    "kills": 2921
+  },
+  {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 193
   },
   {
     "playerId": "22694251",
@@ -12,17 +17,12 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 145
+    "kills": 150
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 135
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 126
   },
   {
     "playerId": "21465536",
@@ -55,14 +55,14 @@
     "kills": 86
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 77
+  },
+  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 76
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 75
   },
   {
     "playerId": "13773720",
@@ -115,6 +115,11 @@
     "kills": 28
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 22
+  },
+  {
     "playerId": "22809750",
     "username": "zRok",
     "kills": 20
@@ -122,11 +127,6 @@
   {
     "playerId": "20843843",
     "username": "Dark-Reaper99",
-    "kills": 20
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
     "kills": 20
   },
   {
