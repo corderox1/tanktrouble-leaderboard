@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 116747
+    "kills": 116871
   },
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 5010
+    "kills": 5012
   },
   {
     "playerId": "4142755",
@@ -92,7 +92,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 1404
+    "kills": 1416
   },
   {
     "playerId": "22077521",
@@ -125,6 +125,11 @@
     "kills": 1114
   },
   {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 1101
+  },
+  {
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 1089
@@ -143,11 +148,6 @@
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 1049
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 976
   },
   {
     "playerId": "2574833",
@@ -202,7 +202,7 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "kills": 661
+    "kills": 676
   },
   {
     "playerId": "20270104",
@@ -335,14 +335,14 @@
     "kills": 289
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 284
+  },
+  {
     "playerId": "21609912",
     "username": "-BarnFindAlly-",
     "kills": 278
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 276
   },
   {
     "playerId": "19068893",
@@ -387,7 +387,7 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 208
+    "kills": 209
   },
   {
     "playerId": "20111777",
@@ -575,6 +575,11 @@
     "kills": 30
   },
   {
+    "playerId": "12745227",
+    "username": "Sr",
+    "kills": 30
+  },
+  {
     "playerId": "8084329",
     "username": "Cicada3301",
     "kills": 27
@@ -687,11 +692,6 @@
   {
     "playerId": "4128764",
     "username": "Bulletio",
-    "kills": 1
-  },
-  {
-    "playerId": "12745227",
-    "username": "Sr",
     "kills": 1
   },
   {

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 305440
+    "kills": 305564
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "kills": 10861
+    "kills": 10863
   },
   {
     "playerId": "21601349",
@@ -72,7 +72,7 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 3748
+    "kills": 3760
   },
   {
     "playerId": "8899024",
@@ -215,14 +215,14 @@
     "kills": 1404
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 1403
+  },
+  {
     "playerId": "21178768",
     "username": "ISAH",
     "kills": 1396
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 1395
   },
   {
     "playerId": "12222122",
@@ -272,7 +272,12 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 1144
+    "kills": 1145
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 1101
   },
   {
     "playerId": "19068893",
@@ -293,11 +298,6 @@
     "playerId": "17136803",
     "username": "Slatt",
     "kills": 981
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
-    "kills": 976
   },
   {
     "playerId": "20375730",
@@ -365,14 +365,14 @@
     "kills": 680
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 676
+  },
+  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 670
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 661
   },
   {
     "playerId": "21940268",
@@ -740,6 +740,11 @@
     "kills": 30
   },
   {
+    "playerId": "12745227",
+    "username": "Sr",
+    "kills": 30
+  },
+  {
     "playerId": "4501113",
     "username": "feed",
     "kills": 29
@@ -837,11 +842,6 @@
   {
     "playerId": "10513943",
     "username": "GALAXYSNIPER",
-    "kills": 1
-  },
-  {
-    "playerId": "12745227",
-    "username": "Sr",
     "kills": 1
   },
   {
