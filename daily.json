@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1474,
-    "lastKill": "2026-11-27 07:18:14"
+    "kills": 1804,
+    "lastKill": "2026-11-27 08:17:48"
   },
   {
     "playerId": "14892840",
@@ -12,15 +12,15 @@
     "lastKill": "2026-11-27 07:18:14"
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 168,
+    "lastKill": "2026-11-27 08:17:48"
+  },
+  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 130,
-    "lastKill": "2026-11-27 07:18:14"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 125,
     "lastKill": "2026-11-27 07:18:14"
   },
   {
@@ -36,10 +36,22 @@
     "lastKill": "2026-11-27 05:28:19"
   },
   {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 73,
+    "lastKill": "2026-11-27 08:17:48"
+  },
+  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
     "kills": 45,
     "lastKill": "2026-11-27 05:28:19"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 36,
+    "lastKill": "2026-11-27 08:17:48"
   },
   {
     "playerId": "8590474",
@@ -66,15 +78,15 @@
     "lastKill": "2026-11-27 07:18:14"
   },
   {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 25,
+    "lastKill": "2026-11-27 08:17:48"
+  },
+  {
     "playerId": "18625144",
     "username": "Orc-T72",
     "kills": 20,
-    "lastKill": "2026-11-27 07:18:14"
-  },
-  {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 17,
     "lastKill": "2026-11-27 07:18:14"
   },
   {
@@ -90,10 +102,10 @@
     "lastKill": "2026-11-27 06:23:16"
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
+    "playerId": "22047175",
+    "username": "biscuit",
     "kills": 7,
-    "lastKill": "2026-11-27 07:18:14"
+    "lastKill": "2026-11-27 08:17:48"
   },
   {
     "playerId": "22056849",
@@ -554,12 +566,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21508277",
-    "username": "Sangpi",
     "kills": 0,
     "lastKill": null
   },
@@ -1070,12 +1076,6 @@
   {
     "playerId": "22752688",
     "username": "Corderos",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22047175",
-    "username": "biscuit",
     "kills": 0,
     "lastKill": null
   },
