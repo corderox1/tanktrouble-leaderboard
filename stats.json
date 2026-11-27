@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35426878,
-    "kills": 44578502,
-    "deaths": 42093533,
-    "suicides": 9447028,
+    "victories": 35427053,
+    "kills": 44578678,
+    "deaths": 42093705,
+    "suicides": 9447064,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 55,
+    "rank": 48,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140962,
-    "kills": 194678,
-    "deaths": 192529,
-    "suicides": 49182,
+    "victories": 140973,
+    "kills": 194694,
+    "deaths": 192539,
+    "suicides": 49186,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1795723915,
+    "lastLogin": 1795740964,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -3530,10 +3530,10 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "victories": 66633,
-    "kills": 140699,
-    "deaths": 99953,
-    "suicides": 31046,
+    "victories": 66634,
+    "kills": 140703,
+    "deaths": 99964,
+    "suicides": 31048,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4069,10 +4069,10 @@
   {
     "playerId": "21508277",
     "username": "Sangpi",
-    "victories": 6957,
-    "kills": 10466,
-    "deaths": 8353,
-    "suicides": 1789,
+    "victories": 6961,
+    "kills": 10478,
+    "deaths": 8375,
+    "suicides": 1792,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8332,10 +8332,10 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "victories": 49436,
-    "kills": 86536,
-    "deaths": 90236,
-    "suicides": 23501,
+    "victories": 49439,
+    "kills": 86542,
+    "deaths": 90242,
+    "suicides": 23504,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8373,7 +8373,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1590515111,
-    "lastLogin": 1795235194,
+    "lastLogin": 1795739062,
     "banned": false,
     "usernameApproved": true,
     "country": null
