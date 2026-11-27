@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 3184
+    "kills": 3354
   },
   {
     "playerId": "4142755",
@@ -22,7 +22,7 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "kills": 142
+    "kills": 146
   },
   {
     "playerId": "14892840",
@@ -30,14 +30,14 @@
     "kills": 135
   },
   {
+    "playerId": "13173087",
+    "username": "kai-cj7",
+    "kills": 127
+  },
+  {
     "playerId": "21465536",
     "username": "Alternator",
     "kills": 123
-  },
-  {
-    "playerId": "13173087",
-    "username": "kai-cj7",
-    "kills": 119
   },
   {
     "playerId": "20666777",
@@ -65,14 +65,19 @@
     "kills": 76
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 50
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 61
   },
   {
     "playerId": "12517909",
     "username": "Crip",
-    "kills": 47
+    "kills": 51
+  },
+  {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 50
   },
   {
     "playerId": "19138057",
@@ -82,6 +87,11 @@
   {
     "playerId": "4191643",
     "username": "Etxrnity",
+    "kills": 42
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
     "kills": 42
   },
   {
@@ -103,6 +113,11 @@
     "playerId": "8502796",
     "username": "_-YourDestruction-_",
     "kills": 32
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
+    "kills": 31
   },
   {
     "playerId": "18625144",
@@ -160,11 +175,6 @@
     "kills": 16
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 15
-  },
-  {
     "playerId": "19425584",
     "username": "_Eddie_",
     "kills": 12
@@ -188,11 +198,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 9
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 7
   },
   {
     "playerId": "4126899",
@@ -467,11 +472,6 @@
   {
     "playerId": "19068893",
     "username": "YahyatheBest",
-    "kills": 0
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
     "kills": 0
   },
   {
