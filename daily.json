@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 395,
-    "lastKill": "2026-11-27 02:43:17"
+    "kills": 654,
+    "lastKill": "2026-11-27 03:38:54"
   },
   {
     "playerId": "21956820",
@@ -14,8 +14,14 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 35,
-    "lastKill": "2026-11-27 02:43:17"
+    "kills": 44,
+    "lastKill": "2026-11-27 03:38:54"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 36,
+    "lastKill": "2026-11-27 03:38:54"
   },
   {
     "playerId": "8590474",
@@ -34,6 +40,12 @@
     "username": "AriX",
     "kills": 12,
     "lastKill": "2026-11-27 02:43:17"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 9,
+    "lastKill": "2026-11-27 03:38:54"
   },
   {
     "playerId": "8779272",
@@ -870,12 +882,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "4128764",
     "username": "Bulletio",
     "kills": 0,
@@ -884,12 +890,6 @@
   {
     "playerId": "1623043",
     "username": "Classic",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
     "kills": 0,
     "lastKill": null
   },
