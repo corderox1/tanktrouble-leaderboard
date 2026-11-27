@@ -2,12 +2,17 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1643
+    "kills": 1852
+  },
+  {
+    "playerId": "21508277",
+    "username": "Sangpi",
+    "kills": 155
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 95
+    "kills": 98
   },
   {
     "playerId": "20984454",
@@ -15,9 +20,9 @@
     "kills": 81
   },
   {
-    "playerId": "21508277",
-    "username": "Sangpi",
-    "kills": 75
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 77
   },
   {
     "playerId": "14892840",
@@ -30,11 +35,6 @@
     "kills": 68
   },
   {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
-    "kills": 51
-  },
-  {
     "playerId": "8590474",
     "username": "Novocaine",
     "kills": 33
@@ -43,6 +43,16 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 31
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 25
+  },
+  {
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
+    "kills": 25
   },
   {
     "playerId": "22694251",
@@ -63,6 +73,11 @@
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 19
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 16
   },
   {
     "playerId": "19138057",
@@ -90,11 +105,6 @@
     "kills": 7
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 5
-  },
-  {
     "playerId": "22056849",
     "username": "Preww",
     "kills": 3
@@ -112,6 +122,11 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
+    "kills": 1
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
     "kills": 1
   },
   {
@@ -207,11 +222,6 @@
   {
     "playerId": "12331664",
     "username": "Reds",
-    "kills": 0
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
     "kills": 0
   },
   {
@@ -1010,11 +1020,6 @@
     "kills": 0
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 0
-  },
-  {
     "playerId": "22735235",
     "username": "wo0",
     "kills": 0
@@ -1022,11 +1027,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
     "kills": 0
   },
   {
