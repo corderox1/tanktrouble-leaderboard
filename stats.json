@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35427053,
-    "kills": 44578678,
-    "deaths": 42093705,
-    "suicides": 9447064,
+    "victories": 35427141,
+    "kills": 44578750,
+    "deaths": 42093855,
+    "suicides": 9447091,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 140973,
-    "kills": 194694,
-    "deaths": 192539,
-    "suicides": 49186,
+    "victories": 141018,
+    "kills": 194769,
+    "deaths": 192619,
+    "suicides": 49197,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -190,7 +190,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1636936786,
-    "lastLogin": 1795740964,
+    "lastLogin": 1795744172,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -4363,10 +4363,10 @@
   {
     "playerId": "12517909",
     "username": "Crip",
-    "victories": 31981,
-    "kills": 48538,
-    "deaths": 59373,
-    "suicides": 15677,
+    "victories": 32026,
+    "kills": 48584,
+    "deaths": 59395,
+    "suicides": 15682,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
