@@ -2,7 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 376
+    "kills": 582
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 35
   },
   {
     "playerId": "8590474",
@@ -10,8 +15,13 @@
     "kills": 33
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 22
+  },
+  {
+    "playerId": "9066291",
+    "username": "The_Mayank",
     "kills": 19
   },
   {
@@ -23,11 +33,6 @@
     "playerId": "19138057",
     "username": "Supernova-135",
     "kills": 16
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 11
   },
   {
     "playerId": "22694251",
@@ -42,6 +47,11 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
+    "kills": 2
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
     "kills": 2
   },
   {
@@ -1030,11 +1040,6 @@
     "kills": 0
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 0
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 0
@@ -1107,11 +1112,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
     "kills": 0
   },
   {

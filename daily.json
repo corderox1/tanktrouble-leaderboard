@@ -2,25 +2,25 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 654,
-    "lastKill": "2026-11-27 03:38:54"
+    "kills": 895,
+    "lastKill": "2026-11-27 04:33:47"
   },
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 58,
-    "lastKill": "2026-11-27 01:47:53"
+    "kills": 114,
+    "lastKill": "2026-11-27 04:33:47"
+  },
+  {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 61,
+    "lastKill": "2026-11-27 04:33:47"
   },
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
     "kills": 44,
-    "lastKill": "2026-11-27 03:38:54"
-  },
-  {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 36,
     "lastKill": "2026-11-27 03:38:54"
   },
   {
@@ -36,6 +36,12 @@
     "lastKill": "2026-11-27 02:43:17"
   },
   {
+    "playerId": "9066291",
+    "username": "The_Mayank",
+    "kills": 32,
+    "lastKill": "2026-11-27 04:33:47"
+  },
+  {
     "playerId": "21516705",
     "username": "AriX",
     "kills": 12,
@@ -46,6 +52,12 @@
     "username": "CHITO",
     "kills": 9,
     "lastKill": "2026-11-27 03:38:54"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 9,
+    "lastKill": "2026-11-27 04:33:47"
   },
   {
     "playerId": "8779272",
@@ -1236,12 +1248,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22845692",
     "username": "vincible",
     "kills": 0,
@@ -1328,12 +1334,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "9066291",
-    "username": "The_Mayank",
     "kills": 0,
     "lastKill": null
   },
