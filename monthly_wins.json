@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 115992
+    "kills": 116121
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2489
+    "kills": 2497
   },
   {
     "playerId": "20666777",
@@ -62,7 +62,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 1618
+    "kills": 1620
   },
   {
     "playerId": "14617724",
@@ -102,12 +102,17 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 1269
+    "kills": 1271
   },
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
     "kills": 1268
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 1118
   },
   {
     "playerId": "22757188",
@@ -118,11 +123,6 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 1114
-  },
-  {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 1110
   },
   {
     "playerId": "706234",
@@ -145,14 +145,14 @@
     "kills": 1049
   },
   {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 918
-  },
-  {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 891
+    "kills": 967
+  },
+  {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 932
   },
   {
     "playerId": "3923647",
@@ -172,7 +172,7 @@
   {
     "playerId": "22105718",
     "username": "Escape",
-    "kills": 791
+    "kills": 795
   },
   {
     "playerId": "19173281",
@@ -187,7 +187,7 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 728
+    "kills": 746
   },
   {
     "playerId": "22845692",
@@ -300,6 +300,11 @@
     "kills": 337
   },
   {
+    "playerId": "21614515",
+    "username": "III__E-74__III",
+    "kills": 335
+  },
+  {
     "playerId": "19932455",
     "username": "MACHOSOLTERO",
     "kills": 334
@@ -307,11 +312,6 @@
   {
     "playerId": "22056849",
     "username": "Preww",
-    "kills": 320
-  },
-  {
-    "playerId": "21614515",
-    "username": "III__E-74__III",
     "kills": 320
   },
   {
