@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 2868,
-    "lastKill": "2026-11-27 11:07:44"
+    "kills": 3112,
+    "lastKill": "2026-11-27 12:02:54"
+  },
+  {
+    "playerId": "22694251",
+    "username": "CHITO",
+    "kills": 284,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 205,
-    "lastKill": "2026-11-27 11:07:44"
+    "kills": 218,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "14892840",
@@ -30,16 +36,16 @@
     "lastKill": "2026-11-27 11:07:44"
   },
   {
-    "playerId": "22694251",
-    "username": "CHITO",
-    "kills": 142,
-    "lastKill": "2026-11-27 11:07:44"
-  },
-  {
     "playerId": "20984454",
     "username": "Rlyc4n",
     "kills": 130,
     "lastKill": "2026-11-27 07:18:14"
+  },
+  {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 128,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "21956820",
@@ -54,16 +60,16 @@
     "lastKill": "2026-11-27 05:28:19"
   },
   {
-    "playerId": "22105718",
-    "username": "Escape",
-    "kills": 50,
-    "lastKill": "2026-11-27 11:07:44"
-  },
-  {
     "playerId": "13773720",
     "username": "Hafiz-Muhammad",
-    "kills": 45,
-    "lastKill": "2026-11-27 05:28:19"
+    "kills": 70,
+    "lastKill": "2026-11-27 12:02:54"
+  },
+  {
+    "playerId": "8590474",
+    "username": "Novocaine",
+    "kills": 41,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "21673346",
@@ -72,10 +78,10 @@
     "lastKill": "2026-11-27 10:12:47"
   },
   {
-    "playerId": "8590474",
-    "username": "Novocaine",
-    "kills": 35,
-    "lastKill": "2026-11-27 01:47:53"
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
+    "kills": 37,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "19138057",
@@ -94,12 +100,6 @@
     "username": "Invincible",
     "kills": 30,
     "lastKill": "2026-11-27 07:18:14"
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
-    "kills": 25,
-    "lastKill": "2026-11-27 10:12:47"
   },
   {
     "playerId": "22757188",
@@ -142,6 +142,18 @@
     "username": "frogcatchflies",
     "kills": 11,
     "lastKill": "2026-11-27 06:23:16"
+  },
+  {
+    "playerId": "8870546",
+    "username": "Bleed",
+    "kills": 10,
+    "lastKill": "2026-11-27 12:02:54"
+  },
+  {
+    "playerId": "22042037",
+    "username": "N-A",
+    "kills": 7,
+    "lastKill": "2026-11-27 12:02:54"
   },
   {
     "playerId": "22056849",
@@ -1152,12 +1164,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22042037",
-    "username": "N-A",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "21932847",
     "username": "qoq",
     "kills": 0,
@@ -1280,12 +1286,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "8870546",
-    "username": "Bleed",
     "kills": 0,
     "lastKill": null
   },
