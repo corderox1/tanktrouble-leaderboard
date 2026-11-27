@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 4237,
-    "lastKill": "2026-11-27 15:48:17"
+    "kills": 4422,
+    "lastKill": "2026-11-27 16:42:51"
   },
   {
     "playerId": "22706369",
@@ -44,8 +44,8 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 155,
-    "lastKill": "2026-11-27 13:53:21"
+    "kills": 170,
+    "lastKill": "2026-11-27 16:42:51"
   },
   {
     "playerId": "20984454",
@@ -98,8 +98,14 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "kills": 54,
-    "lastKill": "2026-11-27 14:48:19"
+    "kills": 56,
+    "lastKill": "2026-11-27 16:42:51"
+  },
+  {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 50,
+    "lastKill": "2026-11-27 16:42:51"
   },
   {
     "playerId": "21673346",
@@ -136,6 +142,12 @@
     "username": "Invincible",
     "kills": 30,
     "lastKill": "2026-11-27 07:18:14"
+  },
+  {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 28,
+    "lastKill": "2026-11-27 16:42:51"
   },
   {
     "playerId": "22757188",
@@ -290,12 +302,6 @@
   {
     "playerId": "20375730",
     "username": "Dangel",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
     "kills": 0,
     "lastKill": null
   },
@@ -1286,12 +1292,6 @@
   {
     "playerId": "4126899",
     "username": "Tankerous",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "2885724",
-    "username": "Tankyy",
     "kills": 0,
     "lastKill": null
   },
