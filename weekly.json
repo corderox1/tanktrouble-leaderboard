@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20759,
-    "lastKill": "2026-11-26 21:53:21"
+    "kills": 20987,
+    "lastKill": "2026-11-26 22:53:32"
   },
   {
     "playerId": "14892840",
@@ -216,6 +216,12 @@
     "lastKill": "2026-11-26 14:23:26"
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 171,
+    "lastKill": "2026-11-26 22:53:32"
+  },
+  {
     "playerId": "6776098",
     "username": "frogcatchflies",
     "kills": 162,
@@ -242,8 +248,8 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 121,
-    "lastKill": "2026-11-25 00:12:33"
+    "kills": 125,
+    "lastKill": "2026-11-26 22:53:32"
   },
   {
     "playerId": "17136803",
@@ -252,16 +258,16 @@
     "lastKill": "2026-11-23 20:28:51"
   },
   {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 90,
-    "lastKill": "2026-11-26 20:58:20"
-  },
-  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 85,
     "lastKill": "2026-11-26 17:12:02"
+  },
+  {
+    "playerId": "3923647",
+    "username": "slayer",
+    "kills": 83,
+    "lastKill": "2026-11-26 22:53:32"
   },
   {
     "playerId": "9066291",
@@ -656,12 +662,6 @@
   {
     "playerId": "5134622",
     "username": "kaag",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "3923647",
-    "username": "slayer",
     "kills": 0,
     "lastKill": null
   },
