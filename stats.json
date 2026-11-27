@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35427311,
-    "kills": 44578936,
-    "deaths": 42094200,
-    "suicides": 9447144,
+    "victories": 35427405,
+    "kills": 44579042,
+    "deaths": 42094394,
+    "suicides": 9447187,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 15,
+    "rank": 19,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -149,10 +149,10 @@
   {
     "playerId": "14617724",
     "username": "Astra",
-    "victories": 141022,
-    "kills": 194771,
-    "deaths": 192630,
-    "suicides": 49200,
+    "victories": 141067,
+    "kills": 194827,
+    "deaths": 192664,
+    "suicides": 49211,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1317,7 +1317,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1769308219,
-    "lastLogin": 1795717830,
+    "lastLogin": 1795750849,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -2248,7 +2248,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1529802256,
-    "lastLogin": 1795236356,
+    "lastLogin": 1795751188,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -3089,10 +3089,10 @@
   {
     "playerId": "16736853",
     "username": "Saucy",
-    "victories": 44236,
-    "kills": 83061,
-    "deaths": 87991,
-    "suicides": 22422,
+    "victories": 44266,
+    "kills": 83091,
+    "deaths": 88032,
+    "suicides": 22430,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -4316,7 +4316,7 @@
     "username": "ANUIQUILATE",
     "victories": 38490,
     "kills": 44658,
-    "deaths": 51370,
+    "deaths": 51374,
     "suicides": 13596,
     "experience": 0,
     "surrenders": 0,
@@ -4355,7 +4355,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1620645004,
-    "lastLogin": 1795569232,
+    "lastLogin": 1795748220,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8969,17 +8969,17 @@
   {
     "playerId": "13173087",
     "username": "kai-cj7",
-    "victories": 13917,
-    "kills": 20043,
-    "deaths": 12463,
-    "suicides": 4598,
+    "victories": 13983,
+    "kills": 20116,
+    "deaths": 12531,
+    "suicides": 4647,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
-      "type": "image",
-      "rawValue": "0xddb135 43",
-      "numericValue": "0xddb135",
-      "imageValue": "43"
+      "type": "numeric",
+      "rawValue": "0x5b0000",
+      "numericValue": "0x5b0000",
+      "imageValue": ""
     },
     "treadColour": {
       "type": "numeric",
@@ -11117,7 +11117,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1789483037,
-    "lastLogin": 1795577802,
+    "lastLogin": 1795748328,
     "banned": false,
     "usernameApproved": true,
     "country": null
