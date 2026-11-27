@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35428204,
-    "kills": 44579991,
-    "deaths": 42095632,
-    "suicides": 9447435,
+    "victories": 35428276,
+    "kills": 44580149,
+    "deaths": 42095913,
+    "suicides": 9447483,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -132,7 +132,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 39,
+    "rank": 7,
     "xp": 190000,
     "beta": false,
     "verified": true,
@@ -933,10 +933,10 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "victories": 79487,
-    "kills": 140903,
-    "deaths": 111144,
-    "suicides": 25637,
+    "victories": 79500,
+    "kills": 140938,
+    "deaths": 111166,
+    "suicides": 25641,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8283,10 +8283,10 @@
   {
     "playerId": "21516705",
     "username": "AriX",
-    "victories": 8555,
-    "kills": 13511,
-    "deaths": 10994,
-    "suicides": 3216,
+    "victories": 8560,
+    "kills": 13523,
+    "deaths": 10999,
+    "suicides": 3218,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -8324,7 +8324,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1767063760,
-    "lastLogin": 1795700380,
+    "lastLogin": 1795767849,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -9459,10 +9459,10 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "victories": 9257,
-    "kills": 18005,
-    "deaths": 16347,
-    "suicides": 5003,
+    "victories": 9261,
+    "kills": 18017,
+    "deaths": 16352,
+    "suicides": 5005,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -9500,7 +9500,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1707032376,
-    "lastLogin": 1795599027,
+    "lastLogin": 1795765939,
     "banned": false,
     "usernameApproved": true,
     "country": null
