@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 611,
-    "lastKill": "2026-11-28 03:02:33"
+    "kills": 963,
+    "lastKill": "2026-11-28 03:58:14"
   },
   {
     "playerId": "14617724",
@@ -14,8 +14,14 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 67,
-    "lastKill": "2026-11-28 03:02:33"
+    "kills": 106,
+    "lastKill": "2026-11-28 03:58:14"
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 78,
+    "lastKill": "2026-11-28 03:58:14"
   },
   {
     "playerId": "21956820",
@@ -24,10 +30,28 @@
     "lastKill": "2026-11-28 03:02:33"
   },
   {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 32,
+    "lastKill": "2026-11-28 03:58:14"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 14,
+    "lastKill": "2026-11-28 03:58:14"
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 10,
     "lastKill": "2026-11-28 02:07:51"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 7,
+    "lastKill": "2026-11-28 03:58:14"
   },
   {
     "playerId": "22809750",
@@ -36,10 +60,16 @@
     "lastKill": "2026-11-28 01:12:43"
   },
   {
-    "playerId": "22757188",
-    "username": "Master_T-54",
-    "kills": 5,
-    "lastKill": "2026-11-28 03:02:33"
+    "playerId": "19068893",
+    "username": "YahyatheBest",
+    "kills": 3,
+    "lastKill": "2026-11-28 03:58:14"
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 3,
+    "lastKill": "2026-11-28 03:58:14"
   },
   {
     "playerId": "9066291",
@@ -74,12 +104,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0,
     "lastKill": null
   },
@@ -402,12 +426,6 @@
     "lastKill": null
   },
   {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "16736853",
     "username": "Saucy",
     "kills": 0,
@@ -482,12 +500,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0,
     "lastKill": null
   },
@@ -1176,20 +1188,8 @@
     "lastKill": null
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0,
     "lastKill": null
   },

@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 403
+    "kills": 700
   },
   {
     "playerId": "14617724",
@@ -12,7 +12,12 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 40
+    "kills": 55
+  },
+  {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 47
   },
   {
     "playerId": "21956820",
@@ -22,7 +27,22 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
+    "kills": 9
+  },
+  {
+    "playerId": "19068893",
+    "username": "YahyatheBest",
     "kills": 4
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 3
+  },
+  {
+    "playerId": "21839393",
+    "username": "notnothing",
+    "kills": 3
   },
   {
     "playerId": "9066291",
@@ -62,11 +82,6 @@
   {
     "playerId": "13819102",
     "username": "Sir-Nightmare",
-    "kills": 0
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
     "kills": 0
   },
   {
@@ -332,11 +347,6 @@
   {
     "playerId": "21465536",
     "username": "Alternator",
-    "kills": 0
-  },
-  {
-    "playerId": "19068893",
-    "username": "YahyatheBest",
     "kills": 0
   },
   {
@@ -980,18 +990,8 @@
     "kills": 0
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 0
-  },
-  {
     "playerId": "22801100",
     "username": "NotInvincible",
-    "kills": 0
-  },
-  {
-    "playerId": "21839393",
-    "username": "notnothing",
     "kills": 0
   },
   {
