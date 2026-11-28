@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23951
+    "kills": 24070
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 1100
+    "kills": 1167
   },
   {
     "playerId": "22694251",
@@ -30,6 +30,11 @@
     "kills": 651
   },
   {
+    "playerId": "22706369",
+    "username": "soso_boy",
+    "kills": 500
+  },
+  {
     "playerId": "4142755",
     "username": "-Trippy-",
     "kills": 498
@@ -40,24 +45,19 @@
     "kills": 470
   },
   {
-    "playerId": "22706369",
-    "username": "soso_boy",
-    "kills": 460
-  },
-  {
     "playerId": "22472796",
     "username": "-_zenin_-",
     "kills": 448
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 446
+  },
+  {
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 434
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 421
   },
   {
     "playerId": "8870546",
@@ -90,9 +90,14 @@
     "kills": 305
   },
   {
+    "playerId": "13773720",
+    "username": "Hafiz-Muhammad",
+    "kills": 302
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 282
+    "kills": 287
   },
   {
     "playerId": "22047175",
@@ -110,11 +115,6 @@
     "kills": 265
   },
   {
-    "playerId": "13773720",
-    "username": "Hafiz-Muhammad",
-    "kills": 264
-  },
-  {
     "playerId": "4381511",
     "username": "interpreneur",
     "kills": 263
@@ -125,24 +125,24 @@
     "kills": 259
   },
   {
+    "playerId": "2574833",
+    "username": "voloding",
+    "kills": 250
+  },
+  {
+    "playerId": "20269995",
+    "username": "Rapid",
+    "kills": 235
+  },
+  {
     "playerId": "12517909",
     "username": "Crip",
     "kills": 233
   },
   {
-    "playerId": "20269995",
-    "username": "Rapid",
-    "kills": 227
-  },
-  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 227
-  },
-  {
-    "playerId": "2574833",
-    "username": "voloding",
-    "kills": 223
   },
   {
     "playerId": "22716354",
@@ -185,6 +185,11 @@
     "kills": 128
   },
   {
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
+    "kills": 123
+  },
+  {
     "playerId": "3923647",
     "username": "slayer",
     "kills": 122
@@ -198,11 +203,6 @@
     "playerId": "21516705",
     "username": "AriX",
     "kills": 119
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
-    "kills": 108
   },
   {
     "playerId": "18625144",
@@ -230,6 +230,11 @@
     "kills": 78
   },
   {
+    "playerId": "4201869",
+    "username": "dvi9311",
+    "kills": 78
+  },
+  {
     "playerId": "19068893",
     "username": "YahyatheBest",
     "kills": 74
@@ -243,11 +248,6 @@
     "playerId": "21940268",
     "username": "nownow",
     "kills": 66
-  },
-  {
-    "playerId": "4201869",
-    "username": "dvi9311",
-    "kills": 62
   },
   {
     "playerId": "21956820",
@@ -367,7 +367,7 @@
   {
     "playerId": "8779272",
     "username": "Reverend",
-    "kills": 13
+    "kills": 14
   },
   {
     "playerId": "20011985",
