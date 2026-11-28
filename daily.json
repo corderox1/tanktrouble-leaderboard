@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 963,
-    "lastKill": "2026-11-28 03:58:14"
+    "kills": 1275,
+    "lastKill": "2026-11-28 04:53:24"
   },
   {
     "playerId": "14617724",
@@ -20,8 +20,8 @@
   {
     "playerId": "19138057",
     "username": "Supernova-135",
-    "kills": 78,
-    "lastKill": "2026-11-28 03:58:14"
+    "kills": 94,
+    "lastKill": "2026-11-28 04:53:24"
   },
   {
     "playerId": "21956820",
@@ -30,10 +30,40 @@
     "lastKill": "2026-11-28 03:02:33"
   },
   {
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 38,
+    "lastKill": "2026-11-28 04:53:24"
+  },
+  {
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 32,
     "lastKill": "2026-11-28 03:58:14"
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 30,
+    "lastKill": "2026-11-28 04:53:24"
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 30,
+    "lastKill": "2026-11-28 04:53:24"
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 19,
+    "lastKill": "2026-11-28 04:53:24"
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 16,
+    "lastKill": "2026-11-28 04:53:24"
   },
   {
     "playerId": "11769746",
@@ -46,18 +76,6 @@
     "username": "biscuit",
     "kills": 10,
     "lastKill": "2026-11-28 02:07:51"
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
-    "kills": 7,
-    "lastKill": "2026-11-28 03:58:14"
-  },
-  {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 7,
-    "lastKill": "2026-11-28 01:12:43"
   },
   {
     "playerId": "19068893",
@@ -960,12 +978,6 @@
     "lastKill": null
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0,
@@ -1058,12 +1070,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0,
     "lastKill": null
   },
@@ -1220,12 +1226,6 @@
   {
     "playerId": "1177269",
     "username": "Redwind",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21673346",
-    "username": "KaneKalon",
     "kills": 0,
     "lastKill": null
   },

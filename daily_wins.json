@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 700
+    "kills": 994
   },
   {
     "playerId": "14617724",
@@ -10,14 +10,29 @@
     "kills": 117
   },
   {
+    "playerId": "19138057",
+    "username": "Supernova-135",
+    "kills": 64
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 55
   },
   {
-    "playerId": "19138057",
-    "username": "Supernova-135",
-    "kills": 47
+    "playerId": "22077521",
+    "username": "BillyTheKid",
+    "kills": 25
+  },
+  {
+    "playerId": "22472796",
+    "username": "-_zenin_-",
+    "kills": 22
+  },
+  {
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 11
   },
   {
     "playerId": "21956820",
@@ -28,6 +43,16 @@
     "playerId": "22757188",
     "username": "Master_T-54",
     "kills": 9
+  },
+  {
+    "playerId": "21700920",
+    "username": "seyi-vibez-jr",
+    "kills": 7
+  },
+  {
+    "playerId": "21673346",
+    "username": "KaneKalon",
+    "kills": 7
   },
   {
     "playerId": "19068893",
@@ -55,8 +80,13 @@
     "kills": 2
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
+    "playerId": "20843843",
+    "username": "Dark-Reaper99",
+    "kills": 2
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
     "kills": 1
   },
   {
@@ -412,11 +442,6 @@
   {
     "playerId": "15878197",
     "username": "kamarov",
-    "kills": 0
-  },
-  {
-    "playerId": "21700920",
-    "username": "seyi-vibez-jr",
     "kills": 0
   },
   {
@@ -800,11 +825,6 @@
     "kills": 0
   },
   {
-    "playerId": "22077521",
-    "username": "BillyTheKid",
-    "kills": 0
-  },
-  {
     "playerId": "22744888",
     "username": "fester",
     "kills": 0
@@ -882,11 +902,6 @@
   {
     "playerId": "8899024",
     "username": "PurpleSpaceBaboon",
-    "kills": 0
-  },
-  {
-    "playerId": "22472796",
-    "username": "-_zenin_-",
     "kills": 0
   },
   {
@@ -1020,16 +1035,6 @@
     "kills": 0
   },
   {
-    "playerId": "21673346",
-    "username": "KaneKalon",
-    "kills": 0
-  },
-  {
-    "playerId": "20843843",
-    "username": "Dark-Reaper99",
-    "kills": 0
-  },
-  {
     "playerId": "793356",
     "username": "Antiserum",
     "kills": 0
@@ -1112,11 +1117,6 @@
   {
     "playerId": "21890228",
     "username": "tsk",
-    "kills": 0
-  },
-  {
-    "playerId": "3447584",
-    "username": "Will-Men",
     "kills": 0
   },
   {
