@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 118030
+    "kills": 118390
   },
   {
     "playerId": "13173087",
@@ -42,7 +42,7 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 2647
+    "kills": 2685
   },
   {
     "playerId": "20666777",
@@ -65,6 +65,11 @@
     "kills": 1675
   },
   {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 1639
+  },
+  {
     "playerId": "21452912",
     "username": "x",
     "kills": 1601
@@ -73,11 +78,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 1574
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
-    "kills": 1569
   },
   {
     "playerId": "21465536",
@@ -112,7 +112,7 @@
   {
     "playerId": "22757188",
     "username": "Master_T-54",
-    "kills": 1152
+    "kills": 1156
   },
   {
     "playerId": "8870546",
@@ -595,6 +595,11 @@
     "kills": 20
   },
   {
+    "playerId": "8779272",
+    "username": "Reverend",
+    "kills": 17
+  },
+  {
     "playerId": "13783887",
     "username": "EPIC_GIRL",
     "kills": 16
@@ -607,11 +612,6 @@
   {
     "playerId": "21957440",
     "username": "JAGUNJAGUN",
-    "kills": 16
-  },
-  {
-    "playerId": "8779272",
-    "username": "Reverend",
     "kills": 16
   },
   {
