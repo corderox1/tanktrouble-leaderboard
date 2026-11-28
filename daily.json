@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 441,
-    "lastKill": "2026-11-28 02:07:51"
+    "kills": 611,
+    "lastKill": "2026-11-28 03:02:33"
   },
   {
     "playerId": "14617724",
@@ -14,8 +14,14 @@
   {
     "playerId": "20666777",
     "username": "Invincible",
-    "kills": 38,
-    "lastKill": "2026-11-28 02:07:51"
+    "kills": 67,
+    "lastKill": "2026-11-28 03:02:33"
+  },
+  {
+    "playerId": "21956820",
+    "username": "KringeKing",
+    "kills": 55,
+    "lastKill": "2026-11-28 03:02:33"
   },
   {
     "playerId": "22047175",
@@ -28,6 +34,12 @@
     "username": "zRok",
     "kills": 7,
     "lastKill": "2026-11-28 01:12:43"
+  },
+  {
+    "playerId": "22757188",
+    "username": "Master_T-54",
+    "kills": 5,
+    "lastKill": "2026-11-28 03:02:33"
   },
   {
     "playerId": "9066291",
@@ -302,12 +314,6 @@
   {
     "playerId": "22725175",
     "username": "ohW",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "21956820",
-    "username": "KringeKing",
     "kills": 0,
     "lastKill": null
   },
@@ -1238,12 +1244,6 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22757188",
-    "username": "Master_T-54",
     "kills": 0,
     "lastKill": null
   },
