@@ -100,10 +100,10 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "victories": 35435825,
-    "kills": 44590283,
-    "deaths": 42108130,
-    "suicides": 9449960,
+    "victories": 35435912,
+    "kills": 44590506,
+    "deaths": 42108623,
+    "suicides": 9450049,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -786,10 +786,10 @@
   {
     "playerId": "19425584",
     "username": "_Eddie_",
-    "victories": 30182,
-    "kills": 30021,
-    "deaths": 47981,
-    "suicides": 10976,
+    "victories": 30183,
+    "kills": 30029,
+    "deaths": 47993,
+    "suicides": 10980,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -1570,10 +1570,10 @@
   {
     "playerId": "1001669",
     "username": "Mud",
-    "victories": 63131,
-    "kills": 99110,
-    "deaths": 76583,
-    "suicides": 20793,
+    "victories": 63140,
+    "kills": 99132,
+    "deaths": 76597,
+    "suicides": 20798,
     "experience": 383650,
     "surrenders": 0,
     "turretColour": {
@@ -1611,7 +1611,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1388111138,
-    "lastLogin": 1795718113,
+    "lastLogin": 1795895883,
     "banned": false,
     "usernameApproved": true,
     "country": "US"
@@ -1913,10 +1913,10 @@
   {
     "playerId": "12222122",
     "username": "--Eddie--",
-    "victories": 30586,
-    "kills": 30409,
-    "deaths": 48297,
-    "suicides": 14567,
+    "victories": 30591,
+    "kills": 30419,
+    "deaths": 48318,
+    "suicides": 14571,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3138,10 +3138,10 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "victories": 23655,
-    "kills": 34494,
-    "deaths": 28263,
-    "suicides": 7287,
+    "victories": 23698,
+    "kills": 34585,
+    "deaths": 28312,
+    "suicides": 7298,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -3179,7 +3179,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1587585065,
-    "lastLogin": 1795891203,
+    "lastLogin": 1795896754,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -6960,10 +6960,10 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "victories": 5030,
-    "kills": 11919,
-    "deaths": 9285,
-    "suicides": 2643,
+    "victories": 5040,
+    "kills": 12000,
+    "deaths": 9287,
+    "suicides": 2645,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -6992,7 +6992,7 @@
     "backgroundAccessory": "0",
     "badge": "0",
     "premium": false,
-    "rank": 1112,
+    "rank": 1132,
     "xp": 190000,
     "beta": false,
     "verified": false,
@@ -7107,10 +7107,10 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "victories": 5402,
-    "kills": 11177,
-    "deaths": 13495,
-    "suicides": 4575,
+    "victories": 5404,
+    "kills": 11189,
+    "deaths": 13519,
+    "suicides": 4581,
     "experience": 0,
     "surrenders": 0,
     "turretColour": {
@@ -7148,7 +7148,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1788717420,
-    "lastLogin": 1795889832,
+    "lastLogin": 1795896892,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -8471,7 +8471,7 @@
     "guest": false,
     "gmLevel": null,
     "created": 1772912456,
-    "lastLogin": 1792684799,
+    "lastLogin": 1795894819,
     "banned": false,
     "usernameApproved": true,
     "country": null
@@ -10047,10 +10047,10 @@
   {
     "playerId": "4201869",
     "username": "dvi9311",
-    "victories": 50613,
-    "kills": 72259,
-    "deaths": 62993,
-    "suicides": 20173,
+    "victories": 50614,
+    "kills": 72260,
+    "deaths": 62996,
+    "suicides": 20174,
     "experience": 4775,
     "surrenders": 0,
     "turretColour": {
@@ -10488,10 +10488,10 @@
   {
     "playerId": "2885724",
     "username": "Tankyy",
-    "victories": 60650,
-    "kills": 87005,
-    "deaths": 67628,
-    "suicides": 24454,
+    "victories": 60676,
+    "kills": 87085,
+    "deaths": 67698,
+    "suicides": 24466,
     "experience": 71485,
     "surrenders": 0,
     "turretColour": {
