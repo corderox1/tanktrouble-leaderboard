@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 5959,
-    "lastKill": "2026-11-27 22:23:34"
+    "kills": 6282,
+    "lastKill": "2026-11-27 23:18:15"
   },
   {
     "playerId": "22706369",
@@ -56,8 +56,8 @@
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 200,
-    "lastKill": "2026-11-27 20:26:58"
+    "kills": 205,
+    "lastKill": "2026-11-27 23:18:15"
   },
   {
     "playerId": "14892840",
@@ -80,8 +80,8 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 141,
-    "lastKill": "2026-11-27 22:23:34"
+    "kills": 154,
+    "lastKill": "2026-11-27 23:18:15"
   },
   {
     "playerId": "20984454",
@@ -96,16 +96,16 @@
     "lastKill": "2026-11-27 13:53:21"
   },
   {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 101,
+    "lastKill": "2026-11-27 23:18:15"
+  },
+  {
     "playerId": "12745227",
     "username": "Sr",
     "kills": 101,
     "lastKill": "2026-11-27 19:28:28"
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 99,
-    "lastKill": "2026-11-27 22:23:34"
   },
   {
     "playerId": "4142755",
@@ -198,6 +198,12 @@
     "lastKill": "2026-11-27 04:33:47"
   },
   {
+    "playerId": "22047175",
+    "username": "biscuit",
+    "kills": 31,
+    "lastKill": "2026-11-27 23:18:15"
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 30,
@@ -216,10 +222,10 @@
     "lastKill": "2026-11-27 16:42:51"
   },
   {
-    "playerId": "22047175",
-    "username": "biscuit",
-    "kills": 22,
-    "lastKill": "2026-11-27 09:13:15"
+    "playerId": "22809750",
+    "username": "zRok",
+    "kills": 26,
+    "lastKill": "2026-11-27 23:18:15"
   },
   {
     "playerId": "18625144",
@@ -252,12 +258,6 @@
     "lastKill": "2026-11-27 05:28:19"
   },
   {
-    "playerId": "22809750",
-    "username": "zRok",
-    "kills": 5,
-    "lastKill": "2026-11-27 10:12:47"
-  },
-  {
     "playerId": "1051525",
     "username": "NoonooKJ",
     "kills": 3,
@@ -286,6 +286,12 @@
     "username": "Reds",
     "kills": 1,
     "lastKill": "2026-11-27 22:23:34"
+  },
+  {
+    "playerId": "12517909",
+    "username": "Crip",
+    "kills": 1,
+    "lastKill": "2026-11-27 23:18:15"
   },
   {
     "playerId": "22710399",
@@ -686,12 +692,6 @@
   {
     "playerId": "12478286",
     "username": "ANUIQUILATE",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "12517909",
-    "username": "Crip",
     "kills": 0,
     "lastKill": null
   },
