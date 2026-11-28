@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 24275
+    "kills": 24578
   },
   {
     "playerId": "8590474",
@@ -12,7 +12,7 @@
   {
     "playerId": "22694251",
     "username": "CHITO",
-    "kills": 844
+    "kills": 845
   },
   {
     "playerId": "13173087",
@@ -32,7 +32,7 @@
   {
     "playerId": "22706369",
     "username": "soso_boy",
-    "kills": 511
+    "kills": 512
   },
   {
     "playerId": "4142755",
@@ -47,7 +47,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 448
+    "kills": 450
   },
   {
     "playerId": "21601349",
@@ -100,6 +100,11 @@
     "kills": 288
   },
   {
+    "playerId": "22105718",
+    "username": "Escape",
+    "kills": 288
+  },
+  {
     "playerId": "22047175",
     "username": "biscuit",
     "kills": 271
@@ -117,11 +122,6 @@
   {
     "playerId": "4381511",
     "username": "interpreneur",
-    "kills": 263
-  },
-  {
-    "playerId": "22105718",
-    "username": "Escape",
     "kills": 263
   },
   {
@@ -220,14 +220,14 @@
     "kills": 94
   },
   {
+    "playerId": "12222122",
+    "username": "--Eddie--",
+    "kills": 88
+  },
+  {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 82
-  },
-  {
-    "playerId": "12222122",
-    "username": "--Eddie--",
-    "kills": 79
   },
   {
     "playerId": "9184666",
@@ -255,14 +255,14 @@
     "kills": 56
   },
   {
+    "playerId": "19425584",
+    "username": "_Eddie_",
+    "kills": 55
+  },
+  {
     "playerId": "20869330",
     "username": "-Blackjack-",
     "kills": 49
-  },
-  {
-    "playerId": "19425584",
-    "username": "_Eddie_",
-    "kills": 47
   },
   {
     "playerId": "21700920",
@@ -370,6 +370,11 @@
     "kills": 14
   },
   {
+    "playerId": "21178768",
+    "username": "ISAH",
+    "kills": 9
+  },
+  {
     "playerId": "20011985",
     "username": "BroUrDed",
     "kills": 8
@@ -395,9 +400,9 @@
     "kills": 4
   },
   {
-    "playerId": "21178768",
-    "username": "ISAH",
-    "kills": 4
+    "playerId": "12331664",
+    "username": "Reds",
+    "kills": 3
   },
   {
     "playerId": "499659",
@@ -497,11 +502,6 @@
   {
     "playerId": "20111777",
     "username": "Trizz",
-    "kills": 0
-  },
-  {
-    "playerId": "12331664",
-    "username": "Reds",
     "kills": 0
   },
   {
