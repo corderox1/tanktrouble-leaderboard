@@ -2,7 +2,7 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 23141
+    "kills": 23362
   },
   {
     "playerId": "8590474",
@@ -17,7 +17,7 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 683
+    "kills": 686
   },
   {
     "playerId": "13173087",
@@ -37,7 +37,7 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 435
+    "kills": 436
   },
   {
     "playerId": "19138057",
@@ -55,6 +55,11 @@
     "kills": 421
   },
   {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 409
+  },
+  {
     "playerId": "8870546",
     "username": "Bleed",
     "kills": 396
@@ -63,11 +68,6 @@
     "playerId": "14617724",
     "username": "Astra",
     "kills": 377
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 365
   },
   {
     "playerId": "21508277",
@@ -147,7 +147,7 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 201
+    "kills": 203
   },
   {
     "playerId": "21673346",
@@ -412,6 +412,11 @@
   {
     "playerId": "22845692",
     "username": "vincible",
+    "kills": 3
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
     "kills": 3
   },
   {
@@ -1127,11 +1132,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 0
   },
   {

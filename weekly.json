@@ -2,8 +2,8 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 29798,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 30156,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "22694251",
@@ -14,8 +14,8 @@
   {
     "playerId": "14892840",
     "username": "L_Shy_P",
-    "kills": 1654,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 1666,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "8590474",
@@ -44,8 +44,8 @@
   {
     "playerId": "11769746",
     "username": "boogiemaster22",
-    "kills": 756,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 849,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "4142755",
@@ -56,8 +56,8 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 636,
-    "lastKill": "2026-11-28 04:53:24"
+    "kills": 639,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "22053927",
@@ -182,8 +182,8 @@
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 339,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 343,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "22809750",
@@ -460,6 +460,12 @@
     "username": "rhak",
     "kills": 12,
     "lastKill": "2026-11-24 02:08:47"
+  },
+  {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 9,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "21251653",
@@ -1352,12 +1358,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 0,
     "lastKill": null
   },

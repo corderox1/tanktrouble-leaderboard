@@ -2,14 +2,20 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 1653,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 2011,
+    "lastKill": "2026-11-28 06:53:39"
+  },
+  {
+    "playerId": "11769746",
+    "username": "boogiemaster22",
+    "kills": 151,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "22077521",
     "username": "BillyTheKid",
-    "kills": 117,
-    "lastKill": "2026-11-28 05:53:34"
+    "kills": 121,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "14617724",
@@ -28,12 +34,6 @@
     "username": "Supernova-135",
     "kills": 94,
     "lastKill": "2026-11-28 04:53:24"
-  },
-  {
-    "playerId": "11769746",
-    "username": "boogiemaster22",
-    "kills": 58,
-    "lastKill": "2026-11-28 05:53:34"
   },
   {
     "playerId": "21956820",
@@ -74,8 +74,14 @@
   {
     "playerId": "22472796",
     "username": "-_zenin_-",
-    "kills": 19,
-    "lastKill": "2026-11-28 04:53:24"
+    "kills": 22,
+    "lastKill": "2026-11-28 06:53:39"
+  },
+  {
+    "playerId": "14892840",
+    "username": "L_Shy_P",
+    "kills": 14,
+    "lastKill": "2026-11-28 06:53:39"
   },
   {
     "playerId": "19068893",
@@ -90,6 +96,12 @@
     "lastKill": "2026-11-28 02:07:51"
   },
   {
+    "playerId": "22727575",
+    "username": "Magestic",
+    "kills": 9,
+    "lastKill": "2026-11-28 06:53:39"
+  },
+  {
     "playerId": "20843843",
     "username": "Dark-Reaper99",
     "kills": 8,
@@ -100,12 +112,6 @@
     "username": "notnothing",
     "kills": 3,
     "lastKill": "2026-11-28 03:58:14"
-  },
-  {
-    "playerId": "14892840",
-    "username": "L_Shy_P",
-    "kills": 2,
-    "lastKill": "2026-11-28 05:53:34"
   },
   {
     "playerId": "22710399",
@@ -1352,12 +1358,6 @@
   {
     "playerId": "20962476",
     "username": "Mittu",
-    "kills": 0,
-    "lastKill": null
-  },
-  {
-    "playerId": "22727575",
-    "username": "Magestic",
     "kills": 0,
     "lastKill": null
   },
