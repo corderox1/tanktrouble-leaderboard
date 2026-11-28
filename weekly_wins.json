@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 20469
+    "kills": 20629
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 836
+    "kills": 850
   },
   {
     "playerId": "22694251",
@@ -30,14 +30,14 @@
     "kills": 651
   },
   {
+    "playerId": "4142755",
+    "username": "-Trippy-",
+    "kills": 445
+  },
+  {
     "playerId": "22706369",
     "username": "soso_boy",
     "kills": 429
-  },
-  {
-    "playerId": "4142755",
-    "username": "-Trippy-",
-    "kills": 420
   },
   {
     "playerId": "22472796",
@@ -47,7 +47,12 @@
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 371
+    "kills": 396
+  },
+  {
+    "playerId": "21601349",
+    "username": "Lokirss",
+    "kills": 375
   },
   {
     "playerId": "21508277",
@@ -63,11 +68,6 @@
     "playerId": "11769746",
     "username": "boogiemaster22",
     "kills": 342
-  },
-  {
-    "playerId": "21601349",
-    "username": "Lokirss",
-    "kills": 336
   },
   {
     "playerId": "20984454",
@@ -105,6 +105,16 @@
     "kills": 251
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 251
+  },
+  {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 228
+  },
+  {
     "playerId": "20666777",
     "username": "Invincible",
     "kills": 227
@@ -135,11 +145,6 @@
     "kills": 190
   },
   {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 187
-  },
-  {
     "playerId": "20375730",
     "username": "Dangel",
     "kills": 185
@@ -155,14 +160,14 @@
     "kills": 147
   },
   {
+    "playerId": "21452912",
+    "username": "x",
+    "kills": 142
+  },
+  {
     "playerId": "22077521",
     "username": "BillyTheKid",
     "kills": 140
-  },
-  {
-    "playerId": "21452912",
-    "username": "x",
-    "kills": 136
   },
   {
     "playerId": "17629928",
@@ -173,11 +178,6 @@
     "playerId": "706234",
     "username": "yxngdebz",
     "kills": 128
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 127
   },
   {
     "playerId": "19932455",
@@ -210,6 +210,11 @@
     "kills": 99
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 97
+  },
+  {
     "playerId": "12222122",
     "username": "--Eddie--",
     "kills": 78
@@ -220,24 +225,19 @@
     "kills": 78
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 73
-  },
-  {
     "playerId": "19068893",
     "username": "YahyatheBest",
+    "kills": 64
+  },
+  {
+    "playerId": "6776098",
+    "username": "frogcatchflies",
     "kills": 64
   },
   {
     "playerId": "9066291",
     "username": "The_Mayank",
     "kills": 63
-  },
-  {
-    "playerId": "6776098",
-    "username": "frogcatchflies",
-    "kills": 60
   },
   {
     "playerId": "20869330",
@@ -253,6 +253,11 @@
     "playerId": "17149251",
     "username": "SmellMySocks",
     "kills": 40
+  },
+  {
+    "playerId": "12745227",
+    "username": "Sr",
+    "kills": 37
   },
   {
     "playerId": "21700920",
@@ -285,8 +290,8 @@
     "kills": 30
   },
   {
-    "playerId": "12745227",
-    "username": "Sr",
+    "playerId": "21956820",
+    "username": "KringeKing",
     "kills": 29
   },
   {
@@ -295,18 +300,23 @@
     "kills": 28
   },
   {
+    "playerId": "21940268",
+    "username": "nownow",
+    "kills": 27
+  },
+  {
     "playerId": "4126899",
     "username": "Tankerous",
     "kills": 24
   },
   {
-    "playerId": "21956820",
-    "username": "KringeKing",
-    "kills": 23
-  },
-  {
     "playerId": "21839393",
     "username": "notnothing",
+    "kills": 21
+  },
+  {
+    "playerId": "3447584",
+    "username": "Will-Men",
     "kills": 21
   },
   {
@@ -320,11 +330,6 @@
     "kills": 19
   },
   {
-    "playerId": "3447584",
-    "username": "Will-Men",
-    "kills": 19
-  },
-  {
     "playerId": "8408190",
     "username": "Invader",
     "kills": 17
@@ -335,6 +340,11 @@
     "kills": 17
   },
   {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 17
+  },
+  {
     "playerId": "22688887",
     "username": "WillyWonkaBarBodyguard",
     "kills": 17
@@ -342,11 +352,6 @@
   {
     "playerId": "3162693",
     "username": "commander",
-    "kills": 16
-  },
-  {
-    "playerId": "21940268",
-    "username": "nownow",
     "kills": 16
   },
   {
@@ -962,11 +967,6 @@
   {
     "playerId": "7936247",
     "username": "98Flow",
-    "kills": 0
-  },
-  {
-    "playerId": "8478955",
-    "username": "Boagrius",
     "kills": 0
   },
   {

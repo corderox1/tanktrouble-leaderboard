@@ -2,12 +2,12 @@
   {
     "playerId": "6148530",
     "username": "Laika",
-    "kills": 305564
+    "kills": 305724
   },
   {
     "playerId": "8590474",
     "username": "Novocaine",
-    "kills": 11369
+    "kills": 11383
   },
   {
     "playerId": "13173087",
@@ -17,7 +17,7 @@
   {
     "playerId": "21601349",
     "username": "Lokirss",
-    "kills": 8381
+    "kills": 8420
   },
   {
     "playerId": "14892840",
@@ -27,7 +27,7 @@
   {
     "playerId": "4142755",
     "username": "-Trippy-",
-    "kills": 7447
+    "kills": 7472
   },
   {
     "playerId": "22710399",
@@ -65,14 +65,14 @@
     "kills": 3953
   },
   {
+    "playerId": "4381511",
+    "username": "interpreneur",
+    "kills": 3824
+  },
+  {
     "playerId": "14617724",
     "username": "Astra",
     "kills": 3765
-  },
-  {
-    "playerId": "4381511",
-    "username": "interpreneur",
-    "kills": 3760
   },
   {
     "playerId": "8899024",
@@ -107,7 +107,7 @@
   {
     "playerId": "21452912",
     "username": "x",
-    "kills": 2717
+    "kills": 2723
   },
   {
     "playerId": "20984454",
@@ -200,6 +200,11 @@
     "kills": 1522
   },
   {
+    "playerId": "16736853",
+    "username": "Saucy",
+    "kills": 1504
+  },
+  {
     "playerId": "12107881",
     "username": "Jaw",
     "kills": 1500
@@ -213,11 +218,6 @@
     "playerId": "21700920",
     "username": "seyi-vibez-jr",
     "kills": 1404
-  },
-  {
-    "playerId": "16736853",
-    "username": "Saucy",
-    "kills": 1403
   },
   {
     "playerId": "21178768",
@@ -272,12 +272,12 @@
   {
     "playerId": "21956820",
     "username": "KringeKing",
-    "kills": 1145
+    "kills": 1151
   },
   {
     "playerId": "8870546",
     "username": "Bleed",
-    "kills": 1101
+    "kills": 1126
   },
   {
     "playerId": "19068893",
@@ -287,7 +287,7 @@
   {
     "playerId": "6776098",
     "username": "frogcatchflies",
-    "kills": 1035
+    "kills": 1039
   },
   {
     "playerId": "1185396",
@@ -350,6 +350,11 @@
     "kills": 705
   },
   {
+    "playerId": "2885724",
+    "username": "Tankyy",
+    "kills": 700
+  },
+  {
     "playerId": "21614515",
     "username": "III__E-74__III",
     "kills": 693
@@ -365,11 +370,6 @@
     "kills": 680
   },
   {
-    "playerId": "2885724",
-    "username": "Tankyy",
-    "kills": 676
-  },
-  {
     "playerId": "4686507",
     "username": "playboi",
     "kills": 670
@@ -377,7 +377,7 @@
   {
     "playerId": "21940268",
     "username": "nownow",
-    "kills": 601
+    "kills": 612
   },
   {
     "playerId": "17953682",
@@ -560,6 +560,11 @@
     "kills": 165
   },
   {
+    "playerId": "8478955",
+    "username": "Boagrius",
+    "kills": 160
+  },
+  {
     "playerId": "16874545",
     "username": "RDCGAMER",
     "kills": 148
@@ -568,11 +573,6 @@
     "playerId": "18969891",
     "username": "AlmaMater",
     "kills": 145
-  },
-  {
-    "playerId": "8478955",
-    "username": "Boagrius",
-    "kills": 143
   },
   {
     "playerId": "22081323",
@@ -700,6 +700,11 @@
     "kills": 43
   },
   {
+    "playerId": "3447584",
+    "username": "Will-Men",
+    "kills": 42
+  },
+  {
     "playerId": "4126899",
     "username": "Tankerous",
     "kills": 41
@@ -710,14 +715,14 @@
     "kills": 40
   },
   {
-    "playerId": "3447584",
-    "username": "Will-Men",
-    "kills": 40
-  },
-  {
     "playerId": "8779272",
     "username": "Reverend",
     "kills": 39
+  },
+  {
+    "playerId": "12745227",
+    "username": "Sr",
+    "kills": 38
   },
   {
     "playerId": "21890228",
@@ -737,11 +742,6 @@
   {
     "playerId": "21528366",
     "username": "killermax",
-    "kills": 30
-  },
-  {
-    "playerId": "12745227",
-    "username": "Sr",
     "kills": 30
   },
   {
